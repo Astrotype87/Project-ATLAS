@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b4a2770fa415b547864093efb334240, type: 3}
+  m_Name: 02_Simulation
+  m_EditorClassIdentifier: 
+  chapter: 1
+  number: 2
+  title: Parts Measurement
+  description: "Practice using diagnostic tools for accurate measurements. {player}
+    calibrates hover components to ensure the craft\u2019s frame is balanced."
+  objectives: Measure the six hovercraft parts using the virtual ruler and type the
+    measurements in te panel.
+  scoring: Correct Measurements * 100 + Time Bonus
+  bronzeObjective: Complete Simulation
+  silverObjective: 3/6 Correct Measurements
+  goldObjective: 6/6 Correct Measurements
+  timeBonus:
+    timeBonuses:
+    - seconds: 10
+      score: 500
+    - seconds: 20
+      score: 400
+    - seconds: 30
+      score: 300
+    - seconds: 60
+      score: 200
+    - seconds: 90
+      score: 100
+    lowestScore: 10
+  unlockDatas:
+  - icon: 1
+    name: Level 3 - Lesson
+    description: Scientific Notation
+  - icon: 2
+    name: Freeplay > Simulation 1
+    description: Parts Measurements
+  instructions: Measure each of the six hovercraft parts by placing the virtual ruler,
+    adjusting its length and zoom for accuracy, then entering and checking your answer.
+    Repeat until all parts are measured to complete the level.
+  dialoguePrefab: {fileID: 9073611175433636603, guid: 0f8b510777ab1a24090dc84a11e8f4b2, type: 3}
+  simulationPrefab: {fileID: 890736992609142602, guid: 2972eddda6acee0449c8429979da7d94, type: 3}

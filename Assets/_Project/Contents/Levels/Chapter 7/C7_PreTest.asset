@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f9c6249b17a009468129dc4c39cc478, type: 3}
+  m_Name: C7_PreTest
+  m_EditorClassIdentifier: 
+  chapter: 7
+  title: Gravity
+  description: Quiz on gravity principles. {player} launches into orbit.
+  objectives: Complete the pre-test quiz. Any score is accepted.
+  scoring: 
+  unlockDatas:
+  - icon: 1
+    name: Level 27 - Lesson
+    description: Gravitation
+  dialoguePrefab: {fileID: 8793001644957792652, guid: cb21a143f57d6644fa447aa9d3c3bb3b, type: 3}
+  chapterQuizData:
+  - {fileID: 11400000, guid: ca3475f76fce61041b689d03fb07f953, type: 2}
+  - {fileID: 11400000, guid: 7972ecacf35df9b469aab19d1780ecbb, type: 2}

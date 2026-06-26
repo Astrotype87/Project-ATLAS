@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: f81c067a58bcab947b09cf085e24a063
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2103233686841984815
+    second: normalForce.drawio_0
+  - first:
+      213: -832532721699434513
+    second: normalForce.drawio_1
+  - first:
+      213: -298379043603875158
+    second: normalForce.drawio_2
+  - first:
+      213: 3998438422758448141
+    second: normalForce.drawio_3
+  - first:
+      213: -7268440933950961565
+    second: normalForce.drawio_4
+  - first:
+      213: 6073012257168030282
+    second: normalForce.drawio_5
+  - first:
+      213: 5744971486314286033
+    second: normalForce.drawio_6
+  - first:
+      213: -8204281542422781790
+    second: normalForce.drawio_7
+  - first:
+      213: -5367614553587157000
+    second: normalForce.drawio_8
+  - first:
+      213: -2611575741952395273
+    second: normalForce.drawio_9
+  - first:
+      213: -4472111387662362980
+    second: normalForce.drawio_10
+  - first:
+      213: -5231622057620460954
+    second: normalForce.drawio_11
+  - first:
+      213: -5598292193405772704
+    second: normalForce.drawio_12
+  - first:
+      213: 4517856161557266908
+    second: normalForce.drawio_13
+  - first:
+      213: -1841822983290977216
+    second: normalForce.drawio_14
+  - first:
+      213: 1532311474843959439
+    second: normalForce.drawio_15
+  - first:
+      213: 9152335805339111851
+    second: normalForce.drawio_16
+  - first:
+      213: 5035225610818814339
+    second: normalForce.drawio_17
+  - first:
+      213: -3466147033701157902
+    second: normalForce.drawio_18
+  - first:
+      213: -3989019030361295613
+    second: normalForce.drawio_19
+  - first:
+      213: 6832443094235680559
+    second: normalForce.drawio_20
+  - first:
+      213: 6924698075505166369
+    second: normalForce.drawio_21
+  - first:
+      213: -1955577021307940368
+    second: normalForce.drawio_22
+  - first:
+      213: 1483235206542528353
+    second: normalForce.drawio_23
+  - first:
+      213: -6936281905185609106
+    second: normalForce.drawio_24
+  - first:
+      213: 6696985670998360410
+    second: normalForce.drawio_25
+  - first:
+      213: 2768707030614573753
+    second: normalForce.drawio_26
+  - first:
+      213: -7168044152041490129
+    second: normalForce.drawio_27
+  - first:
+      213: -8930912596200366878
+    second: normalForce.drawio_28
+  - first:
+      213: -2791660175276908806
+    second: normalForce.drawio_29
+  - first:
+      213: -3683370588249867219
+    second: normalForce.drawio_30
+  - first:
+      213: -5962735201774146856
+    second: normalForce.drawio_31
+  - first:
+      213: -3340271668648302697
+    second: normalForce.drawio_32
+  - first:
+      213: -8209279730882740784
+    second: normalForce.drawio_33
+  - first:
+      213: 5063279927643710747
+    second: normalForce.drawio_34
+  - first:
+      213: -7914978671189823761
+    second: normalForce.drawio_35
+  - first:
+      213: 3894502956790582458
+    second: normalForce.drawio_36
+  - first:
+      213: 5793918104300178560
+    second: normalForce.drawio_37
+  - first:
+      213: -3409520868753451348
+    second: normalForce.drawio_38
+  - first:
+      213: 4435132975807140877
+    second: normalForce.drawio_39
+  - first:
+      213: 3933284592473653077
+    second: normalForce.drawio_40
+  - first:
+      213: -360215827074080918
+    second: normalForce.drawio_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: normalForce.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8f520fa10dfc2e0800000000000000
+      internalID: -2103233686841984815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 71
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef473b86ef3274f0800000000000000
+      internalID: -832532721699434513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 71
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaf19937d1fbdbf0800000000000000
+      internalID: -298379043603875158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c5ac49f8e4d7730800000000000000
+      internalID: 3998438422758448141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 71
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368c1fcfa7f412b90800000000000000
+      internalID: -7268440933950961565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 71
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4af711c87ca74450800000000000000
+      internalID: 6073012257168030282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 71
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbc28ee02d3abf40800000000000000
+      internalID: 5744971486314286033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 71
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0a892c769842e80800000000000000
+      internalID: -8204281542422781790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 65
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7783a90076285b0800000000000000
+      internalID: -5367614553587157000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 71
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f776ec03b1d1cbd0800000000000000
+      internalID: -2611575741952395273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96d76e136edfe1c0800000000000000
+      internalID: -4472111387662362980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 65
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a2f68f47b8567b0800000000000000
+      internalID: -5231622057620460954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cd43f39eede42b0800000000000000
+      internalID: -5598292193405772704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 32
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd14ee70e36a2be30800000000000000
+      internalID: 4517856161557266908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0448acd41c78076e0800000000000000
+      internalID: -1841822983290977216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 29
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f804457fa2dd34510800000000000000
+      internalID: 1532311474843959439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 29
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1935e7ce0a30f70800000000000000
+      internalID: 9152335805339111851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 32
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3810ec8e307b0e540800000000000000
+      internalID: 5035225610818814339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 32
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3f7f423a5c5efc0800000000000000
+      internalID: -3466147033701157902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 29
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305ba0d935824a8c0800000000000000
+      internalID: -3989019030361295613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 30
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f0dfb5bc6b1de50800000000000000
+      internalID: 6832443094235680559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 32
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12801570638791060800000000000000
+      internalID: 6924698075505166369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 32
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1160a6f056cd4e0800000000000000
+      internalID: -1955577021307940368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 32
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f0254df82859410800000000000000
+      internalID: 1483235206542528353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a21737b506dbf90800000000000000
+      internalID: -6936281905185609106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 29
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a510db15cf870fc50800000000000000
+      internalID: 6696985670998360410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 29
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b288e6006c6c6620800000000000000
+      internalID: 2768707030614573753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 32
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29304752ddf58c90800000000000000
+      internalID: -7168044152041490129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 32
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec5a6fcf460f0480800000000000000
+      internalID: -8930912596200366878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 32
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afed3078cd70249d0800000000000000
+      internalID: -2791660175276908806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 32
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cbe3f17f902ecc0800000000000000
+      internalID: -3683370588249867219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 32
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dae8880deb104da0800000000000000
+      internalID: -5962735201774146856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 32
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797aae86d98f4a1d0800000000000000
+      internalID: -3340271668648302697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 32
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd7be25497c21e80800000000000000
+      internalID: -8209279730882740784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 32
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15a19d8442644640800000000000000
+      internalID: 5063279927643710747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeefea75d8582290800000000000000
+      internalID: -7914978671189823761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc06342ecd0c0630800000000000000
+      internalID: 3894502956790582458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 12
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c448081d1286050800000000000000
+      internalID: 5793918104300178560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 15
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca65ba395d2fea0d0800000000000000
+      internalID: -3409520868753451348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 12
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d041b9271f1cc8d30800000000000000
+      internalID: 4435132975807140877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fb8e65f75d59630800000000000000
+      internalID: 3933284592473653077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normalForce.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 12
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f96c02d91400bf0800000000000000
+      internalID: -360215827074080918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      normalForce.drawio_0: -2103233686841984815
+      normalForce.drawio_1: -832532721699434513
+      normalForce.drawio_10: -4472111387662362980
+      normalForce.drawio_11: -5231622057620460954
+      normalForce.drawio_12: -5598292193405772704
+      normalForce.drawio_13: 4517856161557266908
+      normalForce.drawio_14: -1841822983290977216
+      normalForce.drawio_15: 1532311474843959439
+      normalForce.drawio_16: 9152335805339111851
+      normalForce.drawio_17: 5035225610818814339
+      normalForce.drawio_18: -3466147033701157902
+      normalForce.drawio_19: -3989019030361295613
+      normalForce.drawio_2: -298379043603875158
+      normalForce.drawio_20: 6832443094235680559
+      normalForce.drawio_21: 6924698075505166369
+      normalForce.drawio_22: -1955577021307940368
+      normalForce.drawio_23: 1483235206542528353
+      normalForce.drawio_24: -6936281905185609106
+      normalForce.drawio_25: 6696985670998360410
+      normalForce.drawio_26: 2768707030614573753
+      normalForce.drawio_27: -7168044152041490129
+      normalForce.drawio_28: -8930912596200366878
+      normalForce.drawio_29: -2791660175276908806
+      normalForce.drawio_3: 3998438422758448141
+      normalForce.drawio_30: -3683370588249867219
+      normalForce.drawio_31: -5962735201774146856
+      normalForce.drawio_32: -3340271668648302697
+      normalForce.drawio_33: -8209279730882740784
+      normalForce.drawio_34: 5063279927643710747
+      normalForce.drawio_35: -7914978671189823761
+      normalForce.drawio_36: 3894502956790582458
+      normalForce.drawio_37: 5793918104300178560
+      normalForce.drawio_38: -3409520868753451348
+      normalForce.drawio_39: 4435132975807140877
+      normalForce.drawio_4: -7268440933950961565
+      normalForce.drawio_40: 3933284592473653077
+      normalForce.drawio_41: -360215827074080918
+      normalForce.drawio_5: 6073012257168030282
+      normalForce.drawio_6: 5744971486314286033
+      normalForce.drawio_7: -8204281542422781790
+      normalForce.drawio_8: -5367614553587157000
+      normalForce.drawio_9: -2611575741952395273
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

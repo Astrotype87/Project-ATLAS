@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f9c6249b17a009468129dc4c39cc478, type: 3}
+  m_Name: C9_PreTest
+  m_EditorClassIdentifier: 
+  chapter: 9
+  title: Fluid Mechanics
+  description: Quiz on fluid properties. {player} prepares submarine module for descent.
+  objectives: Complete the pre-test quiz. Any score is accepted.
+  scoring: 
+  unlockDatas:
+  - icon: 1
+    name: Level 35 - Lesson
+    description: Fluids
+  dialoguePrefab: {fileID: 6336052068413480240, guid: 7200738b5c0323547a1eff2c884140ad, type: 3}
+  chapterQuizData:
+  - {fileID: 11400000, guid: 45dd989da80a7af4f9bcfc1eea39844a, type: 2}

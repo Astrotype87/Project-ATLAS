@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6bc01ad9ed17fb43bbc3c7a47a6428d, type: 3}
+  m_Name: 15_Lesson
+  m_EditorClassIdentifier: 
+  chapter: 4
+  number: 15
+  title: Work and Power
+  description: Learn how force over distance equals work, and work over time equals
+    power. {player} fixes crane lifts by computing effort needed.
+  objectives: Complete the lesson quiz covering certian concepts in this lesson.
+    Get a half score to proceed to the next level.
+  scoring: Quiz Score * 100 + Time Bonus
+  bronzeObjective: 50% Quiz Score
+  silverObjective: Perfect Quiz Score
+  goldObjective: Perfect Under {goldTime}s
+  timeBonus:
+    timeBonuses:
+    - seconds: 60
+      score: 500
+    - seconds: 70
+      score: 400
+    - seconds: 80
+      score: 300
+    - seconds: 90
+      score: 200
+    - seconds: 100
+      score: 100
+    - seconds: 110
+      score: 50
+    lowestScore: 0
+  unlockDatas:
+  - icon: 1
+    name: Level 16 - Lesson
+    description: Energy
+  - icon: 5
+    name: Guidebook 9
+    description: Work & Power
+  - icon: 6
+    name: 4 Glossary Terms
+    description: Mechanical Work, Work, Power, Formulas
+  dialoguePrefab: {fileID: 8151134926407189821, guid: 68c91d5c78fa3e84293b96ecc01f3560, type: 3}
+  guidebookPrefab: {fileID: 4849445035974619951, guid: f661abc4d7acde341b1ebb6a202ffad6, type: 3}
+  quizData: {fileID: 11400000, guid: e9337291cb96c0f4b9b5e6065b4f5f66, type: 2}

@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 11
+  m_EditorClassIdentifier: 
+  level: Level 11
+  name: Newton's Law
+  description: Showing how forces affect motion and the relationship between mass,
+    acceleration, and action-reaction.
+  quizItems:
+  - rid: 7832858370711486535
+  - rid: 7832858370711486536
+  - rid: 7832858371272736768
+  - rid: 7832858371272736769
+  - rid: 7832858371272736770
+  - rid: 7832858371272736771
+  - rid: 7832858371272736772
+  - rid: 7832858371272736773
+  references:
+    version: 2
+    RefIds:
+    - rid: 7832858370711486535
+      type: {class: MatchingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        pairs:
+        - question:
+          - A passenger in a car lurches forward when the car suddenly stops.
+          - When a car suddenly stops, a passenger stumbles forward.
+          correctAnswer: Law of Inertia
+        - question:
+          - A small child can throw a baseball faster than a heavy medicine ball
+            because the ball is lighter.
+          - A baseball is lighter than a huge medicine ball, so a young child can
+            throw it faster.
+          correctAnswer: Law of Acceleration
+        - question:
+          - Pushing against a wall results in the wall pushing back with equal force
+            (you feel it in your hands).
+          - You can feel it in your hands as the wall pushes back with equal power
+            when you push against it.
+          correctAnswer: Law of Interaction
+        wrongAnswers:
+        - Enter zero or more extra wrong choices.
+    - rid: 7832858370711486536
+      type: {class: MatchingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        pairs:
+        - question:
+          - This is a force directly applied to object.
+          - This force is applied directly to the object.
+          correctAnswer: Applied Force
+        - question:
+          - It is a force resulting from pulling.
+          - It is a force produced through pulling.
+          correctAnswer: Tension Force
+        - question:
+          - Is a force that is perpendicular to the surface an object is placed upon.
+          - Occurs when an object is put on a surface that is perpendicular to it.
+          correctAnswer: Normal Force
+        - question:
+          - Is the resistance that one surface or object encounters when moving another.
+          - Is the resistance that an object or surface faces when being moved by
+            another.
+          correctAnswer: Friction Force
+        - question:
+          - Is force exerted by air.
+          - The air generates force.
+          correctAnswer: Air resistance
+        - question:
+          - Forces that two object exert at a distance.
+          - Forces acting at a distance between two objects.
+          correctAnswer: Noncontact Forces
+        - question:
+          - This is kind of force wherein the second force can be divided into electrical
+            and magnetic forces.
+          - The second force in this type of force can be separated into magnetic
+            and electrical forces.
+          correctAnswer: Electromagnetic Forces
+        wrongAnswers: []
+    - rid: 7832858371272736768
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - This law states that objects remain in their current state unless acted
+          upon by an outside or unbalanced force. Which of the following best describes
+          this law?
+        - This law implies that until an external or imbalanced force acts, the thing
+          stays in its existing state. Which of the following best describes this
+          law?
+        - According to this law, unless moved upon by an outside or unbalanced force,
+          the thing remains in its current state. Which of the following best describes
+          this law?
+        correctAnswer:
+        - First Law of Motion
+        wrongAnswers:
+        - Second Law of Motion
+        - Third Law of Motion
+        - Fourth Law of Motion
+        choiceCount: 4
+    - rid: 7832858371272736769
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - This law states that an object accelerates if an unbalanced net force is
+          applied. Which of the following best describes this law?
+        - This law implies that an object moves when an unbalanced net force is applied.
+          Which of the following best describes this law?
+        - This law indicates that when an unbalanced net force occurs to an object,
+          it will accelerate. Which of the following best describes this law?
+        correctAnswer:
+        - Second Law of Motion
+        wrongAnswers:
+        - First Law of Motion
+        - Third Law of Motion
+        - Fourth Law of Motion
+        choiceCount: 4
+    - rid: 7832858371272736770
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - This law implies that there is always an equal and opposing amount of force
+          counteracting another force. Which of the following best describes this
+          law?
+        - This law says that an equal and opposite quantity of force counteracts
+          another force. Which of the following best describes this law?
+        - This law states that an equal and opposite amount of force opposes another
+          force. Which of the following best describes this law?
+        correctAnswer:
+        - Third Law of Motion
+        wrongAnswers:
+        - First Law of Motion
+        - Second Law of Motion
+        - Fourth Law of Motion
+        choiceCount: 4
+    - rid: 7832858371272736771
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - What type of law states that pushing an empty shopping cart causes it to
+          speed quickly, while a full cart is more difficult to push due to its increased
+          mass? Which of the following best describes this law?
+        - What form of law states that pushing an empty shopping cart leads it to
+          accelerate rapidly, while a full cart becomes more difficult to push due
+          to the additional mass? Which of the following best describes this law?
+        - What type of law states that pushing an empty shopping cart causes it to
+          speed quickly, while a loaded cart becomes more difficult to push due to
+          the increased mass? Which of the following best describes this law?
+        correctAnswer:
+        - Second Law of Motion
+        wrongAnswers:
+        - First Law of Motion
+        - Third Law of Motion
+        - Fourth Law of Motion
+        choiceCount: 4
+    - rid: 7832858371272736772
+      type: {class: CategorizationItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        categoryItems:
+        - category: Contact Forces
+          items:
+          - Applied Force
+          - Tension Force
+          - Normal Force
+          - Friction
+          - Air Resistance
+        - category: Noncontact Forces
+          items:
+          - Gravitational Force
+          - Electromagnetic Force
+          - Electric Force
+          - Magnetic Force
+    - rid: 7832858371272736773
+      type: {class: FillInTheBlanksItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - Fill in the blanks with the correct term for each statement. __________
+          this kind of force acting on the object are not balanced.  __________ this
+          kind of force states that object remains at current state.  __________
+          this is resistance of an object to change its state of motion.
+        - Fill in the blanks with the correct term for each statement. __________
+          this sort of forces operating on the item are not balanced. __________
+          this type of force indicates that the thing continues in its existing state.
+          __________ this refers to an object's resistance to changing its state
+          of motion.
+        correctAnswers:
+        - Unbalanced Force
+        - Balanced Force
+        - Inertia
+        wrongAnswers:
+        - State of Rest
+        - Force (N)

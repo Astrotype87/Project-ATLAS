@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d03bc636d4f22964e964f316abda6d60, type: 3}
+  m_Name: Story 9
+  m_EditorClassIdentifier: 
+  chapter: 9
+  title: Into The Deep
+  story: 'Your spacecraft vehicle is out of fuel, so you equip a submarine vehicle
+    to explore the depths of the water planet. Pressure and buoyancy constantly test
+    your control.
+
+
+    The challenge is the component buoyancy test. You adjust
+    the mass and volume of each component to see how it affects floating and sinking.
+
+
+    Next
+    comes the deep mining mission. You must collect 10 crystals scattered through
+    the water. To reach them safely, you carefully add or release air inside the
+    submarine to control depth, using your understanding of buoyancy and fluid mechanics.
+
+
+    By
+    successfully balancing components and collecting all crystals, you restore fuel
+    and skillfully pilot your submarine back to the surface, ready to continue your
+    adventure in Atlas.'

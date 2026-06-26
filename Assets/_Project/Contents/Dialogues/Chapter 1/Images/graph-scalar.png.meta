@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 1a16c31598366f846aad10f7dd2a26da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1469540906006814875
+    second: graph-scalar_0
+  - first:
+      213: -327283702396582083
+    second: graph-scalar_1
+  - first:
+      213: 6846619410586488579
+    second: graph-scalar_2
+  - first:
+      213: -8038180677756706088
+    second: graph-scalar_3
+  - first:
+      213: 580315120879243349
+    second: graph-scalar_4
+  - first:
+      213: 775447675206284338
+    second: graph-scalar_5
+  - first:
+      213: 6867482390564106535
+    second: graph-scalar_6
+  - first:
+      213: 8988930312459473384
+    second: graph-scalar_7
+  - first:
+      213: -5279171093356161263
+    second: graph-scalar_8
+  - first:
+      213: -3524731860638614510
+    second: graph-scalar_9
+  - first:
+      213: 5243652631126600959
+    second: graph-scalar_10
+  - first:
+      213: 757472969077797714
+    second: graph-scalar_11
+  - first:
+      213: -8247437766868755997
+    second: graph-scalar_12
+  - first:
+      213: 3615137156759211159
+    second: graph-scalar_13
+  - first:
+      213: 6109453927422683041
+    second: graph-scalar_14
+  - first:
+      213: 1933942147747141596
+    second: graph-scalar_15
+  - first:
+      213: -4557259366071368010
+    second: graph-scalar_16
+  - first:
+      213: -7410529603021926793
+    second: graph-scalar_17
+  - first:
+      213: 4224980864092998701
+    second: graph-scalar_18
+  - first:
+      213: -8897669954365341271
+    second: graph-scalar_19
+  - first:
+      213: 1846890200368568774
+    second: graph-scalar_20
+  - first:
+      213: -1701475131337727625
+    second: graph-scalar_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: graph-scalar_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 283
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fde8af4542b9be0800000000000000
+      internalID: -1469540906006814875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 283
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3780e9e431457bf0800000000000000
+      internalID: -327283702396582083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 284
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f4d483414140f50800000000000000
+      internalID: 6846619410586488579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 284
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d227edf245a27090800000000000000
+      internalID: -8038180677756706088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 284
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5509bcd1781bd0800800000000000000
+      internalID: 580315120879243349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_5
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 284
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234b2965d81f2ca00800000000000000
+      internalID: 775447675206284338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 186
+        width: 165
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721f2d649d23e4f50800000000000000
+      internalID: 6867482390564106535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 218
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e153e86e781fbc70800000000000000
+      internalID: 8988930312459473384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 136
+        width: 265
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117deff5cdd9cb6b0800000000000000
+      internalID: -5279171093356161263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 168
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c322e2c03a51fc0800000000000000
+      internalID: -3524731860638614510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 78
+        width: 652
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffce7d3394235c840800000000000000
+      internalID: 5243652631126600959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 38
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253b7d0f6a5138a00800000000000000
+      internalID: 757472969077797714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e995ae3c073b8d80800000000000000
+      internalID: -8247437766868755997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 38
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cc2fa171c8b2230800000000000000
+      internalID: 3615137156759211159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 39
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7e4ab4af329c450800000000000000
+      internalID: 6109453927422683041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 39
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7df9c032eb6da10800000000000000
+      internalID: 1933942147747141596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 38
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b68eff70cc51c0c0800000000000000
+      internalID: -4557259366071368010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_17
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 39
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e8c56b692882990800000000000000
+      internalID: -7410529603021926793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_18
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 39
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c061306b522aa30800000000000000
+      internalID: 4224980864092998701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_19
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 38
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a143618150258480800000000000000
+      internalID: -8897669954365341271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_20
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 39
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c95e1c1ad871a910800000000000000
+      internalID: 1846890200368568774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-scalar_21
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 38
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771247202652368e0800000000000000
+      internalID: -1701475131337727625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      graph-scalar_0: -1469540906006814875
+      graph-scalar_1: -327283702396582083
+      graph-scalar_10: 5243652631126600959
+      graph-scalar_11: 757472969077797714
+      graph-scalar_12: -8247437766868755997
+      graph-scalar_13: 3615137156759211159
+      graph-scalar_14: 6109453927422683041
+      graph-scalar_15: 1933942147747141596
+      graph-scalar_16: -4557259366071368010
+      graph-scalar_17: -7410529603021926793
+      graph-scalar_18: 4224980864092998701
+      graph-scalar_19: -8897669954365341271
+      graph-scalar_2: 6846619410586488579
+      graph-scalar_20: 1846890200368568774
+      graph-scalar_21: -1701475131337727625
+      graph-scalar_3: -8038180677756706088
+      graph-scalar_4: 580315120879243349
+      graph-scalar_5: 775447675206284338
+      graph-scalar_6: 6867482390564106535
+      graph-scalar_7: 8988930312459473384
+      graph-scalar_8: -5279171093356161263
+      graph-scalar_9: -3524731860638614510
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

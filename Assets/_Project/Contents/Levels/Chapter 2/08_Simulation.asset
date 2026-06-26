@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b4a2770fa415b547864093efb334240, type: 3}
+  m_Name: 08_Simulation
+  m_EditorClassIdentifier: 
+  chapter: 2
+  number: 8
+  title: Desert Jumps
+  description: Apply projectile motion in practice. {player} leaps canyons, adjusting
+    thrust to land safely.
+  objectives: To develop players' understanding of projectile motion through interactive
+    adjustments of parameters.
+  scoring: 
+  bronzeObjective: Complete Simulation
+  silverObjective: 2/5 Goal
+  goldObjective: 5/5 Goal
+  timeBonus:
+    timeBonuses: []
+    lowestScore: 10
+  unlockDatas:
+  - icon: 1
+    name: Level 09 - Lesson
+    description: Relative Motion
+  - icon: 1
+    name: Freeplay > Simulation 2
+    description: Desert jumps
+  instructions: 'Velocity: Adjust the "Initial Velocity" to control launch speed.
+
+    Angle:
+    Set the "Launch Angle" to change the projectile trajectory.
+
+    Gravity: Consider
+    the "Gravity" setting for how quickly the projectile falls.
+
+    Launch: Press
+    "LAUNCH" to fire!
+
+'
+  dialoguePrefab: {fileID: 8286520796438465552, guid: 288f685d332b55d4e8b58d4048ae0e4b, type: 3}
+  simulationPrefab: {fileID: 7668864505392818951, guid: 916d48e4076fe9542ae3b9d5dc50cfee, type: 3}

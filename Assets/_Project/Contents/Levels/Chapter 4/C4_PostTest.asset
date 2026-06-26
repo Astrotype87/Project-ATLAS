@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68cc2dc78c687b34485182e163a463ca, type: 3}
+  m_Name: C4_PostTest
+  m_EditorClassIdentifier: 
+  chapter: 4
+  title: Work, Power, and Energy
+  description: Quiz on work, power, and energy transfer. The cargo airship finally
+    takes flight.
+  objectives: Complete the 8-item post-test quiz covering all topics in this chapter
+    so far. Get the passing score of 4/8 to proceed to the next chapter.
+  scoring: 
+  unlockDatas:
+  - icon: 0
+    name: Chapter 5 - Pre Test
+    description: Center of Mass, Momentum, Impulse, and Collision
+  - icon: 8
+    name: Chapter 5
+    description: Center of Mass, Momentum, Impulse, and Collision
+  - icon: 7
+    name: Freeplay > Quiz Level 15, 16
+    description: Work & Power, Energy
+  dialoguePrefab: {fileID: 5133800376117570932, guid: d65fca0456211cb45b6e39b751f16a48, type: 3}
+  chapterQuizData:
+  - {fileID: 11400000, guid: e9337291cb96c0f4b9b5e6065b4f5f66, type: 2}
+  - {fileID: 11400000, guid: b4f7c2b35b055ab49b3e4310280e64ec, type: 2}

@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 27
+  m_EditorClassIdentifier: 
+  level: Level 27
+  name: Gravitation
+  description: Gravitation, explaining weight, gravitational force, universal gravitation,
+    and escape velocity.
+  quizItems:
+  - rid: 138986247837974607
+  - rid: 138986247837974608
+  - rid: 138986247837974609
+  - rid: 138986247837974610
+  - rid: 138986247837974611
+  - rid: 138986247837974613
+  - rid: 138986247837974614
+  - rid: 138986247837974615
+  - rid: 3818007397566513158
+  references:
+    version: 2
+    RefIds:
+    - rid: 138986247837974607
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. The gravitational force
+          becomes weaker when the distance between two objects increases.
+        - Determine whether the statement is True or False. Gravity weakens when
+          the distance between two objects grows.
+        - Determine whether the statement is True or False. The farther apart two
+          objects are, the weaker the gravity between them.
+        correctAnswer: 1
+    - rid: 138986247837974608
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. The larger the mass of
+          an object, the greater its gravitational pull.
+        - Determine whether the statement is True or False. An object with more mass
+          exerts more gravitational force.
+        - Determine whether the statement is True or False. The heavier the mass,
+          the stronger its gravitational influence.
+        correctAnswer: 1
+    - rid: 138986247837974609
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. Microgravity is the condition
+          where gravitational effects are so weak that objects seem weightless.
+        - Determine whether the statement is True or False. Microgravity happens
+          when gravity is too weak to be noticed.
+        - Determine whether the statement is True or False. In microgravity, objects
+          experience near-weightlessness.
+        correctAnswer: 1
+    - rid: 138986247837974610
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - "A book of {m} 2 kg is placed on a shelf {h} meters above the ground and
+          the Accelaration due to Gravity is {g} m/s\xB2. Find its gravitational
+          potential energy."
+        formula: m * g * h
+        variables:
+        - variable: m
+          name: Mass
+          unit: kg
+          range:
+            min: 1
+            max: 6
+        - variable: h
+          name: Height
+          unit: m
+          range:
+            min: 5
+            max: 10
+        - variable: g
+          name: Acceleration due to Gravity
+          unit: "m/s\xB2"
+          range:
+            min: 9.81
+            max: 9.81
+        variable: GPE
+        name: Gravitational Potential Energy
+        unit: J
+        rounding: 2
+    - rid: 138986247837974611
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - "A ball of mass {m} kg is placed {h} meters above the ground and the Acceleration
+          due to gravity is {g} m/s\xB2. Find its gravitational potential energy."
+        formula: m * g* h
+        variables:
+        - variable: m
+          name: 'Mass '
+          unit: kg
+          range:
+            min: 4
+            max: 10
+        - variable: g
+          name: Acceleration due to gravity
+          unit: "m/s\xB2"
+          range:
+            min: 9.8
+            max: 9.8
+        - variable: h
+          name: Height
+          unit: m
+          range:
+            min: 1
+            max: 3
+        variable: GPE
+        name: Gravitational Potential Energy
+        unit: J
+        rounding: 2
+    - rid: 138986247837974613
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - "A planet has a mass of 6 x 10^24 kg and a radius of 6.4 x 10^6 m. Using
+          G = 6.67 x 10^-11 N\xB7m\xB2/kg\xB2, which of the following is the planet's
+          escape velocity?"
+        - Calculate the escape velocity for a planet with a mass of 6 x 10^24 kg
+          and radius 6.4 x 10^6 m. (Use G = 6.67x 10^-11). Which of the following
+          is the planet's escape velocity?
+        correctAnswer:
+        - "1.12\xD710^4m/s"
+        wrongAnswers:
+        - "5.6\xD710^3m/s"
+        - "2.5\xD710^4m/s"
+        - "9.8\xD710^3m/s"
+        choiceCount: 4
+    - rid: 138986247837974614
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - "Which of the following correctly states Newton\u2019s Law of Universal
+          Gravitation?"
+        - "Which of the following explains what Newton\u2019s Law of Gravitation
+          says about mass and distance?"
+        - "Which best describes Newton\u2019s Law of Universal Gravitation?"
+        correctAnswer:
+        - Objects with mass attract each other, and the force depends on mass and
+          distance
+        wrongAnswers:
+        - Gravity only works on Earth and not in space
+        - Only large planets can exert gravity
+        - Gravity is always constant, no matter the mass or distance
+        choiceCount: 4
+    - rid: 138986247837974615
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - Which describes the speed required to break free from gravity?
+        - "Which of the following correctly defines \u201Cescape velocity\u201D?"
+        correctAnswer:
+        - "The minimum speed needed for an object to escape a planet\u2019s gravitational
+          pull"
+        wrongAnswers:
+        - The speed at which gravity becomes zero
+        - The maximum speed of sound in the atmosphere
+        - The rotation speed of a planet
+        choiceCount: 4
+    - rid: 3818007397566513158
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - "A rock of mass {m} kg is held {h} meters above the ground. If the acceleration
+          due to gravity is {g} m/s\xB2, calculate its gravitational potential energy."
+        formula: m * g* h
+        variables:
+        - variable: m
+          name: 'Mass '
+          unit: kg
+          range:
+            min: 16.58
+            max: 23
+        - variable: g
+          name: Acceleration due to gravity
+          unit: "m/s\xB2"
+          range:
+            min: 9.8
+            max: 9.8
+        - variable: h
+          name: Height
+          unit: m
+          range:
+            min: 17.73
+            max: 22.51
+        variable: GPE
+        name: Gravitational Potential Energy
+        unit: J
+        rounding: 2

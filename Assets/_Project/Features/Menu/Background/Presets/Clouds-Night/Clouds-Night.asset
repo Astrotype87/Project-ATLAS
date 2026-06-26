@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9dc0a30cfbba7a4ebc8e6747cea062e, type: 3}
+  m_Name: Clouds-Night
+  m_EditorClassIdentifier: 
+  layers:
+  - background: {fileID: 21300000, guid: 442eea64b965549439ee306630d86eca, type: 3}
+    speed: 0
+    phase: 0
+  - background: {fileID: 21300000, guid: 6b655dac931071c42b522641a837904d, type: 3}
+    speed: 0
+    phase: 0
+  - background: {fileID: 21300000, guid: e9abf46ad3cb7c344acab6b5cf74507f, type: 3}
+    speed: 0.75
+    phase: 0
+  - background: {fileID: 21300000, guid: 544d18c798606a04eb674bfedf913f65, type: 3}
+    speed: 1.25
+    phase: 0

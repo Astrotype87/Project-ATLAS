@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: e9b7d625c62753f4f9ae56091af34012
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2253814828334471059
+    second: graph-vector-examples_0
+  - first:
+      213: 424659729276968680
+    second: graph-vector-examples_1
+  - first:
+      213: 3923064261794796115
+    second: graph-vector-examples_2
+  - first:
+      213: 2828307039561728830
+    second: graph-vector-examples_3
+  - first:
+      213: -2920756548478021695
+    second: graph-vector-examples_4
+  - first:
+      213: 5763589029105909809
+    second: graph-vector-examples_5
+  - first:
+      213: -7998287370794527127
+    second: graph-vector-examples_6
+  - first:
+      213: 1132059443305961147
+    second: graph-vector-examples_7
+  - first:
+      213: -3401048166146895115
+    second: graph-vector-examples_8
+  - first:
+      213: -2278710934185007664
+    second: graph-vector-examples_9
+  - first:
+      213: 8171433515246999370
+    second: graph-vector-examples_10
+  - first:
+      213: 7699279049645830575
+    second: graph-vector-examples_11
+  - first:
+      213: 3323794604413329593
+    second: graph-vector-examples_12
+  - first:
+      213: 1003833712495184845
+    second: graph-vector-examples_13
+  - first:
+      213: 6206201669020775188
+    second: graph-vector-examples_14
+  - first:
+      213: -1458816970918674918
+    second: graph-vector-examples_15
+  - first:
+      213: -4620188829859710563
+    second: graph-vector-examples_16
+  - first:
+      213: 7227779896180555382
+    second: graph-vector-examples_17
+  - first:
+      213: -6778035099592914959
+    second: graph-vector-examples_18
+  - first:
+      213: -4139540065779600082
+    second: graph-vector-examples_19
+  - first:
+      213: 2918982692730797403
+    second: graph-vector-examples_20
+  - first:
+      213: 6060006106922353220
+    second: graph-vector-examples_21
+  - first:
+      213: 3222435638469139551
+    second: graph-vector-examples_22
+  - first:
+      213: -8664403539721831704
+    second: graph-vector-examples_23
+  - first:
+      213: 4210222925364270485
+    second: graph-vector-examples_24
+  - first:
+      213: 2506453958056317649
+    second: graph-vector-examples_25
+  - first:
+      213: -427082323929728756
+    second: graph-vector-examples_26
+  - first:
+      213: 9017962298377462085
+    second: graph-vector-examples_27
+  - first:
+      213: 1455344170260066770
+    second: graph-vector-examples_28
+  - first:
+      213: -3788681423578749488
+    second: graph-vector-examples_29
+  - first:
+      213: 4699910629420931905
+    second: graph-vector-examples_30
+  - first:
+      213: -2338134846098302717
+    second: graph-vector-examples_31
+  - first:
+      213: 3767634971903793686
+    second: graph-vector-examples_32
+  - first:
+      213: 2591177913191397908
+    second: graph-vector-examples_33
+  - first:
+      213: 804208529045003530
+    second: graph-vector-examples_34
+  - first:
+      213: -1939693615601132292
+    second: graph-vector-examples_35
+  - first:
+      213: -8592292441575665456
+    second: graph-vector-examples_36
+  - first:
+      213: -6217942783708019313
+    second: graph-vector-examples_37
+  - first:
+      213: 6816751655580683896
+    second: graph-vector-examples_38
+  - first:
+      213: 6848077240670527645
+    second: graph-vector-examples_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: graph-vector-examples_0
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 429
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68ad97da57d8b0e0800000000000000
+      internalID: -2253814828334471059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_1
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 429
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee97f916c1b4e500800000000000000
+      internalID: 424659729276968680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 428
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3521f4b2926817630800000000000000
+      internalID: 3923064261794796115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 429
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3340d8744a204720800000000000000
+      internalID: 2828307039561728830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 428
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf429cd4636777d0800000000000000
+      internalID: -2920756548478021695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_5
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 429
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13042376fa16cff40800000000000000
+      internalID: 5763589029105909809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_6
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 429
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9669c445300600190800000000000000
+      internalID: -7998287370794527127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 429
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6d0e6d012e5bf00800000000000000
+      internalID: 1132059443305961147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_8
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 429
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f212d066bc0dc0d0800000000000000
+      internalID: -3401048166146895115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_9
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 429
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5aa1e7a746060e0800000000000000
+      internalID: -2278710934185007664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_10
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 429
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47d40eec73c66170800000000000000
+      internalID: 8171433515246999370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_11
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 429
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa13fbcc08559da60800000000000000
+      internalID: 7699279049645830575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_12
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 428
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0aa6e159d702e20800000000000000
+      internalID: 3323794604413329593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 453
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb46d661755eed00800000000000000
+      internalID: 1003833712495184845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_14
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 96
+        width: 403
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4137b6e398bd02650800000000000000
+      internalID: 6206201669020775188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_15
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 96
+        width: 403
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eb410b1bd31cbe0800000000000000
+      internalID: -1458816970918674918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 39
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99fbf0fcbac1efb0800000000000000
+      internalID: -4620188829859710563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 39
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e3d8a658b3e4460800000000000000
+      internalID: 7227779896180555382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 39
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f782ad0df49fe1a0800000000000000
+      internalID: -6778035099592914959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 38
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25b5bd0e366d86c0800000000000000
+      internalID: -4139540065779600082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 38
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d7bb92b4f428820800000000000000
+      internalID: 2918982692730797403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_21
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 39
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4420ecb6277791450800000000000000
+      internalID: 6060006106922353220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 39
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c1386d32468bc20800000000000000
+      internalID: 3222435638469139551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 39
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea3e38f2ead1c780800000000000000
+      internalID: -8664403539721831704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_24
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 38
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5951b83a177bd6a30800000000000000
+      internalID: 4210222925364270485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_25
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 38
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d291d75896b8c220800000000000000
+      internalID: 2506453958056317649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_26
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 39
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09f150a3e2b21af0800000000000000
+      internalID: -427082323929728756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_27
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 39
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54167a06eec362d70800000000000000
+      internalID: 9017962298377462085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_28
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 39
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d17946efcb623410800000000000000
+      internalID: 1455344170260066770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_29
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 39
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5a77c8156eb6bc0800000000000000
+      internalID: -3788681423578749488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_30
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 39
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b97b6f0df693140800000000000000
+      internalID: 4699910629420931905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_31
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 39
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3091955deb64d8fd0800000000000000
+      internalID: -2338134846098302717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_32
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 39
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a1aaf8b04594430800000000000000
+      internalID: 3767634971903793686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_33
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 38
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a7c995596b5f320800000000000000
+      internalID: 2591177913191397908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_34
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 39
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d1113756f192b00800000000000000
+      internalID: 804208529045003530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_35
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 39
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc500dfee2d415e0800000000000000
+      internalID: -1939693615601132292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_36
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 38
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0db9d5c8b02c880800000000000000
+      internalID: -8592292441575665456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_37
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 39
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8541677bfd65b9a0800000000000000
+      internalID: -6217942783708019313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_38
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 38
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e41f89387f99e50800000000000000
+      internalID: 6816751655580683896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-examples_39
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 39
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90aa9cb7f1490f50800000000000000
+      internalID: 6848077240670527645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      graph-vector-examples_0: -2253814828334471059
+      graph-vector-examples_1: 424659729276968680
+      graph-vector-examples_10: 8171433515246999370
+      graph-vector-examples_11: 7699279049645830575
+      graph-vector-examples_12: 3323794604413329593
+      graph-vector-examples_13: 1003833712495184845
+      graph-vector-examples_14: 6206201669020775188
+      graph-vector-examples_15: -1458816970918674918
+      graph-vector-examples_16: -4620188829859710563
+      graph-vector-examples_17: 7227779896180555382
+      graph-vector-examples_18: -6778035099592914959
+      graph-vector-examples_19: -4139540065779600082
+      graph-vector-examples_2: 3923064261794796115
+      graph-vector-examples_20: 2918982692730797403
+      graph-vector-examples_21: 6060006106922353220
+      graph-vector-examples_22: 3222435638469139551
+      graph-vector-examples_23: -8664403539721831704
+      graph-vector-examples_24: 4210222925364270485
+      graph-vector-examples_25: 2506453958056317649
+      graph-vector-examples_26: -427082323929728756
+      graph-vector-examples_27: 9017962298377462085
+      graph-vector-examples_28: 1455344170260066770
+      graph-vector-examples_29: -3788681423578749488
+      graph-vector-examples_3: 2828307039561728830
+      graph-vector-examples_30: 4699910629420931905
+      graph-vector-examples_31: -2338134846098302717
+      graph-vector-examples_32: 3767634971903793686
+      graph-vector-examples_33: 2591177913191397908
+      graph-vector-examples_34: 804208529045003530
+      graph-vector-examples_35: -1939693615601132292
+      graph-vector-examples_36: -8592292441575665456
+      graph-vector-examples_37: -6217942783708019313
+      graph-vector-examples_38: 6816751655580683896
+      graph-vector-examples_39: 6848077240670527645
+      graph-vector-examples_4: -2920756548478021695
+      graph-vector-examples_5: 5763589029105909809
+      graph-vector-examples_6: -7998287370794527127
+      graph-vector-examples_7: 1132059443305961147
+      graph-vector-examples_8: -3401048166146895115
+      graph-vector-examples_9: -2278710934185007664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

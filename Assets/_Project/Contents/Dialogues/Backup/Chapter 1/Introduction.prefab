@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &424039229669924107
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8777370628396179931}
+  - component: {fileID: 7610936346488390773}
+  - component: {fileID: 6782768674048774282}
+  - component: {fileID: 3462251829874239146}
+  m_Layer: 0
+  m_Name: Introduction
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8777370628396179931
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 424039229669924107}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7610936346488390773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 424039229669924107}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbeb6d65be27d3b40a131a1e4ace56b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  steps:
+  - message: 'Welcome Adventurer! I am Gizmo your guide. This is Atlas Research Facility,
+      the hub where science meets adventure. '
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "In this first chapter, we\u2019ll check and measure the Atlas Car parts
+      that will take us on our mission."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Before we finish building the Atlas Car, we must learn key skills to
+      make it strong, safe, and ready.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "Accurate measurement is crucial in science because wrong data can cause
+      cars or engines to fail, making today\u2019s lesson important."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "In Lesson 1, we\u2019ll learn physical quantities (like length, mass,
+      time, current), and errors in measurement (random and systematic)."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Lesson 2, teaches scientific notation for writing and working with very
+      large or very small numbers easily.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Lesson 3, covers scalars and vectors, including projections, components,
+      negative vectors, and unit vectors.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Your mission is to measure every part of the Atlas Car correctly!
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Get ready! Prepare for your pre-test to see what you already know about
+      these topics.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &6782768674048774282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 424039229669924107}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 139b92bc4d1ed6f4b9b74cc34ada33f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tweenSequencer: {fileID: 3462251829874239146}
+--- !u!114 &3462251829874239146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 424039229669924107}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c8d51a2479698446b58e7f4400f8d08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  autoPlayMode: 0
+  sequence:
+    steps: []
+    cycles: 1
+    cycleMode: 0
+    sequenceEase: 0
+    useUnscaledTime: 0
+    updateType:
+      enumValue: 0
+    e_expanded: 1
+    e_cyclesExpanded: 0
+  e_expandPlayer: 0
+  e_progress: 0
+  e_smoothRefresh: 0
+  e_expandSequence: 0
+  references:
+    version: 2
+    RefIds: []

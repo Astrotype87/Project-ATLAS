@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f9c6249b17a009468129dc4c39cc478, type: 3}
+  m_Name: C10_PreTest
+  m_EditorClassIdentifier: 
+  chapter: 10
+  title: Temperature and Heat
+  description: Quiz on temperature and heat. {player} crash-lands on the volcanic
+    surface.
+  objectives: Complete the pre-test quiz. Any score is accepted.
+  scoring: 
+  unlockDatas:
+  - icon: 1
+    name: Level 38 - Lesson
+    description: Temperature
+  dialoguePrefab: {fileID: 1450088661080478059, guid: efe303342c766ff4dacbca580c5edc8f, type: 3}
+  chapterQuizData:
+  - {fileID: 11400000, guid: 24e73140981931641b28471c6e33fa52, type: 2}
+  - {fileID: 11400000, guid: 4265198ad427da449b8dcf043a7f4900, type: 2}

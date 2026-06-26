@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 19
+  m_EditorClassIdentifier: 
+  level: Level 19
+  name: Center of Mass and Momentum
+  description: Center of mass the balance point of an object and momentum, showing
+    how mass and velocity affect motion and impact.
+  quizItems:
+  - rid: 138986247837974657
+  - rid: 138986247837974658
+  - rid: 138986247837974659
+  - rid: 138986247837974660
+  - rid: 138986247837974661
+  - rid: 138986247837974662
+  - rid: 138986247837974663
+  - rid: 138986247837974664
+  references:
+    version: 2
+    RefIds:
+    - rid: 138986247837974657
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - What is the center of mass in an object? Which of the following best describes
+          this?
+        - Which best defines the center of mass? Which of the following is correct?
+        - Which statement best describes the center of mass? Which of the following
+          is correct?
+        correctAnswer:
+        - The balance point or average position of mass
+        wrongAnswers:
+        - The heaviest part of the body
+        - The outermost edge of the object
+        - The point farthest from the axis
+        choiceCount: 4
+    - rid: 138986247837974658
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Momentum is described as? Which of the following best defines it?
+        - Which statement best explains momentum? Which of the following is correct?
+        - Which of the followig is the correct meaning of momentum?
+        correctAnswer:
+        - Mass multiplied by velocity
+        wrongAnswers:
+        - Distance over time
+        - Weight of an object
+        - Energy in rotation
+        choiceCount: 4
+    - rid: 138986247837974659
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - The correct SI unit of momentum is? Which of the following is correct?
+        - What unit is used to measure momentum? Which of the following is correct?
+        - Which of the following is the SI unit for momentum?
+        correctAnswer:
+        - "Kilogram-meter per second (kg\xB7m/s)"
+        wrongAnswers:
+        - Newton (N)
+        - Joule (J)
+        - Watt (W)
+        choiceCount: 4
+    - rid: 138986247837974660
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - The formula for the center of mass of two objects is? Which of the following
+          is correct?
+        - Which of these shows how to compute the center of mass (COM) for two objects?
+          Which of the following is correct?
+        - Which equation is used to find the center of mass (COM) of two objects?
+          Which of the following is correct?
+        correctAnswer:
+        - (m1 * x1 + m2 * x2) / (m1 + m2)
+        wrongAnswers:
+        - (m1 + m2) / (x1 + x2)
+        - m1 x1 m2 x2
+        - (x1 + x2) / (m1 * m2)
+        choiceCount: 4
+    - rid: 138986247837974661
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - A ball of mass {m1} kg is at position {x1} meters, and a box of mass {m2}
+          kg is at position {x2} meters along a straight line. Find the center of
+          mass of these two objects.
+        formula: (m1 * x1 + m2 * x2) / (m1 + m2)
+        variables:
+        - variable: m1
+          name: Mass 1
+          unit: kg
+          range:
+            min: 2
+            max: 2
+        - variable: x1
+          name: Position 1
+          unit: m
+          range:
+            min: 1
+            max: 1
+        - variable: m2
+          name: Mass 2
+          unit: kg
+          range:
+            min: 4
+            max: 4
+        - variable: x2
+          name: Position 2
+          unit: m
+          range:
+            min: 5
+            max: 5
+        variable: COM
+        name: Center of Mass
+        unit: m
+        rounding: 2
+    - rid: 138986247837974662
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - A ball with a mass of {m} kg moves with a velocity of {v} m/s. Find its
+          momentum.
+        formula: m*v
+        variables:
+        - variable: m
+          name: Mass
+          unit: kg
+          range:
+            min: 3
+            max: 3
+        - variable: v
+          name: Velocity
+          unit: m/s
+          range:
+            min: 6
+            max: 6
+        variable: p
+        name: Momentum
+        unit: "kg\xB7m/s"
+        rounding: 2
+    - rid: 138986247837974663
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - A soccer ball weighing {m1} kg is at {x1} m, and a water bottle of {m2}
+          kg is at {x2} m. Find the center of mass of the system along the line.
+        formula: (m1 * x1 + m2 * x2) / (m1 + m2)
+        variables:
+        - variable: m1
+          name: Mass 1
+          unit: kg
+          range:
+            min: 1
+            max: 1
+        - variable: x1
+          name: Position 1
+          unit: m
+          range:
+            min: 0
+            max: 0
+        - variable: m2
+          name: Mass 2
+          unit: kg
+          range:
+            min: 3
+            max: 3
+        - variable: x2
+          name: Position 2
+          unit: m
+          range:
+            min: 2
+            max: 2
+        variable: COM
+        name: Center of Mass
+        unit: m
+        rounding: 2
+    - rid: 138986247837974664
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - A toy car of {m1} kg is at {x1} meter, and a block of {m2} kg is at {x2}
+          meters. Determine the center of mass along the straight line.
+        formula: (m1x1 + m2x2 + m3*x3) / (m1 + m2 + m3)
+        variables:
+        - variable: m1
+          name: Mass 1
+          unit: kg
+          range:
+            min: 4
+            max: 4
+        - variable: x1
+          name: Position 1
+          unit: m
+          range:
+            min: -2
+            max: -2
+        - variable: m2
+          name: Mass 2
+          unit: kg
+          range:
+            min: 5
+            max: 5
+        - variable: x2
+          name: Position 2
+          unit: m
+          range:
+            min: 1
+            max: 1
+        variable: COM
+        name: Center of Mass
+        unit: "kg\xB7m/s"
+        rounding: 2

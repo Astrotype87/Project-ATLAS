@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: bc50b5d1e79f90b448121a8a076f7d75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4601667438188395066
+    second: distance.drawio_0
+  - first:
+      213: 1640053052879219983
+    second: distance.drawio_1
+  - first:
+      213: -4670037793388799407
+    second: distance.drawio_2
+  - first:
+      213: 5174921309087021694
+    second: distance.drawio_3
+  - first:
+      213: 657826668836854959
+    second: distance.drawio_4
+  - first:
+      213: -1018872265571805300
+    second: distance.drawio_5
+  - first:
+      213: -3819458317355739153
+    second: distance.drawio_6
+  - first:
+      213: -2506585053480283373
+    second: distance.drawio_7
+  - first:
+      213: -8329473945209965327
+    second: distance.drawio_8
+  - first:
+      213: 8631416283221475382
+    second: distance.drawio_9
+  - first:
+      213: -5712028791147152325
+    second: distance.drawio_10
+  - first:
+      213: 3199552699727260285
+    second: distance.drawio_11
+  - first:
+      213: -5893431821703224330
+    second: distance.drawio_12
+  - first:
+      213: 5392685918819084489
+    second: distance.drawio_13
+  - first:
+      213: 6557168221112898800
+    second: distance.drawio_14
+  - first:
+      213: -1537545903886053062
+    second: distance.drawio_15
+  - first:
+      213: -845284782199068489
+    second: distance.drawio_16
+  - first:
+      213: -4014894471553162479
+    second: distance.drawio_17
+  - first:
+      213: -6305035224148778654
+    second: distance.drawio_18
+  - first:
+      213: 961672932274143874
+    second: distance.drawio_19
+  - first:
+      213: -6823475769622390129
+    second: distance.drawio_20
+  - first:
+      213: -7312683804514731171
+    second: distance.drawio_21
+  - first:
+      213: 6137215333589007504
+    second: distance.drawio_22
+  - first:
+      213: 5364242150542985344
+    second: distance.drawio_23
+  - first:
+      213: -8757679938293323628
+    second: distance.drawio_24
+  - first:
+      213: 1197430880536143687
+    second: distance.drawio_25
+  - first:
+      213: -5395250501208618603
+    second: distance.drawio_26
+  - first:
+      213: 2679402273679695123
+    second: distance.drawio_27
+  - first:
+      213: 8825842601992630526
+    second: distance.drawio_28
+  - first:
+      213: 752037300061527586
+    second: distance.drawio_29
+  - first:
+      213: 4327620257870208907
+    second: distance.drawio_30
+  - first:
+      213: -8197323066275078391
+    second: distance.drawio_31
+  - first:
+      213: 2188593366411684234
+    second: distance.drawio_32
+  - first:
+      213: 8426408566210082535
+    second: distance.drawio_33
+  - first:
+      213: -2450292056710186925
+    second: distance.drawio_34
+  - first:
+      213: 6804436536888055208
+    second: distance.drawio_35
+  - first:
+      213: 7497987532456657279
+    second: distance.drawio_36
+  - first:
+      213: -8284184031338718329
+    second: distance.drawio_37
+  - first:
+      213: 9207616919537887273
+    second: distance.drawio_38
+  - first:
+      213: 877796417210606747
+    second: distance.drawio_39
+  - first:
+      213: 7171115402930711271
+    second: distance.drawio_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: distance.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 121
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c58c4c78d79320c0800000000000000
+      internalID: -4601667438188395066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 101
+        width: 109
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d29adef83a2c610800000000000000
+      internalID: 1640053052879219983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 95
+        width: 109
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a596dae51b03fb0800000000000000
+      internalID: -4670037793388799407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 97
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a3bb0438301d740800000000000000
+      internalID: 5174921309087021694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 81
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac9cc7bed1112900800000000000000
+      internalID: 657826668836854959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 81
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87581b921d3cd1f0800000000000000
+      internalID: -1018872265571805300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 81
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7999f85ee8efac0800000000000000
+      internalID: -3819458317355739153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 78
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3131100ac22d63dd0800000000000000
+      internalID: -2506585053480283373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 81
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f473e90493c76c80800000000000000
+      internalID: -8329473945209965327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 81
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63040fdd063f8c770800000000000000
+      internalID: 8631416283221475382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 81
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cbedcf31ccab0b0800000000000000
+      internalID: -5712028791147152325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 81
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aa26b7a38176c20800000000000000
+      internalID: 3199552699727260285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 44
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3656f9bf2563ea0800000000000000
+      internalID: -5893431821703224330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c86670854ba6da40800000000000000
+      internalID: 5392685918819084489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f41ae771cdbffa50800000000000000
+      internalID: 6557168221112898800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 41
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31d30d852a89aae0800000000000000
+      internalID: -1537545903886053062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 50
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b82bf618f1f444f0800000000000000
+      internalID: -845284782199068489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 47
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113e46cffba3848c0800000000000000
+      internalID: -4014894471553162479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 50
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26169408ed30088a0800000000000000
+      internalID: -6305035224148778654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 50
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2820f4ecf6c885d00800000000000000
+      internalID: 961672932274143874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 50
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a1c2a90f42e41a0800000000000000
+      internalID: -6823475769622390129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bb525f2d0248a90800000000000000
+      internalID: -7312683804514731171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 50
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c37ac54d4cb2550800000000000000
+      internalID: 6137215333589007504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 28
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088ca40a0dd917a40800000000000000
+      internalID: 5364242150542985344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 25
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498267d0f78767680800000000000000
+      internalID: -8757679938293323628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 28
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747a075aa012e9010800000000000000
+      internalID: 1197430880536143687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 28
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599463121483025b0800000000000000
+      internalID: -5395250501208618603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d5d0dfb262f2520800000000000000
+      internalID: 2679402273679695123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 34
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0b74fc511bb7a70800000000000000
+      internalID: 8825842601992630526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 34
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ed200a0f5cf6a00800000000000000
+      internalID: 752037300061527586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 34
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f532122bbce0c30800000000000000
+      internalID: 4327620257870208907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 34
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fde8d3a124d3e80800000000000000
+      internalID: -8197323066275078391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 34
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89aeb232127f5e10800000000000000
+      internalID: 2188593366411684234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 34
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6b24922fd90f470800000000000000
+      internalID: 8426408566210082535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 18
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358f3db4b50defdd0800000000000000
+      internalID: -2450292056710186925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 18
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5d6e59af63e6e50800000000000000
+      internalID: 6804436536888055208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 15
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71036a4fe33e0860800000000000000
+      internalID: 7497987532456657279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 18
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b9716d38aa80d80800000000000000
+      internalID: -8284184031338718329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 18
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928aee4edc608cf70800000000000000
+      internalID: 9207616919537887273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 18
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94e2f0d03f8e2c00800000000000000
+      internalID: 877796417210606747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: distance.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea640bf67be48360800000000000000
+      internalID: 7171115402930711271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      distance.drawio_0: -4601667438188395066
+      distance.drawio_1: 1640053052879219983
+      distance.drawio_10: -5712028791147152325
+      distance.drawio_11: 3199552699727260285
+      distance.drawio_12: -5893431821703224330
+      distance.drawio_13: 5392685918819084489
+      distance.drawio_14: 6557168221112898800
+      distance.drawio_15: -1537545903886053062
+      distance.drawio_16: -845284782199068489
+      distance.drawio_17: -4014894471553162479
+      distance.drawio_18: -6305035224148778654
+      distance.drawio_19: 961672932274143874
+      distance.drawio_2: -4670037793388799407
+      distance.drawio_20: -6823475769622390129
+      distance.drawio_21: -7312683804514731171
+      distance.drawio_22: 6137215333589007504
+      distance.drawio_23: 5364242150542985344
+      distance.drawio_24: -8757679938293323628
+      distance.drawio_25: 1197430880536143687
+      distance.drawio_26: -5395250501208618603
+      distance.drawio_27: 2679402273679695123
+      distance.drawio_28: 8825842601992630526
+      distance.drawio_29: 752037300061527586
+      distance.drawio_3: 5174921309087021694
+      distance.drawio_30: 4327620257870208907
+      distance.drawio_31: -8197323066275078391
+      distance.drawio_32: 2188593366411684234
+      distance.drawio_33: 8426408566210082535
+      distance.drawio_34: -2450292056710186925
+      distance.drawio_35: 6804436536888055208
+      distance.drawio_36: 7497987532456657279
+      distance.drawio_37: -8284184031338718329
+      distance.drawio_38: 9207616919537887273
+      distance.drawio_39: 877796417210606747
+      distance.drawio_4: 657826668836854959
+      distance.drawio_40: 7171115402930711271
+      distance.drawio_5: -1018872265571805300
+      distance.drawio_6: -3819458317355739153
+      distance.drawio_7: -2506585053480283373
+      distance.drawio_8: -8329473945209965327
+      distance.drawio_9: 8631416283221475382
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

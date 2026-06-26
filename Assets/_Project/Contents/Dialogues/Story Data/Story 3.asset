@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d03bc636d4f22964e964f316abda6d60, type: 3}
+  m_Name: Story 3
+  m_EditorClassIdentifier: 
+  chapter: 3
+  title: Racing With Newton
+  story: "You enter a neon hover arena above ruined city towers, your upgraded racer
+    humming beneath you. Competitors surround you, ready to collide and test your
+    skill. Gizmo warns that this race is all about mastering forces.\n\nThe moment
+    the race starts, inertia slams you sideways on the first curve. You counter with
+    quick thruster control, remembering Newton\u2019s laws to keep the hover stable.\n\nOpponents
+    bump and push, trying to throw you off the track. You predict how each hit affects
+    your motion, using action-reaction forces to stay balanced and ahead.\n\nIn the
+    final sprint, two racers trap you, but you time a perfect boost. You slip through
+    and cross the finish line first, earning the prize money for your next major
+    upgrades."

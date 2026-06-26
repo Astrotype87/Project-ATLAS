@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 189695126aa933443943fd0142d32464
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7904631843662678511
+    second: graph-vector-projections_0
+  - first:
+      213: -896814533700154263
+    second: graph-vector-projections_1
+  - first:
+      213: -3993577023840872079
+    second: graph-vector-projections_2
+  - first:
+      213: -7353367559824898487
+    second: graph-vector-projections_3
+  - first:
+      213: -7207018883234407772
+    second: graph-vector-projections_4
+  - first:
+      213: 4263089955838542869
+    second: graph-vector-projections_5
+  - first:
+      213: -1591663001560531018
+    second: graph-vector-projections_6
+  - first:
+      213: 8402086630975945082
+    second: graph-vector-projections_7
+  - first:
+      213: -5002768886467310679
+    second: graph-vector-projections_8
+  - first:
+      213: -6174701211310446034
+    second: graph-vector-projections_9
+  - first:
+      213: 6291792799546316801
+    second: graph-vector-projections_10
+  - first:
+      213: -6307614710850833073
+    second: graph-vector-projections_11
+  - first:
+      213: 4827594941683751456
+    second: graph-vector-projections_12
+  - first:
+      213: -7246800649146615285
+    second: graph-vector-projections_13
+  - first:
+      213: 6228255391872716292
+    second: graph-vector-projections_14
+  - first:
+      213: -7763822427289539833
+    second: graph-vector-projections_15
+  - first:
+      213: -8543177131292726116
+    second: graph-vector-projections_16
+  - first:
+      213: -3535132099758728959
+    second: graph-vector-projections_17
+  - first:
+      213: 6363983872995002871
+    second: graph-vector-projections_18
+  - first:
+      213: -3929039684861090153
+    second: graph-vector-projections_19
+  - first:
+      213: 2326019459929262710
+    second: graph-vector-projections_20
+  - first:
+      213: 5335154271784743441
+    second: graph-vector-projections_21
+  - first:
+      213: 8734947754282879502
+    second: graph-vector-projections_22
+  - first:
+      213: -2494978173124481367
+    second: graph-vector-projections_23
+  - first:
+      213: 167714689805771372
+    second: graph-vector-projections_24
+  - first:
+      213: 3305580459628719635
+    second: graph-vector-projections_25
+  - first:
+      213: -7608728562733260289
+    second: graph-vector-projections_26
+  - first:
+      213: 4692358713102297239
+    second: graph-vector-projections_27
+  - first:
+      213: 8445309754366318807
+    second: graph-vector-projections_28
+  - first:
+      213: -89056944838668882
+    second: graph-vector-projections_29
+  - first:
+      213: 7390984598418725623
+    second: graph-vector-projections_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: graph-vector-projections_0
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1294
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe941c108c4e2bd60800000000000000
+      internalID: 7904631843662678511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_1
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1294
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c0561eeefdd83f0800000000000000
+      internalID: -896814533700154263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_2
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1293
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1799dce0bd6f398c0800000000000000
+      internalID: -3993577023840872079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_3
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1294
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94681c50a2793f990800000000000000
+      internalID: -7353367559824898487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1293
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aad74792868bfb90800000000000000
+      internalID: -7207018883234407772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_5
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1294
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514ca4f5ab9892b30800000000000000
+      internalID: 4263089955838542869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_6
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1294
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf3adddee649e9e0800000000000000
+      internalID: -1591663001560531018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_7
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1294
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79316356453a9470800000000000000
+      internalID: 8402086630975945082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_8
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1293
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab4dbc1438929ab0800000000000000
+      internalID: -5002768886467310679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_9
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1293
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aaaa996fd0f4aa0800000000000000
+      internalID: -6174701211310446034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_10
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1294
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10891514730f05750800000000000000
+      internalID: 6291792799546316801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_11
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1293
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4535b3f6d9d678a0800000000000000
+      internalID: -6307614710850833073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_12
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1294
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a588295001ff240800000000000000
+      internalID: 4827594941683751456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_13
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1294
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0abb8d64313e6b90800000000000000
+      internalID: -7246800649146615285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_14
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1293
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e0cfab7453f6650800000000000000
+      internalID: 6228255391872716292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_15
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1294
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b223a03ac514490800000000000000
+      internalID: -7763822427289539833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_16
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1293
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c6e0ca9a9807980800000000000000
+      internalID: -8543177131292726116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1094
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109dccfc510b0fec0800000000000000
+      internalID: -3535132099758728959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_18
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1094
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f98e2a5d99615850800000000000000
+      internalID: 6363983872995002871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_19
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1094
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796217b393f3979c0800000000000000
+      internalID: -3929039684861090153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_20
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1094
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67acab1006ea74020800000000000000
+      internalID: 2326019459929262710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_21
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 1043
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11233a71b864a0a40800000000000000
+      internalID: 5335154271784743441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_22
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1044
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a80a9e3b4c83970800000000000000
+      internalID: 8734947754282879502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_23
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 873
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeef8c029e006dd0800000000000000
+      internalID: -2494978173124481367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_24
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 601
+        width: 502
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62ec7d2f97d35200800000000000000
+      internalID: 167714689805771372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_25
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 548
+        width: 543
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e64a01ae7cfdd20800000000000000
+      internalID: 3305580459628719635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_26
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 803
+        width: 653
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff16ae95fad586690800000000000000
+      internalID: -7608728562733260289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_27
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 757
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798eb2d636b9e1140800000000000000
+      internalID: 4692358713102297239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 706
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d85527f974c33570800000000000000
+      internalID: 8445309754366318807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_29
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 60
+        width: 908
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead0c163e2b93cef0800000000000000
+      internalID: -89056944838668882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-vector-projections_30
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 24
+        width: 756
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa9129455d029660800000000000000
+      internalID: 7390984598418725623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      graph-vector-projections_0: 7904631843662678511
+      graph-vector-projections_1: -896814533700154263
+      graph-vector-projections_10: 6291792799546316801
+      graph-vector-projections_11: -6307614710850833073
+      graph-vector-projections_12: 4827594941683751456
+      graph-vector-projections_13: -7246800649146615285
+      graph-vector-projections_14: 6228255391872716292
+      graph-vector-projections_15: -7763822427289539833
+      graph-vector-projections_16: -8543177131292726116
+      graph-vector-projections_17: -3535132099758728959
+      graph-vector-projections_18: 6363983872995002871
+      graph-vector-projections_19: -3929039684861090153
+      graph-vector-projections_2: -3993577023840872079
+      graph-vector-projections_20: 2326019459929262710
+      graph-vector-projections_21: 5335154271784743441
+      graph-vector-projections_22: 8734947754282879502
+      graph-vector-projections_23: -2494978173124481367
+      graph-vector-projections_24: 167714689805771372
+      graph-vector-projections_25: 3305580459628719635
+      graph-vector-projections_26: -7608728562733260289
+      graph-vector-projections_27: 4692358713102297239
+      graph-vector-projections_28: 8445309754366318807
+      graph-vector-projections_29: -89056944838668882
+      graph-vector-projections_3: -7353367559824898487
+      graph-vector-projections_30: 7390984598418725623
+      graph-vector-projections_4: -7207018883234407772
+      graph-vector-projections_5: 4263089955838542869
+      graph-vector-projections_6: -1591663001560531018
+      graph-vector-projections_7: 8402086630975945082
+      graph-vector-projections_8: -5002768886467310679
+      graph-vector-projections_9: -6174701211310446034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

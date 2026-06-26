@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9dc0a30cfbba7a4ebc8e6747cea062e, type: 3}
+  m_Name: Mountain_Day
+  m_EditorClassIdentifier: 
+  layers:
+  - background: {fileID: 21300000, guid: 691df2e8c63481540affcf35a5ee4fa5, type: 3}
+    speed: 1
+    phase: 0
+  - background: {fileID: 21300000, guid: ccf5f4cb95491c4449e797ae32304590, type: 3}
+    speed: 2
+    phase: 0
+  - background: {fileID: 21300000, guid: ebcd08cfbd14eca45834436a9686c6c4, type: 3}
+    speed: 3
+    phase: 0
+  - background: {fileID: 21300000, guid: cbaf78bb979d37346b5a05d5f4affd97, type: 3}
+    speed: 4
+    phase: 0
+  - background: {fileID: 21300000, guid: f20f1d513baa3674fa514d05fce71cdd, type: 3}
+    speed: 5
+    phase: 0

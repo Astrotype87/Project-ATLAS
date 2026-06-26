@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1d62931ab01cd14b84145ae3bdd017f, type: 3}
+  m_Name: Chapter 10
+  m_EditorClassIdentifier: 
+  chapter: 10
+  levelTerms:
+  - level: 39
+    terms:
+    - term: 'Celsius or Centigrade '
+      unit: C
+      type: 2
+      description: 'Is the most widely used temperature scale in the world. It is
+        based on both the freezing and boiling points of water under 1 atm of air
+        pressure, and it is the easiest to remember. '
+      details: "(\u2103), is the most widely used temperature scale in the world.
+        It is based on both the freezing and boiling points of water under 1 atm
+        of air pressure, and it is the easiest to remember. It scales from zero (0)
+        for the freezing point of water, up to a hundred (100) for boiling point
+        of water. It is named after Anders Celsius.\n\n(\u2103 \xD7 9 / 5 ) + 32
+        = \u2109\n(\u2103 \xD7 1.8) + 32 = \u2109\n"
+    - term: 'Fahrenheit Scale '
+      unit: "\u2109"
+      type: 2
+      description: "It is derived from the temperature of a brine solution. Its freezing
+        and boiling points are exactly 180\xB0apart."
+      details: "(\u2109), named after the proponent Daniel Gabriel Fahrenheit, is
+        the temperature scale used by countries who still use the English system,
+        like the US. It is derived from the temperature of a brine solution. Its
+        freezing and boiling points are exactly 180\xB0apart\n\n(\u2109 - 32) x 5/9
+        = \u2103\n\u2109 - 32 / 1.8 = \u2103"
+    - term: 'Kelvin Scale '
+      unit: K
+      type: 1
+      description: Is the absolute temperature that is based on the Celsius scale.
+        It is used by scientists to show absolute temperatures, for it is precise
+        enough to do so.
+      details: "As K, is the absolute temperature that is based on the Celsius scale.
+        It is used by scientists to show absolute temperatures, for it is precise
+        enough to do so.\n\n\U0001D43E = \u2103 + 273"
+    - term: 'Rankine '
+      unit: R
+      type: 2
+      description: Is the absolute degree scale used by scientists who uses the Fahrenheit
+        scale.
+      details: "As R, is the absolute degree scale used by scientists who uses the
+        Fahrenheit scale.\n\n\U0001D445 = \u2109 + 459.67"
+  - level: 40
+    terms:
+    - term: Zeroth Law of Thermodynamics
+      unit: 
+      type: 1
+      description: It states that if there are two objects already in equilibrium,
+        anything added to that system will also experience thermal equilibrium.
+      details: 'The thermometer is not actually taking the temperature of an object
+        but is rather taking its own temperature. This is explained by the principle
+        of thermal equilibrium, wherein two (2) systems of different temperatures
+        must have the same temperature to establish equilibrium. The cooler object
+        will get hotter due to heat transfer, making its temperature the same as
+        the hotter one which is in thermal contact with. This allows changes to occur
+        between the two (2) systems
+
+'
+    - term: Linear thermal expansion
+      unit: 
+      type: 1
+      description: 'Is the transfer of heat within the system that is projected in
+        one dimension. Simply put, length is the only dimension that changes. '
+      details: "This is an example of thermal expansion. Things expand because \r\nof
+        heat, like how the hot air balloon flies because hot air expands, becoming
+        less dense, hence rising upwards. Or how railroad tracks have gaps, called
+        expansion joints, that allow it to expand and contract without buckling,
+        or ruining, the tracks."
+    - term: Two-dimensional thermal expansion
+      unit: 
+      type: 1
+      description: 'last expansion, just like area, it replaces the length in the
+        linear expansion with volume, with a key difference. Instead of the a, it
+        uses b, which is the volumetric coefficient of expansion. '
+      details: "The transfer of heat within two (2) dimensions, specifically in the
+        system\u2019s measured area. Area simply replaces length in the linear thermal
+        expansion equation,\n\n"
+    - term: Heat
+      unit: 
+      type: 1
+      description: It is caused by kinetic energy from the object
+      details: "Is caused by kinetic energy from the object, which we \r\nwill call
+        body or system. Heat is a form of energy because it is energy in spontaneous
+        transfer caused by changes in temperature. Atoms vibrate at a certain frequency.
+        If they receive energy, they vibrate faster, hence allowing the body to expand
+        and release their own heat. If that heat is transferred from the body to
+        another, losing that energy forces the atoms to vibrate less to conserve,
+        allowing them to compact together."
+    - term: Calorie
+      unit: 
+      type: 1
+      description: Energy required to increase the temperature of one gram by one
+        degree centigrade
+      details: 'Calorie (pl. calories) is one of the units of heat, along with Joule.
+        Hence, it is the reason we have calorimetry. Calorie is defined as the energy
+        required to increase the temperature of one gram by one degree centigrade.
+        Thus, calorimetry is defined as the science of measuring heat.
+
+'
+    - term: Conduction
+      unit: 
+      type: 1
+      description: 'Is the transfer of heat through direct physical contact between
+        two (2) bodies, much like how an electric stove heats a flat Teflon-coated
+        pan for frying eggs. '
+      details: the transfer of heat through direct physical contact between two (2)
+        bodies, much like how an electric stove heats a flat Teflon-coated pan for
+        frying eggs. It is the transfer of heat through molecular motion, and goes
+        from hot to cold.
+    - term: Convection
+      unit: 
+      type: 1
+      description: Is the transfer of heat that involves the movement of mass from
+        the body or substance.
+      details: The transfer of heat that involves the movement of mass from the body
+        or substance. It goes from hot to cold, in which hotter substance rise, pushing
+        the colder substance down, where they too will be heated, forming a cycle
+        of moving hot and cold masses. This is usually observed in fluids, such as
+        air or water, as seen in weather conditions.
+    - term: Radiation
+      unit: 
+      type: 1
+      description: 'Is the transfer of heat using the electromagnetic waves, such
+        as light. '
+      details: The transfer of heat using the electromagnetic waves, such as light.
+        But, in order for a body to emit or give off radiation, the temperature must
+        be above absolute zero (0 K) to do so. Mathematically,
+    - term: Blackbody
+      unit: 
+      type: 1
+      description: If a body can absorb radiation as fast as it can radiate it.
+      details: Emissivity always ranges between one (1) and zero (0), with one being
+        the representative of the perfect blackbody.

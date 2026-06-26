@@ -1,0 +1,2756 @@
+fileFormatVersion: 2
+guid: 80a3d9c1930c2fb46bef8a037c9881d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2406781022027292625
+    second: velocittyy.drawio_0
+  - first:
+      213: 1170423176362275825
+    second: velocittyy.drawio_1
+  - first:
+      213: 4453722964113536643
+    second: velocittyy.drawio_2
+  - first:
+      213: 839547927505658557
+    second: velocittyy.drawio_3
+  - first:
+      213: 47286947836455578
+    second: velocittyy.drawio_4
+  - first:
+      213: -1751068973574398085
+    second: velocittyy.drawio_5
+  - first:
+      213: -8752321280744681029
+    second: velocittyy.drawio_6
+  - first:
+      213: 4247455446093672337
+    second: velocittyy.drawio_7
+  - first:
+      213: 3435797357684047083
+    second: velocittyy.drawio_8
+  - first:
+      213: -7184170878162314072
+    second: velocittyy.drawio_9
+  - first:
+      213: -8461578843037640294
+    second: velocittyy.drawio_10
+  - first:
+      213: -6787167760201320264
+    second: velocittyy.drawio_11
+  - first:
+      213: 4685934903912192809
+    second: velocittyy.drawio_12
+  - first:
+      213: -6029595616031918975
+    second: velocittyy.drawio_13
+  - first:
+      213: 9030374804542037027
+    second: velocittyy.drawio_14
+  - first:
+      213: 7547879524273686940
+    second: velocittyy.drawio_15
+  - first:
+      213: 1889246002753674042
+    second: velocittyy.drawio_16
+  - first:
+      213: 210245607749593104
+    second: velocittyy.drawio_17
+  - first:
+      213: -4892874968179492783
+    second: velocittyy.drawio_18
+  - first:
+      213: 410919191207423813
+    second: velocittyy.drawio_19
+  - first:
+      213: 9215677809613121367
+    second: velocittyy.drawio_20
+  - first:
+      213: -8343202936265237294
+    second: velocittyy.drawio_21
+  - first:
+      213: -6441790890717546848
+    second: velocittyy.drawio_22
+  - first:
+      213: -23219776284409940
+    second: velocittyy.drawio_23
+  - first:
+      213: -7350947520268877262
+    second: velocittyy.drawio_24
+  - first:
+      213: 7363215068410339981
+    second: velocittyy.drawio_25
+  - first:
+      213: -9085982557292866255
+    second: velocittyy.drawio_26
+  - first:
+      213: 5763389070369421111
+    second: velocittyy.drawio_27
+  - first:
+      213: 5495854068524973020
+    second: velocittyy.drawio_28
+  - first:
+      213: -8838956544094727244
+    second: velocittyy.drawio_29
+  - first:
+      213: -6835517688630989747
+    second: velocittyy.drawio_30
+  - first:
+      213: 4330499919658443950
+    second: velocittyy.drawio_31
+  - first:
+      213: -3972977937433261960
+    second: velocittyy.drawio_32
+  - first:
+      213: -2602030980985162881
+    second: velocittyy.drawio_33
+  - first:
+      213: -1006242785216853158
+    second: velocittyy.drawio_34
+  - first:
+      213: -7489828446948247624
+    second: velocittyy.drawio_35
+  - first:
+      213: 7731012439005802741
+    second: velocittyy.drawio_36
+  - first:
+      213: -1616068490101873663
+    second: velocittyy.drawio_37
+  - first:
+      213: 1007089545849982801
+    second: velocittyy.drawio_38
+  - first:
+      213: -3696413971139549016
+    second: velocittyy.drawio_39
+  - first:
+      213: -7545279329643192029
+    second: velocittyy.drawio_40
+  - first:
+      213: -8938953521141126305
+    second: velocittyy.drawio_41
+  - first:
+      213: 7750141496627263586
+    second: velocittyy.drawio_42
+  - first:
+      213: 5191586098294931412
+    second: velocittyy.drawio_43
+  - first:
+      213: -8261644147032025228
+    second: velocittyy.drawio_44
+  - first:
+      213: 2950908901309279483
+    second: velocittyy.drawio_45
+  - first:
+      213: -3567712476949396815
+    second: velocittyy.drawio_46
+  - first:
+      213: 5866965179426259340
+    second: velocittyy.drawio_47
+  - first:
+      213: 5064898521560925957
+    second: velocittyy.drawio_48
+  - first:
+      213: 6029931215793133203
+    second: velocittyy.drawio_49
+  - first:
+      213: 8004518575976721625
+    second: velocittyy.drawio_50
+  - first:
+      213: 5245373612893186498
+    second: velocittyy.drawio_51
+  - first:
+      213: -5453815486996390611
+    second: velocittyy.drawio_52
+  - first:
+      213: -5205534431800575071
+    second: velocittyy.drawio_53
+  - first:
+      213: -492269994083423565
+    second: velocittyy.drawio_54
+  - first:
+      213: 8537563000719854783
+    second: velocittyy.drawio_55
+  - first:
+      213: 5465376251584170013
+    second: velocittyy.drawio_56
+  - first:
+      213: -1235702014596385243
+    second: velocittyy.drawio_57
+  - first:
+      213: -6346902229370276971
+    second: velocittyy.drawio_58
+  - first:
+      213: -7285516826702445695
+    second: velocittyy.drawio_59
+  - first:
+      213: 4432239765233322003
+    second: velocittyy.drawio_60
+  - first:
+      213: -6465352646830491503
+    second: velocittyy.drawio_61
+  - first:
+      213: 4299075258158076339
+    second: velocittyy.drawio_62
+  - first:
+      213: 1754487610847675514
+    second: velocittyy.drawio_63
+  - first:
+      213: 6540490872848234260
+    second: velocittyy.drawio_64
+  - first:
+      213: -4056927526548785520
+    second: velocittyy.drawio_65
+  - first:
+      213: 6985621224929736255
+    second: velocittyy.drawio_66
+  - first:
+      213: 1297542391081153177
+    second: velocittyy.drawio_67
+  - first:
+      213: -2639700789639955936
+    second: velocittyy.drawio_68
+  - first:
+      213: 358395394068265862
+    second: velocittyy.drawio_69
+  - first:
+      213: -135703629690329778
+    second: velocittyy.drawio_70
+  - first:
+      213: -301862603227050538
+    second: velocittyy.drawio_71
+  - first:
+      213: 2054428918619587869
+    second: velocittyy.drawio_72
+  - first:
+      213: -8368938092060529
+    second: velocittyy.drawio_73
+  - first:
+      213: 5917467275925246301
+    second: velocittyy.drawio_74
+  - first:
+      213: 6298821089104396062
+    second: velocittyy.drawio_75
+  - first:
+      213: 581921443989880414
+    second: velocittyy.drawio_76
+  - first:
+      213: 7265365193181101435
+    second: velocittyy.drawio_77
+  - first:
+      213: 7365340499724857419
+    second: velocittyy.drawio_78
+  - first:
+      213: 2068797694405495095
+    second: velocittyy.drawio_79
+  - first:
+      213: -8036169673158158773
+    second: velocittyy.drawio_80
+  - first:
+      213: 5415564919298849315
+    second: velocittyy.drawio_81
+  - first:
+      213: 2915068140798642899
+    second: velocittyy.drawio_82
+  - first:
+      213: 7333882691370727364
+    second: velocittyy.drawio_83
+  - first:
+      213: 1437766772727946915
+    second: velocittyy.drawio_84
+  - first:
+      213: 573425918815684448
+    second: velocittyy.drawio_85
+  - first:
+      213: 3054946029670498853
+    second: velocittyy.drawio_86
+  - first:
+      213: 5978900942132417450
+    second: velocittyy.drawio_87
+  - first:
+      213: -1037775308620580657
+    second: velocittyy.drawio_88
+  - first:
+      213: 5164150458630506351
+    second: velocittyy.drawio_89
+  - first:
+      213: -709935792837269871
+    second: velocittyy.drawio_90
+  - first:
+      213: -7472697832889488416
+    second: velocittyy.drawio_91
+  - first:
+      213: -9196137070992038023
+    second: velocittyy.drawio_92
+  - first:
+      213: -1814027723058872561
+    second: velocittyy.drawio_93
+  - first:
+      213: -6323533752415136100
+    second: velocittyy.drawio_94
+  - first:
+      213: -7766265602185804562
+    second: velocittyy.drawio_95
+  - first:
+      213: 5553771532898977058
+    second: velocittyy.drawio_96
+  - first:
+      213: -8490414238149279895
+    second: velocittyy.drawio_97
+  - first:
+      213: 7279757204516436689
+    second: velocittyy.drawio_98
+  - first:
+      213: 1998518274549196920
+    second: velocittyy.drawio_99
+  - first:
+      213: -3565485176577540101
+    second: velocittyy.drawio_100
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: velocittyy.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 258
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df961e769a966120800000000000000
+      internalID: 2406781022027292625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 258
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f335ff7dad2e3010800000000000000
+      internalID: 1170423176362275825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 258
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386bcf3607dcecd30800000000000000
+      internalID: 4453722964113536643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 258
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2e3e6546ca6ab00800000000000000
+      internalID: 839547927505658557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 253
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aed408a3ff7a000800000000000000
+      internalID: 47286947836455578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 258
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fd3eccb04f2b7e0800000000000000
+      internalID: -1751068973574398085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 222
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb11f1dba22898680800000000000000
+      internalID: -8752321280744681029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 222
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f26b7693ef1fa30800000000000000
+      internalID: 4247455446093672337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 190
+        width: 102
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becbbf04e776eaf20800000000000000
+      internalID: 3435797357684047083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 204
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acdd6156a2bc4c90800000000000000
+      internalID: -7184170878162314072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 204
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99d7c5afde629a80800000000000000
+      internalID: -8461578843037640294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 204
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8773ec1e22fc1a0800000000000000
+      internalID: -6787167760201320264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 204
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b5a4cc7f8c70140800000000000000
+      internalID: 4685934903912192809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 201
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1843a2fbbb2925ca0800000000000000
+      internalID: -6029595616031918975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 204
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c9d5d2a06525d70800000000000000
+      internalID: 9030374804542037027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 204
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9907cbdf647fb860800000000000000
+      internalID: 7547879524273686940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 204
+        width: 54
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b9577da33f73a10800000000000000
+      internalID: 1889246002753674042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 204
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018208d2441fae200800000000000000
+      internalID: 210245607749593104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 201
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158b247d324091cb0800000000000000
+      internalID: -4892874968179492783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 201
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f2f47c3d0e3b500800000000000000
+      internalID: 410919191207423813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 184
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757a07e142aa4ef70800000000000000
+      internalID: 9215677809613121367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 184
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc1ae6322df63c80800000000000000
+      internalID: -8343202936265237294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 187
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6fe61a0592a96a0800000000000000
+      internalID: -6441790890717546848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 187
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafbdca8cb18daff0800000000000000
+      internalID: -23219776284409940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 187
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232c5d36d203cf990800000000000000
+      internalID: -7350947520268877262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 187
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82e66db7156f2660800000000000000
+      internalID: 7363215068410339981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 187
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135d925f00b18e180800000000000000
+      internalID: -9085982557292866255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 184
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737fcb1e2dbabff40800000000000000
+      internalID: 5763389070369421111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 187
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbf0d33822354c40800000000000000
+      internalID: 5495854068524973020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 187
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b39e1c9ad7b55580800000000000000
+      internalID: -8838956544094727244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 180
+        width: 107
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c2049d0ec5321a0800000000000000
+      internalID: -6835517688630989747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 170
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea46913abb6091c30800000000000000
+      internalID: 4330499919658443950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 170
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87883da9d952dd8c0800000000000000
+      internalID: -3972977937433261960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 170
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7371d3eb9ab3ebd0800000000000000
+      internalID: -2602030980985162881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 170
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b8955a48b1902f0800000000000000
+      internalID: -1006242785216853158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 170
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7b807d5b8ce0890800000000000000
+      internalID: -7489828446948247624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f031154ad21a4b60800000000000000
+      internalID: 7731012439005802741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 167
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104a6c245429299e0800000000000000
+      internalID: -1616068490101873663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 167
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fc56d2b96e9fd00800000000000000
+      internalID: 1007089545849982801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 170
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8af63e313b3bcc0800000000000000
+      internalID: -3696413971139549016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 170
+        width: 54
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32125812d68c94790800000000000000
+      internalID: -7545279329643192029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 170
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5be7a4122572f380800000000000000
+      internalID: -8938953521141126305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 170
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2687b7111a80e8b60800000000000000
+      internalID: 7750141496627263586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 170
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfb9b9dc083c0840800000000000000
+      internalID: 5191586098294931412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 167
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477987b9b6eb85d80800000000000000
+      internalID: -8261644147032025228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_45
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 162
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfce31bd20cb3f820800000000000000
+      internalID: 2950908901309279483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_46
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 162
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2c3be9760fc7ec0800000000000000
+      internalID: -3567712476949396815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_47
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 162
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81c9450fb5ab6150800000000000000
+      internalID: 5866965179426259340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_48
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 162
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5074a01de522a4640800000000000000
+      internalID: 5064898521560925957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_49
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 153
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39693692e7e9ea350800000000000000
+      internalID: 6029931215793133203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcab1f2c33c51f60800000000000000
+      internalID: 8004518575976721625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_51
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 153
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9a4be728f4bc840800000000000000
+      internalID: 5245373612893186498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 153
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d5e0bc5b72054b0800000000000000
+      internalID: -5453815486996390611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_53
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 150
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab367ea30a32c7b0800000000000000
+      internalID: -5205534431800575071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 150
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bae21d6c0b1b29f0800000000000000
+      internalID: -492269994083423565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_55
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbccc61b0548b7670800000000000000
+      internalID: 8537563000719854783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_56
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 153
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18c7877ebae8db40800000000000000
+      internalID: 5465376251584170013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_57
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 150
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5267fb39097e9dee0800000000000000
+      internalID: -1235702014596385243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_58
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 153
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593ff3abc064be7a0800000000000000
+      internalID: -6346902229370276971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_59
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 153
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1830543eb05a4ea90800000000000000
+      internalID: -7285516826702445695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_60
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 150
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318c71e559a728d30800000000000000
+      internalID: 4432239765233322003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_61
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 134
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198790ac5047646a0800000000000000
+      internalID: -6465352646830491503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_62
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 137
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1de297b2269ab30800000000000000
+      internalID: 4299075258158076339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_63
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 137
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a744667bf21395810800000000000000
+      internalID: 1754487610847675514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_64
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 137
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417bdccbbcd74ca50800000000000000
+      internalID: 6540490872848234260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_65
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 137
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0963e8cb8e5e2b7c0800000000000000
+      internalID: -4056927526548785520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_66
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 137
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36bd5f1e79e1f060800000000000000
+      internalID: 6985621224929736255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_67
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 137
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99237651eebc10210800000000000000
+      internalID: 1297542391081153177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 134
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a31381e16ed5bd0800000000000000
+      internalID: -2639700789639955936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_69
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 137
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b339846b649f400800000000000000
+      internalID: 358395394068265862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_70
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 134
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45a39d8442ed1ef0800000000000000
+      internalID: -135703629690329778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_71
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 137
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd4dabcf819fcbf0800000000000000
+      internalID: -301862603227050538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_72
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 120
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d154c96773cc28c10800000000000000
+      internalID: 2054428918619587869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_73
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8020e1ce7442eff0800000000000000
+      internalID: -8368938092060529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_74
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 117
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51d587a2211f1250800000000000000
+      internalID: 5917467275925246301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 120
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f7ecf6868e96750800000000000000
+      internalID: 6298821089104396062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_76
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 120
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ef23c5876631800800000000000000
+      internalID: 581921443989880414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_77
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 84
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dfb0f4623c3d460800000000000000
+      internalID: 7265365193181101435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_78
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 96
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40f5e74922f63660800000000000000
+      internalID: 7365340499724857419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_79
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 73
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739cf27ca88d5bc10800000000000000
+      internalID: 2068797694405495095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_80
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4614ac724ac97090800000000000000
+      internalID: -8036169673158158773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_81
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 49
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32affd8e993f72b40800000000000000
+      internalID: 5415564919298849315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_82
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 49
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da8c548707647820800000000000000
+      internalID: 2915068140798642899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_83
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 49
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7b983837f27c560800000000000000
+      internalID: 7333882691370727364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_84
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 47
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae1f4e1349f3f310800000000000000
+      internalID: 1437766772727946915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_85
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 47
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067c204c5d735f700800000000000000
+      internalID: 573425918815684448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_86
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522008a6a39556a20800000000000000
+      internalID: 3054946029670498853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_87
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 32
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa31d03bab259f250800000000000000
+      internalID: 5978900942132417450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_88
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 32
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8bffcead41991f0800000000000000
+      internalID: -1037775308620580657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_89
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6787553b7fbaa740800000000000000
+      internalID: 5164150458630506351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_90
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1966996682dc526f0800000000000000
+      internalID: -709935792837269871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_91
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 29
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb6accb9e4ab4890800000000000000
+      internalID: -7472697832889488416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_92
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 32
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977e7b1ae02c06080800000000000000
+      internalID: -9196137070992038023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_93
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f7d52a56743d6e0800000000000000
+      internalID: -1814027723058872561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_94
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 15
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c965a124e8b4e38a0800000000000000
+      internalID: -6323533752415136100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_95
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 15
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4416e059ea83490800000000000000
+      internalID: -7766265602185804562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_96
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 15
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225ce16b8c5f21d40800000000000000
+      internalID: 5553771532898977058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_97
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 12
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f713b0c3dfb2a80800000000000000
+      internalID: -8490414238149279895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_98
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 15
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dafa429b94e60560800000000000000
+      internalID: 7279757204516436689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_99
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 15
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878a1a738c92cbb10800000000000000
+      internalID: 1998518274549196920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocittyy.drawio_100
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffbc266f1ad48ec0800000000000000
+      internalID: -3565485176577540101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      velocittyy.drawio_0: 2406781022027292625
+      velocittyy.drawio_1: 1170423176362275825
+      velocittyy.drawio_10: -8461578843037640294
+      velocittyy.drawio_100: -3565485176577540101
+      velocittyy.drawio_11: -6787167760201320264
+      velocittyy.drawio_12: 4685934903912192809
+      velocittyy.drawio_13: -6029595616031918975
+      velocittyy.drawio_14: 9030374804542037027
+      velocittyy.drawio_15: 7547879524273686940
+      velocittyy.drawio_16: 1889246002753674042
+      velocittyy.drawio_17: 210245607749593104
+      velocittyy.drawio_18: -4892874968179492783
+      velocittyy.drawio_19: 410919191207423813
+      velocittyy.drawio_2: 4453722964113536643
+      velocittyy.drawio_20: 9215677809613121367
+      velocittyy.drawio_21: -8343202936265237294
+      velocittyy.drawio_22: -6441790890717546848
+      velocittyy.drawio_23: -23219776284409940
+      velocittyy.drawio_24: -7350947520268877262
+      velocittyy.drawio_25: 7363215068410339981
+      velocittyy.drawio_26: -9085982557292866255
+      velocittyy.drawio_27: 5763389070369421111
+      velocittyy.drawio_28: 5495854068524973020
+      velocittyy.drawio_29: -8838956544094727244
+      velocittyy.drawio_3: 839547927505658557
+      velocittyy.drawio_30: -6835517688630989747
+      velocittyy.drawio_31: 4330499919658443950
+      velocittyy.drawio_32: -3972977937433261960
+      velocittyy.drawio_33: -2602030980985162881
+      velocittyy.drawio_34: -1006242785216853158
+      velocittyy.drawio_35: -7489828446948247624
+      velocittyy.drawio_36: 7731012439005802741
+      velocittyy.drawio_37: -1616068490101873663
+      velocittyy.drawio_38: 1007089545849982801
+      velocittyy.drawio_39: -3696413971139549016
+      velocittyy.drawio_4: 47286947836455578
+      velocittyy.drawio_40: -7545279329643192029
+      velocittyy.drawio_41: -8938953521141126305
+      velocittyy.drawio_42: 7750141496627263586
+      velocittyy.drawio_43: 5191586098294931412
+      velocittyy.drawio_44: -8261644147032025228
+      velocittyy.drawio_45: 2950908901309279483
+      velocittyy.drawio_46: -3567712476949396815
+      velocittyy.drawio_47: 5866965179426259340
+      velocittyy.drawio_48: 5064898521560925957
+      velocittyy.drawio_49: 6029931215793133203
+      velocittyy.drawio_5: -1751068973574398085
+      velocittyy.drawio_50: 8004518575976721625
+      velocittyy.drawio_51: 5245373612893186498
+      velocittyy.drawio_52: -5453815486996390611
+      velocittyy.drawio_53: -5205534431800575071
+      velocittyy.drawio_54: -492269994083423565
+      velocittyy.drawio_55: 8537563000719854783
+      velocittyy.drawio_56: 5465376251584170013
+      velocittyy.drawio_57: -1235702014596385243
+      velocittyy.drawio_58: -6346902229370276971
+      velocittyy.drawio_59: -7285516826702445695
+      velocittyy.drawio_6: -8752321280744681029
+      velocittyy.drawio_60: 4432239765233322003
+      velocittyy.drawio_61: -6465352646830491503
+      velocittyy.drawio_62: 4299075258158076339
+      velocittyy.drawio_63: 1754487610847675514
+      velocittyy.drawio_64: 6540490872848234260
+      velocittyy.drawio_65: -4056927526548785520
+      velocittyy.drawio_66: 6985621224929736255
+      velocittyy.drawio_67: 1297542391081153177
+      velocittyy.drawio_68: -2639700789639955936
+      velocittyy.drawio_69: 358395394068265862
+      velocittyy.drawio_7: 4247455446093672337
+      velocittyy.drawio_70: -135703629690329778
+      velocittyy.drawio_71: -301862603227050538
+      velocittyy.drawio_72: 2054428918619587869
+      velocittyy.drawio_73: -8368938092060529
+      velocittyy.drawio_74: 5917467275925246301
+      velocittyy.drawio_75: 6298821089104396062
+      velocittyy.drawio_76: 581921443989880414
+      velocittyy.drawio_77: 7265365193181101435
+      velocittyy.drawio_78: 7365340499724857419
+      velocittyy.drawio_79: 2068797694405495095
+      velocittyy.drawio_8: 3435797357684047083
+      velocittyy.drawio_80: -8036169673158158773
+      velocittyy.drawio_81: 5415564919298849315
+      velocittyy.drawio_82: 2915068140798642899
+      velocittyy.drawio_83: 7333882691370727364
+      velocittyy.drawio_84: 1437766772727946915
+      velocittyy.drawio_85: 573425918815684448
+      velocittyy.drawio_86: 3054946029670498853
+      velocittyy.drawio_87: 5978900942132417450
+      velocittyy.drawio_88: -1037775308620580657
+      velocittyy.drawio_89: 5164150458630506351
+      velocittyy.drawio_9: -7184170878162314072
+      velocittyy.drawio_90: -709935792837269871
+      velocittyy.drawio_91: -7472697832889488416
+      velocittyy.drawio_92: -9196137070992038023
+      velocittyy.drawio_93: -1814027723058872561
+      velocittyy.drawio_94: -6323533752415136100
+      velocittyy.drawio_95: -7766265602185804562
+      velocittyy.drawio_96: 5553771532898977058
+      velocittyy.drawio_97: -8490414238149279895
+      velocittyy.drawio_98: 7279757204516436689
+      velocittyy.drawio_99: 1998518274549196920
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 4c786b67cb0a8b24abf2fc7df4d99d06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1413104692589312506
+    second: force2.drawio_0
+  - first:
+      213: -3492335338448504026
+    second: force2.drawio_1
+  - first:
+      213: 5531397354340995454
+    second: force2.drawio_2
+  - first:
+      213: 6473682093125746523
+    second: force2.drawio_3
+  - first:
+      213: 3732255768053387293
+    second: force2.drawio_4
+  - first:
+      213: 5554140727584200956
+    second: force2.drawio_5
+  - first:
+      213: -8477906909379735615
+    second: force2.drawio_6
+  - first:
+      213: -1382629297977975548
+    second: force2.drawio_7
+  - first:
+      213: 3453128326949443386
+    second: force2.drawio_8
+  - first:
+      213: -5738172604316450449
+    second: force2.drawio_9
+  - first:
+      213: 3663809919096516119
+    second: force2.drawio_10
+  - first:
+      213: 7297003534681422437
+    second: force2.drawio_11
+  - first:
+      213: -8453238191874574781
+    second: force2.drawio_12
+  - first:
+      213: -1033833270100083435
+    second: force2.drawio_13
+  - first:
+      213: 225683460669137556
+    second: force2.drawio_14
+  - first:
+      213: -6813623208078701334
+    second: force2.drawio_15
+  - first:
+      213: 3352265658398885202
+    second: force2.drawio_16
+  - first:
+      213: 1677926085650458648
+    second: force2.drawio_17
+  - first:
+      213: 7611252470043899724
+    second: force2.drawio_18
+  - first:
+      213: -7914661595731637061
+    second: force2.drawio_19
+  - first:
+      213: 6487309630786462991
+    second: force2.drawio_20
+  - first:
+      213: 2889674360925091656
+    second: force2.drawio_21
+  - first:
+      213: -1248313783450251731
+    second: force2.drawio_22
+  - first:
+      213: 3875279879426174505
+    second: force2.drawio_23
+  - first:
+      213: 7314383303255027664
+    second: force2.drawio_24
+  - first:
+      213: 5947993554233157610
+    second: force2.drawio_25
+  - first:
+      213: 9019137052246750404
+    second: force2.drawio_26
+  - first:
+      213: 8275035577450271220
+    second: force2.drawio_27
+  - first:
+      213: 8110105183507240635
+    second: force2.drawio_28
+  - first:
+      213: 5096292624745158018
+    second: force2.drawio_29
+  - first:
+      213: 956754045622190630
+    second: force2.drawio_30
+  - first:
+      213: -3902151607297653725
+    second: force2.drawio_31
+  - first:
+      213: 3803077921698235316
+    second: force2.drawio_32
+  - first:
+      213: 1314279352009274273
+    second: force2.drawio_33
+  - first:
+      213: 6500919966649109898
+    second: force2.drawio_34
+  - first:
+      213: 5518976482443117824
+    second: force2.drawio_35
+  - first:
+      213: -5951609516341318709
+    second: force2.drawio_36
+  - first:
+      213: 5276128787671794631
+    second: force2.drawio_37
+  - first:
+      213: -243283796724230326
+    second: force2.drawio_38
+  - first:
+      213: 4644926336136339079
+    second: force2.drawio_39
+  - first:
+      213: -1563950670490892328
+    second: force2.drawio_40
+  - first:
+      213: -3744824973403843122
+    second: force2.drawio_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: force2.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 110
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af939302b3b5c9310800000000000000
+      internalID: 1413104692589312506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 110
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bbb3b438bb88fc0800000000000000
+      internalID: -3492335338448504026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 110
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71d701569873cc40800000000000000
+      internalID: 5531397354340995454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f319d809327d950800000000000000
+      internalID: 6473682093125746523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 69
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1099b1c8d2abc330800000000000000
+      internalID: 3732255768053387293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 43
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf89f2c8095441d40800000000000000
+      internalID: 5554140727584200956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 43
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf4793759c685a80800000000000000
+      internalID: -8477906909379735615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 43
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d99fd9af9efcce0800000000000000
+      internalID: -1382629297977975548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 43
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3719abfae9fbef20800000000000000
+      internalID: 3453128326949443386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 43
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6107d32b6aed50b0800000000000000
+      internalID: -5738172604316450449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 43
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eec40b5b778d230800000000000000
+      internalID: 3663809919096516119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 43
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ab479bd0a244560800000000000000
+      internalID: 7297003534681422437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 43
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346fc83d6a010ba80800000000000000
+      internalID: -8453238191874574781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 43
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d34ba4e1617a1f0800000000000000
+      internalID: -1033833270100083435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 41
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4926dd869e9c12300800000000000000
+      internalID: 225683460669137556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 43
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec8c19dac52171a0800000000000000
+      internalID: -6813623208078701334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 41
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2554b91fad3a58e20800000000000000
+      internalID: 3352265658398885202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 43
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818ae8682e0394710800000000000000
+      internalID: 1677926085650458648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 43
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47f7cc9bc990a960800000000000000
+      internalID: 7611252470043899724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 43
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc4dfc5639792290800000000000000
+      internalID: -7914661595731637061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 43
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f056ffaecbd870a50800000000000000
+      internalID: 6487309630786462991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 43
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8477e77658f2a1820800000000000000
+      internalID: 2889674360925091656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 27
+        width: 64
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e49315a391daee0800000000000000
+      internalID: -1248313783450251731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 29
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e6a6aa482c7c530800000000000000
+      internalID: 3875279879426174505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 29
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df609d6cd8e18560800000000000000
+      internalID: 7314383303255027664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 29
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7616eaf948b8250800000000000000
+      internalID: 5947993554233157610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 29
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c43bb31d596a2d70800000000000000
+      internalID: 9019137052246750404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 29
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f194a1c305d6d270800000000000000
+      internalID: 8275035577450271220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 29
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6d00af1b1ec8070800000000000000
+      internalID: 8110105183507240635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 29
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285d061142ba9b640800000000000000
+      internalID: 5096292624745158018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 27
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6228ab24cb2174d00800000000000000
+      internalID: 956754045622190630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 29
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324cd43a9c5c8d9c0800000000000000
+      internalID: -3902151607297653725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 27
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b344ff583f37c430800000000000000
+      internalID: 3803077921698235316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 29
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3b4287b124d3210800000000000000
+      internalID: 1314279352009274273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 29
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d4d5d2448e73a50800000000000000
+      internalID: 6500919966649109898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 29
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005c1c7bed7579c40800000000000000
+      internalID: 5518976482443117824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 29
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb24a88da2a76da0800000000000000
+      internalID: -5951609516341318709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 29
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3c362ad23983940800000000000000
+      internalID: 5276128787671794631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 27
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47d4a40daeaf9cf0800000000000000
+      internalID: -243283796724230326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e534194e7167040800000000000000
+      internalID: 4644926336136339079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 14
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7082fb62bbb4ae0800000000000000
+      internalID: -1563950670490892328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force2.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 14
+        width: 61
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec590421785b70cc0800000000000000
+      internalID: -3744824973403843122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      force2.drawio_0: 1413104692589312506
+      force2.drawio_1: -3492335338448504026
+      force2.drawio_10: 3663809919096516119
+      force2.drawio_11: 7297003534681422437
+      force2.drawio_12: -8453238191874574781
+      force2.drawio_13: -1033833270100083435
+      force2.drawio_14: 225683460669137556
+      force2.drawio_15: -6813623208078701334
+      force2.drawio_16: 3352265658398885202
+      force2.drawio_17: 1677926085650458648
+      force2.drawio_18: 7611252470043899724
+      force2.drawio_19: -7914661595731637061
+      force2.drawio_2: 5531397354340995454
+      force2.drawio_20: 6487309630786462991
+      force2.drawio_21: 2889674360925091656
+      force2.drawio_22: -1248313783450251731
+      force2.drawio_23: 3875279879426174505
+      force2.drawio_24: 7314383303255027664
+      force2.drawio_25: 5947993554233157610
+      force2.drawio_26: 9019137052246750404
+      force2.drawio_27: 8275035577450271220
+      force2.drawio_28: 8110105183507240635
+      force2.drawio_29: 5096292624745158018
+      force2.drawio_3: 6473682093125746523
+      force2.drawio_30: 956754045622190630
+      force2.drawio_31: -3902151607297653725
+      force2.drawio_32: 3803077921698235316
+      force2.drawio_33: 1314279352009274273
+      force2.drawio_34: 6500919966649109898
+      force2.drawio_35: 5518976482443117824
+      force2.drawio_36: -5951609516341318709
+      force2.drawio_37: 5276128787671794631
+      force2.drawio_38: -243283796724230326
+      force2.drawio_39: 4644926336136339079
+      force2.drawio_4: 3732255768053387293
+      force2.drawio_40: -1563950670490892328
+      force2.drawio_41: -3744824973403843122
+      force2.drawio_5: 5554140727584200956
+      force2.drawio_6: -8477906909379735615
+      force2.drawio_7: -1382629297977975548
+      force2.drawio_8: 3453128326949443386
+      force2.drawio_9: -5738172604316450449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

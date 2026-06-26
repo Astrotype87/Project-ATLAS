@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 82b6aff0f0392a04990a74d327e758b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6913980028339984860
+    second: friction.drawio_0
+  - first:
+      213: -8751732071906544927
+    second: friction.drawio_1
+  - first:
+      213: 982704148763919499
+    second: friction.drawio_2
+  - first:
+      213: 7085629077313308020
+    second: friction.drawio_3
+  - first:
+      213: -921101766573267985
+    second: friction.drawio_4
+  - first:
+      213: 7685889228099960778
+    second: friction.drawio_5
+  - first:
+      213: -1247830481026942054
+    second: friction.drawio_6
+  - first:
+      213: -4944182053368732802
+    second: friction.drawio_7
+  - first:
+      213: 8603139661969799707
+    second: friction.drawio_8
+  - first:
+      213: 4780342169238500578
+    second: friction.drawio_9
+  - first:
+      213: -1860315926828643591
+    second: friction.drawio_10
+  - first:
+      213: 5118064730114325852
+    second: friction.drawio_11
+  - first:
+      213: 8944067395080463476
+    second: friction.drawio_12
+  - first:
+      213: 6982021911424551333
+    second: friction.drawio_13
+  - first:
+      213: -2027674215897016320
+    second: friction.drawio_14
+  - first:
+      213: -4351677767080299689
+    second: friction.drawio_15
+  - first:
+      213: 3647155252787236793
+    second: friction.drawio_16
+  - first:
+      213: -8097905098305630580
+    second: friction.drawio_17
+  - first:
+      213: 2014417328350482219
+    second: friction.drawio_18
+  - first:
+      213: -8651119144227634937
+    second: friction.drawio_19
+  - first:
+      213: -26155304309285928
+    second: friction.drawio_20
+  - first:
+      213: -3048054015000036648
+    second: friction.drawio_21
+  - first:
+      213: -4097009864869405787
+    second: friction.drawio_22
+  - first:
+      213: -8830269713371694451
+    second: friction.drawio_23
+  - first:
+      213: 2094858154189284197
+    second: friction.drawio_24
+  - first:
+      213: -2985634537112942913
+    second: friction.drawio_25
+  - first:
+      213: 619772365604917713
+    second: friction.drawio_26
+  - first:
+      213: 8040152603696996614
+    second: friction.drawio_27
+  - first:
+      213: -8548652692796551249
+    second: friction.drawio_28
+  - first:
+      213: -579384713388540088
+    second: friction.drawio_29
+  - first:
+      213: 4084751531551331406
+    second: friction.drawio_30
+  - first:
+      213: 2848311531643355841
+    second: friction.drawio_31
+  - first:
+      213: 2730908321834492575
+    second: friction.drawio_32
+  - first:
+      213: 1835860748824698527
+    second: friction.drawio_33
+  - first:
+      213: -6480210255398324039
+    second: friction.drawio_34
+  - first:
+      213: -4305552667306687314
+    second: friction.drawio_35
+  - first:
+      213: -2348255443105484510
+    second: friction.drawio_36
+  - first:
+      213: 7282996256314183975
+    second: friction.drawio_37
+  - first:
+      213: -2268029399384922493
+    second: friction.drawio_38
+  - first:
+      213: -2660121012531342923
+    second: friction.drawio_39
+  - first:
+      213: 6975332229666931718
+    second: friction.drawio_40
+  - first:
+      213: 3985747451761457589
+    second: friction.drawio_41
+  - first:
+      213: 4088419505936490204
+    second: friction.drawio_42
+  - first:
+      213: -6888844136330017666
+    second: friction.drawio_43
+  - first:
+      213: 6008088618625366098
+    second: friction.drawio_44
+  - first:
+      213: 2860238347962828321
+    second: friction.drawio_45
+  - first:
+      213: -5722105912926737604
+    second: friction.drawio_46
+  - first:
+      213: 5659148211702984277
+    second: friction.drawio_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: friction.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 139
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd99955343463ff50800000000000000
+      internalID: 6913980028339984860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 139
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2fd9c9c0a9b8680800000000000000
+      internalID: -8751732071906544927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 139
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84406a773443ad00800000000000000
+      internalID: 982704148763919499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 139
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4754073ca16355260800000000000000
+      internalID: 7085629077313308020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 139
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe36a61d2d69733f0800000000000000
+      internalID: -921101766573267985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 139
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf36e70883c9aa60800000000000000
+      internalID: 7685889228099960778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 139
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bfb7ee9c0deaee0800000000000000
+      internalID: -1247830481026942054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 139
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73681c2e9cb26bb0800000000000000
+      internalID: -4944182053368732802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 139
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ab8c0f0fd746770800000000000000
+      internalID: 8603139661969799707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 133
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4f74620ef275240800000000000000
+      internalID: 4780342169238500578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 139
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa806b5584de26e0800000000000000
+      internalID: -1860315926828643591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 133
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d7bef51c4070740800000000000000
+      internalID: 5118064730114325852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474acea78e5bf1c70800000000000000
+      internalID: 8944067395080463476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 100
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a94474afef15e060800000000000000
+      internalID: 6982021911424551333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 100
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0085d313b014cd3e0800000000000000
+      internalID: -2027674215897016320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 100
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753b634802cbb93c0800000000000000
+      internalID: -4351677767080299689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 100
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf4513016c4d9230800000000000000
+      internalID: 3647155252787236793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e0ba6b7367e9f80800000000000000
+      internalID: -8097905098305630580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 100
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fc8b523e5a4fb10800000000000000
+      internalID: 2014417328350482219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 100
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7010bb259fc01f780800000000000000
+      internalID: -8651119144227634937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db17a9a3e313aff0800000000000000
+      internalID: -26155304309285928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 97
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da38bbc50323b5d0800000000000000
+      internalID: -3048054015000036648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 97
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab103b1c3f7427c0800000000000000
+      internalID: -4097009864869405787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 97
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8af69ffa74947580800000000000000
+      internalID: -8830269713371694451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5636847646e621d10800000000000000
+      internalID: 2094858154189284197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 100
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6ce320535e096d0800000000000000
+      internalID: -2985634537112942913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d11c7dceafd99800800000000000000
+      internalID: 619772365604917713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601aa4bc13c549f60800000000000000
+      internalID: 8040152603696996614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 69
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafcca92ba51d5980800000000000000
+      internalID: -8548652692796551249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 69
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f3f224cac95f7f0800000000000000
+      internalID: -579384713388540088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 69
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4499d140e3ffa830800000000000000
+      internalID: 4084751531551331406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 69
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2404d3f3c378720800000000000000
+      internalID: 2848311531643355841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 75
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f926a1556a226e520800000000000000
+      internalID: 2730908321834492575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 69
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e57cecf994a7910800000000000000
+      internalID: 1835860748824698527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8b3293b1ba116a0800000000000000
+      internalID: -6480210255398324039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 38
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4037f29aa9f34c0800000000000000
+      internalID: -4305552667306687314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 38
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221f1d7bd12596fd0800000000000000
+      internalID: -2348255443105484510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 38
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7215b161286621560800000000000000
+      internalID: 7282996256314183975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 21
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386e48d17475680e0800000000000000
+      internalID: -2268029399384922493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 21
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b15484780a551bd0800000000000000
+      internalID: -2660121012531342923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 21
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60481abb4bb5dc060800000000000000
+      internalID: 6975332229666931718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 21
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9f8a2a038305730800000000000000
+      internalID: 3985747451761457589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde5f1811ebfcb830800000000000000
+      internalID: 4088419505936490204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e744405b1c8e560a0800000000000000
+      internalID: -6888844136330017666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 4
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2587b3434c4016350800000000000000
+      internalID: 6008088618625366098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_45
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126464f8f9b91b720800000000000000
+      internalID: 2860238347962828321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3be6dc3dfef690b0800000000000000
+      internalID: -5722105912926737604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friction.drawio_47
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 4
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ee7d9a055598e40800000000000000
+      internalID: 5659148211702984277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      friction.drawio_0: 6913980028339984860
+      friction.drawio_1: -8751732071906544927
+      friction.drawio_10: -1860315926828643591
+      friction.drawio_11: 5118064730114325852
+      friction.drawio_12: 8944067395080463476
+      friction.drawio_13: 6982021911424551333
+      friction.drawio_14: -2027674215897016320
+      friction.drawio_15: -4351677767080299689
+      friction.drawio_16: 3647155252787236793
+      friction.drawio_17: -8097905098305630580
+      friction.drawio_18: 2014417328350482219
+      friction.drawio_19: -8651119144227634937
+      friction.drawio_2: 982704148763919499
+      friction.drawio_20: -26155304309285928
+      friction.drawio_21: -3048054015000036648
+      friction.drawio_22: -4097009864869405787
+      friction.drawio_23: -8830269713371694451
+      friction.drawio_24: 2094858154189284197
+      friction.drawio_25: -2985634537112942913
+      friction.drawio_26: 619772365604917713
+      friction.drawio_27: 8040152603696996614
+      friction.drawio_28: -8548652692796551249
+      friction.drawio_29: -579384713388540088
+      friction.drawio_3: 7085629077313308020
+      friction.drawio_30: 4084751531551331406
+      friction.drawio_31: 2848311531643355841
+      friction.drawio_32: 2730908321834492575
+      friction.drawio_33: 1835860748824698527
+      friction.drawio_34: -6480210255398324039
+      friction.drawio_35: -4305552667306687314
+      friction.drawio_36: -2348255443105484510
+      friction.drawio_37: 7282996256314183975
+      friction.drawio_38: -2268029399384922493
+      friction.drawio_39: -2660121012531342923
+      friction.drawio_4: -921101766573267985
+      friction.drawio_40: 6975332229666931718
+      friction.drawio_41: 3985747451761457589
+      friction.drawio_42: 4088419505936490204
+      friction.drawio_43: -6888844136330017666
+      friction.drawio_44: 6008088618625366098
+      friction.drawio_45: 2860238347962828321
+      friction.drawio_46: -5722105912926737604
+      friction.drawio_47: 5659148211702984277
+      friction.drawio_5: 7685889228099960778
+      friction.drawio_6: -1247830481026942054
+      friction.drawio_7: -4944182053368732802
+      friction.drawio_8: 8603139661969799707
+      friction.drawio_9: 4780342169238500578
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

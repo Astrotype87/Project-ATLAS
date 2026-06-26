@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 24
+  m_EditorClassIdentifier: 
+  level: Level 24
+  name: Rotational Forces
+  description: Rotational force showing how moment of inertia, torque, and angular
+    momentum affect spinning and energy needed to turn objects.
+  quizItems:
+  - rid: 138986247837974597
+  - rid: 138986247837974598
+  - rid: 138986247837974599
+  - rid: 138986247837974600
+  - rid: 138986247837974601
+  - rid: 138986247837974602
+  - rid: 138986247837974603
+  - rid: 138986247837974604
+  - rid: 3818007397566513157
+  references:
+    version: 2
+    RefIds:
+    - rid: 138986247837974597
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - What does inertia represent in rotational motion? Which of the following
+          best describes it?
+        - Which of the following best defines rotational of inertia? Which of the
+          following is correct?
+        - What property of a body determines how hard it is to start or stop its
+          rotation? Which of the following best describes this?
+        correctAnswer:
+        - The resistance of an object to change its rotational state
+        wrongAnswers:
+        - The amount of linear force applied on an object
+        - The rate of angular displacement per second
+        - The energy stored in a rotating object
+        choiceCount: 4
+    - rid: 138986247837974598
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Torque is considered the rotational counterpart of which quantity? Which
+          of the following is correct?
+        - Torque in rotational dynamics is similar to which of the following is correct?
+        - What is torque most closely related to in linear motion? Which of the following
+          is correct?
+        correctAnswer:
+        - Linear force
+        wrongAnswers:
+        - Mass
+        - Work
+        - Displacement
+        choiceCount: 4
+    - rid: 138986247837974599
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - The unit of torque is? Which of the following is correct?
+        - Torque is measured in what unit? Which of the following is correct?
+        - Which of the following is the correct SI unit of torque?
+        correctAnswer:
+        - Nm (Newton-Meter)
+        wrongAnswers:
+        - J (Joule)
+        - N (Newton)
+        - "kg\xB7m\xB2/s"
+        choiceCount: 4
+    - rid: 138986247837974600
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - A disc with radius 0.2 m and mass 5 kg is rotating. What is its moment
+          of inertia?. Which of the following is correct?
+        - Which of the following is the moment of inertia of a 5 kg disc with radius
+          0.2 m?
+        - Which of the following is the moment of inertia of a rotating object with
+          mass 5 kg and radius 0.2 m?
+        correctAnswer:
+        - "0.5 kg\xB7m\xB2"
+        wrongAnswers:
+        - "0.2 kg\xB7m\xB2"
+        - "0.8 kg\xB7m\xB2"
+        - "1.0 kg\xB7m\xB2"
+        choiceCount: 4
+    - rid: 138986247837974601
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - "Which of the following is the torque acting on a wheel with moment of
+          inertia 3.0 kg\xB7m\xB2 and angular acceleration 2.0 rad/s\xB2?"
+        - "Which of the following is the torque on a rotating wheel with moment of
+          inertia 3.0 kg\xB7m\xB2 and angular acceleration 2 rad/s\xB2?"
+        correctAnswer:
+        - 6.0 Nm
+        wrongAnswers:
+        - 2.0 Nm
+        - 3.0 Nm
+        - 5.0 Nm
+        choiceCount: 4
+    - rid: 138986247837974602
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - "Which of the following is the angular momentum of a rotating object with
+          moment of inertia I = 4.0 kg\xB7m\xB2 and angular velocity w = 5.0 rad/s?"
+        - "Which of the following is the angular momentum of a body with I = 4.0
+          kg\xB7m\xB2 and \u03C9 = 5.0 rad/s?"
+        - "Which of the following is the angular momentum when the moment of inertia
+          is 4.0 kg\xB7m\xB2 and the angular velocity is 5.0 rad/s?"
+        correctAnswer:
+        - "20.0 kg\xB7m\xB2/s"
+        wrongAnswers:
+        - "10.0 kg\xB7m\xB2/s"
+        - "15.0 kg\xB7m\xB2/s"
+        - "25.0 kg\xB7m\xB2/s"
+        choiceCount: 4
+    - rid: 138986247837974603
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Given a solid wheel with mass {m} kg, radius {r} m, and angular velocity
+          {w} rad/s, determine its angular momentum.
+        formula: m * r^2 * w
+        variables:
+        - variable: m
+          name: Mass
+          unit: kg
+          range:
+            min: 7
+            max: 10
+        - variable: r
+          name: Radius
+          unit: m
+          range:
+            min: 0.9
+            max: 0.5
+        - variable: w
+          name: Angular Velocity
+          unit: rad/s
+          range:
+            min: 0.5
+            max: 0.8
+        variable: L
+        name: Angular Momentum
+        unit: "kg\xB7m\xB2/s"
+        rounding: 2
+    - rid: 138986247837974604
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - A torque of {t} Nm acts on a rotating disk through an angular displacement
+          of {o} rad. How much angular work is done?
+        formula: t * o
+        variables:
+        - variable: t
+          name: Torque
+          unit: Nm
+          range:
+            min: 4
+            max: 8
+        - variable: o
+          name: Angular Displacement
+          unit: rad
+          range:
+            min: 5
+            max: 10
+        variable: W
+        name: Angular Work
+        unit: J
+        rounding: 2
+    - rid: 3818007397566513157
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - A force produces a torque of {t} Nm on a rotating wheel through an angular
+          displacement of {o} rad. Calculate the angular work done on the wheel.
+        formula: t * o
+        variables:
+        - variable: t
+          name: Torque
+          unit: Nm
+          range:
+            min: 13.86
+            max: 20
+        - variable: o
+          name: Angular Displacement
+          unit: rad
+          range:
+            min: 6.79
+            max: 7.8
+        variable: W
+        name: Angular Work
+        unit: J
+        rounding: 2

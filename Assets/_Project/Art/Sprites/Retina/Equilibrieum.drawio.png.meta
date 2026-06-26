@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: c5d4472e46abe2c498dce12d0ec09dc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3724444095791619647
+    second: Equilibrieum.drawio_0
+  - first:
+      213: -610311075288561276
+    second: Equilibrieum.drawio_1
+  - first:
+      213: -4336378611590618943
+    second: Equilibrieum.drawio_2
+  - first:
+      213: -7901588809999936757
+    second: Equilibrieum.drawio_3
+  - first:
+      213: 3871272743637254536
+    second: Equilibrieum.drawio_4
+  - first:
+      213: -7373063297249784710
+    second: Equilibrieum.drawio_5
+  - first:
+      213: 7674590369495652653
+    second: Equilibrieum.drawio_6
+  - first:
+      213: -3207088391829903399
+    second: Equilibrieum.drawio_7
+  - first:
+      213: -3949486972434574136
+    second: Equilibrieum.drawio_8
+  - first:
+      213: 4353057904875778287
+    second: Equilibrieum.drawio_9
+  - first:
+      213: -5307885803435427665
+    second: Equilibrieum.drawio_10
+  - first:
+      213: 7678585994419699252
+    second: Equilibrieum.drawio_11
+  - first:
+      213: -8250553211954245697
+    second: Equilibrieum.drawio_12
+  - first:
+      213: -4209016611191939589
+    second: Equilibrieum.drawio_13
+  - first:
+      213: -2445425050685458724
+    second: Equilibrieum.drawio_14
+  - first:
+      213: 5281566355752837616
+    second: Equilibrieum.drawio_15
+  - first:
+      213: -5720622137776044724
+    second: Equilibrieum.drawio_16
+  - first:
+      213: -8694960111101658535
+    second: Equilibrieum.drawio_17
+  - first:
+      213: 5326302118512769352
+    second: Equilibrieum.drawio_18
+  - first:
+      213: 8694103076082829624
+    second: Equilibrieum.drawio_19
+  - first:
+      213: -8070515073428465984
+    second: Equilibrieum.drawio_20
+  - first:
+      213: 6897007878814066329
+    second: Equilibrieum.drawio_21
+  - first:
+      213: 8362858555489891824
+    second: Equilibrieum.drawio_22
+  - first:
+      213: -5501381700292423424
+    second: Equilibrieum.drawio_23
+  - first:
+      213: 4639318516825203008
+    second: Equilibrieum.drawio_24
+  - first:
+      213: 4340726897636620882
+    second: Equilibrieum.drawio_25
+  - first:
+      213: -7800504907663681641
+    second: Equilibrieum.drawio_26
+  - first:
+      213: -2788479218021503107
+    second: Equilibrieum.drawio_27
+  - first:
+      213: 7751866065409826249
+    second: Equilibrieum.drawio_28
+  - first:
+      213: -6185099087784731169
+    second: Equilibrieum.drawio_29
+  - first:
+      213: 1964339928848084291
+    second: Equilibrieum.drawio_30
+  - first:
+      213: -3958935659216012176
+    second: Equilibrieum.drawio_31
+  - first:
+      213: -5916692466345564111
+    second: Equilibrieum.drawio_32
+  - first:
+      213: -2808841418446167109
+    second: Equilibrieum.drawio_33
+  - first:
+      213: -5410219839273017510
+    second: Equilibrieum.drawio_34
+  - first:
+      213: -12766695847062654
+    second: Equilibrieum.drawio_35
+  - first:
+      213: -5929667149323753432
+    second: Equilibrieum.drawio_36
+  - first:
+      213: 6635730521070025390
+    second: Equilibrieum.drawio_37
+  - first:
+      213: 3557670399671885986
+    second: Equilibrieum.drawio_38
+  - first:
+      213: -7940009473724753761
+    second: Equilibrieum.drawio_39
+  - first:
+      213: 4542077834498197125
+    second: Equilibrieum.drawio_40
+  - first:
+      213: -8912907169317196176
+    second: Equilibrieum.drawio_41
+  - first:
+      213: 696325365610551149
+    second: Equilibrieum.drawio_42
+  - first:
+      213: -449928985996253221
+    second: Equilibrieum.drawio_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 223
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c12a8ce3dd105cc0800000000000000
+      internalID: -3724444095791619647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 227
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48940f28f4db787f0800000000000000
+      internalID: -610311075288561276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 227
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c02a8cb0a612d3c0800000000000000
+      internalID: -4336378611590618943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 227
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0390ca77dae75290800000000000000
+      internalID: -7901588809999936757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 227
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8818629ac0689b530800000000000000
+      internalID: 3871272743637254536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 227
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cc4fccefd9da990800000000000000
+      internalID: -7373063297249784710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 227
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d291c62874f918a60800000000000000
+      internalID: 7674590369495652653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 227
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d723b979122e73d0800000000000000
+      internalID: -3207088391829903399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 227
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4110b168a9039c0800000000000000
+      internalID: -3949486972434574136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 227
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0b3dad91b296c30800000000000000
+      internalID: 4353057904875778287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 194
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa874e1fbf99656b0800000000000000
+      internalID: -5307885803435427665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 194
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43efcae6741df8a60800000000000000
+      internalID: 7678585994419699252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 170
+        width: 61
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf42092195208d80800000000000000
+      internalID: -8250553211954245697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 172
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd9f2441b19695c0800000000000000
+      internalID: -4209016611191939589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 172
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd63d017fda101ed0800000000000000
+      internalID: -2445425050685458724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 172
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f16d4c1e94eb4940800000000000000
+      internalID: 5281566355752837616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 170
+        width: 51
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c458f9f89744c90b0800000000000000
+      internalID: -5720622137776044724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 172
+        width: 56
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a3899c8db455780800000000000000
+      internalID: -8694960111101658535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 172
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8493d5c8e83dae940800000000000000
+      internalID: 5326302118512769352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 172
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8394c823fa8a7a870800000000000000
+      internalID: 8694103076082829624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 172
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c65cd5dc45cfff80800000000000000
+      internalID: -8070515073428465984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 156
+        width: 54
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99668c5bf1817bf50800000000000000
+      internalID: 6897007878814066329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 158
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5bfc24c87de0470800000000000000
+      internalID: 8362858555489891824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 156
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0015c3cbd7a27a3b0800000000000000
+      internalID: -5501381700292423424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 158
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04122436c9b226040800000000000000
+      internalID: 4639318516825203008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 158
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a3d908d1c5d3c30800000000000000
+      internalID: 4340726897636620882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 158
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797d3068d1a0fb390800000000000000
+      internalID: -7800504907663681641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 158
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fe44adce45d49d0800000000000000
+      internalID: -2788479218021503107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 158
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd58278d19249b60800000000000000
+      internalID: 7751866065409826249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 158
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd9ff3562d1a2aa0800000000000000
+      internalID: -6185099087784731169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 156
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d2b1df1ccb24b10800000000000000
+      internalID: 1964339928848084291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 158
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c7dc74ef80f09c0800000000000000
+      internalID: -3958935659216012176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 141
+        width: 54
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1382e32cc8fa3eda0800000000000000
+      internalID: -5916692466345564111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 49
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3ac1f9c9df409d0800000000000000
+      internalID: -2808841418446167109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 27
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f5c5388b90be4b0800000000000000
+      internalID: -5410219839273017510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 27
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283941df1c4a2dff0800000000000000
+      internalID: -12766695847062654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8282148f42795bda0800000000000000
+      internalID: -5929667149323753432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 27
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaab89550c9d61c50800000000000000
+      internalID: 6635730521070025390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 27
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a06d5011626f5130800000000000000
+      internalID: 3557670399671885986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 11
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98566d937b6fc190800000000000000
+      internalID: -7940009473724753761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 11
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586c07bb9b3b80f30800000000000000
+      internalID: 4542077834498197125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 9
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ee0d0f62efe4480800000000000000
+      internalID: -8912907169317196176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 11
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d679f411b38d9a900800000000000000
+      internalID: 696325365610551149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Equilibrieum.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 11
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7aa8798f781c9f0800000000000000
+      internalID: -449928985996253221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Equilibrieum.drawio_0: -3724444095791619647
+      Equilibrieum.drawio_1: -610311075288561276
+      Equilibrieum.drawio_10: -5307885803435427665
+      Equilibrieum.drawio_11: 7678585994419699252
+      Equilibrieum.drawio_12: -8250553211954245697
+      Equilibrieum.drawio_13: -4209016611191939589
+      Equilibrieum.drawio_14: -2445425050685458724
+      Equilibrieum.drawio_15: 5281566355752837616
+      Equilibrieum.drawio_16: -5720622137776044724
+      Equilibrieum.drawio_17: -8694960111101658535
+      Equilibrieum.drawio_18: 5326302118512769352
+      Equilibrieum.drawio_19: 8694103076082829624
+      Equilibrieum.drawio_2: -4336378611590618943
+      Equilibrieum.drawio_20: -8070515073428465984
+      Equilibrieum.drawio_21: 6897007878814066329
+      Equilibrieum.drawio_22: 8362858555489891824
+      Equilibrieum.drawio_23: -5501381700292423424
+      Equilibrieum.drawio_24: 4639318516825203008
+      Equilibrieum.drawio_25: 4340726897636620882
+      Equilibrieum.drawio_26: -7800504907663681641
+      Equilibrieum.drawio_27: -2788479218021503107
+      Equilibrieum.drawio_28: 7751866065409826249
+      Equilibrieum.drawio_29: -6185099087784731169
+      Equilibrieum.drawio_3: -7901588809999936757
+      Equilibrieum.drawio_30: 1964339928848084291
+      Equilibrieum.drawio_31: -3958935659216012176
+      Equilibrieum.drawio_32: -5916692466345564111
+      Equilibrieum.drawio_33: -2808841418446167109
+      Equilibrieum.drawio_34: -5410219839273017510
+      Equilibrieum.drawio_35: -12766695847062654
+      Equilibrieum.drawio_36: -5929667149323753432
+      Equilibrieum.drawio_37: 6635730521070025390
+      Equilibrieum.drawio_38: 3557670399671885986
+      Equilibrieum.drawio_39: -7940009473724753761
+      Equilibrieum.drawio_4: 3871272743637254536
+      Equilibrieum.drawio_40: 4542077834498197125
+      Equilibrieum.drawio_41: -8912907169317196176
+      Equilibrieum.drawio_42: 696325365610551149
+      Equilibrieum.drawio_43: -449928985996253221
+      Equilibrieum.drawio_5: -7373063297249784710
+      Equilibrieum.drawio_6: 7674590369495652653
+      Equilibrieum.drawio_7: -3207088391829903399
+      Equilibrieum.drawio_8: -3949486972434574136
+      Equilibrieum.drawio_9: 4353057904875778287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d579397bfb964a42855924e9597993e, type: 3}
+  m_Name: Avatar-1
+  m_EditorClassIdentifier: 
+  characterIndex: 1
+  characterName: Casual
+  characterSprite: {fileID: -6713928368441536285, guid: a0b97e4d16b06c8418e52add9b8a903e, type: 3}
+  characterHead: {fileID: 3909857875275740187, guid: 0c2ce1f7ac5ef034ca3cea209321014e, type: 3}

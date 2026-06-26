@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 318375177913a43d6b14c037690ebd21
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299716
+  packageName: PrefsEditor
+  packageVersion: 1.0
+  assetPath: Assets/jwellone/PrefsEditor/Editor/Entity/PrefsEntity.cs
+  uploadId: 701290

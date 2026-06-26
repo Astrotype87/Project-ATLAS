@@ -1,0 +1,596 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &245619814208612914
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7286433524732583127}
+  - component: {fileID: 5075150908665257497}
+  - component: {fileID: 2671857089163034572}
+  - component: {fileID: 6917972387028375476}
+  m_Layer: 0
+  m_Name: Lesson03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7286433524732583127
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 245619814208612914}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5075150908665257497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 245619814208612914}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbeb6d65be27d3b40a131a1e4ace56b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  steps:
+  - message: "Welcome back! Now that you\u2019ve learned about measuring and scientific
+      notation, it\u2019s time to dive into Scalars and Vectors."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: In science, not all quantities are the same. Some have only size, like
+      speed or temperature. These are called Scalars.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Other quantities have both size and direction, like velocity or force.
+      These are called Vectors.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: A Vector Projection shows a vector in a certain direction. Think of
+      it like the shadow of the vector.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: The simplest projection is the one-dimensional, wherein the quantity
+      is represented with an arrow pointing to a specific direction.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Usually in one of the four cardinal directions (NESW).
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: The two- dimensional projection shows the vector value represented by
+      an arrow pointing in a direction specified by two (2) components.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: The x- and y-axes, which is measured by an angle.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: 'The complex form of projection, the three-dimensional, represents the
+      vector with an arrow that uses three components: x, y, and the z-axis.'
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: 'Alright! To understand vectors, we first need the Cartesian coordinate
+      system. '
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: 'Think of it as two lines crossing each other: one horizontal (X-axis)
+      and one vertical (Y-axis).'
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: The place they meet is called the origin.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "The plane is divided into four parts, called quadrants:   \nQuadrant
+      I: top-right.  \nQuadrant II: top-left."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: 'Quadrant III: bottom-left.
+
+      Quadrant IV: bottom-right.
+
+'
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Each vector has an x (horizontal) and y (vertical) value. This tells
+      us exactly where it points.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "For example, if your vector is at (4,3), it\u2019s in Quadrant I. If
+      it\u2019s at (-2,5), it\u2019s in Quadrant II."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: 'Imagine driving the Atlas Car on a map: moving right and up is Quadrant
+      I, moving left and up is Quadrant II. Easy, right?'
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "We\u2019ll use this system to split vectors into components and measure
+      directions accurately."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "Now let\u2019s talk about negative vectors."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "The negative vector \u2013V is the same as vector V rotated by 180\xB0.
+      That means it points in the exact opposite direction."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "The components of \u2013V have signs opposite that of V. So if V has
+      a positive x-component, \u2013V will have a negative x-component."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: If we use primary directions, the direction simply reverses, but the
+      angle stays the same.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: 'When adding vectors along the same axis, only two directions are considered:
+      one positive and one negative.'
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Indicate the direction of vectors using the positive or negative sign.
+      Then, add the vectors like signed numbers.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: For a negative vector, just replace the subtraction sign with its corresponding
+      negative vector, and continue with addition.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Keep in mind, not all combinations of physical quantities make sense
+      for multiplication or division. Only specific scalars or vectors, depending
+      on the rules of physics.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "Now let\u2019s learn about unit vectors."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: A unit vector is a vector whose value shows only the direction because
+      its magnitude is equal to one (1).
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "It\u2019s similar to the unit circle in Trigonometry, where all trigonometric
+      functions have values measured in all quadrants equal to 1."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: In writing, a unit vector is shown with a circumflex, also called a
+      hat. For example, F^ unit vector.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: How do we find it? We divide the vector value by its scalar value.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "This means we divide the vector by itself, which gives a vector with
+      magnitude 1. This is the formula F^= F/F\u200B"
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Understanding unit vectors is important because it helps us know exactly
+      which way a force points.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "Great job! You\u2019ve finished learning about scalars and vectors,
+      vector projections, negative vectors, and unit vectors."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "Now it\u2019s time to test your knowledge with a quiz. This will show
+      how much you\u2019ve understood from today\u2019s lesson."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "Let\u2019s go! Time to complete the quiz!"
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &2671857089163034572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 245619814208612914}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 139b92bc4d1ed6f4b9b74cc34ada33f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tweenSequencer: {fileID: 6917972387028375476}
+--- !u!114 &6917972387028375476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 245619814208612914}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c8d51a2479698446b58e7f4400f8d08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  autoPlayMode: 0
+  sequence:
+    steps: []
+    cycles: 1
+    cycleMode: 0
+    sequenceEase: 0
+    useUnscaledTime: 0
+    updateType:
+      enumValue: 0
+    e_expanded: 1
+    e_cyclesExpanded: 0
+  e_expandPlayer: 0
+  e_progress: 0
+  e_smoothRefresh: 0
+  e_expandSequence: 0
+  references:
+    version: 2
+    RefIds: []

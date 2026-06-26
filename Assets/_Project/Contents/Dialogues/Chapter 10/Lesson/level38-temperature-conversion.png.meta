@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: d6bc6216449600248a506e5a6f5fb271
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2174042308389566435
+    second: level38-temperature-conversion_0
+  - first:
+      213: 2118253554524508874
+    second: level38-temperature-conversion_1
+  - first:
+      213: 6071609857444625213
+    second: level38-temperature-conversion_2
+  - first:
+      213: 1968816673994525689
+    second: level38-temperature-conversion_3
+  - first:
+      213: 4285628192195778067
+    second: level38-temperature-conversion_4
+  - first:
+      213: -7792144127193940308
+    second: level38-temperature-conversion_5
+  - first:
+      213: 8382540008001648408
+    second: level38-temperature-conversion_6
+  - first:
+      213: 1583876089145182706
+    second: level38-temperature-conversion_7
+  - first:
+      213: -369670801442820096
+    second: level38-temperature-conversion_8
+  - first:
+      213: 1957859433046732588
+    second: level38-temperature-conversion_9
+  - first:
+      213: -6594591564035725118
+    second: level38-temperature-conversion_10
+  - first:
+      213: 6710775010035478177
+    second: level38-temperature-conversion_11
+  - first:
+      213: 4417866614666431919
+    second: level38-temperature-conversion_12
+  - first:
+      213: -6950156263270434087
+    second: level38-temperature-conversion_13
+  - first:
+      213: -8971255918574621791
+    second: level38-temperature-conversion_14
+  - first:
+      213: 3889752619107621760
+    second: level38-temperature-conversion_15
+  - first:
+      213: 7633373861731730828
+    second: level38-temperature-conversion_16
+  - first:
+      213: -1095915552849912813
+    second: level38-temperature-conversion_17
+  - first:
+      213: 7463772198625038609
+    second: level38-temperature-conversion_18
+  - first:
+      213: -6981954127133970328
+    second: level38-temperature-conversion_19
+  - first:
+      213: -7656278897003574106
+    second: level38-temperature-conversion_20
+  - first:
+      213: 5008795550485261811
+    second: level38-temperature-conversion_21
+  - first:
+      213: 5360330667199803022
+    second: level38-temperature-conversion_22
+  - first:
+      213: -5241722175606368313
+    second: level38-temperature-conversion_23
+  - first:
+      213: 8859282285865271994
+    second: level38-temperature-conversion_24
+  - first:
+      213: -851591336268361353
+    second: level38-temperature-conversion_25
+  - first:
+      213: -4198657429828620998
+    second: level38-temperature-conversion_26
+  - first:
+      213: -9096707115616257708
+    second: level38-temperature-conversion_27
+  - first:
+      213: -8654522349613361442
+    second: level38-temperature-conversion_28
+  - first:
+      213: 8280678174105816502
+    second: level38-temperature-conversion_29
+  - first:
+      213: -3602995504048639787
+    second: level38-temperature-conversion_30
+  - first:
+      213: -873768343942834718
+    second: level38-temperature-conversion_31
+  - first:
+      213: 4460151147628181771
+    second: level38-temperature-conversion_32
+  - first:
+      213: 4269021800268673332
+    second: level38-temperature-conversion_33
+  - first:
+      213: 8298509176371598529
+    second: level38-temperature-conversion_34
+  - first:
+      213: 3920521990393315608
+    second: level38-temperature-conversion_35
+  - first:
+      213: -9078621208411914231
+    second: level38-temperature-conversion_36
+  - first:
+      213: -2602647454784284465
+    second: level38-temperature-conversion_37
+  - first:
+      213: 7599551055074355298
+    second: level38-temperature-conversion_38
+  - first:
+      213: 8366420399661535107
+    second: level38-temperature-conversion_39
+  - first:
+      213: -6252698273569136974
+    second: level38-temperature-conversion_40
+  - first:
+      213: -947680177326996283
+    second: level38-temperature-conversion_41
+  - first:
+      213: 2238091079226184828
+    second: level38-temperature-conversion_42
+  - first:
+      213: 7828107040456397622
+    second: level38-temperature-conversion_43
+  - first:
+      213: 8630322221377055027
+    second: level38-temperature-conversion_44
+  - first:
+      213: -1921588401791918490
+    second: level38-temperature-conversion_45
+  - first:
+      213: 6227148793443312235
+    second: level38-temperature-conversion_46
+  - first:
+      213: -4602116721067150114
+    second: level38-temperature-conversion_47
+  - first:
+      213: 4681960247083992180
+    second: level38-temperature-conversion_48
+  - first:
+      213: -3371379426075236714
+    second: level38-temperature-conversion_49
+  - first:
+      213: 4691845157956710439
+    second: level38-temperature-conversion_50
+  - first:
+      213: -8921091688847332187
+    second: level38-temperature-conversion_51
+  - first:
+      213: -8712919374598389776
+    second: level38-temperature-conversion_52
+  - first:
+      213: 2329170716578273007
+    second: level38-temperature-conversion_53
+  - first:
+      213: -1575044710699772544
+    second: level38-temperature-conversion_54
+  - first:
+      213: 5266372856001000867
+    second: level38-temperature-conversion_55
+  - first:
+      213: -1837687194692810731
+    second: level38-temperature-conversion_56
+  - first:
+      213: -4405811801959430795
+    second: level38-temperature-conversion_57
+  - first:
+      213: 6684416229577420168
+    second: level38-temperature-conversion_58
+  - first:
+      213: -4287039969730654698
+    second: level38-temperature-conversion_59
+  - first:
+      213: 1092932510736745855
+    second: level38-temperature-conversion_60
+  - first:
+      213: -6131008598395104947
+    second: level38-temperature-conversion_61
+  - first:
+      213: -5123701474878213980
+    second: level38-temperature-conversion_62
+  - first:
+      213: -4419015043101334925
+    second: level38-temperature-conversion_63
+  - first:
+      213: -5516160322610728420
+    second: level38-temperature-conversion_64
+  - first:
+      213: 4164505956400270460
+    second: level38-temperature-conversion_65
+  - first:
+      213: -1429513893592683040
+    second: level38-temperature-conversion_66
+  - first:
+      213: 3328114990724953903
+    second: level38-temperature-conversion_67
+  - first:
+      213: -6642885324977409467
+    second: level38-temperature-conversion_68
+  - first:
+      213: -247228092338628823
+    second: level38-temperature-conversion_69
+  - first:
+      213: -5232642713272085127
+    second: level38-temperature-conversion_70
+  - first:
+      213: -2071546369768643093
+    second: level38-temperature-conversion_71
+  - first:
+      213: 3594354682174036008
+    second: level38-temperature-conversion_72
+  - first:
+      213: -9062942198194480869
+    second: level38-temperature-conversion_73
+  - first:
+      213: 6091334946753906688
+    second: level38-temperature-conversion_74
+  - first:
+      213: 1651035191703299667
+    second: level38-temperature-conversion_75
+  - first:
+      213: -1813580275795563364
+    second: level38-temperature-conversion_76
+  - first:
+      213: -4690301870209715211
+    second: level38-temperature-conversion_77
+  - first:
+      213: 59619461330391069
+    second: level38-temperature-conversion_78
+  - first:
+      213: 7750314124425920460
+    second: level38-temperature-conversion_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: level38-temperature-conversion_0
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 904
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7fa3ef5ffbb2e10800000000000000
+      internalID: 2174042308389566435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 903
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac254a5826c856d10800000000000000
+      internalID: 2118253554524508874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 965
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b3fbf1ff0b24450800000000000000
+      internalID: 6071609857444625213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_3
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 903
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb4f417554a25b10800000000000000
+      internalID: 1968816673994525689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_4
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 903
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3169a33722c997b30800000000000000
+      internalID: 4285628192195778067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_5
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 965
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae75fb633ebcd390800000000000000
+      internalID: -7792144127193940308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_6
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 909
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817307489b3c45470800000000000000
+      internalID: 8382540008001648408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_7
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 909
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9cbbd49ee0bf510800000000000000
+      internalID: 1583876089145182706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_8
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 909
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000ba2c5d5aaedaf0800000000000000
+      internalID: -369670801442820096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_9
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 970
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fe5eaf7c6bb2b10800000000000000
+      internalID: 1957859433046732588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_10
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 908
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8ecd289ed4b74a0800000000000000
+      internalID: -6594591564035725118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_11
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 909
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeabb00156712d50800000000000000
+      internalID: 6710775010035478177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_12
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 909
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad0048774a6f4d30800000000000000
+      internalID: 4417866614666431919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_13
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 970
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da3f4ab3b51c8f90800000000000000
+      internalID: -6950156263270434087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 903
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab2d381642bf7380800000000000000
+      internalID: -8971255918574621791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 904
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b1e06f56d2bf530800000000000000
+      internalID: 3889752619107621760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_16
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 904
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85854a75113fe960800000000000000
+      internalID: 7633373861731730828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 904
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c1e807c968ac0f0800000000000000
+      internalID: -1095915552849912813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_18
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 913
+        width: 228
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1115b771545a49760800000000000000
+      internalID: 7463772198625038609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_19
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 903
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8607b1e96bd1b1f90800000000000000
+      internalID: -6981954127133970328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_20
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 903
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac48ca68ee6fb590800000000000000
+      internalID: -7656278897003574106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_21
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 904
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd2b33f301d28540800000000000000
+      internalID: 5008795550485261811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_22
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 903
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ea3117758b36a40800000000000000
+      internalID: 5360330667199803022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_23
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 903
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7d1bff379a147b0800000000000000
+      internalID: -5241722175606368313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_24
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 908
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab209edec4e72fa70800000000000000
+      internalID: 8859282285865271994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_25
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 909
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7719ceb013a8e24f0800000000000000
+      internalID: -851591336268361353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_26
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 908
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3da281205f5bb5c0800000000000000
+      internalID: -4198657429828620998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_27
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 909
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459bce3231102c180800000000000000
+      internalID: -9096707115616257708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_28
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 908
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6dd92d6c5f4e780800000000000000
+      internalID: -8654522349613361442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_29
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 909
+        width: 14
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd48ea2de0eae270800000000000000
+      internalID: 8280678174105816502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_30
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 916
+        width: 278
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0f9d5bda69ffdc0800000000000000
+      internalID: -3602995504048639787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_31
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 908
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e55e431250cfd3f0800000000000000
+      internalID: -873768343942834718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_32
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 909
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09bdee76d3a5ed30800000000000000
+      internalID: 4460151147628181771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_33
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 909
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431b96785bc9e3b30800000000000000
+      internalID: 4269021800268673332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_34
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 909
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4d2f6e02a3a2370800000000000000
+      internalID: 8298509176371598529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_35
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 908
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811408b7afd786630800000000000000
+      internalID: 3920521990393315608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_36
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 629
+        width: 657
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900c74e8c12420280800000000000000
+      internalID: -9078621208411914231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_37
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 639
+        width: 657
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc81206ede981ebd0800000000000000
+      internalID: -2602647454784284465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 278
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268e622ab67077960800000000000000
+      internalID: 7599551055074355298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_39
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 278
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f486bb60f7b1470800000000000000
+      internalID: 8366420399661535107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_40
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 340
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be96346c04f939a0800000000000000
+      internalID: -6252698273569136974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_41
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 279
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4ceb556e929d2f0800000000000000
+      internalID: -947680177326996283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_42
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 279
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c745f388afb4f0f10800000000000000
+      internalID: 2238091079226184828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_43
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 279
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6335322d0e503ac60800000000000000
+      internalID: 7828107040456397622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_44
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 340
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339e65eb55015c770800000000000000
+      internalID: 8630322221377055027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_45
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 278
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e9ea297852555e0800000000000000
+      internalID: -1921588401791918490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_46
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 279
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62e0b4b5d64b6650800000000000000
+      internalID: 6227148793443312235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_47
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 279
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed438e9a93ff120c0800000000000000
+      internalID: -4602116721067150114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_48
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 279
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47401f3e90aa9f040800000000000000
+      internalID: 4681960247083992180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_49
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 340
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696a9b936447631d0800000000000000
+      internalID: -3371379426075236714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_50
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 278
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720752d0058cc1140800000000000000
+      internalID: 4691845157956710439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_51
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 278
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aca09dff5ae13480800000000000000
+      internalID: -8921091688847332187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_52
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 278
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffb178edfd751780800000000000000
+      internalID: -8712919374598389776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_53
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 340
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6d3ee1d60e25020800000000000000
+      internalID: 2329170716578273007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 278
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085d1693e21542ae0800000000000000
+      internalID: -1575044710699772544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_55
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 278
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5f2b8c53ae51940800000000000000
+      internalID: 5266372856001000867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_56
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 279
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5180d00ab393f76e0800000000000000
+      internalID: -1837687194692810731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_57
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 278
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5750cf452896bd2c0800000000000000
+      internalID: -4405811801959430795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_58
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 278
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d61de2521d3cc50800000000000000
+      internalID: 6684416229577420168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_59
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 287
+        width: 328
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e8d4a7cdf5184c0800000000000000
+      internalID: -4287039969730654698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_60
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 278
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7580f1f350ea2f00800000000000000
+      internalID: 1092932510736745855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_61
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 279
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d415bc9c9284aeaa0800000000000000
+      internalID: -6131008598395104947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_62
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 278
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a03db6b7a4f4e8b0800000000000000
+      internalID: -5123701474878213980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_63
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 279
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37266d23b318ca2c0800000000000000
+      internalID: -4419015043101334925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_64
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 278
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12fea69969a273b0800000000000000
+      internalID: -5516160322610728420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_65
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 279
+        width: 14
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c8c345a1c4bc930800000000000000
+      internalID: 4164505956400270460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_66
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 278
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed2cea00b8592ce0800000000000000
+      internalID: -1429513893592683040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_67
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 279
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2730d173f6df2e20800000000000000
+      internalID: 3328114990724953903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_68
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 278
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542f0111efabfc3a0800000000000000
+      internalID: -6642885324977409467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_69
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 279
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92798a12c5ba19cf0800000000000000
+      internalID: -247228092338628823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_70
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 278
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97591ee0d2be167b0800000000000000
+      internalID: -5232642713272085127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_71
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 279
+        width: 14
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5a03e5d836043e0800000000000000
+      internalID: -2071546369768643093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_72
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 287
+        width: 328
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828debb2a86b1e130800000000000000
+      internalID: 3594354682174036008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_73
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 278
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1958b89616f93280800000000000000
+      internalID: -9062942198194480869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_74
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 278
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008803d5cd4c88450800000000000000
+      internalID: 6091334946753906688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_75
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 279
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356e42162c7a9e610800000000000000
+      internalID: 1651035191703299667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_76
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 278
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cec81195ed4d6e0800000000000000
+      internalID: -1813580275795563364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_77
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 278
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3bcc0ac43b8eeb0800000000000000
+      internalID: -4690301870209715211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_78
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2
+        width: 657
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d105c4e859fc3d000800000000000000
+      internalID: 59619461330391069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-conversion_79
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 2
+        width: 657
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf791c12a5ae8b60800000000000000
+      internalID: 7750314124425920460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      level38-temperature-conversion_0: 2174042308389566435
+      level38-temperature-conversion_1: 2118253554524508874
+      level38-temperature-conversion_10: -6594591564035725118
+      level38-temperature-conversion_11: 6710775010035478177
+      level38-temperature-conversion_12: 4417866614666431919
+      level38-temperature-conversion_13: -6950156263270434087
+      level38-temperature-conversion_14: -8971255918574621791
+      level38-temperature-conversion_15: 3889752619107621760
+      level38-temperature-conversion_16: 7633373861731730828
+      level38-temperature-conversion_17: -1095915552849912813
+      level38-temperature-conversion_18: 7463772198625038609
+      level38-temperature-conversion_19: -6981954127133970328
+      level38-temperature-conversion_2: 6071609857444625213
+      level38-temperature-conversion_20: -7656278897003574106
+      level38-temperature-conversion_21: 5008795550485261811
+      level38-temperature-conversion_22: 5360330667199803022
+      level38-temperature-conversion_23: -5241722175606368313
+      level38-temperature-conversion_24: 8859282285865271994
+      level38-temperature-conversion_25: -851591336268361353
+      level38-temperature-conversion_26: -4198657429828620998
+      level38-temperature-conversion_27: -9096707115616257708
+      level38-temperature-conversion_28: -8654522349613361442
+      level38-temperature-conversion_29: 8280678174105816502
+      level38-temperature-conversion_3: 1968816673994525689
+      level38-temperature-conversion_30: -3602995504048639787
+      level38-temperature-conversion_31: -873768343942834718
+      level38-temperature-conversion_32: 4460151147628181771
+      level38-temperature-conversion_33: 4269021800268673332
+      level38-temperature-conversion_34: 8298509176371598529
+      level38-temperature-conversion_35: 3920521990393315608
+      level38-temperature-conversion_36: -9078621208411914231
+      level38-temperature-conversion_37: -2602647454784284465
+      level38-temperature-conversion_38: 7599551055074355298
+      level38-temperature-conversion_39: 8366420399661535107
+      level38-temperature-conversion_4: 4285628192195778067
+      level38-temperature-conversion_40: -6252698273569136974
+      level38-temperature-conversion_41: -947680177326996283
+      level38-temperature-conversion_42: 2238091079226184828
+      level38-temperature-conversion_43: 7828107040456397622
+      level38-temperature-conversion_44: 8630322221377055027
+      level38-temperature-conversion_45: -1921588401791918490
+      level38-temperature-conversion_46: 6227148793443312235
+      level38-temperature-conversion_47: -4602116721067150114
+      level38-temperature-conversion_48: 4681960247083992180
+      level38-temperature-conversion_49: -3371379426075236714
+      level38-temperature-conversion_5: -7792144127193940308
+      level38-temperature-conversion_50: 4691845157956710439
+      level38-temperature-conversion_51: -8921091688847332187
+      level38-temperature-conversion_52: -8712919374598389776
+      level38-temperature-conversion_53: 2329170716578273007
+      level38-temperature-conversion_54: -1575044710699772544
+      level38-temperature-conversion_55: 5266372856001000867
+      level38-temperature-conversion_56: -1837687194692810731
+      level38-temperature-conversion_57: -4405811801959430795
+      level38-temperature-conversion_58: 6684416229577420168
+      level38-temperature-conversion_59: -4287039969730654698
+      level38-temperature-conversion_6: 8382540008001648408
+      level38-temperature-conversion_60: 1092932510736745855
+      level38-temperature-conversion_61: -6131008598395104947
+      level38-temperature-conversion_62: -5123701474878213980
+      level38-temperature-conversion_63: -4419015043101334925
+      level38-temperature-conversion_64: -5516160322610728420
+      level38-temperature-conversion_65: 4164505956400270460
+      level38-temperature-conversion_66: -1429513893592683040
+      level38-temperature-conversion_67: 3328114990724953903
+      level38-temperature-conversion_68: -6642885324977409467
+      level38-temperature-conversion_69: -247228092338628823
+      level38-temperature-conversion_7: 1583876089145182706
+      level38-temperature-conversion_70: -5232642713272085127
+      level38-temperature-conversion_71: -2071546369768643093
+      level38-temperature-conversion_72: 3594354682174036008
+      level38-temperature-conversion_73: -9062942198194480869
+      level38-temperature-conversion_74: 6091334946753906688
+      level38-temperature-conversion_75: 1651035191703299667
+      level38-temperature-conversion_76: -1813580275795563364
+      level38-temperature-conversion_77: -4690301870209715211
+      level38-temperature-conversion_78: 59619461330391069
+      level38-temperature-conversion_79: 7750314124425920460
+      level38-temperature-conversion_8: -369670801442820096
+      level38-temperature-conversion_9: 1957859433046732588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: a9d477f3d8c798e42842009fbe484363
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4734160689984871870
+    second: TensionForce1.drawio_0
+  - first:
+      213: 2698607859751358926
+    second: TensionForce1.drawio_1
+  - first:
+      213: -3766133507414624776
+    second: TensionForce1.drawio_2
+  - first:
+      213: -734119453282395668
+    second: TensionForce1.drawio_3
+  - first:
+      213: 39675345160824307
+    second: TensionForce1.drawio_4
+  - first:
+      213: 6551312523540890479
+    second: TensionForce1.drawio_5
+  - first:
+      213: -7656297253229448624
+    second: TensionForce1.drawio_6
+  - first:
+      213: 4626367273119506958
+    second: TensionForce1.drawio_7
+  - first:
+      213: 3063698972299040372
+    second: TensionForce1.drawio_8
+  - first:
+      213: -3436785964423719734
+    second: TensionForce1.drawio_9
+  - first:
+      213: 3550325749206185047
+    second: TensionForce1.drawio_10
+  - first:
+      213: 6903765492036178952
+    second: TensionForce1.drawio_11
+  - first:
+      213: 3817477173916621921
+    second: TensionForce1.drawio_12
+  - first:
+      213: -3620252609181539560
+    second: TensionForce1.drawio_13
+  - first:
+      213: 1062320276756393132
+    second: TensionForce1.drawio_14
+  - first:
+      213: 880706041262098376
+    second: TensionForce1.drawio_15
+  - first:
+      213: -6601058807144673099
+    second: TensionForce1.drawio_16
+  - first:
+      213: -2393751247785008908
+    second: TensionForce1.drawio_17
+  - first:
+      213: 6634060804904116863
+    second: TensionForce1.drawio_18
+  - first:
+      213: -5544063142759883000
+    second: TensionForce1.drawio_19
+  - first:
+      213: 6842470444480120974
+    second: TensionForce1.drawio_20
+  - first:
+      213: 2927058492791017495
+    second: TensionForce1.drawio_21
+  - first:
+      213: -4252188103703470561
+    second: TensionForce1.drawio_22
+  - first:
+      213: -4504952083968032533
+    second: TensionForce1.drawio_23
+  - first:
+      213: 2091790708908832366
+    second: TensionForce1.drawio_24
+  - first:
+      213: 6612003423243831675
+    second: TensionForce1.drawio_25
+  - first:
+      213: 5627459053951375867
+    second: TensionForce1.drawio_26
+  - first:
+      213: -1646731975778475362
+    second: TensionForce1.drawio_27
+  - first:
+      213: -5463525262613965709
+    second: TensionForce1.drawio_28
+  - first:
+      213: 9123518505235664294
+    second: TensionForce1.drawio_29
+  - first:
+      213: -822613364139232746
+    second: TensionForce1.drawio_30
+  - first:
+      213: 1863223698008869156
+    second: TensionForce1.drawio_31
+  - first:
+      213: -1102383580949763867
+    second: TensionForce1.drawio_32
+  - first:
+      213: -4310067870823856280
+    second: TensionForce1.drawio_33
+  - first:
+      213: -2859968627580044298
+    second: TensionForce1.drawio_34
+  - first:
+      213: -8472294818509583142
+    second: TensionForce1.drawio_35
+  - first:
+      213: 3825009043547117147
+    second: TensionForce1.drawio_36
+  - first:
+      213: -5544087901094545916
+    second: TensionForce1.drawio_37
+  - first:
+      213: 3164523438609301440
+    second: TensionForce1.drawio_38
+  - first:
+      213: 6820380389774240902
+    second: TensionForce1.drawio_39
+  - first:
+      213: -8966631741635942775
+    second: TensionForce1.drawio_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TensionForce1.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 219
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24265d36fe1ec4eb0800000000000000
+      internalID: -4734160689984871870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 219
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec19e84fc81637520800000000000000
+      internalID: 2698607859751358926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 219
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5fad167810cbbc0800000000000000
+      internalID: -3766133507414624776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 219
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9166c2f32efc5f0800000000000000
+      internalID: -734119453282395668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 219
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5e6a62484fc8000800000000000000
+      internalID: 39675345160824307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 219
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f630932a700faea50800000000000000
+      internalID: 6551312523540890479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 219
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052b576863e5fb590800000000000000
+      internalID: -7656297253229448624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 219
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02e7caf588243040800000000000000
+      internalID: 4626367273119506958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 219
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4761d9eabf1748a20800000000000000
+      internalID: 3063698972299040372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 219
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4d97dcf551e40d0800000000000000
+      internalID: -3436785964423719734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 176
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7547b5e557a454130800000000000000
+      internalID: 3550325749206185047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 176
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8049a65232a1fcf50800000000000000
+      internalID: 6903765492036178952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c567983476af430800000000000000
+      internalID: 3817477173916621921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 160
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813ad80de6742cdc0800000000000000
+      internalID: -3620252609181539560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac62cdc9ae1ebe00800000000000000
+      internalID: 1062320276756393132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7c7f47a75e83c00800000000000000
+      internalID: 880706041262098376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 160
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b09da22df35464a0800000000000000
+      internalID: -6601058807144673099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 158
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0602b3cefa7ced0800000000000000
+      internalID: -2393751247785008908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 160
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72e6ae372be01c50800000000000000
+      internalID: 6634060804904116863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 160
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f167302f78f03b0800000000000000
+      internalID: -5544063142759883000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 158
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88c855cd9655fe50800000000000000
+      internalID: 6842470444480120974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 160
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7105993e0300f9820800000000000000
+      internalID: 2927058492791017495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 158
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1edc90e2713df4c0800000000000000
+      internalID: -4252188103703470561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 143
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be00ee8a2f13b71c0800000000000000
+      internalID: -4504952083968032533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 145
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6639f42198870d10800000000000000
+      internalID: 2091790708908832366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 145
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b798d10e41e82cb50800000000000000
+      internalID: 6612003423243831675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 145
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9d3daa130c81e40800000000000000
+      internalID: 5627459053951375867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 143
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9262772ef1a529e0800000000000000
+      internalID: -1646731975778475362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 145
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374958c78b8ad24b0800000000000000
+      internalID: -5463525262613965709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 143
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad4646fdbf3d9e70800000000000000
+      internalID: 9123518505235664294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 40
+        width: 303
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612fdf2f08d7594f0800000000000000
+      internalID: -822613364139232746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 31
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42988e0e4108bd910800000000000000
+      internalID: 1863223698008869156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 31
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8244b49fb83b0f0800000000000000
+      internalID: -1102383580949763867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86748b17b109f24c0800000000000000
+      internalID: -4310067870823856280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 29
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb745c9fa95f48d0800000000000000
+      internalID: -2859968627580044298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 31
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc8a5e20cc5c6a80800000000000000
+      internalID: -8472294818509583142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 29
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5658479579251530800000000000000
+      internalID: 3825009043547117147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 15
+        width: 54
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406f7b38d617f03b0800000000000000
+      internalID: -5544087901094545916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 15
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf74b11d45aaeb20800000000000000
+      internalID: 3164523438609301440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 17
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ca88d14dbd6ae50800000000000000
+      internalID: 6820380389774240902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TensionForce1.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9862c0030ff109380800000000000000
+      internalID: -8966631741635942775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TensionForce1.drawio_0: -4734160689984871870
+      TensionForce1.drawio_1: 2698607859751358926
+      TensionForce1.drawio_10: 3550325749206185047
+      TensionForce1.drawio_11: 6903765492036178952
+      TensionForce1.drawio_12: 3817477173916621921
+      TensionForce1.drawio_13: -3620252609181539560
+      TensionForce1.drawio_14: 1062320276756393132
+      TensionForce1.drawio_15: 880706041262098376
+      TensionForce1.drawio_16: -6601058807144673099
+      TensionForce1.drawio_17: -2393751247785008908
+      TensionForce1.drawio_18: 6634060804904116863
+      TensionForce1.drawio_19: -5544063142759883000
+      TensionForce1.drawio_2: -3766133507414624776
+      TensionForce1.drawio_20: 6842470444480120974
+      TensionForce1.drawio_21: 2927058492791017495
+      TensionForce1.drawio_22: -4252188103703470561
+      TensionForce1.drawio_23: -4504952083968032533
+      TensionForce1.drawio_24: 2091790708908832366
+      TensionForce1.drawio_25: 6612003423243831675
+      TensionForce1.drawio_26: 5627459053951375867
+      TensionForce1.drawio_27: -1646731975778475362
+      TensionForce1.drawio_28: -5463525262613965709
+      TensionForce1.drawio_29: 9123518505235664294
+      TensionForce1.drawio_3: -734119453282395668
+      TensionForce1.drawio_30: -822613364139232746
+      TensionForce1.drawio_31: 1863223698008869156
+      TensionForce1.drawio_32: -1102383580949763867
+      TensionForce1.drawio_33: -4310067870823856280
+      TensionForce1.drawio_34: -2859968627580044298
+      TensionForce1.drawio_35: -8472294818509583142
+      TensionForce1.drawio_36: 3825009043547117147
+      TensionForce1.drawio_37: -5544087901094545916
+      TensionForce1.drawio_38: 3164523438609301440
+      TensionForce1.drawio_39: 6820380389774240902
+      TensionForce1.drawio_4: 39675345160824307
+      TensionForce1.drawio_40: -8966631741635942775
+      TensionForce1.drawio_5: 6551312523540890479
+      TensionForce1.drawio_6: -7656297253229448624
+      TensionForce1.drawio_7: 4626367273119506958
+      TensionForce1.drawio_8: 3063698972299040372
+      TensionForce1.drawio_9: -3436785964423719734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

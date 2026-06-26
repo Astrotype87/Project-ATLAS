@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6bc01ad9ed17fb43bbc3c7a47a6428d, type: 3}
+  m_Name: 16_Lesson
+  m_EditorClassIdentifier: 
+  chapter: 4
+  number: 16
+  title: Energy
+  description: Study kinetic and potential energy, and conservation of energy. {player}
+    reroutes failing power cores to keep the dockyard alive.
+  objectives: Complete the lesson quiz covering certian concepts in this lesson.
+    Get a half score to proceed to the next level.
+  scoring: Quiz Score * 100 + Time Bonus
+  bronzeObjective: 50% Quiz Score
+  silverObjective: Perfect Quiz Score
+  goldObjective: Perfect Under {goldTime}s
+  timeBonus:
+    timeBonuses:
+    - seconds: 60
+      score: 500
+    - seconds: 70
+      score: 400
+    - seconds: 80
+      score: 300
+    - seconds: 90
+      score: 200
+    - seconds: 100
+      score: 100
+    - seconds: 110
+      score: 50
+    lowestScore: 0
+  unlockDatas:
+  - icon: 2
+    name: Level 17 - Simulation
+    description: Energy Simulation
+  - icon: 5
+    name: Guidebook 10
+    description: Energy
+  - icon: 6
+    name: 4 Glossary Terms
+    description: Energy, Kinetic Energy (T), Potential energy (U), Two Forms of Potential
+      Energy
+  dialoguePrefab: {fileID: 136647787612272799, guid: ab46fd37173a02045814849f13e42c17, type: 3}
+  guidebookPrefab: {fileID: 2090061238559527807, guid: 79fd097e35665f94a9448e96f8c42b53, type: 3}
+  quizData: {fileID: 11400000, guid: b4f7c2b35b055ab49b3e4310280e64ec, type: 2}

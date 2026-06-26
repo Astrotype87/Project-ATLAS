@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d03bc636d4f22964e964f316abda6d60, type: 3}
+  m_Name: Story 5
+  m_EditorClassIdentifier: 
+  chapter: 5
+  title: Balance In The Sky
+  story: 'With the cargo airship fixed, you fly toward the Sky Fortress. The trip
+    starts smoothly, but suddenly the cargo airship tilts to one side. Cargo slides
+    across the floor, the engines shake, and the cargo airship begins to lose balance.
+    The load needs to be centered again because the center of mass has moved, making
+    the cargo airship unstable. To save it, you must act fast and understand how
+    weight and movement affect balance.
+
+
+    Each time you move a heavy crate, the
+    cargo airship responds. If the weight is on one side, the cargo airship leans;
+    when the weight is centered, it becomes steady again. You start to learn how
+    the center of mass controls balance and how momentum causes the cargo airship
+    to slide or tilt. Slowly, you put each object back in a safer position.
+
+
+    After
+    you fix the cargo arrangement, the cargo airship becomes stable again. By understanding
+    balance and momentum, you are ready to continue your journey.'

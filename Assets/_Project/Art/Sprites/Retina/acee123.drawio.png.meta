@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: 8e5940d96aac7fd4ab31828f586be833
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8274467312805240841
+    second: acee123.drawio_0
+  - first:
+      213: 7771777581815076867
+    second: acee123.drawio_1
+  - first:
+      213: -3635878333959013793
+    second: acee123.drawio_2
+  - first:
+      213: -4341505238601816643
+    second: acee123.drawio_3
+  - first:
+      213: 3438879931664253649
+    second: acee123.drawio_4
+  - first:
+      213: -4847867575465173224
+    second: acee123.drawio_5
+  - first:
+      213: 5191943893994863449
+    second: acee123.drawio_6
+  - first:
+      213: -6211769880839810846
+    second: acee123.drawio_7
+  - first:
+      213: -5179149019558749756
+    second: acee123.drawio_8
+  - first:
+      213: 7005087040963403694
+    second: acee123.drawio_9
+  - first:
+      213: -8177162463219909805
+    second: acee123.drawio_10
+  - first:
+      213: -6934280388226049654
+    second: acee123.drawio_11
+  - first:
+      213: 6429495941651456282
+    second: acee123.drawio_12
+  - first:
+      213: 6134500785343640718
+    second: acee123.drawio_13
+  - first:
+      213: -7221055065219881136
+    second: acee123.drawio_14
+  - first:
+      213: -7093815698135978073
+    second: acee123.drawio_15
+  - first:
+      213: -3352842652466738854
+    second: acee123.drawio_16
+  - first:
+      213: 7263160462538541047
+    second: acee123.drawio_17
+  - first:
+      213: 2805706632186671273
+    second: acee123.drawio_18
+  - first:
+      213: 8590050366444021735
+    second: acee123.drawio_19
+  - first:
+      213: -8055619755729897689
+    second: acee123.drawio_20
+  - first:
+      213: -5862898229746680274
+    second: acee123.drawio_21
+  - first:
+      213: -2896868762711068304
+    second: acee123.drawio_22
+  - first:
+      213: 2182170814949289463
+    second: acee123.drawio_23
+  - first:
+      213: 478287902592818351
+    second: acee123.drawio_24
+  - first:
+      213: -3967399041980683540
+    second: acee123.drawio_25
+  - first:
+      213: -8327187609431014969
+    second: acee123.drawio_26
+  - first:
+      213: 1039802938975640229
+    second: acee123.drawio_27
+  - first:
+      213: -6814349159604044308
+    second: acee123.drawio_28
+  - first:
+      213: -3585093042175416940
+    second: acee123.drawio_29
+  - first:
+      213: -741976907032213764
+    second: acee123.drawio_30
+  - first:
+      213: -54725423988666971
+    second: acee123.drawio_31
+  - first:
+      213: 1963681795568514863
+    second: acee123.drawio_32
+  - first:
+      213: 972429227207828622
+    second: acee123.drawio_33
+  - first:
+      213: -6099157992903940985
+    second: acee123.drawio_34
+  - first:
+      213: -6403350441397582397
+    second: acee123.drawio_35
+  - first:
+      213: -7390426824282613970
+    second: acee123.drawio_36
+  - first:
+      213: 6025926387547298736
+    second: acee123.drawio_37
+  - first:
+      213: -7483659688541859509
+    second: acee123.drawio_38
+  - first:
+      213: -2227384080662229347
+    second: acee123.drawio_39
+  - first:
+      213: 2949004174309518729
+    second: acee123.drawio_40
+  - first:
+      213: -7599947634752263345
+    second: acee123.drawio_41
+  - first:
+      213: 4913803278907118538
+    second: acee123.drawio_42
+  - first:
+      213: -3309503034750970130
+    second: acee123.drawio_43
+  - first:
+      213: -7055679048444540879
+    second: acee123.drawio_44
+  - first:
+      213: 8849028432827780113
+    second: acee123.drawio_45
+  - first:
+      213: -7551940347799246077
+    second: acee123.drawio_46
+  - first:
+      213: 9122558649677587248
+    second: acee123.drawio_47
+  - first:
+      213: 6170851396011551641
+    second: acee123.drawio_48
+  - first:
+      213: -7524776215633972499
+    second: acee123.drawio_49
+  - first:
+      213: 8368972059325297540
+    second: acee123.drawio_50
+  - first:
+      213: -113589209422025162
+    second: acee123.drawio_51
+  - first:
+      213: -9191809949270006221
+    second: acee123.drawio_52
+  - first:
+      213: 8996288163103321561
+    second: acee123.drawio_53
+  - first:
+      213: -7427077694220674276
+    second: acee123.drawio_54
+  - first:
+      213: 1931403512193865722
+    second: acee123.drawio_55
+  - first:
+      213: -7035443459796854205
+    second: acee123.drawio_56
+  - first:
+      213: -1392308617182258935
+    second: acee123.drawio_57
+  - first:
+      213: 5249942944592440994
+    second: acee123.drawio_58
+  - first:
+      213: 4685930111082837534
+    second: acee123.drawio_59
+  - first:
+      213: -762009277360230330
+    second: acee123.drawio_60
+  - first:
+      213: 740539144291859598
+    second: acee123.drawio_61
+  - first:
+      213: 3012232142313575600
+    second: acee123.drawio_62
+  - first:
+      213: -9211408229302660056
+    second: acee123.drawio_63
+  - first:
+      213: 6677902854695931744
+    second: acee123.drawio_64
+  - first:
+      213: -4429127124149925204
+    second: acee123.drawio_65
+  - first:
+      213: -5561835630887025539
+    second: acee123.drawio_66
+  - first:
+      213: -7708959809931347468
+    second: acee123.drawio_67
+  - first:
+      213: 7347717367772453888
+    second: acee123.drawio_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: acee123.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 243
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff99aaa1df2b2d80800000000000000
+      internalID: -8274467312805240841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 243
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3089e65b886eadb60800000000000000
+      internalID: 7771777581815076867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 243
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a75d14be3ca8dc0800000000000000
+      internalID: -3635878333959013793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 243
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db524aedcffdfb3c0800000000000000
+      internalID: -4341505238601816643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 243
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d24110f31b59bf20800000000000000
+      internalID: 3438879931664253649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 243
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f934e002ae8bcb0800000000000000
+      internalID: -4847867575465173224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 243
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b7257a67d7d0840800000000000000
+      internalID: 5191943893994863449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 240
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0921a643c5bc9a0800000000000000
+      internalID: -6211769880839810846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 243
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c953623867ff18b0800000000000000
+      internalID: -5179149019558749756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 243
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafd0599c81173160800000000000000
+      internalID: 7005087040963403694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 243
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b7e1d6012e48e80800000000000000
+      internalID: -8177162463219909805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 240
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8914dee9bc74cf90800000000000000
+      internalID: -6934280388226049654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1163f67e782a3950800000000000000
+      internalID: 6429495941651456282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 205
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8433c856ff122550800000000000000
+      internalID: 6134500785343640718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 205
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057a80e4da8a9cb90800000000000000
+      internalID: -7221055065219881136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 185
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afe38a0534bd8d90800000000000000
+      internalID: -7093815698135978073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 182
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5901f72f5f4871d0800000000000000
+      internalID: -3352842652466738854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 185
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7854475fdebc460800000000000000
+      internalID: 7263160462538541047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 185
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0b173115fdfe620800000000000000
+      internalID: 2805706632186671273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 185
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e72c96db4df53770800000000000000
+      internalID: 8590050366444021735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 185
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727b91e3380b43090800000000000000
+      internalID: -8055619755729897689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 185
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ebead7f1dc2aea0800000000000000
+      internalID: -5862898229746680274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 185
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0717ea565314cc7d0800000000000000
+      internalID: -2896868762711068304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 182
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fde6486bc0a84e10800000000000000
+      internalID: 2182170814949289463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 185
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac5966305833a600800000000000000
+      internalID: 478287902592818351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 185
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea248c6797f0f8c0800000000000000
+      internalID: -3967399041980683540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 185
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c184d11df2ef6c80800000000000000
+      internalID: -8327187609431014969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 185
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aadc0e834f1e6e00800000000000000
+      internalID: 1039802938975640229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 185
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedb1561b819e61a0800000000000000
+      internalID: -6814349159604044308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 185
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495e86e6fd03f3ec0800000000000000
+      internalID: -3585093042175416940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 185
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf64dc82fe7f3b5f0800000000000000
+      internalID: -741976907032213764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 182
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad09fe44839d3ff0800000000000000
+      internalID: -54725423988666971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 182
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2733c46036604b10800000000000000
+      internalID: 1963681795568514863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 185
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e842ee0ea33ce7d00800000000000000
+      internalID: 972429227207828622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 185
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784e9f3ce107b5ba0800000000000000
+      internalID: -6099157992903940985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 185
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5082033bab227a0800000000000000
+      internalID: -6403350441397582397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27dd10a5fdef6990800000000000000
+      internalID: -7390426824282613970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 143
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbd86c6f1460a350800000000000000
+      internalID: 6025926387547298736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 143
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b415d84d923b42890800000000000000
+      internalID: -7483659688541859509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 60
+        width: 198
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e84c5dafdb611e0800000000000000
+      internalID: -2227384080662229347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 121
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98decda0ca7fce820800000000000000
+      internalID: 2949004174309518729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 121
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b650774ef878690800000000000000
+      internalID: -7599947634752263345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 126
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac398673c06513440800000000000000
+      internalID: 4913803278907118538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 121
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6579e36884212d0800000000000000
+      internalID: -3309503034750970130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1380c4cb941351e90800000000000000
+      internalID: -7055679048444540879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 97
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c080ab9701eca70800000000000000
+      internalID: 8849028432827780113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_46
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 97
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b6c7cf34e123790800000000000000
+      internalID: -7551940347799246077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_47
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03323bc22c6d99e70800000000000000
+      internalID: 9122558649677587248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_48
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 85
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bedfc66a443a550800000000000000
+      internalID: 6170851396011551641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 85
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de234dc56ef929790800000000000000
+      internalID: -7524776215633972499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_50
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483f04b4fbf842470800000000000000
+      internalID: 8368972059325297540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 73
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e251247337c6ef0800000000000000
+      internalID: -113589209422025162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 73
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3362cda2d81207080800000000000000
+      internalID: -9191809949270006221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_53
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 73
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd23d28b6c39dc70800000000000000
+      internalID: 8996288163103321561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_54
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 73
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bdfbcff28bde890800000000000000
+      internalID: -7427077694220674276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_55
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 73
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7d146e249bdca10800000000000000
+      internalID: 1931403512193865722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_56
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 41
+        width: 53
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a967dd2751d5e90800000000000000
+      internalID: -7035443459796854205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 43
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909d22f70b68dace0800000000000000
+      internalID: -1392308617182258935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_58
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 43
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae208fea4b8bd840800000000000000
+      internalID: 5249942944592440994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_59
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 43
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e163661eb94c70140800000000000000
+      internalID: 4685930111082837534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_60
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 41
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640346b799ccc65f0800000000000000
+      internalID: -762009277360230330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_61
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 43
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cb9cd9d6ce64a00800000000000000
+      internalID: 740539144291859598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_62
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 29
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b45d978c299dc920800000000000000
+      internalID: 3012232142313575600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_63
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 29
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8241e4305018a2080800000000000000
+      internalID: -9211408229302660056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 27
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fc7bae34dacac50800000000000000
+      internalID: 6677902854695931744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_65
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 29
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa0ffbd8549882c0800000000000000
+      internalID: -4429127124149925204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_66
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 29
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d744ed926f360d2b0800000000000000
+      internalID: -5561835630887025539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 29
+        width: 49
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9774d85e5440590800000000000000
+      internalID: -7708959809931347468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acee123.drawio_68
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 15
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c9b00240658f560800000000000000
+      internalID: 7347717367772453888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      acee123.drawio_0: -8274467312805240841
+      acee123.drawio_1: 7771777581815076867
+      acee123.drawio_10: -8177162463219909805
+      acee123.drawio_11: -6934280388226049654
+      acee123.drawio_12: 6429495941651456282
+      acee123.drawio_13: 6134500785343640718
+      acee123.drawio_14: -7221055065219881136
+      acee123.drawio_15: -7093815698135978073
+      acee123.drawio_16: -3352842652466738854
+      acee123.drawio_17: 7263160462538541047
+      acee123.drawio_18: 2805706632186671273
+      acee123.drawio_19: 8590050366444021735
+      acee123.drawio_2: -3635878333959013793
+      acee123.drawio_20: -8055619755729897689
+      acee123.drawio_21: -5862898229746680274
+      acee123.drawio_22: -2896868762711068304
+      acee123.drawio_23: 2182170814949289463
+      acee123.drawio_24: 478287902592818351
+      acee123.drawio_25: -3967399041980683540
+      acee123.drawio_26: -8327187609431014969
+      acee123.drawio_27: 1039802938975640229
+      acee123.drawio_28: -6814349159604044308
+      acee123.drawio_29: -3585093042175416940
+      acee123.drawio_3: -4341505238601816643
+      acee123.drawio_30: -741976907032213764
+      acee123.drawio_31: -54725423988666971
+      acee123.drawio_32: 1963681795568514863
+      acee123.drawio_33: 972429227207828622
+      acee123.drawio_34: -6099157992903940985
+      acee123.drawio_35: -6403350441397582397
+      acee123.drawio_36: -7390426824282613970
+      acee123.drawio_37: 6025926387547298736
+      acee123.drawio_38: -7483659688541859509
+      acee123.drawio_39: -2227384080662229347
+      acee123.drawio_4: 3438879931664253649
+      acee123.drawio_40: 2949004174309518729
+      acee123.drawio_41: -7599947634752263345
+      acee123.drawio_42: 4913803278907118538
+      acee123.drawio_43: -3309503034750970130
+      acee123.drawio_44: -7055679048444540879
+      acee123.drawio_45: 8849028432827780113
+      acee123.drawio_46: -7551940347799246077
+      acee123.drawio_47: 9122558649677587248
+      acee123.drawio_48: 6170851396011551641
+      acee123.drawio_49: -7524776215633972499
+      acee123.drawio_5: -4847867575465173224
+      acee123.drawio_50: 8368972059325297540
+      acee123.drawio_51: -113589209422025162
+      acee123.drawio_52: -9191809949270006221
+      acee123.drawio_53: 8996288163103321561
+      acee123.drawio_54: -7427077694220674276
+      acee123.drawio_55: 1931403512193865722
+      acee123.drawio_56: -7035443459796854205
+      acee123.drawio_57: -1392308617182258935
+      acee123.drawio_58: 5249942944592440994
+      acee123.drawio_59: 4685930111082837534
+      acee123.drawio_6: 5191943893994863449
+      acee123.drawio_60: -762009277360230330
+      acee123.drawio_61: 740539144291859598
+      acee123.drawio_62: 3012232142313575600
+      acee123.drawio_63: -9211408229302660056
+      acee123.drawio_64: 6677902854695931744
+      acee123.drawio_65: -4429127124149925204
+      acee123.drawio_66: -5561835630887025539
+      acee123.drawio_67: -7708959809931347468
+      acee123.drawio_68: 7347717367772453888
+      acee123.drawio_7: -6211769880839810846
+      acee123.drawio_8: -5179149019558749756
+      acee123.drawio_9: 7005087040963403694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

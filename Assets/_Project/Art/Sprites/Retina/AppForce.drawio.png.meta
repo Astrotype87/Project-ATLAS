@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: c79650046c38ad64dbb1bfff6e57f596
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1795527629833119927
+    second: AppForce.drawio_0
+  - first:
+      213: -1386247864477734233
+    second: AppForce.drawio_1
+  - first:
+      213: 7645830943211357048
+    second: AppForce.drawio_2
+  - first:
+      213: 757054670317522262
+    second: AppForce.drawio_3
+  - first:
+      213: 2702571565917670516
+    second: AppForce.drawio_4
+  - first:
+      213: 2928671937360589798
+    second: AppForce.drawio_5
+  - first:
+      213: 4743164974965149653
+    second: AppForce.drawio_6
+  - first:
+      213: 2900401778823700066
+    second: AppForce.drawio_7
+  - first:
+      213: -4021748888195925352
+    second: AppForce.drawio_8
+  - first:
+      213: -1155853817891172010
+    second: AppForce.drawio_9
+  - first:
+      213: 4317107034525608890
+    second: AppForce.drawio_10
+  - first:
+      213: -2466466827756493819
+    second: AppForce.drawio_11
+  - first:
+      213: 6190958268394760323
+    second: AppForce.drawio_12
+  - first:
+      213: 1927034773273759524
+    second: AppForce.drawio_13
+  - first:
+      213: 1170524436880925986
+    second: AppForce.drawio_14
+  - first:
+      213: 3521914723284363287
+    second: AppForce.drawio_15
+  - first:
+      213: -4069454269143067165
+    second: AppForce.drawio_16
+  - first:
+      213: -3164223270029729003
+    second: AppForce.drawio_17
+  - first:
+      213: 6621387195005460948
+    second: AppForce.drawio_18
+  - first:
+      213: -4236715260366433322
+    second: AppForce.drawio_19
+  - first:
+      213: 1807936235411112578
+    second: AppForce.drawio_20
+  - first:
+      213: 8053534792376312158
+    second: AppForce.drawio_21
+  - first:
+      213: -5979044743910982352
+    second: AppForce.drawio_22
+  - first:
+      213: -8494392832428825247
+    second: AppForce.drawio_23
+  - first:
+      213: -707175767019589986
+    second: AppForce.drawio_24
+  - first:
+      213: 3095759425742413207
+    second: AppForce.drawio_25
+  - first:
+      213: 8500913853860863080
+    second: AppForce.drawio_26
+  - first:
+      213: 5749208398235118794
+    second: AppForce.drawio_27
+  - first:
+      213: 5494659435660444603
+    second: AppForce.drawio_28
+  - first:
+      213: -7356207864978775551
+    second: AppForce.drawio_29
+  - first:
+      213: 5824928857583213967
+    second: AppForce.drawio_30
+  - first:
+      213: 6148177747270457367
+    second: AppForce.drawio_31
+  - first:
+      213: -5112697044584992518
+    second: AppForce.drawio_32
+  - first:
+      213: 4610695702536475285
+    second: AppForce.drawio_33
+  - first:
+      213: 5134043190989298804
+    second: AppForce.drawio_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AppForce.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947d56f32210517e0800000000000000
+      internalID: -1795527629833119927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 44
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa292379ee03cce0800000000000000
+      internalID: -1386247864477734233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 44
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8738dc6cbb27b1a60800000000000000
+      internalID: 7645830943211357048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 50
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d83db2639918a00800000000000000
+      internalID: 757054670317522262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 66
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c08963586718520800000000000000
+      internalID: 2702571565917670516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 50
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3780a3c9bb4a820800000000000000
+      internalID: 2928671937360589798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df4fd31a6b13d140800000000000000
+      internalID: 4743164974965149653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 50
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e92b40d0c404820800000000000000
+      internalID: 2900401778823700066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 50
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a724fb1b0ef28c0800000000000000
+      internalID: -4021748888195925352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651515c931595ffe0800000000000000
+      internalID: -1155853817891172010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 50
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb2d3299f179eb30800000000000000
+      internalID: 4317107034525608890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 50
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5042a41fc7955cdd0800000000000000
+      internalID: -2466466827756493819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 46
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388efe67eb3bae550800000000000000
+      internalID: 6190958268394760323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fceca9ae33eba10800000000000000
+      internalID: 1927034773273759524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225a33d06c98e3010800000000000000
+      internalID: 1170524436880925986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 44
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718259ae7ca50e030800000000000000
+      internalID: 3521914723284363287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 46
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5d70237e46687c0800000000000000
+      internalID: -4069454269143067165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 46
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5136adf53bb6614d0800000000000000
+      internalID: -3164223270029729003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1ee9e7294e3eb50800000000000000
+      internalID: 6621387195005460948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3d163fae92435c0800000000000000
+      internalID: -4236715260366433322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 9
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2828c306d64171910800000000000000
+      internalID: 1807936235411112578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 9
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51e6d56937e3cf60800000000000000
+      internalID: 8053534792376312158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03df407db7a260da0800000000000000
+      internalID: -5979044743910982352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 9
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165a47069badd1a80800000000000000
+      internalID: -8494392832428825247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 6
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e680df26b9f26f0800000000000000
+      internalID: -707175767019589986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d9171bbc856fa20800000000000000
+      internalID: 3095759425742413207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 6
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cd29d3c1059f570800000000000000
+      internalID: 8500913853860863080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 9
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc2f7cd39a49cf40800000000000000
+      internalID: 5749208398235118794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 9
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb30a4015a3f04c40800000000000000
+      internalID: 5494659435660444603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1026102fbef79e990800000000000000
+      internalID: -7356207864978775551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d5b262fed46d050800000000000000
+      internalID: 5824928857583213967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71854023617b25550800000000000000
+      internalID: 6148177747270457367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 9
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0725d402d0c09b0800000000000000
+      internalID: -5112697044584992518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 6
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5925b1d105b7cff30800000000000000
+      internalID: 4610695702536475285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppForce.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 9
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c1e64b419cf3740800000000000000
+      internalID: 5134043190989298804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AppForce.drawio_0: -1795527629833119927
+      AppForce.drawio_1: -1386247864477734233
+      AppForce.drawio_10: 4317107034525608890
+      AppForce.drawio_11: -2466466827756493819
+      AppForce.drawio_12: 6190958268394760323
+      AppForce.drawio_13: 1927034773273759524
+      AppForce.drawio_14: 1170524436880925986
+      AppForce.drawio_15: 3521914723284363287
+      AppForce.drawio_16: -4069454269143067165
+      AppForce.drawio_17: -3164223270029729003
+      AppForce.drawio_18: 6621387195005460948
+      AppForce.drawio_19: -4236715260366433322
+      AppForce.drawio_2: 7645830943211357048
+      AppForce.drawio_20: 1807936235411112578
+      AppForce.drawio_21: 8053534792376312158
+      AppForce.drawio_22: -5979044743910982352
+      AppForce.drawio_23: -8494392832428825247
+      AppForce.drawio_24: -707175767019589986
+      AppForce.drawio_25: 3095759425742413207
+      AppForce.drawio_26: 8500913853860863080
+      AppForce.drawio_27: 5749208398235118794
+      AppForce.drawio_28: 5494659435660444603
+      AppForce.drawio_29: -7356207864978775551
+      AppForce.drawio_3: 757054670317522262
+      AppForce.drawio_30: 5824928857583213967
+      AppForce.drawio_31: 6148177747270457367
+      AppForce.drawio_32: -5112697044584992518
+      AppForce.drawio_33: 4610695702536475285
+      AppForce.drawio_34: 5134043190989298804
+      AppForce.drawio_4: 2702571565917670516
+      AppForce.drawio_5: 2928671937360589798
+      AppForce.drawio_6: 4743164974965149653
+      AppForce.drawio_7: 2900401778823700066
+      AppForce.drawio_8: -4021748888195925352
+      AppForce.drawio_9: -1155853817891172010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

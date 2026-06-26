@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1d62931ab01cd14b84145ae3bdd017f, type: 3}
+  m_Name: Chapter 7
+  m_EditorClassIdentifier: 
+  chapter: 7
+  levelTerms:
+  - level: 27
+    terms:
+    - term: Gravity
+      unit: 
+      type: 0
+      description: It is present in tides, celestial mechanics, and potential energy
+      details: 'It was Isaac Newton, and his story was somewhat of a flamboyant version
+        of what happened, which was almost lost in history. Still, his ideas, along
+        with a few other natural philosophers (scientists in the modern age), have
+        helped shape our understanding of Physics.
+
+'
+    - term: 'Gravitational Force '
+      unit: F_g
+      type: 2
+      description: Responsible for giving us Newtonian weight (F_g = Weight)
+      details: "The force of gravity (Fg). It is responsible for giving us our Newtonian
+        weight (Fg = Weight), which is calculated through the constant, g.\n\nGravitational
+        Potential Energy:\nU_g = mgy\n\nForce of Gravity:\nF_g = G \u2022 ((m_1 \u2022
+        m_2) / r\xB2)\n\nEscape Velocity:\nv_e = \u221A2Gm/r"
+  - level: 29
+    terms:
+    - term: "Kepler\u2019s Laws of Planetary Motion"
+      unit: 
+      type: 1
+      description: Theory and computations proven by Johannes Kepler, a mathematician
+        helping Tycho Brahe in his astronomical research
+      details: "As theorized by Newton, planets and other celestial bodies have their
+        paths shaped like conic sections. This theory was eventually proven by Johannes
+        Kepler, a mathematician who helped the astronomer Tycho Brahe in his astronomical
+        research. Kepler\u2019s calculations. His computations are named by astronomers
+        as \u201CKepler\u2019s Laws of Planetary Motion\u201D.\r\n"
+    - term: The Law of Elliptical Orbits
+      unit: 
+      type: 1
+      description: All orbital paths of planets take on an elliptical shape, with
+        the sun as one of its focus
+      details: 'Also known as the Law of Ellipses, it states that all orbital paths
+        of planets take on an elliptical shape, with the Sun as one of its focus.
+        If we are to recall our geometry, an ellipse is a conic section wherein it
+        has foci located in its semi major axis. You can check the diagram on the
+        next page.
+
+'
+    - term: The Law of Equal Areas
+      unit: 
+      type: 0
+      description: Aphelion - farthest point of a planet from the sun, creating a
+        very narrow "pizza slice"
+      details: "This states that all calculated areas, which result from a planet\u2019s
+        movement around the Sun, are all equal in values.\n\nThis is best explained
+        by the astronomical terms perihelion and aphelion. Perihelion is the period
+        of a planet wherein it is close to the Sun, thus creates a very wide triangle,
+        or \u201Cpizza slice\u201D, colloquially. "
+    - term: The Law of Harmonies
+      unit: 
+      type: 2
+      description: The ratio of the squares of the planets' periods (T) is equal
+        to the ratio of the cubes of planet's average distance (r) from the Sun
+      details: "This law states that, by observing the motions of two planets moving
+        around the Sun, therein lies a \r\ncalculated ratio where the ratio of the
+        squares of the planets\u2019 periods (T) is equal to the ratio of the cubes
+        of the planets\u2019 average distances (r) from the Sun. In Mathematical
+        terms,\n\nThe Law of Harmonies:\nT_1\xB2/T_2\xB2 = r_1\xB2/r_2\xB2\r\n"

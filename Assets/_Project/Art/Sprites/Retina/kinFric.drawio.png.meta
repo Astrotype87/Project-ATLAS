@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: b39bd76d6650b8943b8d0e024b59697d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4813292304507375707
+    second: kinFric.drawio_0
+  - first:
+      213: -4385420291799669623
+    second: kinFric.drawio_1
+  - first:
+      213: 8016534864767442365
+    second: kinFric.drawio_2
+  - first:
+      213: 4360752143592643214
+    second: kinFric.drawio_3
+  - first:
+      213: -5073454625485812342
+    second: kinFric.drawio_4
+  - first:
+      213: 1455122157287792257
+    second: kinFric.drawio_5
+  - first:
+      213: -8072199430055001983
+    second: kinFric.drawio_6
+  - first:
+      213: 8570831731389594521
+    second: kinFric.drawio_7
+  - first:
+      213: 2785800364143757222
+    second: kinFric.drawio_8
+  - first:
+      213: -5106147926656122439
+    second: kinFric.drawio_9
+  - first:
+      213: -4119169996926210083
+    second: kinFric.drawio_10
+  - first:
+      213: 8124185311060847678
+    second: kinFric.drawio_11
+  - first:
+      213: -2094930712719803056
+    second: kinFric.drawio_12
+  - first:
+      213: -4049044344367706022
+    second: kinFric.drawio_13
+  - first:
+      213: -2972926918568362776
+    second: kinFric.drawio_14
+  - first:
+      213: -9110729556164067614
+    second: kinFric.drawio_15
+  - first:
+      213: 7363309292507147402
+    second: kinFric.drawio_16
+  - first:
+      213: 832911311878545896
+    second: kinFric.drawio_17
+  - first:
+      213: 8314716748201894428
+    second: kinFric.drawio_18
+  - first:
+      213: -6356766150872892655
+    second: kinFric.drawio_19
+  - first:
+      213: 4060840588759114517
+    second: kinFric.drawio_20
+  - first:
+      213: 2493218011898345927
+    second: kinFric.drawio_21
+  - first:
+      213: 6943823014943528307
+    second: kinFric.drawio_22
+  - first:
+      213: -2471166219763542563
+    second: kinFric.drawio_23
+  - first:
+      213: -7610912011829479617
+    second: kinFric.drawio_24
+  - first:
+      213: 4123462523809898942
+    second: kinFric.drawio_25
+  - first:
+      213: -7075408310691708520
+    second: kinFric.drawio_26
+  - first:
+      213: -5906472405853910986
+    second: kinFric.drawio_27
+  - first:
+      213: 2100390245016684214
+    second: kinFric.drawio_28
+  - first:
+      213: -279659754913730306
+    second: kinFric.drawio_29
+  - first:
+      213: 3789567054770072862
+    second: kinFric.drawio_30
+  - first:
+      213: 408783913658341164
+    second: kinFric.drawio_31
+  - first:
+      213: -5053940651063166608
+    second: kinFric.drawio_32
+  - first:
+      213: -2320644036750647151
+    second: kinFric.drawio_33
+  - first:
+      213: 4683779046672115281
+    second: kinFric.drawio_34
+  - first:
+      213: -2915427416553677989
+    second: kinFric.drawio_35
+  - first:
+      213: 6829163576110693897
+    second: kinFric.drawio_36
+  - first:
+      213: -2108640334903075316
+    second: kinFric.drawio_37
+  - first:
+      213: 2757369512246163914
+    second: kinFric.drawio_38
+  - first:
+      213: -2555169457972604120
+    second: kinFric.drawio_39
+  - first:
+      213: 4969115412552770973
+    second: kinFric.drawio_40
+  - first:
+      213: 7537281080203346417
+    second: kinFric.drawio_41
+  - first:
+      213: 8500103626493978945
+    second: kinFric.drawio_42
+  - first:
+      213: 8115520063596859512
+    second: kinFric.drawio_43
+  - first:
+      213: -5313724590096696167
+    second: kinFric.drawio_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kinFric.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af67b5a620c33db0800000000000000
+      internalID: -4813292304507375707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984ad74ca7bd323c0800000000000000
+      internalID: -4385420291799669623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd5fff6cf3704f60800000000000000
+      internalID: 8016534864767442365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8adc5868f0848c30800000000000000
+      internalID: 4360752143592643214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 96
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d0bdff5e77799b0800000000000000
+      internalID: -5073454625485812342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 80
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e50f974e1a13410800000000000000
+      internalID: 1455122157287792257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180067ff269c9ff80800000000000000
+      internalID: -8072199430055001983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 80
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b7f1bac06b1f670800000000000000
+      internalID: 8570831731389594521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 80
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a741ffdba629a620800000000000000
+      internalID: 2785800364143757222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 96
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b18015a3815329b0800000000000000
+      internalID: -5106147926656122439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 80
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf24cb46b4c5d6c0800000000000000
+      internalID: -4119169996926210083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 96
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c6a332f77eeb070800000000000000
+      internalID: 8124185311060847678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 80
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05db74fbd9f4de2e0800000000000000
+      internalID: -2094930712719803056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50982e1f97eec7c0800000000000000
+      internalID: -4049044344367706022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec398308ba0eb6d0800000000000000
+      internalID: -2972926918568362776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee30384dbf209180800000000000000
+      internalID: -9110729556164067614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 39
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ca83ff9cabf2660800000000000000
+      internalID: 7363309292507147402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 39
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1ece9dc681f8b00800000000000000
+      internalID: 832911311878545896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 36
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12a09844dec36370800000000000000
+      internalID: 8314716748201894428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b7ef88dda38c7a0800000000000000
+      internalID: -6356766150872892655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513a97e00010b5830800000000000000
+      internalID: 4060840588759114517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 39
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c97eca7290b99220800000000000000
+      internalID: 2493218011898345927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 39
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37514ecfd3a6d5060800000000000000
+      internalID: 6943823014943528307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 39
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd59c0a7a67a4bdd0800000000000000
+      internalID: -2471166219763542563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 39
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37762e79db906690800000000000000
+      internalID: -7610912011829479617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 36
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb12350815b793930800000000000000
+      internalID: 4123462523809898942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 39
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891cf58e0a91fcd90800000000000000
+      internalID: -7075408310691708520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 39
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6384e6504aef70ea0800000000000000
+      internalID: -5906472405853910986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 39
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b64aebacc5162d10800000000000000
+      internalID: 2100390245016684214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 36
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0f4624fe27e1cf0800000000000000
+      internalID: -279659754913730306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1de718882f379430800000000000000
+      internalID: 3789567054770072862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 39
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27df7bbdca4ca500800000000000000
+      internalID: 408783913658341164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 39
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079397931cbccd9b0800000000000000
+      internalID: -5053940651063166608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 39
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190695b3b8a6bcfd0800000000000000
+      internalID: -2320644036750647151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 36
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1562f4b2a30200140800000000000000
+      internalID: 4683779046672115281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 39
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b12e316325a87d0800000000000000
+      internalID: -2915427416553677989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 36
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e3d1b071016ce50800000000000000
+      internalID: 6829163576110693897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e9a0799ca9cb2e0800000000000000
+      internalID: -2108640334903075316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 21
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9bce356f4244620800000000000000
+      internalID: 2757369512246163914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 21
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8239d947ae63a8cd0800000000000000
+      internalID: -2555169457972604120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 18
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d956025e328d5f440800000000000000
+      internalID: 4969115412552770973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 21
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f10bcd453dc99860800000000000000
+      internalID: 7537281080203346417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 21
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149ee2b763f66f570800000000000000
+      internalID: 8500103626493978945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 21
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8701f3eff7e10a070800000000000000
+      internalID: 8115520063596859512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kinFric.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 21
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c370d73abd146b0800000000000000
+      internalID: -5313724590096696167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kinFric.drawio_0: -4813292304507375707
+      kinFric.drawio_1: -4385420291799669623
+      kinFric.drawio_10: -4119169996926210083
+      kinFric.drawio_11: 8124185311060847678
+      kinFric.drawio_12: -2094930712719803056
+      kinFric.drawio_13: -4049044344367706022
+      kinFric.drawio_14: -2972926918568362776
+      kinFric.drawio_15: -9110729556164067614
+      kinFric.drawio_16: 7363309292507147402
+      kinFric.drawio_17: 832911311878545896
+      kinFric.drawio_18: 8314716748201894428
+      kinFric.drawio_19: -6356766150872892655
+      kinFric.drawio_2: 8016534864767442365
+      kinFric.drawio_20: 4060840588759114517
+      kinFric.drawio_21: 2493218011898345927
+      kinFric.drawio_22: 6943823014943528307
+      kinFric.drawio_23: -2471166219763542563
+      kinFric.drawio_24: -7610912011829479617
+      kinFric.drawio_25: 4123462523809898942
+      kinFric.drawio_26: -7075408310691708520
+      kinFric.drawio_27: -5906472405853910986
+      kinFric.drawio_28: 2100390245016684214
+      kinFric.drawio_29: -279659754913730306
+      kinFric.drawio_3: 4360752143592643214
+      kinFric.drawio_30: 3789567054770072862
+      kinFric.drawio_31: 408783913658341164
+      kinFric.drawio_32: -5053940651063166608
+      kinFric.drawio_33: -2320644036750647151
+      kinFric.drawio_34: 4683779046672115281
+      kinFric.drawio_35: -2915427416553677989
+      kinFric.drawio_36: 6829163576110693897
+      kinFric.drawio_37: -2108640334903075316
+      kinFric.drawio_38: 2757369512246163914
+      kinFric.drawio_39: -2555169457972604120
+      kinFric.drawio_4: -5073454625485812342
+      kinFric.drawio_40: 4969115412552770973
+      kinFric.drawio_41: 7537281080203346417
+      kinFric.drawio_42: 8500103626493978945
+      kinFric.drawio_43: 8115520063596859512
+      kinFric.drawio_44: -5313724590096696167
+      kinFric.drawio_5: 1455122157287792257
+      kinFric.drawio_6: -8072199430055001983
+      kinFric.drawio_7: 8570831731389594521
+      kinFric.drawio_8: 2785800364143757222
+      kinFric.drawio_9: -5106147926656122439
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

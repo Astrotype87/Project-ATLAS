@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 59bc05b31d493c247a4276031ae82b53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6402242324102212846
+    second: graph-thrust-vector-wrong_0
+  - first:
+      213: -759490115063891628
+    second: graph-thrust-vector-wrong_1
+  - first:
+      213: -772182417681394343
+    second: graph-thrust-vector-wrong_2
+  - first:
+      213: 2030826707230840551
+    second: graph-thrust-vector-wrong_3
+  - first:
+      213: -7013357489209248200
+    second: graph-thrust-vector-wrong_4
+  - first:
+      213: -7122373330215733473
+    second: graph-thrust-vector-wrong_5
+  - first:
+      213: 6506729159965019665
+    second: graph-thrust-vector-wrong_6
+  - first:
+      213: -6611921054559934737
+    second: graph-thrust-vector-wrong_7
+  - first:
+      213: -749866941713203948
+    second: graph-thrust-vector-wrong_8
+  - first:
+      213: -2866568377504244227
+    second: graph-thrust-vector-wrong_9
+  - first:
+      213: -448723835128765628
+    second: graph-thrust-vector-wrong_10
+  - first:
+      213: -721630594383015709
+    second: graph-thrust-vector-wrong_11
+  - first:
+      213: -4618683402469802834
+    second: graph-thrust-vector-wrong_12
+  - first:
+      213: -8607541032699474254
+    second: graph-thrust-vector-wrong_13
+  - first:
+      213: 2801557164925763128
+    second: graph-thrust-vector-wrong_14
+  - first:
+      213: 973988876235279189
+    second: graph-thrust-vector-wrong_15
+  - first:
+      213: -89586443219360760
+    second: graph-thrust-vector-wrong_16
+  - first:
+      213: -4961029878849618697
+    second: graph-thrust-vector-wrong_17
+  - first:
+      213: 3046626212098520996
+    second: graph-thrust-vector-wrong_18
+  - first:
+      213: 9112143277032526545
+    second: graph-thrust-vector-wrong_19
+  - first:
+      213: -16173968366323548
+    second: graph-thrust-vector-wrong_20
+  - first:
+      213: 5629243050858331030
+    second: graph-thrust-vector-wrong_21
+  - first:
+      213: -5337034434738787235
+    second: graph-thrust-vector-wrong_22
+  - first:
+      213: 8689140008609607893
+    second: graph-thrust-vector-wrong_23
+  - first:
+      213: -5090865091227714031
+    second: graph-thrust-vector-wrong_24
+  - first:
+      213: 5555198596244945119
+    second: graph-thrust-vector-wrong_25
+  - first:
+      213: -5795705318698826761
+    second: graph-thrust-vector-wrong_26
+  - first:
+      213: -2542355880540649415
+    second: graph-thrust-vector-wrong_27
+  - first:
+      213: 1745728821405479036
+    second: graph-thrust-vector-wrong_28
+  - first:
+      213: -3398009732865272486
+    second: graph-thrust-vector-wrong_29
+  - first:
+      213: 7717426507671057723
+    second: graph-thrust-vector-wrong_30
+  - first:
+      213: -6341134431629211045
+    second: graph-thrust-vector-wrong_31
+  - first:
+      213: 7580150381001476588
+    second: graph-thrust-vector-wrong_32
+  - first:
+      213: -3738749796474216963
+    second: graph-thrust-vector-wrong_33
+  - first:
+      213: -4022925085499565900
+    second: graph-thrust-vector-wrong_34
+  - first:
+      213: 3791161616814637841
+    second: graph-thrust-vector-wrong_35
+  - first:
+      213: 3279101736119154180
+    second: graph-thrust-vector-wrong_36
+  - first:
+      213: 2268585494613548697
+    second: graph-thrust-vector-wrong_37
+  - first:
+      213: 2824807236545818241
+    second: graph-thrust-vector-wrong_38
+  - first:
+      213: -6726141197501814023
+    second: graph-thrust-vector-wrong_39
+  - first:
+      213: 8709197253742346866
+    second: graph-thrust-vector-wrong_40
+  - first:
+      213: -9168144265791149504
+    second: graph-thrust-vector-wrong_41
+  - first:
+      213: -8768466869493786214
+    second: graph-thrust-vector-wrong_42
+  - first:
+      213: -5889387625518889013
+    second: graph-thrust-vector-wrong_43
+  - first:
+      213: -2221643239883567997
+    second: graph-thrust-vector-wrong_44
+  - first:
+      213: -3266480398090051098
+    second: graph-thrust-vector-wrong_45
+  - first:
+      213: 8208791739657201687
+    second: graph-thrust-vector-wrong_46
+  - first:
+      213: 2801483297071525954
+    second: graph-thrust-vector-wrong_47
+  - first:
+      213: 542339533433769283
+    second: graph-thrust-vector-wrong_48
+  - first:
+      213: -5548586723423147969
+    second: graph-thrust-vector-wrong_49
+  - first:
+      213: 7208818348083198611
+    second: graph-thrust-vector-wrong_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 429
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2139ae9d68aa627a0800000000000000
+      internalID: -6402242324102212846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 429
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4593239a3cfb575f0800000000000000
+      internalID: -759490115063891628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 429
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9555c4cae28a845f0800000000000000
+      internalID: -772182417681394343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 428
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6ded46122fe2c10800000000000000
+      internalID: 2030826707230840551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 428
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8367bdc958c8bae90800000000000000
+      internalID: -7013357489209248200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 429
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1776ce213f382d90800000000000000
+      internalID: -7122373330215733473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_6
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 429
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e046562bb8c4a50800000000000000
+      internalID: 6506729159965019665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 429
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6670415dcbd34a0800000000000000
+      internalID: -6611921054559934737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 428
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d306e4dffe795f0800000000000000
+      internalID: -749866941713203948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 429
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfddd769f37e738d0800000000000000
+      internalID: -2866568377504244227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 428
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44326e4ac00d5c9f0800000000000000
+      internalID: -448723835128765628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 429
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e01fba3cc04cf5f0800000000000000
+      internalID: -721630594383015709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 287
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac7bc19ae327efb0800000000000000
+      internalID: -4618683402469802834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 288
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be4954190fdb8880800000000000000
+      internalID: -8607541032699474254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 287
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83eb951f56121e620800000000000000
+      internalID: 2801557164925763128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 309
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b8f27f8bd448d00800000000000000
+      internalID: 973988876235279189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_16
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 310
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8042833ca99b1cef0800000000000000
+      internalID: -89586443219360760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_17
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 310
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcb11f1c91e62bb0800000000000000
+      internalID: -4961029878849618697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 275
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7b68fe56ac74a20800000000000000
+      internalID: 3046626212098520996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_19
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 276
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2dcf14806d47e70800000000000000
+      internalID: 9112143277032526545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_20
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 277
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8bae88cd986cff0800000000000000
+      internalID: -16173968366323548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 245
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b3fb0dab61f1e40800000000000000
+      internalID: 5629243050858331030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 254
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ced5b557b0fe5b0800000000000000
+      internalID: -5337034434738787235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 255
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d07fc00dc6069870800000000000000
+      internalID: 8689140008609607893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 254
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e7fed0c2d9959b0800000000000000
+      internalID: -5090865091227714031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_25
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 254
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8bde9c0b7081d40800000000000000
+      internalID: 5555198596244945119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_26
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 255
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f34d1838b4819fa0800000000000000
+      internalID: -5795705318698826761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_27
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 256
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938cfbfebccb7bcd0800000000000000
+      internalID: -2542355880540649415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 232
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70f8022d131a3810800000000000000
+      internalID: 1745728821405479036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_29
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 233
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55de31c628d7d0d0800000000000000
+      internalID: -3398009732865272486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_30
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 232
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35bae1258ec91b60800000000000000
+      internalID: 7717426507671057723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_31
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 233
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a0eb9c4d3cff7a0800000000000000
+      internalID: -6341134431629211045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_32
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 233
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce982a33c9a123960800000000000000
+      internalID: 7580150381001476588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_33
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 234
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd171d6eda4d1cc0800000000000000
+      internalID: -3738749796474216963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_34
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 212
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b85ac8f2f2bb28c0800000000000000
+      internalID: -4022925085499565900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_35
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 211
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11305507769ec9430800000000000000
+      internalID: 3791161616814637841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_36
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 212
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406bfb3d7a5b18d20800000000000000
+      internalID: 3279101736119154180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_37
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 211
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e5b05ec72ab7f10800000000000000
+      internalID: 2268585494613548697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_38
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 224
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e2445173bb33720800000000000000
+      internalID: 2824807236545818241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_39
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 224
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faa8cda732f7a2a0800000000000000
+      internalID: -6726141197501814023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_40
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 224
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272ce1c42c84dd870800000000000000
+      internalID: 8709197253742346866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_41
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 210
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aebfb7d5534c080800000000000000
+      internalID: -9168144265791149504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_42
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 210
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a999a0be6d5205680800000000000000
+      internalID: -8768466869493786214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_43
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 210
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc78d5c6821b44ea0800000000000000
+      internalID: -5889387625518889013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 146
+        width: 609
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c871d7e332b21e0800000000000000
+      internalID: -2221643239883567997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 69
+        width: 609
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1e01e62612ba2d0800000000000000
+      internalID: -3266480398090051098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 29
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718ad6d589c7be170800000000000000
+      internalID: 8208791739657201687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_47
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 28
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240732e373ed0e620800000000000000
+      internalID: 2801483297071525954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_48
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 28
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d88f5aee6c68700800000000000000
+      internalID: 542339533433769283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_49
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 28
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f382ae0d5c57ff2b0800000000000000
+      internalID: -5548586723423147969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-vector-wrong_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 29
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a31d7f71eda0460800000000000000
+      internalID: 7208818348083198611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      graph-thrust-vector-wrong_0: -6402242324102212846
+      graph-thrust-vector-wrong_1: -759490115063891628
+      graph-thrust-vector-wrong_10: -448723835128765628
+      graph-thrust-vector-wrong_11: -721630594383015709
+      graph-thrust-vector-wrong_12: -4618683402469802834
+      graph-thrust-vector-wrong_13: -8607541032699474254
+      graph-thrust-vector-wrong_14: 2801557164925763128
+      graph-thrust-vector-wrong_15: 973988876235279189
+      graph-thrust-vector-wrong_16: -89586443219360760
+      graph-thrust-vector-wrong_17: -4961029878849618697
+      graph-thrust-vector-wrong_18: 3046626212098520996
+      graph-thrust-vector-wrong_19: 9112143277032526545
+      graph-thrust-vector-wrong_2: -772182417681394343
+      graph-thrust-vector-wrong_20: -16173968366323548
+      graph-thrust-vector-wrong_21: 5629243050858331030
+      graph-thrust-vector-wrong_22: -5337034434738787235
+      graph-thrust-vector-wrong_23: 8689140008609607893
+      graph-thrust-vector-wrong_24: -5090865091227714031
+      graph-thrust-vector-wrong_25: 5555198596244945119
+      graph-thrust-vector-wrong_26: -5795705318698826761
+      graph-thrust-vector-wrong_27: -2542355880540649415
+      graph-thrust-vector-wrong_28: 1745728821405479036
+      graph-thrust-vector-wrong_29: -3398009732865272486
+      graph-thrust-vector-wrong_3: 2030826707230840551
+      graph-thrust-vector-wrong_30: 7717426507671057723
+      graph-thrust-vector-wrong_31: -6341134431629211045
+      graph-thrust-vector-wrong_32: 7580150381001476588
+      graph-thrust-vector-wrong_33: -3738749796474216963
+      graph-thrust-vector-wrong_34: -4022925085499565900
+      graph-thrust-vector-wrong_35: 3791161616814637841
+      graph-thrust-vector-wrong_36: 3279101736119154180
+      graph-thrust-vector-wrong_37: 2268585494613548697
+      graph-thrust-vector-wrong_38: 2824807236545818241
+      graph-thrust-vector-wrong_39: -6726141197501814023
+      graph-thrust-vector-wrong_4: -7013357489209248200
+      graph-thrust-vector-wrong_40: 8709197253742346866
+      graph-thrust-vector-wrong_41: -9168144265791149504
+      graph-thrust-vector-wrong_42: -8768466869493786214
+      graph-thrust-vector-wrong_43: -5889387625518889013
+      graph-thrust-vector-wrong_44: -2221643239883567997
+      graph-thrust-vector-wrong_45: -3266480398090051098
+      graph-thrust-vector-wrong_46: 8208791739657201687
+      graph-thrust-vector-wrong_47: 2801483297071525954
+      graph-thrust-vector-wrong_48: 542339533433769283
+      graph-thrust-vector-wrong_49: -5548586723423147969
+      graph-thrust-vector-wrong_5: -7122373330215733473
+      graph-thrust-vector-wrong_50: 7208818348083198611
+      graph-thrust-vector-wrong_6: 6506729159965019665
+      graph-thrust-vector-wrong_7: -6611921054559934737
+      graph-thrust-vector-wrong_8: -749866941713203948
+      graph-thrust-vector-wrong_9: -2866568377504244227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

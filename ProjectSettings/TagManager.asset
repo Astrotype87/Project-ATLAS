@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Goal
+  - HotAirBalloon
+  - Rocket07Sims
+  - hab
+  - Box
+  - Ground
+  - Goals
+  - GreenCircle
+  - Alien
+  - Congrats
+  - Checkpoint
+  - Key
+  - Hovercraft
+  - FinishLine
+  - Meteor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Post Processing
+  - Water
+  - UI
+  - Ground
+  - Track
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 22077715
+    locked: 0
+  - name: Track
+    uniqueID: 3637642325
+    locked: 0
+  - name: Hovercraft
+    uniqueID: 4187092837
+    locked: 0
+  - name: Character
+    uniqueID: 2001869311
+    locked: 0
+  - name: World Space UI
+    uniqueID: 1734263581
+    locked: 0
+  m_RenderingLayers:
+  - Default

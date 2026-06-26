@@ -1,0 +1,4017 @@
+fileFormatVersion: 2
+guid: c039d6d0a1153dd4384da90572f4053f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 389958260796182814
+    second: newSpeGrav.drawio_0
+  - first:
+      213: 3674636688340911910
+    second: newSpeGrav.drawio_1
+  - first:
+      213: -4869530422587921609
+    second: newSpeGrav.drawio_2
+  - first:
+      213: 8209423404085406828
+    second: newSpeGrav.drawio_3
+  - first:
+      213: -6417963038373992240
+    second: newSpeGrav.drawio_4
+  - first:
+      213: -2705661291249842778
+    second: newSpeGrav.drawio_5
+  - first:
+      213: -7666629343693270521
+    second: newSpeGrav.drawio_6
+  - first:
+      213: 2303335681408380526
+    second: newSpeGrav.drawio_7
+  - first:
+      213: 1713097623917862571
+    second: newSpeGrav.drawio_8
+  - first:
+      213: 6345043573375049877
+    second: newSpeGrav.drawio_9
+  - first:
+      213: -5786444241047202208
+    second: newSpeGrav.drawio_10
+  - first:
+      213: 634889321648842444
+    second: newSpeGrav.drawio_11
+  - first:
+      213: -6997079141615009701
+    second: newSpeGrav.drawio_12
+  - first:
+      213: 3647679705473140830
+    second: newSpeGrav.drawio_13
+  - first:
+      213: 2406948099644213667
+    second: newSpeGrav.drawio_14
+  - first:
+      213: -636119660404740914
+    second: newSpeGrav.drawio_15
+  - first:
+      213: 7876513899698277092
+    second: newSpeGrav.drawio_16
+  - first:
+      213: -2887781782483078441
+    second: newSpeGrav.drawio_17
+  - first:
+      213: -7513179085506685717
+    second: newSpeGrav.drawio_18
+  - first:
+      213: 5553539676910251244
+    second: newSpeGrav.drawio_19
+  - first:
+      213: -1874662493322795159
+    second: newSpeGrav.drawio_20
+  - first:
+      213: -2788395931139119840
+    second: newSpeGrav.drawio_21
+  - first:
+      213: -1026950145303376878
+    second: newSpeGrav.drawio_22
+  - first:
+      213: -3981819743070351789
+    second: newSpeGrav.drawio_23
+  - first:
+      213: -4481238134869214753
+    second: newSpeGrav.drawio_24
+  - first:
+      213: 479827963461190946
+    second: newSpeGrav.drawio_25
+  - first:
+      213: -2104532978281351834
+    second: newSpeGrav.drawio_26
+  - first:
+      213: 2931338384801720300
+    second: newSpeGrav.drawio_27
+  - first:
+      213: 7385406403213271059
+    second: newSpeGrav.drawio_28
+  - first:
+      213: -4685782579958848308
+    second: newSpeGrav.drawio_29
+  - first:
+      213: 1044024617603889376
+    second: newSpeGrav.drawio_30
+  - first:
+      213: -689764184072872552
+    second: newSpeGrav.drawio_31
+  - first:
+      213: 6804340641214491427
+    second: newSpeGrav.drawio_32
+  - first:
+      213: 7751428431415466163
+    second: newSpeGrav.drawio_33
+  - first:
+      213: -9081326756298776207
+    second: newSpeGrav.drawio_34
+  - first:
+      213: 6812915582960054993
+    second: newSpeGrav.drawio_35
+  - first:
+      213: 924669930415167362
+    second: newSpeGrav.drawio_36
+  - first:
+      213: 3552980407244692575
+    second: newSpeGrav.drawio_37
+  - first:
+      213: -9083220329492663618
+    second: newSpeGrav.drawio_38
+  - first:
+      213: 6333856964604633564
+    second: newSpeGrav.drawio_39
+  - first:
+      213: 5067516423828528156
+    second: newSpeGrav.drawio_40
+  - first:
+      213: -5951601393327668778
+    second: newSpeGrav.drawio_41
+  - first:
+      213: 1922537703817258964
+    second: newSpeGrav.drawio_42
+  - first:
+      213: -3893039851096769828
+    second: newSpeGrav.drawio_43
+  - first:
+      213: -461553214639429
+    second: newSpeGrav.drawio_44
+  - first:
+      213: 8996628309370060968
+    second: newSpeGrav.drawio_45
+  - first:
+      213: 2958615355840427978
+    second: newSpeGrav.drawio_46
+  - first:
+      213: -5198266250900360409
+    second: newSpeGrav.drawio_47
+  - first:
+      213: 1573288234915716698
+    second: newSpeGrav.drawio_48
+  - first:
+      213: 927756568994320268
+    second: newSpeGrav.drawio_49
+  - first:
+      213: 1988672382576952448
+    second: newSpeGrav.drawio_50
+  - first:
+      213: -7926979672668851667
+    second: newSpeGrav.drawio_51
+  - first:
+      213: -2085277785165817037
+    second: newSpeGrav.drawio_52
+  - first:
+      213: -1719731652029934914
+    second: newSpeGrav.drawio_53
+  - first:
+      213: -2651197689694690017
+    second: newSpeGrav.drawio_54
+  - first:
+      213: 7756392964577733822
+    second: newSpeGrav.drawio_55
+  - first:
+      213: -8465017943141237806
+    second: newSpeGrav.drawio_56
+  - first:
+      213: -6250301179510406353
+    second: newSpeGrav.drawio_57
+  - first:
+      213: 2609874942464586360
+    second: newSpeGrav.drawio_58
+  - first:
+      213: -3914128487769130591
+    second: newSpeGrav.drawio_59
+  - first:
+      213: 265469236142079611
+    second: newSpeGrav.drawio_60
+  - first:
+      213: -6166610906271269741
+    second: newSpeGrav.drawio_61
+  - first:
+      213: -8059891054163956600
+    second: newSpeGrav.drawio_62
+  - first:
+      213: -4425563564995869346
+    second: newSpeGrav.drawio_63
+  - first:
+      213: 8452638621379685051
+    second: newSpeGrav.drawio_64
+  - first:
+      213: 7671321507911273250
+    second: newSpeGrav.drawio_65
+  - first:
+      213: -974675287955839779
+    second: newSpeGrav.drawio_66
+  - first:
+      213: -3827878471168222283
+    second: newSpeGrav.drawio_67
+  - first:
+      213: 8567633802088048870
+    second: newSpeGrav.drawio_68
+  - first:
+      213: -9071131835001625218
+    second: newSpeGrav.drawio_69
+  - first:
+      213: -6816658756059788259
+    second: newSpeGrav.drawio_70
+  - first:
+      213: -5166229762462869132
+    second: newSpeGrav.drawio_71
+  - first:
+      213: 7375087861664177634
+    second: newSpeGrav.drawio_72
+  - first:
+      213: -425968887929267753
+    second: newSpeGrav.drawio_73
+  - first:
+      213: 2233493077185018046
+    second: newSpeGrav.drawio_74
+  - first:
+      213: 4215772158238966144
+    second: newSpeGrav.drawio_75
+  - first:
+      213: 6344756661627106551
+    second: newSpeGrav.drawio_76
+  - first:
+      213: 4532972602397410356
+    second: newSpeGrav.drawio_77
+  - first:
+      213: 7954536866699283117
+    second: newSpeGrav.drawio_78
+  - first:
+      213: -8683726648254300119
+    second: newSpeGrav.drawio_79
+  - first:
+      213: 6556809161105255029
+    second: newSpeGrav.drawio_80
+  - first:
+      213: 2354522767211524796
+    second: newSpeGrav.drawio_81
+  - first:
+      213: -9203204833692275554
+    second: newSpeGrav.drawio_82
+  - first:
+      213: 5902183710368286019
+    second: newSpeGrav.drawio_83
+  - first:
+      213: -4308970282034090872
+    second: newSpeGrav.drawio_84
+  - first:
+      213: -583740152857548872
+    second: newSpeGrav.drawio_85
+  - first:
+      213: 5331905146929760143
+    second: newSpeGrav.drawio_86
+  - first:
+      213: 6043614007315635618
+    second: newSpeGrav.drawio_87
+  - first:
+      213: -8408190120401668938
+    second: newSpeGrav.drawio_88
+  - first:
+      213: -6886593684936801629
+    second: newSpeGrav.drawio_89
+  - first:
+      213: 3158616658537226299
+    second: newSpeGrav.drawio_90
+  - first:
+      213: -3694732483562079190
+    second: newSpeGrav.drawio_91
+  - first:
+      213: -4965660516942176497
+    second: newSpeGrav.drawio_92
+  - first:
+      213: -420940705555362604
+    second: newSpeGrav.drawio_93
+  - first:
+      213: 5490099050954830352
+    second: newSpeGrav.drawio_94
+  - first:
+      213: 5337371882755100292
+    second: newSpeGrav.drawio_95
+  - first:
+      213: -4637802208815277676
+    second: newSpeGrav.drawio_96
+  - first:
+      213: -7440312394494760388
+    second: newSpeGrav.drawio_97
+  - first:
+      213: -9029841948125679219
+    second: newSpeGrav.drawio_98
+  - first:
+      213: 1215384270783584076
+    second: newSpeGrav.drawio_99
+  - first:
+      213: -6299035810475544987
+    second: newSpeGrav.drawio_100
+  - first:
+      213: -4394323003786318084
+    second: newSpeGrav.drawio_101
+  - first:
+      213: 3258390272182963436
+    second: newSpeGrav.drawio_102
+  - first:
+      213: 1520575572998434238
+    second: newSpeGrav.drawio_103
+  - first:
+      213: 8712299504201899086
+    second: newSpeGrav.drawio_104
+  - first:
+      213: 9189248691595602816
+    second: newSpeGrav.drawio_105
+  - first:
+      213: -6204514161743006343
+    second: newSpeGrav.drawio_106
+  - first:
+      213: 1406395784653529804
+    second: newSpeGrav.drawio_107
+  - first:
+      213: -7445593231420092365
+    second: newSpeGrav.drawio_108
+  - first:
+      213: 5329923459224198602
+    second: newSpeGrav.drawio_109
+  - first:
+      213: 5845940621581922459
+    second: newSpeGrav.drawio_110
+  - first:
+      213: 1728520156792773659
+    second: newSpeGrav.drawio_111
+  - first:
+      213: -583532698382006764
+    second: newSpeGrav.drawio_112
+  - first:
+      213: 8362168434593631303
+    second: newSpeGrav.drawio_113
+  - first:
+      213: 8849028753204168075
+    second: newSpeGrav.drawio_114
+  - first:
+      213: -1982011879682797749
+    second: newSpeGrav.drawio_115
+  - first:
+      213: -1872708663667465949
+    second: newSpeGrav.drawio_116
+  - first:
+      213: 2315547317723860577
+    second: newSpeGrav.drawio_117
+  - first:
+      213: -523428810856226674
+    second: newSpeGrav.drawio_118
+  - first:
+      213: -4215724114862559191
+    second: newSpeGrav.drawio_119
+  - first:
+      213: 8320107483179708054
+    second: newSpeGrav.drawio_120
+  - first:
+      213: 2057772326928693093
+    second: newSpeGrav.drawio_121
+  - first:
+      213: 686154474275904009
+    second: newSpeGrav.drawio_122
+  - first:
+      213: -8965855297148381984
+    second: newSpeGrav.drawio_123
+  - first:
+      213: 3104977801940104407
+    second: newSpeGrav.drawio_124
+  - first:
+      213: 8905162222978305547
+    second: newSpeGrav.drawio_125
+  - first:
+      213: 277348502182332687
+    second: newSpeGrav.drawio_126
+  - first:
+      213: 7641253928940167462
+    second: newSpeGrav.drawio_127
+  - first:
+      213: -5170757382264550533
+    second: newSpeGrav.drawio_128
+  - first:
+      213: 871310440827817929
+    second: newSpeGrav.drawio_129
+  - first:
+      213: 5196516047002010884
+    second: newSpeGrav.drawio_130
+  - first:
+      213: -2026592528914726410
+    second: newSpeGrav.drawio_131
+  - first:
+      213: -1956601929408749977
+    second: newSpeGrav.drawio_132
+  - first:
+      213: -5669071763073035741
+    second: newSpeGrav.drawio_133
+  - first:
+      213: 1717926117906077496
+    second: newSpeGrav.drawio_134
+  - first:
+      213: -76052460328528471
+    second: newSpeGrav.drawio_135
+  - first:
+      213: -5343815669807258158
+    second: newSpeGrav.drawio_136
+  - first:
+      213: 8850304375917902254
+    second: newSpeGrav.drawio_137
+  - first:
+      213: 2846715950770934359
+    second: newSpeGrav.drawio_138
+  - first:
+      213: 3783938473391700292
+    second: newSpeGrav.drawio_139
+  - first:
+      213: 7633796871808456601
+    second: newSpeGrav.drawio_140
+  - first:
+      213: 2365787784931003526
+    second: newSpeGrav.drawio_141
+  - first:
+      213: 1197049077466372924
+    second: newSpeGrav.drawio_142
+  - first:
+      213: -1711968516932282685
+    second: newSpeGrav.drawio_143
+  - first:
+      213: -7892599860579234208
+    second: newSpeGrav.drawio_144
+  - first:
+      213: -8582932812236790341
+    second: newSpeGrav.drawio_145
+  - first:
+      213: 6250611481897116127
+    second: newSpeGrav.drawio_146
+  - first:
+      213: 5129488527830839152
+    second: newSpeGrav.drawio_147
+  - first:
+      213: 5868706403721007092
+    second: newSpeGrav.drawio_148
+  - first:
+      213: -1615252760033046795
+    second: newSpeGrav.drawio_149
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 288
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e115cfbd8f8696500800000000000000
+      internalID: 389958260796182814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 277
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6278d27599eeef230800000000000000
+      internalID: 3674636688340911910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 288
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b60ba61e3fb6cb0800000000000000
+      internalID: -4869530422587921609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 288
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ce943371bbde170800000000000000
+      internalID: 8209423404085406828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 321
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8a124de90dee6a0800000000000000
+      internalID: -6417963038373992240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 289
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5478c046f837ad0800000000000000
+      internalID: -2705661291249842778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 321
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70293904b39aa9590800000000000000
+      internalID: -7666629343693270521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 288
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e24d0499717ff10800000000000000
+      internalID: 2303335681408380526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 288
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae903b663526c710800000000000000
+      internalID: 1713097623917862571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 289
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5902563338f1e0850800000000000000
+      internalID: 6345043573375049877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 288
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066d6c3ee9b62bfa0800000000000000
+      internalID: -5786444241047202208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 321
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6619869749fc800800000000000000
+      internalID: 634889321648842444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 288
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b500eb2c79165ee90800000000000000
+      internalID: -6997079141615009701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 289
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58c02bad592f9230800000000000000
+      internalID: 3647679705473140830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 289
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a948184b82376120800000000000000
+      internalID: 2406948099644213667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecceee60a8c0c27f0800000000000000
+      internalID: -636119660404740914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 289
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea41f309affe4d60800000000000000
+      internalID: 7876513899698277092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 277
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2704ad4c98ce7d0800000000000000
+      internalID: -2887781782483078441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 222
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4da72ad63dbb790800000000000000
+      internalID: -7513179085506685717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 222
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cece54889e2221d40800000000000000
+      internalID: 5553539676910251244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 222
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9672fbb056cdbf5e0800000000000000
+      internalID: -1874662493322795159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025ee479ca0ad49d0800000000000000
+      internalID: -2788395931139119840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 222
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c082ba84a8fb1f0800000000000000
+      internalID: -1026950145303376878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 222
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e87ae4a0cbdb8c0800000000000000
+      internalID: -3981819743070351789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 238
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9bf21b8a17fc1c0800000000000000
+      internalID: -4481238134869214753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 222
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22547639df0b8a600800000000000000
+      internalID: 479827963461190946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 222
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665f17318623bc2e0800000000000000
+      internalID: -2104532978281351834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 214
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7e296eab43ea820800000000000000
+      internalID: 2931338384801720300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3102c618efb3e7660800000000000000
+      internalID: 7385406403213271059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 222
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4e6d2e191c8feb0800000000000000
+      internalID: -4685782579958848308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 242
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8fa05bbde1d7e00800000000000000
+      internalID: 1044024617603889376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 222
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d9c8d01277d66f0800000000000000
+      internalID: -689764184072872552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 222
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32be75223cfdd6e50800000000000000
+      internalID: 6804340641214491427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 242
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8d16ce61b929b60800000000000000
+      internalID: 7751428431415466163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 222
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171af891e65a8f180800000000000000
+      internalID: -9081326756298776207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2be0750a65c8e50800000000000000
+      internalID: 6812915582960054993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 214
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28791e0176615dc00800000000000000
+      internalID: 924669930415167362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 222
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c1ebb1bd8be4130800000000000000
+      internalID: 3552980407244692575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 222
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2bbfb3c3be1f180800000000000000
+      internalID: -9083220329492663618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 222
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1a461e95166e750800000000000000
+      internalID: 6333856964604633564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 242
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cd1cfa65f635640800000000000000
+      internalID: 5067516423828528156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 222
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d10cf1d01aa76da0800000000000000
+      internalID: -5951601393327668778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 222
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7a2570bd93eaa10800000000000000
+      internalID: 1922537703817258964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 214
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdaffe2b1e429f9c0800000000000000
+      internalID: -3893039851096769828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 215
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2b894483c5efff0800000000000000
+      internalID: -461553214639429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_45
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 217
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0c93cf7c17adc70800000000000000
+      internalID: 8996628309370060968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_46
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 222
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac772ef9dfc1f0920800000000000000
+      internalID: 2958615355840427978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_47
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723be2be26c0cd7b0800000000000000
+      internalID: -5198266250900360409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_48
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 222
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ed373605175d510800000000000000
+      internalID: 1573288234915716698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_49
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 222
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f01fc1fad00ec00800000000000000
+      internalID: 927756568994320268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_50
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084012adefe299b10800000000000000
+      internalID: 1988672382576952448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 222
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22b4d49cf5bdf190800000000000000
+      internalID: -7926979672668851667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_52
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 222
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b9d2517ea9f03e0800000000000000
+      internalID: -2085277785165817037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_53
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 222
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb292cb8c294228e0800000000000000
+      internalID: -1719731652029934914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_54
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 222
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1569647fbd053bd0800000000000000
+      internalID: -2651197689694690017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_55
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcaeff5e4e34ab60800000000000000
+      internalID: 7756392964577733822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_56
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db32c1c707368a80800000000000000
+      internalID: -8465017943141237806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_57
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 222
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23c31851387249a0800000000000000
+      internalID: -6250301179510406353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_58
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 222
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8727bc5be63283420800000000000000
+      internalID: 2609874942464586360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_59
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 222
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9b849d0e83ea9c0800000000000000
+      internalID: -3914128487769130591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_60
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 222
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7efa0f1dd22fa300800000000000000
+      internalID: 265469236142079611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_61
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cb6a78d0ccb6aa0800000000000000
+      internalID: -6166610906271269741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_62
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 222
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c65341ac3852090800000000000000
+      internalID: -8059891054163956600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_63
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 222
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e558281a26d3592c0800000000000000
+      internalID: -4425563564995869346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_64
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 238
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba651aca0ecd4570800000000000000
+      internalID: 8452638621379685051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_65
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 222
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b8ddc5442067a60800000000000000
+      internalID: 7671321507911273250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_66
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 222
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd46a0a5df14972f0800000000000000
+      internalID: -974675287955839779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_67
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb17aabfc4a0eac0800000000000000
+      internalID: -3827878471168222283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_68
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8661bbc8956e670800000000000000
+      internalID: 8567633802088048870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_69
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75adff28addc1280800000000000000
+      internalID: -9071131835001625218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_70
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 222
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c00024afc5661a0800000000000000
+      internalID: -6816658756059788259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_71
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 222
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4799954276ddd48b0800000000000000
+      internalID: -5166229762462869132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_72
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 214
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edd9c5d553995660800000000000000
+      internalID: 7375087861664177634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_73
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d99b95ad87a61af0800000000000000
+      internalID: -425968887929267753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_74
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 222
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb838e1ce16fefe10800000000000000
+      internalID: 2233493077185018046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_75
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 222
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081c0d9117e618a30800000000000000
+      internalID: 4215772158238966144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_76
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 214
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4b39a519a1d0850800000000000000
+      internalID: 6344756661627106551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_77
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434c97ea09a58ee30800000000000000
+      internalID: 4532972602397410356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_78
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 222
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa0c54a221346e60800000000000000
+      internalID: 7954536866699283117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_79
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920853c2f943d7780800000000000000
+      internalID: -8683726648254300119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_80
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 222
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aa4bb41377efa50800000000000000
+      internalID: 6556809161105255029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_81
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 222
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb276336bf1fca020800000000000000
+      internalID: 2354522767211524796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_82
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c2d94e6f5a74080800000000000000
+      internalID: -9203204833692275554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_83
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 222
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345499f30d4c8e150800000000000000
+      internalID: 5902183710368286019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_84
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 215
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ca4afbb567334c0800000000000000
+      internalID: -4308970282034090872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_85
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 178
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b72bcb7c6326e7f0800000000000000
+      internalID: -583740152857548872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_86
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 178
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8743d24b7bbef940800000000000000
+      internalID: 5331905146929760143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_87
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 178
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad9f915bea3fd350800000000000000
+      internalID: 6043614007315635618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_88
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 178
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4728d42ab105b80800000000000000
+      internalID: -8408190120401668938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_89
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 178
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2c4e0c787ed60a0800000000000000
+      internalID: -6886593684936801629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_90
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 178
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b302eb9ad19a5db20800000000000000
+      internalID: 3158616658537226299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_91
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 178
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c7f29b16ca9bcc0800000000000000
+      internalID: -3694732483562079190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 178
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f9a7ca11e661bb0800000000000000
+      internalID: -4965660516942176497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_93
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 178
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcced598a4882af0800000000000000
+      internalID: -420940705555362604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_94
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 178
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0123fd1cfffb03c40800000000000000
+      internalID: 5490099050954830352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_95
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 178
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e86c1e277221a40800000000000000
+      internalID: 5337371882755100292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_96
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 178
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4991b05967733afb0800000000000000
+      internalID: -4637802208815277676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_97
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 178
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a24343c43beb890800000000000000
+      internalID: -7440312394494760388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_98
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 178
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d813c00279e8fa280800000000000000
+      internalID: -9029841948125679219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_99
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 178
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4717ad0e89edd010800000000000000
+      internalID: 1215384270783584076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_100
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 178
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ee329dd445598a0800000000000000
+      internalID: -6299035810475544987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_101
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 178
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe2dfa928a3403c0800000000000000
+      internalID: -4394323003786318084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_102
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 178
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceccd0950b0283d20800000000000000
+      internalID: 3258390272182963436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_103
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 178
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd25b26d6b2a1510800000000000000
+      internalID: 1520575572998434238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_104
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 170
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c14c44d3e48e870800000000000000
+      internalID: 8712299504201899086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_105
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 178
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b674f8ff4c68f70800000000000000
+      internalID: 9189248691595602816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_106
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 109
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9757d692e3325e9a0800000000000000
+      internalID: -6204514161743006343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 109
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc261e5c385848310800000000000000
+      internalID: 1406395784653529804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_108
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 136
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330172b8760fba890800000000000000
+      internalID: -7445593231420092365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_109
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 109
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd5413a521b7f940800000000000000
+      internalID: 5329923459224198602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_110
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 109
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90ba6fa504f02150800000000000000
+      internalID: 5845940621581922459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_111
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 109
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c5cbcacefecf710800000000000000
+      internalID: 1728520156792773659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_112
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 109
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4168d1e3a10e6e7f0800000000000000
+      internalID: -583532698382006764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_113
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 122
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c00f7f2e36c0470800000000000000
+      internalID: 8362168434593631303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_114
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 106
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85c3f154c01eca70800000000000000
+      internalID: 8849028753204168075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_115
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 106
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f07e252ba7e74e0800000000000000
+      internalID: -1982011879682797749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_116
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 121
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321ed46746dc206e0800000000000000
+      internalID: -1872708663667465949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_117
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 120
+        width: 62
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e0a85640a722020800000000000000
+      internalID: 2315547317723860577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_118
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 109
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80a5bf05486cb8f0800000000000000
+      internalID: -523428810856226674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_119
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 114
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920b19ed04dbe75c0800000000000000
+      internalID: -4215724114862559191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_120
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 80
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eeef39ca5f67370800000000000000
+      internalID: 8320107483179708054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_121
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 84
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567b63f570dae8c10800000000000000
+      internalID: 2057772326928693093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_122
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 88
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a9244ebd5b58900800000000000000
+      internalID: 686154474275904009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_123
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 43
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e49ae14c12e29380800000000000000
+      internalID: -8965855297148381984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_124
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 43
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4fc182cd8171b20800000000000000
+      internalID: 3104977801940104407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_125
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 43
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e89d73cdd759b70800000000000000
+      internalID: 8905162222978305547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_126
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 43
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0980974ef659d300800000000000000
+      internalID: 277348502182332687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_127
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 43
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621690996ff2b0a60800000000000000
+      internalID: 7641253928940167462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_128
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 43
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b84628e87cd38b0800000000000000
+      internalID: -5170757382264550533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_129
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 43
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf81a2ca34871c00800000000000000
+      internalID: 871310440827817929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_130
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 43
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4050c2bffcbbd1840800000000000000
+      internalID: 5196516047002010884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_131
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 43
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1c39115d810e3e0800000000000000
+      internalID: -2026592528914726410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_132
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e5fb669e0c8d4e0800000000000000
+      internalID: -1956601929408749977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_133
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32295db74496351b0800000000000000
+      internalID: -5669071763073035741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_134
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 7
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8375828c3bc47d710800000000000000
+      internalID: 1717926117906077496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_135
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 7
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5d2d5b0bec1fef0800000000000000
+      internalID: -76052460328528471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_136
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 7
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5e8f706f3f6d5b0800000000000000
+      internalID: -5343815669807258158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_137
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9fba060f892da70800000000000000
+      internalID: 8850304375917902254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_138
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752d32e1311918720800000000000000
+      internalID: 2846715950770934359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_139
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 7
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449327e4eff338430800000000000000
+      internalID: 3783938473391700292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_140
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 7
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99791af2fc1b0f960800000000000000
+      internalID: 7633796871808456601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_141
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c45c6b477f4d020800000000000000
+      internalID: 2365787784931003526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_142
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 7
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b97113bc5cc9010800000000000000
+      internalID: 1197049077466372924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_143
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 7
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6599944bddd38e0800000000000000
+      internalID: -1711968516932282685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_144
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e80eb5e3ad77290800000000000000
+      internalID: -7892599860579234208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_145
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5e493e41c43e880800000000000000
+      internalID: -8582932812236790341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_146
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1a47f8602aeb650800000000000000
+      internalID: 6250611481897116127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_147
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 7
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f6ccc83aa9f2740800000000000000
+      internalID: 5129488527830839152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_148
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 7
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffc9d46165d17150800000000000000
+      internalID: 5868706403721007092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newSpeGrav.drawio_149
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fec2c73c287599e0800000000000000
+      internalID: -1615252760033046795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      newSpeGrav.drawio_0: 389958260796182814
+      newSpeGrav.drawio_1: 3674636688340911910
+      newSpeGrav.drawio_10: -5786444241047202208
+      newSpeGrav.drawio_100: -6299035810475544987
+      newSpeGrav.drawio_101: -4394323003786318084
+      newSpeGrav.drawio_102: 3258390272182963436
+      newSpeGrav.drawio_103: 1520575572998434238
+      newSpeGrav.drawio_104: 8712299504201899086
+      newSpeGrav.drawio_105: 9189248691595602816
+      newSpeGrav.drawio_106: -6204514161743006343
+      newSpeGrav.drawio_107: 1406395784653529804
+      newSpeGrav.drawio_108: -7445593231420092365
+      newSpeGrav.drawio_109: 5329923459224198602
+      newSpeGrav.drawio_11: 634889321648842444
+      newSpeGrav.drawio_110: 5845940621581922459
+      newSpeGrav.drawio_111: 1728520156792773659
+      newSpeGrav.drawio_112: -583532698382006764
+      newSpeGrav.drawio_113: 8362168434593631303
+      newSpeGrav.drawio_114: 8849028753204168075
+      newSpeGrav.drawio_115: -1982011879682797749
+      newSpeGrav.drawio_116: -1872708663667465949
+      newSpeGrav.drawio_117: 2315547317723860577
+      newSpeGrav.drawio_118: -523428810856226674
+      newSpeGrav.drawio_119: -4215724114862559191
+      newSpeGrav.drawio_12: -6997079141615009701
+      newSpeGrav.drawio_120: 8320107483179708054
+      newSpeGrav.drawio_121: 2057772326928693093
+      newSpeGrav.drawio_122: 686154474275904009
+      newSpeGrav.drawio_123: -8965855297148381984
+      newSpeGrav.drawio_124: 3104977801940104407
+      newSpeGrav.drawio_125: 8905162222978305547
+      newSpeGrav.drawio_126: 277348502182332687
+      newSpeGrav.drawio_127: 7641253928940167462
+      newSpeGrav.drawio_128: -5170757382264550533
+      newSpeGrav.drawio_129: 871310440827817929
+      newSpeGrav.drawio_13: 3647679705473140830
+      newSpeGrav.drawio_130: 5196516047002010884
+      newSpeGrav.drawio_131: -2026592528914726410
+      newSpeGrav.drawio_132: -1956601929408749977
+      newSpeGrav.drawio_133: -5669071763073035741
+      newSpeGrav.drawio_134: 1717926117906077496
+      newSpeGrav.drawio_135: -76052460328528471
+      newSpeGrav.drawio_136: -5343815669807258158
+      newSpeGrav.drawio_137: 8850304375917902254
+      newSpeGrav.drawio_138: 2846715950770934359
+      newSpeGrav.drawio_139: 3783938473391700292
+      newSpeGrav.drawio_14: 2406948099644213667
+      newSpeGrav.drawio_140: 7633796871808456601
+      newSpeGrav.drawio_141: 2365787784931003526
+      newSpeGrav.drawio_142: 1197049077466372924
+      newSpeGrav.drawio_143: -1711968516932282685
+      newSpeGrav.drawio_144: -7892599860579234208
+      newSpeGrav.drawio_145: -8582932812236790341
+      newSpeGrav.drawio_146: 6250611481897116127
+      newSpeGrav.drawio_147: 5129488527830839152
+      newSpeGrav.drawio_148: 5868706403721007092
+      newSpeGrav.drawio_149: -1615252760033046795
+      newSpeGrav.drawio_15: -636119660404740914
+      newSpeGrav.drawio_16: 7876513899698277092
+      newSpeGrav.drawio_17: -2887781782483078441
+      newSpeGrav.drawio_18: -7513179085506685717
+      newSpeGrav.drawio_19: 5553539676910251244
+      newSpeGrav.drawio_2: -4869530422587921609
+      newSpeGrav.drawio_20: -1874662493322795159
+      newSpeGrav.drawio_21: -2788395931139119840
+      newSpeGrav.drawio_22: -1026950145303376878
+      newSpeGrav.drawio_23: -3981819743070351789
+      newSpeGrav.drawio_24: -4481238134869214753
+      newSpeGrav.drawio_25: 479827963461190946
+      newSpeGrav.drawio_26: -2104532978281351834
+      newSpeGrav.drawio_27: 2931338384801720300
+      newSpeGrav.drawio_28: 7385406403213271059
+      newSpeGrav.drawio_29: -4685782579958848308
+      newSpeGrav.drawio_3: 8209423404085406828
+      newSpeGrav.drawio_30: 1044024617603889376
+      newSpeGrav.drawio_31: -689764184072872552
+      newSpeGrav.drawio_32: 6804340641214491427
+      newSpeGrav.drawio_33: 7751428431415466163
+      newSpeGrav.drawio_34: -9081326756298776207
+      newSpeGrav.drawio_35: 6812915582960054993
+      newSpeGrav.drawio_36: 924669930415167362
+      newSpeGrav.drawio_37: 3552980407244692575
+      newSpeGrav.drawio_38: -9083220329492663618
+      newSpeGrav.drawio_39: 6333856964604633564
+      newSpeGrav.drawio_4: -6417963038373992240
+      newSpeGrav.drawio_40: 5067516423828528156
+      newSpeGrav.drawio_41: -5951601393327668778
+      newSpeGrav.drawio_42: 1922537703817258964
+      newSpeGrav.drawio_43: -3893039851096769828
+      newSpeGrav.drawio_44: -461553214639429
+      newSpeGrav.drawio_45: 8996628309370060968
+      newSpeGrav.drawio_46: 2958615355840427978
+      newSpeGrav.drawio_47: -5198266250900360409
+      newSpeGrav.drawio_48: 1573288234915716698
+      newSpeGrav.drawio_49: 927756568994320268
+      newSpeGrav.drawio_5: -2705661291249842778
+      newSpeGrav.drawio_50: 1988672382576952448
+      newSpeGrav.drawio_51: -7926979672668851667
+      newSpeGrav.drawio_52: -2085277785165817037
+      newSpeGrav.drawio_53: -1719731652029934914
+      newSpeGrav.drawio_54: -2651197689694690017
+      newSpeGrav.drawio_55: 7756392964577733822
+      newSpeGrav.drawio_56: -8465017943141237806
+      newSpeGrav.drawio_57: -6250301179510406353
+      newSpeGrav.drawio_58: 2609874942464586360
+      newSpeGrav.drawio_59: -3914128487769130591
+      newSpeGrav.drawio_6: -7666629343693270521
+      newSpeGrav.drawio_60: 265469236142079611
+      newSpeGrav.drawio_61: -6166610906271269741
+      newSpeGrav.drawio_62: -8059891054163956600
+      newSpeGrav.drawio_63: -4425563564995869346
+      newSpeGrav.drawio_64: 8452638621379685051
+      newSpeGrav.drawio_65: 7671321507911273250
+      newSpeGrav.drawio_66: -974675287955839779
+      newSpeGrav.drawio_67: -3827878471168222283
+      newSpeGrav.drawio_68: 8567633802088048870
+      newSpeGrav.drawio_69: -9071131835001625218
+      newSpeGrav.drawio_7: 2303335681408380526
+      newSpeGrav.drawio_70: -6816658756059788259
+      newSpeGrav.drawio_71: -5166229762462869132
+      newSpeGrav.drawio_72: 7375087861664177634
+      newSpeGrav.drawio_73: -425968887929267753
+      newSpeGrav.drawio_74: 2233493077185018046
+      newSpeGrav.drawio_75: 4215772158238966144
+      newSpeGrav.drawio_76: 6344756661627106551
+      newSpeGrav.drawio_77: 4532972602397410356
+      newSpeGrav.drawio_78: 7954536866699283117
+      newSpeGrav.drawio_79: -8683726648254300119
+      newSpeGrav.drawio_8: 1713097623917862571
+      newSpeGrav.drawio_80: 6556809161105255029
+      newSpeGrav.drawio_81: 2354522767211524796
+      newSpeGrav.drawio_82: -9203204833692275554
+      newSpeGrav.drawio_83: 5902183710368286019
+      newSpeGrav.drawio_84: -4308970282034090872
+      newSpeGrav.drawio_85: -583740152857548872
+      newSpeGrav.drawio_86: 5331905146929760143
+      newSpeGrav.drawio_87: 6043614007315635618
+      newSpeGrav.drawio_88: -8408190120401668938
+      newSpeGrav.drawio_89: -6886593684936801629
+      newSpeGrav.drawio_9: 6345043573375049877
+      newSpeGrav.drawio_90: 3158616658537226299
+      newSpeGrav.drawio_91: -3694732483562079190
+      newSpeGrav.drawio_92: -4965660516942176497
+      newSpeGrav.drawio_93: -420940705555362604
+      newSpeGrav.drawio_94: 5490099050954830352
+      newSpeGrav.drawio_95: 5337371882755100292
+      newSpeGrav.drawio_96: -4637802208815277676
+      newSpeGrav.drawio_97: -7440312394494760388
+      newSpeGrav.drawio_98: -9029841948125679219
+      newSpeGrav.drawio_99: 1215384270783584076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

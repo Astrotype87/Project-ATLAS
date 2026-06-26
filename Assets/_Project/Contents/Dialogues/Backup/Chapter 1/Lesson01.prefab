@@ -1,0 +1,305 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5024120727027842049
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8295879939460215713}
+  - component: {fileID: 8466556081575829180}
+  - component: {fileID: 8467332893141691085}
+  - component: {fileID: 449362098079150071}
+  m_Layer: 0
+  m_Name: Lesson01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8295879939460215713
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5024120727027842049}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8466556081575829180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5024120727027842049}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbeb6d65be27d3b40a131a1e4ace56b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  steps:
+  - message: "Welcome {player}! In this lesson, we\u2019ll explore Units, Measurements,
+      and Errors, the tools we use to describe the world with numbers. These basics
+      are vital in science. Ready?"
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: First, we talk about physical quantities. These are things we can measure.
+      Let's go step by step.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 1
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Length tells us how long, how far, how high, or how thick something
+      is. For example, the length of the car, or how tall you are.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Mass tells us how heavy something is. A rock has more mass than a feather.
+      It depends on how much matter is inside the object.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Electric current is how much electricity flows in a wire. Like water
+      flowing in a pipe, but instead, it's charges moving through a circuit.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: 'The Amount of Substance tells us how much matter is inside of an element
+      or object. '
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: The Luminous Intensity is the brightness of light. A candle has lower
+      brightness, but a flashlight has higher brightness.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Time tells us when something happens and how long it takes. For example,
+      how many seconds you take to finish running across the garage.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Not all measurements are perfect. Sometimes we make mistakes, and these
+      are called Errors.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: There are two kinds of Errors which is Random Error and Systematic Error.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: 'Random Error happen by chance. Maybe the wind moves the ruler, or your
+      hand shakes a little when reading. '
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: The numbers go a little up or down, not always the same. That's random.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Systematic Error happen because something is wrong with the tool or
+      the way we use it.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Maybe the scale is broken and always adds 2 kilograms, or the clock
+      always runs slow. The mistake is always in the same direction.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "Get ready to test your skills in units, measurements, and errors! After
+      that, we\u2019ll move on to the next lesson and continue unlocking science\u2019s
+      secrets together."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &8467332893141691085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5024120727027842049}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 139b92bc4d1ed6f4b9b74cc34ada33f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tweenSequencer: {fileID: 449362098079150071}
+--- !u!114 &449362098079150071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5024120727027842049}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c8d51a2479698446b58e7f4400f8d08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  autoPlayMode: 0
+  sequence:
+    steps: []
+    cycles: 1
+    cycleMode: 0
+    sequenceEase: 0
+    useUnscaledTime: 0
+    updateType:
+      enumValue: 0
+    e_expanded: 1
+    e_cyclesExpanded: 0
+  e_expandPlayer: 0
+  e_progress: 0
+  e_smoothRefresh: 0
+  e_expandSequence: 0
+  references:
+    version: 2
+    RefIds: []

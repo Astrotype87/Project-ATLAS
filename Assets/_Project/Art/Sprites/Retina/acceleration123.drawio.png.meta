@@ -1,0 +1,2223 @@
+fileFormatVersion: 2
+guid: ccad48fed037cc74db653a5ec42995d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1759097287283631584
+    second: acceleration123.drawio_0
+  - first:
+      213: 4982829550828528853
+    second: acceleration123.drawio_1
+  - first:
+      213: 7418488621062534155
+    second: acceleration123.drawio_2
+  - first:
+      213: 3711181207080213322
+    second: acceleration123.drawio_3
+  - first:
+      213: -1233923600520427470
+    second: acceleration123.drawio_4
+  - first:
+      213: -5927542948850314568
+    second: acceleration123.drawio_5
+  - first:
+      213: 6279001635414805665
+    second: acceleration123.drawio_6
+  - first:
+      213: -7250601442508309453
+    second: acceleration123.drawio_7
+  - first:
+      213: -5816279542109256135
+    second: acceleration123.drawio_8
+  - first:
+      213: -7165692562184191638
+    second: acceleration123.drawio_9
+  - first:
+      213: 6962025791706815100
+    second: acceleration123.drawio_10
+  - first:
+      213: -5888500887761183740
+    second: acceleration123.drawio_11
+  - first:
+      213: 6232393574575453945
+    second: acceleration123.drawio_12
+  - first:
+      213: 3453004322695642373
+    second: acceleration123.drawio_13
+  - first:
+      213: -6314667503274911274
+    second: acceleration123.drawio_14
+  - first:
+      213: -8823653960693806512
+    second: acceleration123.drawio_15
+  - first:
+      213: -1472743716116773102
+    second: acceleration123.drawio_16
+  - first:
+      213: 3166096030428358988
+    second: acceleration123.drawio_17
+  - first:
+      213: -7745370489538831842
+    second: acceleration123.drawio_18
+  - first:
+      213: 6157668670468074741
+    second: acceleration123.drawio_19
+  - first:
+      213: -188759778998540097
+    second: acceleration123.drawio_20
+  - first:
+      213: -6532391832775855210
+    second: acceleration123.drawio_21
+  - first:
+      213: 5226886633549816436
+    second: acceleration123.drawio_22
+  - first:
+      213: -3500360802929600916
+    second: acceleration123.drawio_23
+  - first:
+      213: 2843397192587670443
+    second: acceleration123.drawio_24
+  - first:
+      213: 5735440020876054368
+    second: acceleration123.drawio_25
+  - first:
+      213: 9114250860184644359
+    second: acceleration123.drawio_26
+  - first:
+      213: 1913101140478377685
+    second: acceleration123.drawio_27
+  - first:
+      213: -8470549562528698015
+    second: acceleration123.drawio_28
+  - first:
+      213: -937903442146470063
+    second: acceleration123.drawio_29
+  - first:
+      213: -4446287490287987146
+    second: acceleration123.drawio_30
+  - first:
+      213: 5479601978447193853
+    second: acceleration123.drawio_31
+  - first:
+      213: 1430362270052299407
+    second: acceleration123.drawio_32
+  - first:
+      213: 6440591015453259997
+    second: acceleration123.drawio_33
+  - first:
+      213: 6951728457987485004
+    second: acceleration123.drawio_34
+  - first:
+      213: -6420428353701871020
+    second: acceleration123.drawio_35
+  - first:
+      213: 2601064825346684604
+    second: acceleration123.drawio_36
+  - first:
+      213: -3686620581136885831
+    second: acceleration123.drawio_37
+  - first:
+      213: -5498410961588622427
+    second: acceleration123.drawio_38
+  - first:
+      213: 7815541545799249022
+    second: acceleration123.drawio_39
+  - first:
+      213: -2733082294905297298
+    second: acceleration123.drawio_40
+  - first:
+      213: 3785249755536871506
+    second: acceleration123.drawio_41
+  - first:
+      213: 5551024417636582283
+    second: acceleration123.drawio_42
+  - first:
+      213: -7043006392782287274
+    second: acceleration123.drawio_43
+  - first:
+      213: 7150497434065350594
+    second: acceleration123.drawio_44
+  - first:
+      213: 1544608636737363745
+    second: acceleration123.drawio_45
+  - first:
+      213: -1134575790780787660
+    second: acceleration123.drawio_46
+  - first:
+      213: -363543668034856394
+    second: acceleration123.drawio_47
+  - first:
+      213: 7430067475722582091
+    second: acceleration123.drawio_48
+  - first:
+      213: 4677341818619136998
+    second: acceleration123.drawio_49
+  - first:
+      213: 3535355766199851238
+    second: acceleration123.drawio_50
+  - first:
+      213: 242328382018170721
+    second: acceleration123.drawio_51
+  - first:
+      213: -1128613743880286717
+    second: acceleration123.drawio_52
+  - first:
+      213: 2994571633195763232
+    second: acceleration123.drawio_53
+  - first:
+      213: -6614504761620627605
+    second: acceleration123.drawio_54
+  - first:
+      213: -5001573759390350002
+    second: acceleration123.drawio_55
+  - first:
+      213: -1872555395320615594
+    second: acceleration123.drawio_56
+  - first:
+      213: -8837018183374406815
+    second: acceleration123.drawio_57
+  - first:
+      213: -2253720277734341996
+    second: acceleration123.drawio_58
+  - first:
+      213: -246040583196820077
+    second: acceleration123.drawio_59
+  - first:
+      213: 8192132230407142258
+    second: acceleration123.drawio_60
+  - first:
+      213: 1668312964878483838
+    second: acceleration123.drawio_61
+  - first:
+      213: 9213458638065713390
+    second: acceleration123.drawio_62
+  - first:
+      213: 7116508650923923440
+    second: acceleration123.drawio_63
+  - first:
+      213: -7983747149472453207
+    second: acceleration123.drawio_64
+  - first:
+      213: 2425179325432130303
+    second: acceleration123.drawio_65
+  - first:
+      213: 7879329953415828494
+    second: acceleration123.drawio_66
+  - first:
+      213: -8473125821152741752
+    second: acceleration123.drawio_67
+  - first:
+      213: 8306026651656646608
+    second: acceleration123.drawio_68
+  - first:
+      213: -1253128469450762169
+    second: acceleration123.drawio_69
+  - first:
+      213: 2533566464981615022
+    second: acceleration123.drawio_70
+  - first:
+      213: 132467746095914508
+    second: acceleration123.drawio_71
+  - first:
+      213: -1456391840717292523
+    second: acceleration123.drawio_72
+  - first:
+      213: 7620925807427278612
+    second: acceleration123.drawio_73
+  - first:
+      213: 7325717786548312425
+    second: acceleration123.drawio_74
+  - first:
+      213: 6131361538354069201
+    second: acceleration123.drawio_75
+  - first:
+      213: 6231503474463104458
+    second: acceleration123.drawio_76
+  - first:
+      213: -1913812923868004577
+    second: acceleration123.drawio_77
+  - first:
+      213: 1191255492163034834
+    second: acceleration123.drawio_78
+  - first:
+      213: -2015995495722175985
+    second: acceleration123.drawio_79
+  - first:
+      213: -1902719754293897281
+    second: acceleration123.drawio_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: acceleration123.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 204
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5e4e5a9a1996810800000000000000
+      internalID: 1759097287283631584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 204
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d424798311962540800000000000000
+      internalID: 4982829550828528853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 204
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04b5b49814c3f660800000000000000
+      internalID: 7418488621062534155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 204
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b1f1925a3c08330800000000000000
+      internalID: 3711181207080213322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 204
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238420fd50930eee0800000000000000
+      internalID: -1233923600520427470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 204
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2d7eee7132dbda0800000000000000
+      internalID: -5927542948850314568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 204
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac0ff648be732750800000000000000
+      internalID: 6279001635414805665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 204
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c7b534760b06b90800000000000000
+      internalID: -7250601442508309453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 204
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936c43a829c684fa0800000000000000
+      internalID: -5816279542109256135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 178
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a614a5584985e8c90800000000000000
+      internalID: -7165692562184191638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 178
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7adac732951e9060800000000000000
+      internalID: 6962025791706815100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 178
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c1c6524a7d74ea0800000000000000
+      internalID: -5888500887761183740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 145
+        width: 102
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f63ff87fe8ed7650800000000000000
+      internalID: 6232393574575453945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 152
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d792ef2298bef20800000000000000
+      internalID: 3453004322695642373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 152
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d99890cc5bcd58a0800000000000000
+      internalID: -6314667503274911274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 152
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a80e3f8751c8580800000000000000
+      internalID: -8823653960693806512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 152
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217cba3a463cf8be0800000000000000
+      internalID: -1472743716116773102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 152
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49e472a09b30fb20800000000000000
+      internalID: 3166096030428358988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a9e35939ae28490800000000000000
+      internalID: -7745370489538831842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 152
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc2dc3f70f647550800000000000000
+      internalID: 6157668670468074741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 152
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb829e82bf3616df0800000000000000
+      internalID: -188759778998540097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 152
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6937bb9fc384855a0800000000000000
+      internalID: -6532391832775855210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 152
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47269f133b1a98840800000000000000
+      internalID: 5226886633549816436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 148
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c661eab35683c6fc0800000000000000
+      internalID: -3500360802929600916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 152
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3f7838ea6c57720800000000000000
+      internalID: 2843397192587670443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 152
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f40e2bf40689f40800000000000000
+      internalID: 5735440020876054368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 152
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70baa133ed25c7e70800000000000000
+      internalID: 9114250860184644359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 148
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5debb99e953bc8a10800000000000000
+      internalID: 1913101140478377685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 148
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161f2214d00927a80800000000000000
+      internalID: -8470549562528698015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 152
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1575e31e9c5ebf2f0800000000000000
+      internalID: -937903442146470063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 152
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6361f14c51d9b42c0800000000000000
+      internalID: -4446287490287987146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 132
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df66fdb97f47b0c40800000000000000
+      internalID: 5479601978447193853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 129
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82b69ef7eaa9d310800000000000000
+      internalID: 1430362270052299407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 132
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8f9a3a763916950800000000000000
+      internalID: 6440591015453259997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 132
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d61516330897060800000000000000
+      internalID: 6951728457987485004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45201cfdd6e06e6a0800000000000000
+      internalID: -6420428353701871020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb67d887da6d81420800000000000000
+      internalID: 2601064825346684604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 128
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b711bf2d1e76dcc0800000000000000
+      internalID: -3686620581136885831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 132
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab656dbc58b1b3b0800000000000000
+      internalID: -5498410961588622427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cebac90a1667c60800000000000000
+      internalID: 7815541545799249022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 132
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66a24e1224221ad0800000000000000
+      internalID: -2733082294905297298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 132
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250d8e8f898e78430800000000000000
+      internalID: 3785249755536871506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 132
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b838fb81c43390d40800000000000000
+      internalID: 5551024417636582283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 132
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e086f4007324e90800000000000000
+      internalID: -7043006392782287274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 132
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfaec4088bab3360800000000000000
+      internalID: 7150497434065350594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_45
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f1bb51f5d8f6510800000000000000
+      internalID: 1544608636737363745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_46
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434d0cb545d2140f0800000000000000
+      internalID: -1134575790780787660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_47
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 128
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a9076c5fe64faf0800000000000000
+      internalID: -363543668034856394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_48
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 132
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48b0a3c007ec1760800000000000000
+      internalID: 7430067475722582091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_49
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 135
+        width: 105
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb8fd73a9149e040800000000000000
+      internalID: 4677341818619136998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_50
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 128
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e898f6965b101130800000000000000
+      internalID: 3535355766199851238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_51
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f2039216cec5300800000000000000
+      internalID: 242328382018170721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 127
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e446397cb5650f0800000000000000
+      internalID: -1128613743880286717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_53
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 113
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0264813d80bde8920800000000000000
+      internalID: 2994571633195763232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_54
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 113
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ff876e6fe8434a0800000000000000
+      internalID: -6614504761620627605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_55
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 84
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e458f915a27d69ab0800000000000000
+      internalID: -5001573759390350002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_56
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d6ca70ac85306e0800000000000000
+      internalID: -1872555395320615594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_57
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 74
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bfc4268ca9c5580800000000000000
+      internalID: -8837018183374406815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_58
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492cc8e195d29b0e0800000000000000
+      internalID: -2253720277734341996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_59
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 50
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d3936a463e59cf0800000000000000
+      internalID: -246040583196820077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b327a1cdc40b170800000000000000
+      internalID: 8192132230407142258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 50
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71c2cd6dc9072710800000000000000
+      internalID: 1668312964878483838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_62
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 50
+        width: 53
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee049aaf0d7ccdf70800000000000000
+      internalID: 9213458638065713390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_63
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f79053c9eae2c260800000000000000
+      internalID: 7116508650923923440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_64
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad282b6448043190800000000000000
+      internalID: -7983747149472453207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_65
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 33
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffae0015fb7f7a120800000000000000
+      internalID: 2425179325432130303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_66
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 33
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04127d98d0095d60800000000000000
+      internalID: 7879329953415828494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_67
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 30
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886300d45f8696a80800000000000000
+      internalID: -8473125821152741752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_68
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 33
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfebe28b3fe44370800000000000000
+      internalID: 8306026651656646608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_69
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 33
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7485570eb4efb9ee0800000000000000
+      internalID: -1253128469450762169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_70
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 30
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea14218c649092320800000000000000
+      internalID: 2533566464981615022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_71
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e5e3696be96d100800000000000000
+      internalID: 132467746095914508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_72
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 16
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cb440565bd9cbe0800000000000000
+      internalID: -1456391840717292523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_73
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 16
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4175f4bf4a7f2c960800000000000000
+      internalID: 7620925807427278612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_74
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 16
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96919f7738d2aa560800000000000000
+      internalID: 7325717786548312425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_75
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 16
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de361375d8f61550800000000000000
+      internalID: 6131361538354069201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_76
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 16
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd5cf3e46fba7650800000000000000
+      internalID: 6231503474463104458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_77
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 13
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fbb4a1945c075e0800000000000000
+      internalID: -1913812923868004577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_78
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 16
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de5c1ffe80388010800000000000000
+      internalID: 1191255492163034834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_79
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 16
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0231b027ceb504e0800000000000000
+      internalID: -2015995495722175985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceleration123.drawio_80
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 16
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7913ae67e2895e0800000000000000
+      internalID: -1902719754293897281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      acceleration123.drawio_0: 1759097287283631584
+      acceleration123.drawio_1: 4982829550828528853
+      acceleration123.drawio_10: 6962025791706815100
+      acceleration123.drawio_11: -5888500887761183740
+      acceleration123.drawio_12: 6232393574575453945
+      acceleration123.drawio_13: 3453004322695642373
+      acceleration123.drawio_14: -6314667503274911274
+      acceleration123.drawio_15: -8823653960693806512
+      acceleration123.drawio_16: -1472743716116773102
+      acceleration123.drawio_17: 3166096030428358988
+      acceleration123.drawio_18: -7745370489538831842
+      acceleration123.drawio_19: 6157668670468074741
+      acceleration123.drawio_2: 7418488621062534155
+      acceleration123.drawio_20: -188759778998540097
+      acceleration123.drawio_21: -6532391832775855210
+      acceleration123.drawio_22: 5226886633549816436
+      acceleration123.drawio_23: -3500360802929600916
+      acceleration123.drawio_24: 2843397192587670443
+      acceleration123.drawio_25: 5735440020876054368
+      acceleration123.drawio_26: 9114250860184644359
+      acceleration123.drawio_27: 1913101140478377685
+      acceleration123.drawio_28: -8470549562528698015
+      acceleration123.drawio_29: -937903442146470063
+      acceleration123.drawio_3: 3711181207080213322
+      acceleration123.drawio_30: -4446287490287987146
+      acceleration123.drawio_31: 5479601978447193853
+      acceleration123.drawio_32: 1430362270052299407
+      acceleration123.drawio_33: 6440591015453259997
+      acceleration123.drawio_34: 6951728457987485004
+      acceleration123.drawio_35: -6420428353701871020
+      acceleration123.drawio_36: 2601064825346684604
+      acceleration123.drawio_37: -3686620581136885831
+      acceleration123.drawio_38: -5498410961588622427
+      acceleration123.drawio_39: 7815541545799249022
+      acceleration123.drawio_4: -1233923600520427470
+      acceleration123.drawio_40: -2733082294905297298
+      acceleration123.drawio_41: 3785249755536871506
+      acceleration123.drawio_42: 5551024417636582283
+      acceleration123.drawio_43: -7043006392782287274
+      acceleration123.drawio_44: 7150497434065350594
+      acceleration123.drawio_45: 1544608636737363745
+      acceleration123.drawio_46: -1134575790780787660
+      acceleration123.drawio_47: -363543668034856394
+      acceleration123.drawio_48: 7430067475722582091
+      acceleration123.drawio_49: 4677341818619136998
+      acceleration123.drawio_5: -5927542948850314568
+      acceleration123.drawio_50: 3535355766199851238
+      acceleration123.drawio_51: 242328382018170721
+      acceleration123.drawio_52: -1128613743880286717
+      acceleration123.drawio_53: 2994571633195763232
+      acceleration123.drawio_54: -6614504761620627605
+      acceleration123.drawio_55: -5001573759390350002
+      acceleration123.drawio_56: -1872555395320615594
+      acceleration123.drawio_57: -8837018183374406815
+      acceleration123.drawio_58: -2253720277734341996
+      acceleration123.drawio_59: -246040583196820077
+      acceleration123.drawio_6: 6279001635414805665
+      acceleration123.drawio_60: 8192132230407142258
+      acceleration123.drawio_61: 1668312964878483838
+      acceleration123.drawio_62: 9213458638065713390
+      acceleration123.drawio_63: 7116508650923923440
+      acceleration123.drawio_64: -7983747149472453207
+      acceleration123.drawio_65: 2425179325432130303
+      acceleration123.drawio_66: 7879329953415828494
+      acceleration123.drawio_67: -8473125821152741752
+      acceleration123.drawio_68: 8306026651656646608
+      acceleration123.drawio_69: -1253128469450762169
+      acceleration123.drawio_7: -7250601442508309453
+      acceleration123.drawio_70: 2533566464981615022
+      acceleration123.drawio_71: 132467746095914508
+      acceleration123.drawio_72: -1456391840717292523
+      acceleration123.drawio_73: 7620925807427278612
+      acceleration123.drawio_74: 7325717786548312425
+      acceleration123.drawio_75: 6131361538354069201
+      acceleration123.drawio_76: 6231503474463104458
+      acceleration123.drawio_77: -1913812923868004577
+      acceleration123.drawio_78: 1191255492163034834
+      acceleration123.drawio_79: -2015995495722175985
+      acceleration123.drawio_8: -5816279542109256135
+      acceleration123.drawio_80: -1902719754293897281
+      acceleration123.drawio_9: -7165692562184191638
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

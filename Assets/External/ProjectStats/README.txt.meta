@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba11f76d8fa508d409011a73507b65e9
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286226
+  packageName: Project Stats
+  packageVersion: 1.0
+  assetPath: Assets/ProjectStats/README.txt
+  uploadId: 672222

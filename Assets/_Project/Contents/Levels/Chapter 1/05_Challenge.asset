@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b406289aece41604c82dfa830efb1dbe, type: 3}
+  m_Name: 05_Challenge
+  m_EditorClassIdentifier: 
+  chapter: 1
+  number: 5
+  title: Hovercraft Assembly
+  description: Apply all concepts to finish assembly. Correct alignment activates
+    the neon-lit hovercraft, lifting it slightly.
+  objectives: Assemble and align the five hovercraft parts to the chassis.
+  bronzeObjective: 3/5 Parts Aligned
+  silverObjective: 5/5 Parts Aligned
+  goldObjective: 5/5 Parts Aligned In 30 Seconds
+  timeBonus:
+    timeBonuses: []
+    lowestScore: 10
+  unlockDatas:
+  - icon: 4
+    name: Post Test 1
+    description: Chapter 1 - Fundamentals
+  - icon: 2
+    name: Freeplay > Minigame 1
+    description: Hovercraft Assembly
+  instructions: 'Drag and drop the needed parts to complete the hovercraft. Make
+    sure each component is placed in the correct spot. '
+  dialoguePrefab: {fileID: 9073611175433636603, guid: b6bbad36a4c44fb47bdd5be87c50b698, type: 3}
+  minigamePrefab: {fileID: 4657463289490742628, guid: 19e19dc081254e849b3150c4a3c8e775, type: 3}

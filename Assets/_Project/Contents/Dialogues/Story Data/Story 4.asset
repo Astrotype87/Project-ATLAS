@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d03bc636d4f22964e964f316abda6d60, type: 3}
+  m_Name: Story 4
+  m_EditorClassIdentifier: 
+  chapter: 4
+  title: The Power Within
+  story: 'You and Gizmo arrive at a sci-fi power plant where the cargo airship has
+    very low power becuase the vehicle has not been used for so long. It cannot rise
+    into the air, and its power core is too weak to run the engine. Nothing is working,
+    and the power system is completely unstable. You learn that the problem is connected
+    to work, energy, and power. Work happens when a force makes something move, and
+    energy is needed for that movement to happen.
+
+
+    Your job is to push the red
+    energy source into the white storage box before the timer runs out. When you
+    push the power cell, you are doing work, and this sends energy back to the cargo
+    airship. You must move quickly and stay focused, because if you fail, the cargo
+    airship will shut down. While restoring the power, you also learn that power
+    shows how fast energy is used.
+
+
+    When the energy starts flowing again, the
+    engines return to life. With the power system fixed, the cargo airship becomes
+    ready to lift off again.
+
+'

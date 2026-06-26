@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6bc01ad9ed17fb43bbc3c7a47a6428d, type: 3}
+  m_Name: 06_Lesson
+  m_EditorClassIdentifier: 
+  chapter: 2
+  number: 6
+  title: Rectilinear Motion
+  description: Study motion in straight lines with speed, velocity, and acceleration.
+    {player} accelerates across the desert, guided by motion graphs.
+  objectives: Complete the lesson quiz covering certian concepts in this lesson.
+    Get a half score to proceed to the next level.
+  scoring: Quiz Score * 100 + Time Bonus
+  bronzeObjective: 50% Quiz Score
+  silverObjective: Perfect Quiz Score
+  goldObjective: Perfect Under {goldTime}s
+  timeBonus:
+    timeBonuses:
+    - seconds: 60
+      score: 500
+    - seconds: 70
+      score: 400
+    - seconds: 80
+      score: 300
+    - seconds: 90
+      score: 200
+    - seconds: 100
+      score: 100
+    - seconds: 110
+      score: 50
+    lowestScore: 0
+  unlockDatas:
+  - icon: 1
+    name: Level 7 - Lesson
+    description: Two - DImensional Motion
+  - icon: 5
+    name: Guidebook 04
+    description: Rectilinear Motion
+  - icon: 6
+    name: 7 Glossary Terms
+    description: "Rectilinear Motion, Distance (m), Displacement (x), Time (s), Speed(v),
+      Velocity (v\u02C9), Acceleration (a)"
+  dialoguePrefab: {fileID: 6664043339550924468, guid: 94b17f1beab048f45b565b0df1b66566, type: 3}
+  guidebookPrefab: {fileID: 8956639324432394978, guid: 2f79ec42c6afc6a49ac30a11b4572cbe, type: 3}
+  quizData: {fileID: 11400000, guid: 17daaa8a2dfcfed4280a8a88c3b65497, type: 2}

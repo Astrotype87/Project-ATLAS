@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68cc2dc78c687b34485182e163a463ca, type: 3}
+  m_Name: C3_PostTest
+  m_EditorClassIdentifier: 
+  chapter: 3
+  title: Newton's Laws and Forces
+  description: "Quiz reinforces Newton\u2019s laws and forces. {player} wins a qualifying
+    race, earning prize money for upgrades."
+  objectives: Complete the 8-item post-test quiz covering all topics in this chapter
+    so far. Get the passing score of 4/8 to proceed to the next chapter.
+  scoring: 
+  unlockDatas:
+  - icon: 0
+    name: Chapter 4 - Pre Test
+    description: Work, Power, and Energy
+  - icon: 8
+    name: Chapter 4
+    description: Work, Power, And Energy
+  - icon: 7
+    name: Freeplay > Quiz Level 11, 13
+    description: Newton's Laws of Motion, Forces
+  dialoguePrefab: {fileID: 5966068651547636828, guid: 2dfd84608cc08cd44ba02e25ed43c934, type: 3}
+  chapterQuizData:
+  - {fileID: 11400000, guid: 9ab539559c286c24abf892a6452051d8, type: 2}
+  - {fileID: 11400000, guid: 9bf43a62d661ec04a9b584f28a61b043, type: 2}

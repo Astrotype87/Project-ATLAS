@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b4a2770fa415b547864093efb334240, type: 3}
+  m_Name: 25_Simulation
+  m_EditorClassIdentifier: 
+  chapter: 6
+  number: 25
+  title: Aircraft Rotation Testing
+  description: Apply angular formulas in practice. {player} manages pitch and roll
+    in a test flight.
+  objectives: To experiment and observe rotation statistics.
+  scoring: 
+  bronzeObjective: 
+  silverObjective: 
+  goldObjective: 
+  timeBonus:
+    timeBonuses: []
+    lowestScore: 10
+  unlockDatas:
+  - icon: 3
+    name: 'Level 26 - Challenge '
+    description: Meteor Storm
+  - icon: 2
+    name: Freeplay > Simulation 6
+    description: Aircraft Rotation Testing
+  instructions: Press the Power Button to start moving. Use Left Arrow and Right
+    Arrow to navigate. While navigating locate the finish line. Cross the finish
+    line to complete the level.
+  dialoguePrefab: {fileID: 7534320037471916168, guid: b8da4cfd5f076f54abf7276a9ecda694, type: 3}
+  simulationPrefab: {fileID: 4602832741243846309, guid: 1c6cfcbe113752f4bb9af0a5a46fc38c, type: 3}

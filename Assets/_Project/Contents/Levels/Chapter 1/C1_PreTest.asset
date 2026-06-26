@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f9c6249b17a009468129dc4c39cc478, type: 3}
+  m_Name: C1_PreTest
+  m_EditorClassIdentifier: 
+  chapter: 1
+  title: Fundamentals
+  description: "Test your knowledge of basic physical quantities and measurements.
+    {player} begins assembling the hover vehicle, guided by Gizmo\u2019s questions."
+  objectives: Complete the pre-test quiz. Any score is accepted.
+  unlockDatas:
+  - icon: 1
+    name: Level 1 - Lesson
+    description: Units & Measurements
+  dialoguePrefab: {fileID: 9073611175433636603, guid: 07018a6a6b5835449a56a8f09ef11963, type: 3}
+  chapterQuizData:
+  - {fileID: 11400000, guid: ac2313d1d8b12934f87262cc165a6ce2, type: 2}
+  - {fileID: 11400000, guid: dc05c6b14098b1a4589224ebda6de30a, type: 2}
+  - {fileID: 11400000, guid: 14ae602a664b27c419977119a137f2dc, type: 2}

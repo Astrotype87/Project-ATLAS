@@ -1,0 +1,4 @@
+Unity UI Gradient
+scripts created by azixMcAze at githib.com
+
+https://github.com/azixMcAze/Unity-UIGradient

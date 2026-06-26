@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b4a2770fa415b547864093efb334240, type: 3}
+  m_Name: 33_Simulation
+  m_EditorClassIdentifier: 
+  chapter: 8
+  number: 33
+  title: Wave Stabilization
+  description: Test frequencies and amplitudes if the ship stabilization deck. {player}
+    tunes wave graphs to calm the ship.
+  objectives: Adjust the frequency, ampliture, and phase sliders and observe how
+    it affects the waveform.
+  scoring: 
+  bronzeObjective: 
+  silverObjective: 
+  goldObjective: 
+  timeBonus:
+    timeBonuses: []
+    lowestScore: 10
+  unlockDatas:
+  - icon: 3
+    name: Level 34 - Challenge
+    description: Rift Escape
+  - icon: 2
+    name: Freeplay > Simulation 8
+    description: Anomaly Stabilization
+  instructions: 'The frequency affects how much cycles per second.
+
+    The amplitude
+    affects the crest and through of the waveform.
+
+    The phase affects the starting
+    position of a sine wave.'
+  dialoguePrefab: {fileID: 7259380035970540636, guid: fc6bb8a979efd57489cb9c8a661952f0, type: 3}
+  simulationPrefab: {fileID: 1192800120533284278, guid: 2b462d2e5a135bb4c8152b387e43f877, type: 3}

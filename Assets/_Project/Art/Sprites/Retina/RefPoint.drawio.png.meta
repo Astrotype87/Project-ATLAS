@@ -1,0 +1,2236 @@
+fileFormatVersion: 2
+guid: 34b8da8982a91054ba7a90990a251f47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -887453929526806516
+    second: RefPoint.drawio_0
+  - first:
+      213: 1717150951310846510
+    second: RefPoint.drawio_1
+  - first:
+      213: -5016818524958856991
+    second: RefPoint.drawio_2
+  - first:
+      213: -201832210683960671
+    second: RefPoint.drawio_3
+  - first:
+      213: -5412077325341347705
+    second: RefPoint.drawio_4
+  - first:
+      213: 4520268028695423684
+    second: RefPoint.drawio_5
+  - first:
+      213: -8501755214806600046
+    second: RefPoint.drawio_6
+  - first:
+      213: -5086972294257945343
+    second: RefPoint.drawio_7
+  - first:
+      213: 4364480124594080742
+    second: RefPoint.drawio_8
+  - first:
+      213: -5291678980275629260
+    second: RefPoint.drawio_9
+  - first:
+      213: 7357240422427801188
+    second: RefPoint.drawio_10
+  - first:
+      213: 8270669112885261176
+    second: RefPoint.drawio_11
+  - first:
+      213: 3691747957145668975
+    second: RefPoint.drawio_12
+  - first:
+      213: 2730341371296245873
+    second: RefPoint.drawio_13
+  - first:
+      213: 916279951394215760
+    second: RefPoint.drawio_14
+  - first:
+      213: 508870485649245770
+    second: RefPoint.drawio_15
+  - first:
+      213: 6146256662306628909
+    second: RefPoint.drawio_16
+  - first:
+      213: -7962845229388622475
+    second: RefPoint.drawio_17
+  - first:
+      213: -7188840344585450117
+    second: RefPoint.drawio_18
+  - first:
+      213: -1143761381858311663
+    second: RefPoint.drawio_19
+  - first:
+      213: -7798368524121084628
+    second: RefPoint.drawio_20
+  - first:
+      213: 6298262942294829997
+    second: RefPoint.drawio_21
+  - first:
+      213: -3297778046544822439
+    second: RefPoint.drawio_22
+  - first:
+      213: 5556294777629105864
+    second: RefPoint.drawio_23
+  - first:
+      213: -7191125377105175986
+    second: RefPoint.drawio_24
+  - first:
+      213: -1848233964345461242
+    second: RefPoint.drawio_25
+  - first:
+      213: 6378740953100217665
+    second: RefPoint.drawio_26
+  - first:
+      213: 7080643761415866354
+    second: RefPoint.drawio_27
+  - first:
+      213: -1989154735882262373
+    second: RefPoint.drawio_28
+  - first:
+      213: -8487699132303861546
+    second: RefPoint.drawio_29
+  - first:
+      213: -1228197909657106777
+    second: RefPoint.drawio_30
+  - first:
+      213: 7527211621278076830
+    second: RefPoint.drawio_31
+  - first:
+      213: -8905277461074785340
+    second: RefPoint.drawio_32
+  - first:
+      213: -3056152919260495616
+    second: RefPoint.drawio_33
+  - first:
+      213: 3935534361607460160
+    second: RefPoint.drawio_34
+  - first:
+      213: 2129876053350193918
+    second: RefPoint.drawio_35
+  - first:
+      213: -88205112528761594
+    second: RefPoint.drawio_36
+  - first:
+      213: 3207937039748304134
+    second: RefPoint.drawio_37
+  - first:
+      213: -1326852903469128454
+    second: RefPoint.drawio_38
+  - first:
+      213: -5249871459651096473
+    second: RefPoint.drawio_39
+  - first:
+      213: -9136458409475809948
+    second: RefPoint.drawio_40
+  - first:
+      213: -8369767299063922429
+    second: RefPoint.drawio_41
+  - first:
+      213: -6288583251697540656
+    second: RefPoint.drawio_42
+  - first:
+      213: 5818708121311358775
+    second: RefPoint.drawio_43
+  - first:
+      213: -7540163110891582113
+    second: RefPoint.drawio_44
+  - first:
+      213: 106383324681344610
+    second: RefPoint.drawio_45
+  - first:
+      213: -1300467899422292688
+    second: RefPoint.drawio_46
+  - first:
+      213: -1121621994459804293
+    second: RefPoint.drawio_47
+  - first:
+      213: 3051343477149142225
+    second: RefPoint.drawio_48
+  - first:
+      213: -8841475938551777590
+    second: RefPoint.drawio_49
+  - first:
+      213: -3984237017966416763
+    second: RefPoint.drawio_50
+  - first:
+      213: -2757758520847163235
+    second: RefPoint.drawio_51
+  - first:
+      213: -7093248013212654486
+    second: RefPoint.drawio_52
+  - first:
+      213: -7058439387121849968
+    second: RefPoint.drawio_53
+  - first:
+      213: -618070607699942611
+    second: RefPoint.drawio_54
+  - first:
+      213: 4693056348800489720
+    second: RefPoint.drawio_55
+  - first:
+      213: 1238181218119349990
+    second: RefPoint.drawio_56
+  - first:
+      213: 4768214742244970923
+    second: RefPoint.drawio_57
+  - first:
+      213: -4802598876779415837
+    second: RefPoint.drawio_58
+  - first:
+      213: -85594881889381498
+    second: RefPoint.drawio_59
+  - first:
+      213: 802305302003378171
+    second: RefPoint.drawio_60
+  - first:
+      213: -3883725476029182869
+    second: RefPoint.drawio_61
+  - first:
+      213: -1299272925880238331
+    second: RefPoint.drawio_62
+  - first:
+      213: -970511226301450880
+    second: RefPoint.drawio_63
+  - first:
+      213: 2973721258896429575
+    second: RefPoint.drawio_64
+  - first:
+      213: -7643855315564718211
+    second: RefPoint.drawio_65
+  - first:
+      213: -3498118844354969868
+    second: RefPoint.drawio_66
+  - first:
+      213: 2890193962186750312
+    second: RefPoint.drawio_67
+  - first:
+      213: 2313361736686092575
+    second: RefPoint.drawio_68
+  - first:
+      213: 7475039744656774479
+    second: RefPoint.drawio_69
+  - first:
+      213: 5729998687627712349
+    second: RefPoint.drawio_70
+  - first:
+      213: -8653186901616733
+    second: RefPoint.drawio_71
+  - first:
+      213: -4451986456472562284
+    second: RefPoint.drawio_72
+  - first:
+      213: -4942984573333918674
+    second: RefPoint.drawio_73
+  - first:
+      213: 9003418296473448123
+    second: RefPoint.drawio_74
+  - first:
+      213: -9190027124170121275
+    second: RefPoint.drawio_75
+  - first:
+      213: -7456373275649755546
+    second: RefPoint.drawio_76
+  - first:
+      213: -8339743987057906197
+    second: RefPoint.drawio_77
+  - first:
+      213: -4240405315718608851
+    second: RefPoint.drawio_78
+  - first:
+      213: -7645497150261273749
+    second: RefPoint.drawio_79
+  - first:
+      213: -5490703661536157457
+    second: RefPoint.drawio_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RefPoint.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 112
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08b7006a512fa3f0800000000000000
+      internalID: -887453929526806516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a6b9e31bb84d710800000000000000
+      internalID: 1717150951310846510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 112
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e86a3db12ea06ab0800000000000000
+      internalID: -5016818524958856991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 112
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a263f97ca2f23df0800000000000000
+      internalID: -201832210683960671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 112
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7803516d85074e4b0800000000000000
+      internalID: -5412077325341347705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 112
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca22fb92d73bbe30800000000000000
+      internalID: 4520268028695423684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 112
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296b0262da2b30a80800000000000000
+      internalID: -8501755214806600046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 112
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105508a76a17769b0800000000000000
+      internalID: -5086972294257945343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebceaf9c8fb19c30800000000000000
+      internalID: 4364480124594080742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 112
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4331543010e2096b0800000000000000
+      internalID: -5291678980275629260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 112
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46634f11f2b2a1660800000000000000
+      internalID: 7357240422427801188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 112
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87332500db157c270800000000000000
+      internalID: 8270669112885261176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d01f11539bb3330800000000000000
+      internalID: 3691747957145668975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 107
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1786aafd20f14e520800000000000000
+      internalID: 2730341371296245873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 112
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0571aa9d2c747bc00800000000000000
+      internalID: 916279951394215760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 112
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46cdc5b20fdf0700800000000000000
+      internalID: 508870485649245770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 112
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d252a2fbed3eb4550800000000000000
+      internalID: 6146256662306628909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57590ece37a4e7190800000000000000
+      internalID: -7962845229388622475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 112
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dccf17bcb1c3c90800000000000000
+      internalID: -7188840344585450117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 79
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1128686451b8020f0800000000000000
+      internalID: -1143761381858311663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 79
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dec241521a6c390800000000000000
+      internalID: -7798368524121084628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 79
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab6d71c6cce76750800000000000000
+      internalID: 6298262942294829997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 76
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f3d9bc650fb32d0800000000000000
+      internalID: -3297778046544822439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ced0f769aceb1d40800000000000000
+      internalID: 5556294777629105864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 82
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a595ad19df33c90800000000000000
+      internalID: -7191125377105175986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 76
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60670657001c956e0800000000000000
+      internalID: -1848233964345461242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 79
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d66cfc917d58850800000000000000
+      internalID: 6378740953100217665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 80
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f747447cff734260800000000000000
+      internalID: 7080643761415866354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 76
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98a3748e4a1564e0800000000000000
+      internalID: -1989154735882262373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 79
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d813a2eb92a53a80800000000000000
+      internalID: -8487699132303861546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6c209228094fee0800000000000000
+      internalID: -1228197909657106777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 53
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fc873b617067860800000000000000
+      internalID: 7527211621278076830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 56
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb4852d4591a6480800000000000000
+      internalID: -8905277461074785340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 57
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0018434bc1d5695d0800000000000000
+      internalID: -3056152919260495616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 53
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045d4f886a3dd9630800000000000000
+      internalID: 3935534361607460160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 56
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa9c876cf6de8d10800000000000000
+      internalID: 2129876053350193918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 56
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d8950eae1a6cef0800000000000000
+      internalID: -88205112528761594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 56
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d0404cdb1e48c20800000000000000
+      internalID: 3207937039748304134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 56
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4e6837052169de0800000000000000
+      internalID: -1326852903469128454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 56
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760f803f8b5b427b0800000000000000
+      internalID: -5249871459651096473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 56
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d501ecb77c43180800000000000000
+      internalID: -9136458409475809948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 53
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3014d968cfc98db80800000000000000
+      internalID: -8369767299063922429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 56
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1e816d9d67ab8a0800000000000000
+      internalID: -6288583251697540656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 56
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fa17e153430c050800000000000000
+      internalID: 5818708121311358775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 56
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d8dc2a995fb5790800000000000000
+      internalID: -7540163110891582113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_45
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 53
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26618a5f113f97100800000000000000
+      internalID: 106383324681344610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_46
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 53
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035c22de55fc3fde0800000000000000
+      internalID: -1300467899422292688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d45f71db23f60f0800000000000000
+      internalID: -1121621994459804293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_48
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 33
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc0e2bc9bc885a20800000000000000
+      internalID: 3051343477149142225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_49
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 36
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac635706a74cc4580800000000000000
+      internalID: -8841475938551777590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_50
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 37
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c6623aa8525b8c0800000000000000
+      internalID: -3984237017966416763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_51
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 33
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90299c8c397ab9d0800000000000000
+      internalID: -2757758520847163235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_52
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 36
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64e6bc7388bf8d90800000000000000
+      internalID: -7093248013212654486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_53
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 36
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099e9fd46c26b0e90800000000000000
+      internalID: -7058439387121849968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_54
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 36
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d236fe59e0c2c67f0800000000000000
+      internalID: -618070607699942611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_55
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 36
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8152562e5112140800000000000000
+      internalID: 4693056348800489720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_56
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 36
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e67099f147ee2110800000000000000
+      internalID: 1238181218119349990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_57
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1da448b0a1c2240800000000000000
+      internalID: 4768214742244970923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_58
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 33
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e67fde44cdb95db0800000000000000
+      internalID: -4802598876779415837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_59
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 36
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683546e88e7efcef0800000000000000
+      internalID: -85594881889381498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_60
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 36
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7e25fdb6c522b00800000000000000
+      internalID: 802305302003378171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_61
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 36
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c4524a14c3a1ac0800000000000000
+      internalID: -3883725476029182869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_62
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 36
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f30a2682e08fde0800000000000000
+      internalID: -1299272925880238331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_63
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 36
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085f5c18e2d0882f0800000000000000
+      internalID: -970511226301450880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_64
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 33
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7029c81cab7c44920800000000000000
+      internalID: 2973721258896429575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_65
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d779841e6129be590800000000000000
+      internalID: -7643855315564718211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_66
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 14
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe3f14e17f247fc0800000000000000
+      internalID: -3498118844354969868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_67
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 17
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869be1088180c1820800000000000000
+      internalID: 2890193962186750312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_68
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 18
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11c7282e36ba1020800000000000000
+      internalID: 2313361736686092575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_69
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 14
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4591361b0dacb760800000000000000
+      internalID: 7475039744656774479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_70
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 17
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d571183927b058f40800000000000000
+      internalID: 5729998687627712349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_71
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 17
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7dd8ce8f141eff0800000000000000
+      internalID: -8653186901616733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_72
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 17
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4955a1dc7ed5732c0800000000000000
+      internalID: -4451986456472562284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_73
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 17
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c223838bdf66bb0800000000000000
+      internalID: -4942984573333918674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_74
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 17
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe6d8d0d3192fc70800000000000000
+      internalID: 9003418296473448123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_75
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 17
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf92ab7507767080800000000000000
+      internalID: -9190027124170121275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_76
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 14
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6663e28e204a58890800000000000000
+      internalID: -7456373275649755546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_77
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 14
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beda6b59707434c80800000000000000
+      internalID: -8339743987057906197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_78
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 17
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d280aecf4dd0725c0800000000000000
+      internalID: -4240405315718608851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_79
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 17
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b5a6379dcb5e590800000000000000
+      internalID: -7645497150261273749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefPoint.drawio_80
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 14
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0633f5c1a1dc3b0800000000000000
+      internalID: -5490703661536157457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RefPoint.drawio_0: -887453929526806516
+      RefPoint.drawio_1: 1717150951310846510
+      RefPoint.drawio_10: 7357240422427801188
+      RefPoint.drawio_11: 8270669112885261176
+      RefPoint.drawio_12: 3691747957145668975
+      RefPoint.drawio_13: 2730341371296245873
+      RefPoint.drawio_14: 916279951394215760
+      RefPoint.drawio_15: 508870485649245770
+      RefPoint.drawio_16: 6146256662306628909
+      RefPoint.drawio_17: -7962845229388622475
+      RefPoint.drawio_18: -7188840344585450117
+      RefPoint.drawio_19: -1143761381858311663
+      RefPoint.drawio_2: -5016818524958856991
+      RefPoint.drawio_20: -7798368524121084628
+      RefPoint.drawio_21: 6298262942294829997
+      RefPoint.drawio_22: -3297778046544822439
+      RefPoint.drawio_23: 5556294777629105864
+      RefPoint.drawio_24: -7191125377105175986
+      RefPoint.drawio_25: -1848233964345461242
+      RefPoint.drawio_26: 6378740953100217665
+      RefPoint.drawio_27: 7080643761415866354
+      RefPoint.drawio_28: -1989154735882262373
+      RefPoint.drawio_29: -8487699132303861546
+      RefPoint.drawio_3: -201832210683960671
+      RefPoint.drawio_30: -1228197909657106777
+      RefPoint.drawio_31: 7527211621278076830
+      RefPoint.drawio_32: -8905277461074785340
+      RefPoint.drawio_33: -3056152919260495616
+      RefPoint.drawio_34: 3935534361607460160
+      RefPoint.drawio_35: 2129876053350193918
+      RefPoint.drawio_36: -88205112528761594
+      RefPoint.drawio_37: 3207937039748304134
+      RefPoint.drawio_38: -1326852903469128454
+      RefPoint.drawio_39: -5249871459651096473
+      RefPoint.drawio_4: -5412077325341347705
+      RefPoint.drawio_40: -9136458409475809948
+      RefPoint.drawio_41: -8369767299063922429
+      RefPoint.drawio_42: -6288583251697540656
+      RefPoint.drawio_43: 5818708121311358775
+      RefPoint.drawio_44: -7540163110891582113
+      RefPoint.drawio_45: 106383324681344610
+      RefPoint.drawio_46: -1300467899422292688
+      RefPoint.drawio_47: -1121621994459804293
+      RefPoint.drawio_48: 3051343477149142225
+      RefPoint.drawio_49: -8841475938551777590
+      RefPoint.drawio_5: 4520268028695423684
+      RefPoint.drawio_50: -3984237017966416763
+      RefPoint.drawio_51: -2757758520847163235
+      RefPoint.drawio_52: -7093248013212654486
+      RefPoint.drawio_53: -7058439387121849968
+      RefPoint.drawio_54: -618070607699942611
+      RefPoint.drawio_55: 4693056348800489720
+      RefPoint.drawio_56: 1238181218119349990
+      RefPoint.drawio_57: 4768214742244970923
+      RefPoint.drawio_58: -4802598876779415837
+      RefPoint.drawio_59: -85594881889381498
+      RefPoint.drawio_6: -8501755214806600046
+      RefPoint.drawio_60: 802305302003378171
+      RefPoint.drawio_61: -3883725476029182869
+      RefPoint.drawio_62: -1299272925880238331
+      RefPoint.drawio_63: -970511226301450880
+      RefPoint.drawio_64: 2973721258896429575
+      RefPoint.drawio_65: -7643855315564718211
+      RefPoint.drawio_66: -3498118844354969868
+      RefPoint.drawio_67: 2890193962186750312
+      RefPoint.drawio_68: 2313361736686092575
+      RefPoint.drawio_69: 7475039744656774479
+      RefPoint.drawio_7: -5086972294257945343
+      RefPoint.drawio_70: 5729998687627712349
+      RefPoint.drawio_71: -8653186901616733
+      RefPoint.drawio_72: -4451986456472562284
+      RefPoint.drawio_73: -4942984573333918674
+      RefPoint.drawio_74: 9003418296473448123
+      RefPoint.drawio_75: -9190027124170121275
+      RefPoint.drawio_76: -7456373275649755546
+      RefPoint.drawio_77: -8339743987057906197
+      RefPoint.drawio_78: -4240405315718608851
+      RefPoint.drawio_79: -7645497150261273749
+      RefPoint.drawio_8: 4364480124594080742
+      RefPoint.drawio_80: -5490703661536157457
+      RefPoint.drawio_9: -5291678980275629260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

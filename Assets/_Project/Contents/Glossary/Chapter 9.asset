@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1d62931ab01cd14b84145ae3bdd017f, type: 3}
+  m_Name: Chapter 9
+  m_EditorClassIdentifier: 
+  chapter: 9
+  levelTerms:
+  - level: 35
+    terms:
+    - term: Fluid
+      unit: 
+      type: 1
+      description: Any substance that characterizes flow, no rigid structure and
+        conforms to the shape
+      details: Blaise Pascal noted in one (1) of his studies that pressure applied
+        to a fluid in a closed container is transmitted equally to every point of
+        the fluid and the walls of the container. This is essentially proven to be
+        true and is now called Pascal's principle.
+    - term: 'Density '
+      unit: p
+      type: 1
+      description: Amount of mass m per unit volume V of a substance
+      details: "The density of the liquid. Hence, the locations deeper than point
+        A experience more pressure, and those shallower than point A experience less
+        pressure.\n\nDensity: \u03C1 = m/V\n"
+    - term: 'Specific Gravity '
+      unit: g_sp
+      type: 2
+      description: Ratio of fluids density compared to standard fluid density
+      details: "For liquids, the standard density (pst) used is water, whose density
+        is 1 g/cm3. For gases, the standard density is air (i.e., a mixture of various
+        elemental and compound gases), whose density is 1.29 g/L.\r\n\nDensity: \u03C1
+        = m/V\n\nSpecific Gravity:\ng_sp = \u03C1/\u03C1_st\n\nPressure: P = F/A"
+    - term: 'Pressure '
+      unit: P
+      type: 2
+      description: "Unit is Pa or N/m\xB2"
+      details: "This property is similar to another concept in our previous lesson.
+        For solids, this is called stress. The units of pressure are Pa or N/m2(1
+        Pa = 1 N/m2 or 1kg /m s2), dyne/cm2, or any similar unit with the same dimension.
+        Another frequently used unit of pressure is the atmosphere(atm).\n\nPressure:
+        P = F/A\n\n\u03C1 = pressure\n\u03C1_st = standard density used in water\n"
+    - term: 'Viscosity '
+      unit: "\u03B7"
+      type: 1
+      description: Measure how it resists flowing
+      details: "Viscosity (n, Greek letter \"eta\") is the measure of how it resists
+        flowing. Physically, it is the ratio of shearing stress (r) to the velocity
+        gradient in a fluid. Liquids such as water and cooking oil flow easily because
+        of their low viscosity, while thick fluids such as honey and condensed milk
+        tend to resist flowing. The unit of viscosity is pascal-second (Pa \u22C5
+        s), but it is rarely used in the scientific community, preferring the Poise
+        [pronounced pwahz] (P) and the dyne-s/ cm2 over it. The unit Poise is named
+        in honor of the French physiologist Jean Poiseuille. Ten (10) poise is equal
+        to one (1) Pa \u22C5 s, making the centipoise (cP) equal to a millipascal-second
+        (mPa \u22C5s).\n\n\n"

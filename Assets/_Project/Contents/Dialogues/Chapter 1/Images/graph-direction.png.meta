@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 266b53e2224499141904b78f87356425
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6414636898299554971
+    second: graph-direction_0
+  - first:
+      213: -129779357163286759
+    second: graph-direction_1
+  - first:
+      213: 5501682046469859910
+    second: graph-direction_2
+  - first:
+      213: 6549265031403714658
+    second: graph-direction_3
+  - first:
+      213: 972929622972132915
+    second: graph-direction_4
+  - first:
+      213: 7039167670544272993
+    second: graph-direction_5
+  - first:
+      213: -976502637553971441
+    second: graph-direction_6
+  - first:
+      213: -3513993176278289300
+    second: graph-direction_7
+  - first:
+      213: -3212736927269269525
+    second: graph-direction_8
+  - first:
+      213: -355498004873469271
+    second: graph-direction_9
+  - first:
+      213: -849927170402496389
+    second: graph-direction_10
+  - first:
+      213: 34930655032980949
+    second: graph-direction_11
+  - first:
+      213: 9166537645823025099
+    second: graph-direction_12
+  - first:
+      213: 1144943000271098309
+    second: graph-direction_13
+  - first:
+      213: -6183486425688972820
+    second: graph-direction_14
+  - first:
+      213: -1720701048229222668
+    second: graph-direction_15
+  - first:
+      213: -2925816445981165667
+    second: graph-direction_16
+  - first:
+      213: 9038347670559303367
+    second: graph-direction_17
+  - first:
+      213: 7811673173713024697
+    second: graph-direction_18
+  - first:
+      213: -8195967328681114667
+    second: graph-direction_19
+  - first:
+      213: -5534503477698166521
+    second: graph-direction_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: graph-direction_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 434
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563ddb92ab1aaf6a0800000000000000
+      internalID: -6414636898299554971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 434
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f8a1dbc5ee23ef0800000000000000
+      internalID: -129779357163286759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 434
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64aeafe0ca6e95c40800000000000000
+      internalID: 5501682046469859910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 434
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268b4b8b8d9a3ea50800000000000000
+      internalID: 6549265031403714658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 433
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e65b8565a808d00800000000000000
+      internalID: 972929622972132915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 434
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e843583b520b160800000000000000
+      internalID: 7039167670544272993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 434
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f0d5e5604c272f0800000000000000
+      internalID: -976502637553971441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 433
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6439c8f2d9cb3fc0800000000000000
+      internalID: -3513993176278289300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 434
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befc55559c01a63d0800000000000000
+      internalID: -3212736927269269525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 319
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a22825b274011bf0800000000000000
+      internalID: -355498004873469271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 323
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70d43bddb37434f0800000000000000
+      internalID: -849927170402496389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_11
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 324
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d53305ee391c7000800000000000000
+      internalID: 34930655032980949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 341
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfd6872c65163f70800000000000000
+      internalID: 9166537645823025099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 54
+        width: 302
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c19a33b797a3ef00800000000000000
+      internalID: 1144943000271098309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_14
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 284
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1eb5b7bd7df2aa0800000000000000
+      internalID: -6183486425688972820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 284
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6a7a76387de18e0800000000000000
+      internalID: -1720701048229222668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_16
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 284
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97fb4ba1796567d0800000000000000
+      internalID: -2925816445981165667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_17
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 283
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6aa24b159ae6d70800000000000000
+      internalID: 9038347670559303367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 144
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6fc9c0d53a86c60800000000000000
+      internalID: 7811673173713024697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 144
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3414f7323124e80800000000000000
+      internalID: -8195967328681114667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-direction_20
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 18
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70103abf86e7133b0800000000000000
+      internalID: -5534503477698166521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      graph-direction_0: -6414636898299554971
+      graph-direction_1: -129779357163286759
+      graph-direction_10: -849927170402496389
+      graph-direction_11: 34930655032980949
+      graph-direction_12: 9166537645823025099
+      graph-direction_13: 1144943000271098309
+      graph-direction_14: -6183486425688972820
+      graph-direction_15: -1720701048229222668
+      graph-direction_16: -2925816445981165667
+      graph-direction_17: 9038347670559303367
+      graph-direction_18: 7811673173713024697
+      graph-direction_19: -8195967328681114667
+      graph-direction_2: 5501682046469859910
+      graph-direction_20: -5534503477698166521
+      graph-direction_3: 6549265031403714658
+      graph-direction_4: 972929622972132915
+      graph-direction_5: 7039167670544272993
+      graph-direction_6: -976502637553971441
+      graph-direction_7: -3513993176278289300
+      graph-direction_8: -3212736927269269525
+      graph-direction_9: -355498004873469271
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

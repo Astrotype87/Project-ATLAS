@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level39
+  m_EditorClassIdentifier: 
+  level: Level 39
+  name: Heat
+  description: 'Energy transfer, thermal expansion, heat units, and the three methods
+    of heat transfer: conduction, convection, and radiation.'
+  quizItems:
+  - rid: 138986247837974649
+  - rid: 138986247837974650
+  - rid: 138986247837974651
+  - rid: 138986247837974652
+  - rid: 138986247837974654
+  - rid: 138986247837974655
+  - rid: 138986247837974656
+  references:
+    version: 2
+    RefIds:
+    - rid: 138986247837974649
+      type: {class: MatchingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        pairs:
+        - question:
+          - If two systems are in equilibrium, another object added will also reach
+            equilibrium.
+          correctAnswer: Zeroth Law of Thermodynamics
+        - question:
+          - Heat transfer by direct contact.
+          correctAnswer: Conduction
+        - question:
+          - "The energy required to raise the temperature of 1 gram of water by 1\xB0C."
+          correctAnswer: Calorie
+        - question:
+          - Heat transfer through electromagnetic waves like light.
+          correctAnswer: Radiation
+        wrongAnswers: []
+    - rid: 138986247837974650
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Which of the following processes of heat transfer occurs when boiling water
+          circulates inside a pot?
+        - Which of the following describes the way soup in a pot circulates heat?
+        - Which of the following heat transfer processes is demonstrated by boiling
+          water?
+        correctAnswer:
+        - Convection
+        wrongAnswers:
+        - Radiation
+        - Conduction
+        - Reflection
+        choiceCount: 4
+    - rid: 138986247837974651
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Which of the following units is commonly used along with Joule to measure
+          heat?
+        - Which of the following is used to measure heat in food labels?
+        - Which of the following is a unit of heat aside from Joule?
+        correctAnswer:
+        - Calorie
+        wrongAnswers:
+        - Newton
+        - Watt
+        - Pascal
+        choiceCount: 4
+    - rid: 138986247837974652
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - "Which of the following coefficients is used in two-dimensional thermal
+          expansion instead of \u03B1?"
+        - Which of the following coefficients replaces alpha in surface expansion?
+        - Which of the following symbols is used in area expansion?
+        correctAnswer:
+        - "\u03B2 (beta)"
+        wrongAnswers:
+        - "\u03B4 (delta)"
+        - "\u03B8 (theta)"
+        - "\u03B3 (gamma)"
+        choiceCount: 4
+    - rid: 138986247837974654
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - Which of the following best describes a blackbody?
+        - Which of the following describes a body that absorbs and emits radiation
+          at the same rate?
+        - Which of the following describes a thermal body that takes in and gives
+          off radiation efficiently?
+        correctAnswer:
+        - Absorbs and emits radiation equally well
+        wrongAnswers:
+        - Reflects most radiation and absorbs little.
+        - Only transfers heat by conduction.
+        - Cannot emit radiation at all.
+        choiceCount: 4
+    - rid: 138986247837974655
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - "Which of the following is the linear expansion coefficient for a 2\u202Fm
+          metal rod that expands by 0.002\u202Fm when heated by 100\xB0C?"
+        - "Which of the following represents the linear expansion coefficient (\u03B1)
+          for a 2\u202Fm rod that expands by 0.002\u202Fm at \u0394T = 100\xB0C?"
+        correctAnswer:
+        - "1 x 10^-5 / \xB0C"
+        wrongAnswers:
+        - "1 x 10^-6 / \xB0C"
+        - "2 x 10^-5 / \xB0C"
+        - "1 x 10^-6 / \xB0C"
+        choiceCount: 4
+    - rid: 138986247837974656
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - Which of the following statements about heat transfer is incorrect?
+        - Which of the following identifies the false heat transfer property?
+        - Which of the following choices does not correctly describe how heat is
+          transferred?
+        correctAnswer:
+        - Heat transfer only happens in solids.
+        wrongAnswers:
+        - Conduction requires physical contact.
+        - Convection involves mass movement.
+        - Radiation does not require a medium.
+        choiceCount: 4

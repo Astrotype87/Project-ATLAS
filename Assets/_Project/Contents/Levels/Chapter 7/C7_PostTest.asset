@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68cc2dc78c687b34485182e163a463ca, type: 3}
+  m_Name: C7_PostTest
+  m_EditorClassIdentifier: 
+  chapter: 7
+  title: Gravity
+  description: Quiz on gravity and motion. {player} discovers a strange anomaly.
+  objectives: Complete the 8-item post-test quiz covering all topics in this chapter
+    so far. Get the passing score of 4/8 to proceed to the next chapter.
+  scoring: 
+  unlockDatas:
+  - icon: 0
+    name: Chapter 8 - Pre Test
+    description: Periodic Motion and Vibrations
+  - icon: 8
+    name: Chapter 8
+    description: Periodic Motion and Vibrations
+  - icon: 7
+    name: Freeplay > Quiz Level 27, 29
+    description: Gravity
+  dialoguePrefab: {fileID: 2802532215440324578, guid: 3bc3c5f560e80a94d9cf291db6ad4a01, type: 3}
+  chapterQuizData:
+  - {fileID: 11400000, guid: ca3475f76fce61041b689d03fb07f953, type: 2}
+  - {fileID: 11400000, guid: 7972ecacf35df9b469aab19d1780ecbb, type: 2}

@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 35
+  m_EditorClassIdentifier: 
+  level: Level 35
+  name: Fluid Mechanics
+  description: Fluid concepts including pressure, density, buoyancy, specific gravity,
+    and viscosity, and how they affect floating and movement in fluids.
+  quizItems:
+  - rid: 7832858378969808896
+  - rid: 7832858378969808897
+  - rid: 7832858378969808898
+  - rid: 7832858379704074288
+  - rid: 7832858379704074289
+  - rid: 7832858379704074290
+  - rid: 7832858379704074291
+  - rid: 7832858379704074292
+  - rid: 3818007397566513159
+  references:
+    version: 2
+    RefIds:
+    - rid: 3818007397566513159
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - A metal cube has a mass of {m} kg and a volume of {v} cm3. Calculate the
+          density of the metal.
+        formula: m / v
+        variables:
+        - variable: m
+          name: Mass
+          unit: g
+          range:
+            min: 19.61
+            max: 25.97
+        - variable: v
+          name: Volume
+          unit: cm3
+          range:
+            min: 13
+            max: 7.7
+        variable: D
+        name: Density
+        unit: kg/m^3
+        rounding: 2
+    - rid: 7832858378969808896
+      type: {class: MatchingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        pairs:
+        - question:
+          - This refers to any substance that characterizes flow.
+          - This can either be a liquid or a gas.
+          - This has no shape but is denser than a solid.
+          correctAnswer: Fluid
+        - question:
+          - This is defined as the amount of mass per unit volume of a substance.
+          - 'It can be computed by simply dividing the mass of the object by its
+            volume. '
+          correctAnswer: Density
+        - question:
+          - This is a measure of how much force is applied over a given area.
+          - It is the magnitude of the force on a surface per unit area.
+          correctAnswer: Pressure
+        - question:
+          - 'This is the measure of how it resists flowing. '
+          - 'This is the measure of how much it opposes flow. '
+          correctAnswer: Viscosity
+        wrongAnswers:
+        - Specific Gravity
+        - Poise
+        - Liquid
+    - rid: 7832858378969808897
+      type: {class: FillInTheBlanksItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - "\rFill in the blanks with the correct term for each statement. The equation
+          for Density (1)__________. The equation for Pressure (2)__________. The
+          measurement unit for Viscosity (3)__________.\n"
+        correctAnswers:
+        - Mass / Volume
+        - Force / Area
+        - Poise (P)
+        wrongAnswers:
+        - Power (P)
+        - Force * Distance
+    - rid: 7832858378969808898
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - A mechanic tests engine oil. The shear stress is {t} N/m2 and the velocity
+          gradientnis {g}. Find the viscosity.
+        formula: t / g
+        variables:
+        - variable: t
+          name: Shear Stress
+          unit: N/m2
+          range:
+            min: 4
+            max: 8
+        - variable: g
+          name: Velocity Gradient
+          unit: per second
+          range:
+            min: 1
+            max: 9
+        variable: V
+        name: Viscosity
+        unit: Poise
+        rounding: 2
+    - rid: 7832858379704074288
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - A gold ring has a mass of {m} g. When measured, it is found to have a volume
+          of {v} cm3. Find the density of the gold ring.
+        formula: m / v
+        variables:
+        - variable: m
+          name: Mass
+          unit: g
+          range:
+            min: 12
+            max: 18
+        - variable: v
+          name: Volume
+          unit: cm3
+          range:
+            min: 10
+            max: 14
+        variable: D
+        name: Density
+        unit: kg/m^3
+        rounding: 2
+    - rid: 7832858379704074289
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. Density is defined as
+          the amount of volume per unit mass of a substance. It can be computed by
+          simply dividing the volume of the object by its mass.
+        - Determine whether the statement is True or False. The amount of volume
+          per unit mass of a substance is known as its density. It is easily calculated
+          by dividing the object's mass by its volume.
+        - Determine whether the statement is True or False. A substance's density
+          is defined as its volume  per unit mass. It can be computed simply by dividing
+          the mass of the object by its volume.
+        correctAnswer: 0
+    - rid: 7832858379704074290
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. Fluid is any substance
+          that characterizes flow, i.e., any substance that has no rigid structure
+          is amorphous and conforms to the shape of the receptacle it is in.
+        - Determine whether the statement is True or False. Any material that exhibits
+          flow is considered fluid; that is, any material that is amorphous, has
+          a rigid structure, and takes on the shape of the container it is in.
+        - Determine whether the statement is True or False. Any material that flows
+          is referred to as fluid; this includes amorphous materials with stiff structures
+          that adopt the shape of the container they are in.
+        correctAnswer: 1
+    - rid: 7832858379704074291
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - 'Determine whether the statement is True or False. The amount of force
+          exerted over a specific area is measured as pressure. '
+        - Determine whether the statement is True or False. It is the amount of force
+          per unit area acting on a surface.
+        - 'Determine whether the statement is True or False. Pressure is a measurement
+          of the force applied across a given area. '
+        correctAnswer: 1
+    - rid: 7832858379704074292
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. The unit Poise is named
+          in honor of the English scientist Isaac Newton.
+        - Determine whether the statement is True or False. The unit Poise is named
+          in honor of the Italian inventor Galileo Galilei.
+        - Determine whether the statement is True or False. The unit Poise is named
+          in honor of the German physicist Albert Einstein.
+        correctAnswer: 0

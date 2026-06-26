@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 5be4e82d12a225c43b03ef2dfac27b24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5336325843232769468
+    second: velocity123.drawio_0
+  - first:
+      213: 5452793891926505767
+    second: velocity123.drawio_1
+  - first:
+      213: -7340655109541472824
+    second: velocity123.drawio_2
+  - first:
+      213: -7815178912331973767
+    second: velocity123.drawio_3
+  - first:
+      213: -3103347527736060184
+    second: velocity123.drawio_4
+  - first:
+      213: -799768546021248736
+    second: velocity123.drawio_5
+  - first:
+      213: -3429182252194711238
+    second: velocity123.drawio_6
+  - first:
+      213: 5342985642293661311
+    second: velocity123.drawio_7
+  - first:
+      213: -3227062978109057689
+    second: velocity123.drawio_8
+  - first:
+      213: 6300466594039338208
+    second: velocity123.drawio_9
+  - first:
+      213: 7167186009086588266
+    second: velocity123.drawio_10
+  - first:
+      213: 5791586061592112168
+    second: velocity123.drawio_11
+  - first:
+      213: -3190381877285829706
+    second: velocity123.drawio_12
+  - first:
+      213: 2582872837688498891
+    second: velocity123.drawio_13
+  - first:
+      213: 125583978837329194
+    second: velocity123.drawio_14
+  - first:
+      213: -1083820304135245899
+    second: velocity123.drawio_15
+  - first:
+      213: 52868160389649285
+    second: velocity123.drawio_16
+  - first:
+      213: -7866395707408066408
+    second: velocity123.drawio_17
+  - first:
+      213: 904680731229649386
+    second: velocity123.drawio_18
+  - first:
+      213: -3980336056312982831
+    second: velocity123.drawio_19
+  - first:
+      213: -561675292250262893
+    second: velocity123.drawio_20
+  - first:
+      213: -1339981963495088145
+    second: velocity123.drawio_21
+  - first:
+      213: -5216223237003061360
+    second: velocity123.drawio_22
+  - first:
+      213: 1835892123253009881
+    second: velocity123.drawio_23
+  - first:
+      213: 7959960133439929304
+    second: velocity123.drawio_24
+  - first:
+      213: 7140909043057161407
+    second: velocity123.drawio_25
+  - first:
+      213: 8908375638670637692
+    second: velocity123.drawio_26
+  - first:
+      213: 1861922368396933267
+    second: velocity123.drawio_27
+  - first:
+      213: -2500026341535771561
+    second: velocity123.drawio_28
+  - first:
+      213: 6260491042617105994
+    second: velocity123.drawio_29
+  - first:
+      213: -742223377625212756
+    second: velocity123.drawio_30
+  - first:
+      213: 472295818949818177
+    second: velocity123.drawio_31
+  - first:
+      213: 4849823877295750149
+    second: velocity123.drawio_32
+  - first:
+      213: -2699938373223894226
+    second: velocity123.drawio_33
+  - first:
+      213: 7124116270290658266
+    second: velocity123.drawio_34
+  - first:
+      213: -8956448161345523501
+    second: velocity123.drawio_35
+  - first:
+      213: -8096214989528924918
+    second: velocity123.drawio_36
+  - first:
+      213: 6191525472895113023
+    second: velocity123.drawio_37
+  - first:
+      213: -929532435295755706
+    second: velocity123.drawio_38
+  - first:
+      213: 1883016941046866943
+    second: velocity123.drawio_39
+  - first:
+      213: -9124432961491400312
+    second: velocity123.drawio_40
+  - first:
+      213: 8583769678130663993
+    second: velocity123.drawio_41
+  - first:
+      213: -968921505480817916
+    second: velocity123.drawio_42
+  - first:
+      213: 4519017166890276007
+    second: velocity123.drawio_43
+  - first:
+      213: 1364903616933103920
+    second: velocity123.drawio_44
+  - first:
+      213: -1890966192668243891
+    second: velocity123.drawio_45
+  - first:
+      213: 9089316907581094462
+    second: velocity123.drawio_46
+  - first:
+      213: -6221153001313039524
+    second: velocity123.drawio_47
+  - first:
+      213: -8129742891425078640
+    second: velocity123.drawio_48
+  - first:
+      213: -417726306705653725
+    second: velocity123.drawio_49
+  - first:
+      213: 7495992342718812787
+    second: velocity123.drawio_50
+  - first:
+      213: 8851064962709339437
+    second: velocity123.drawio_51
+  - first:
+      213: 6793597152708330369
+    second: velocity123.drawio_52
+  - first:
+      213: 4220677118500869669
+    second: velocity123.drawio_53
+  - first:
+      213: 404279539247359381
+    second: velocity123.drawio_54
+  - first:
+      213: 529491428155706380
+    second: velocity123.drawio_55
+  - first:
+      213: -3840565768245008495
+    second: velocity123.drawio_56
+  - first:
+      213: -4357335357377374236
+    second: velocity123.drawio_57
+  - first:
+      213: 3624747451608131712
+    second: velocity123.drawio_58
+  - first:
+      213: 1786888773569252728
+    second: velocity123.drawio_59
+  - first:
+      213: 680732232648724392
+    second: velocity123.drawio_60
+  - first:
+      213: 6234013450461960388
+    second: velocity123.drawio_61
+  - first:
+      213: 4284431885524984732
+    second: velocity123.drawio_62
+  - first:
+      213: 3853951967930205357
+    second: velocity123.drawio_63
+  - first:
+      213: 6330171036828173092
+    second: velocity123.drawio_64
+  - first:
+      213: -2203338741755515213
+    second: velocity123.drawio_65
+  - first:
+      213: 6300402639872953994
+    second: velocity123.drawio_66
+  - first:
+      213: 384160556285199281
+    second: velocity123.drawio_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: velocity123.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 202
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb540a3d4107e0a40800000000000000
+      internalID: 5336325843232769468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 202
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729f2b197273cab40800000000000000
+      internalID: 5452793891926505767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 202
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5df110211c02a90800000000000000
+      internalID: -7340655109541472824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 202
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b34529f28ea8390800000000000000
+      internalID: -7815178912331973767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 202
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e694b2add1bee4d0800000000000000
+      internalID: -3103347527736060184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 219
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0217fd7aeb6a6e4f0800000000000000
+      internalID: -799768546021248736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 202
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a393cd309e81960d0800000000000000
+      internalID: -3429182252194711238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 196
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e0de02229162a40800000000000000
+      internalID: 5342985642293661311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 165
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765def1b15b2733d0800000000000000
+      internalID: -3227062978109057689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 165
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e41ee86cf0cf6750800000000000000
+      internalID: 6300466594039338208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 165
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6571cea3b5f67360800000000000000
+      internalID: 7167186009086588266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 165
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c2d4f76d8df5050800000000000000
+      internalID: 5791586061592112168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 165
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3c882069c79b3d0800000000000000
+      internalID: -3190381877285829706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 133
+        width: 102
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca9d66492538d320800000000000000
+      internalID: 2582872837688498891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 139
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a254410a6f92eb100800000000000000
+      internalID: 125583978837329194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 139
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfa9abfc2f75f0f0800000000000000
+      internalID: -1083820304135245899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58314ffcf43dbb000800000000000000
+      internalID: 52868160389649285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 139
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898d84538c2f4d290800000000000000
+      internalID: -7866395707408066408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 139
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae97514f4521e8c00800000000000000
+      internalID: 904680731229649386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 136
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d219cc027103c8c0800000000000000
+      internalID: -3980336056312982831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 139
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3923f4e2c478438f0800000000000000
+      internalID: -561675292250262893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 139
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefd174f08d676de0800000000000000
+      internalID: -1339981963495088145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 139
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0975b494a904c97b0800000000000000
+      internalID: -5216223237003061360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 139
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddee6cb8266a7910800000000000000
+      internalID: 1835892123253009881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 139
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db35f35195777e60800000000000000
+      internalID: 7959960133439929304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4fbc4c0fa991360800000000000000
+      internalID: 7140909043057161407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 139
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7af4bcd178e0ab70800000000000000
+      internalID: 8908375638670637692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 137
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39837a77780e6d910800000000000000
+      internalID: 1861922368396933267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 122
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75414afb94f1e4dd0800000000000000
+      internalID: -2500026341535771561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 119
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e15ba0f6bb1e650800000000000000
+      internalID: 6260491042617105994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 122
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca898a045c713b5f0800000000000000
+      internalID: -742223377625212756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 122
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147f7658b8eed8600800000000000000
+      internalID: 472295818949818177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 119
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cbb65fe190e4340800000000000000
+      internalID: 4849823877295750149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 122
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e233b8cba54e78ad0800000000000000
+      internalID: -2699938373223894226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 123
+        width: 105
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3614da002fdd260800000000000000
+      internalID: 7124116270290658266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0bccdb9dd44b380800000000000000
+      internalID: -8956448161345523501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 105
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d7fe3dc5774af80800000000000000
+      internalID: -8096214989528924918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 105
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3712bd0d97bce550800000000000000
+      internalID: 6191525472895113023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 105
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6422efacc23a913f0800000000000000
+      internalID: -929532435295755706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 103
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff324256ee1d12a10800000000000000
+      internalID: 1883016941046866943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 84
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889807990908f5180800000000000000
+      internalID: -9124432961491400312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 75
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9325fb22b0daf1770800000000000000
+      internalID: 8583769678130663993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403449a3603bd82f0800000000000000
+      internalID: -968921505480817916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 50
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a41366ab26c6be30800000000000000
+      internalID: 4519017166890276007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 50
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03981f7ab9c11f210800000000000000
+      internalID: 1364903616933103920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 50
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d488cbb3440f1c5e0800000000000000
+      internalID: -1890966192668243891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 50
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ab257f19db32e70800000000000000
+      internalID: 9089316907581094462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_47
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 47
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b816f6e460aa9a0800000000000000
+      internalID: -6221153001313039524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_48
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092e959d9e95d2f80800000000000000
+      internalID: -8129742891425078640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 47
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32049732320f33af0800000000000000
+      internalID: -417726306705653725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_50
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3729dcaf15d170860800000000000000
+      internalID: 7495992342718812787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d323a40bc45da70800000000000000
+      internalID: 8851064962709339437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 33
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183094acd94b74e50800000000000000
+      internalID: 6793597152708330369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_53
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5261dd72a7bd29a30800000000000000
+      internalID: 4220677118500869669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_54
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 33
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5952cc6591a4c9500800000000000000
+      internalID: 404279539247359381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_55
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 33
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cc5d606a1295700800000000000000
+      internalID: 529491428155706380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_56
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 30
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1972b3f28c193bac0800000000000000
+      internalID: -3840565768245008495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_57
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 33
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e795402492a783c0800000000000000
+      internalID: -4357335357377374236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_58
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088ea9d3a90bd4230800000000000000
+      internalID: 3624747451608131712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 16
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d8ab94fdd4cc810800000000000000
+      internalID: 1786888773569252728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af8f22eb52727900800000000000000
+      internalID: 680732232648724392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8dac7343aa38650800000000000000
+      internalID: 6234013450461960388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_62
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 16
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93e219991c557b30800000000000000
+      internalID: 4284431885524984732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4c5ed45ecfb7530800000000000000
+      internalID: 3853951967930205357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_64
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 13
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4230c91f40949d750800000000000000
+      internalID: 6330171036828173092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_65
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 16
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be6ec1961b2c61e0800000000000000
+      internalID: -2203338741755515213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_66
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 16
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e8f8be1d68f6750800000000000000
+      internalID: 6300402639872953994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: velocity123.drawio_67
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 16
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b388169dffc45500800000000000000
+      internalID: 384160556285199281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      velocity123.drawio_0: 5336325843232769468
+      velocity123.drawio_1: 5452793891926505767
+      velocity123.drawio_10: 7167186009086588266
+      velocity123.drawio_11: 5791586061592112168
+      velocity123.drawio_12: -3190381877285829706
+      velocity123.drawio_13: 2582872837688498891
+      velocity123.drawio_14: 125583978837329194
+      velocity123.drawio_15: -1083820304135245899
+      velocity123.drawio_16: 52868160389649285
+      velocity123.drawio_17: -7866395707408066408
+      velocity123.drawio_18: 904680731229649386
+      velocity123.drawio_19: -3980336056312982831
+      velocity123.drawio_2: -7340655109541472824
+      velocity123.drawio_20: -561675292250262893
+      velocity123.drawio_21: -1339981963495088145
+      velocity123.drawio_22: -5216223237003061360
+      velocity123.drawio_23: 1835892123253009881
+      velocity123.drawio_24: 7959960133439929304
+      velocity123.drawio_25: 7140909043057161407
+      velocity123.drawio_26: 8908375638670637692
+      velocity123.drawio_27: 1861922368396933267
+      velocity123.drawio_28: -2500026341535771561
+      velocity123.drawio_29: 6260491042617105994
+      velocity123.drawio_3: -7815178912331973767
+      velocity123.drawio_30: -742223377625212756
+      velocity123.drawio_31: 472295818949818177
+      velocity123.drawio_32: 4849823877295750149
+      velocity123.drawio_33: -2699938373223894226
+      velocity123.drawio_34: 7124116270290658266
+      velocity123.drawio_35: -8956448161345523501
+      velocity123.drawio_36: -8096214989528924918
+      velocity123.drawio_37: 6191525472895113023
+      velocity123.drawio_38: -929532435295755706
+      velocity123.drawio_39: 1883016941046866943
+      velocity123.drawio_4: -3103347527736060184
+      velocity123.drawio_40: -9124432961491400312
+      velocity123.drawio_41: 8583769678130663993
+      velocity123.drawio_42: -968921505480817916
+      velocity123.drawio_43: 4519017166890276007
+      velocity123.drawio_44: 1364903616933103920
+      velocity123.drawio_45: -1890966192668243891
+      velocity123.drawio_46: 9089316907581094462
+      velocity123.drawio_47: -6221153001313039524
+      velocity123.drawio_48: -8129742891425078640
+      velocity123.drawio_49: -417726306705653725
+      velocity123.drawio_5: -799768546021248736
+      velocity123.drawio_50: 7495992342718812787
+      velocity123.drawio_51: 8851064962709339437
+      velocity123.drawio_52: 6793597152708330369
+      velocity123.drawio_53: 4220677118500869669
+      velocity123.drawio_54: 404279539247359381
+      velocity123.drawio_55: 529491428155706380
+      velocity123.drawio_56: -3840565768245008495
+      velocity123.drawio_57: -4357335357377374236
+      velocity123.drawio_58: 3624747451608131712
+      velocity123.drawio_59: 1786888773569252728
+      velocity123.drawio_6: -3429182252194711238
+      velocity123.drawio_60: 680732232648724392
+      velocity123.drawio_61: 6234013450461960388
+      velocity123.drawio_62: 4284431885524984732
+      velocity123.drawio_63: 3853951967930205357
+      velocity123.drawio_64: 6330171036828173092
+      velocity123.drawio_65: -2203338741755515213
+      velocity123.drawio_66: 6300402639872953994
+      velocity123.drawio_67: 384160556285199281
+      velocity123.drawio_7: 5342985642293661311
+      velocity123.drawio_8: -3227062978109057689
+      velocity123.drawio_9: 6300466594039338208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

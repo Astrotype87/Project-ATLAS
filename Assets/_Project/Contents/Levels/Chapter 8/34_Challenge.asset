@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b406289aece41604c82dfa830efb1dbe, type: 3}
+  m_Name: 34_Challenge
+  m_EditorClassIdentifier: 
+  chapter: 8
+  number: 34
+  title: Rift Escape
+  description: Navigate chaos of shifting waves. {player} pilots through to escape
+    the anomaly.
+  objectives: (INSERT MINIGAME 8 OBJECTIVES)
+  scoring: 
+  bronzeObjective: 
+  silverObjective: 
+  goldObjective: 
+  timeBonus:
+    timeBonuses: []
+    lowestScore: 10
+  unlockDatas:
+  - icon: 4
+    name: Chapter 8 - Post Test
+    description: Periodic Motion and Vibrations
+  - icon: 3
+    name: Freeplay > Minigame 8
+    description: Rift Escape
+  instructions: (INSERT MINIGAME 8 INSTRUCTIONS)
+  dialoguePrefab: {fileID: 2178675804815010942, guid: 29c4e2ab391270f43a697e3acdc99da7, type: 3}
+  minigamePrefab: {fileID: 0}

@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 15
+  m_EditorClassIdentifier: 
+  level: Level 15
+  name: Work and Power
+  description: The concepts of work and power, explaining how force, movement, and
+    time determine energy and performance.
+  quizItems:
+  - rid: 7832858373401083990
+  - rid: 7832858373401083991
+  - rid: 7832858373401083992
+  - rid: 7832858373401083993
+  - rid: 7832858373401083994
+  - rid: 7832858373401083995
+  - rid: 7832858373401083996
+  - rid: 7832858373401083997
+  - rid: 3818007397566513153
+  references:
+    version: 2
+    RefIds:
+    - rid: 3818007397566513153
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - Calculate the work done when a crate is pulled with {f} N of force over
+          a distance of {d} meters.
+        formula: f * d
+        variables:
+        - variable: f
+          name: Force
+          unit: n
+          range:
+            min: 12.28
+            max: 23.2
+        - variable: d
+          name: Distance
+          unit: J
+          range:
+            min: 4.9
+            max: 9.78
+        variable: w
+        name: Work
+        unit: J
+        rounding: 2
+    - rid: 7832858373401083990
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - This refers to applying a force over a certain distance. Which of the following
+          best describes this?
+        - This refers to exerting a force across a specific distance. Which of the
+          following best describes this?
+        - This refers to applying force within a particular distance. Which of the
+          following best describes this?
+        correctAnswer:
+        - Work
+        wrongAnswers:
+        - Power
+        - Weight
+        - Potential Energy
+        choiceCount: 4
+    - rid: 7832858373401083991
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Work is computed as W = Fx; what does 'x' mean? Which of the following
+          is correct?
+        - Work is calculated as W = Fx; what does 'x' represent? Which of the following
+          is correct?
+        - Work is computed as W = Fx; what does the 'x' indicate? Which of the following
+          is correct?
+        correctAnswer:
+        - Distance
+        wrongAnswers:
+        - Power
+        - Force
+        - Work
+        choiceCount: 4
+    - rid: 7832858373401083992
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. The derived unit for
+          power is J, or Joules.
+        - Determine whether the statement is True or False. J, or Joules, is the
+          derived unit for power.
+        correctAnswer: 0
+    - rid: 7832858373401083993
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. Watts is the unit of
+          work.
+        - Determine whether the statement is True or False. Watts are actual the
+          unit of work.
+        - Determine whether the statement is True or False. Watts are the real unit
+          of work.
+        correctAnswer: 0
+    - rid: 7832858373401083994
+      type: {class: CategorizationItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        categoryItems:
+        - category: Work
+          items:
+          - Lifting a bag of rice
+          - Pushing a shopping cart
+          - Opening a door
+        - category: Power
+          items:
+          - Running upstairs
+          - Using an electric kettle
+          - Driving a car
+    - rid: 7832858373401083995
+      type: {class: FillInTheBlanksItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - 'Fill in the blanks with the correct term for each statement. The Joule,
+          or J unit, is named after him __________. The Watt, or W unit, is named
+          after him __________. '
+        - Fill in the blanks with the correct term for each statement. The unit Joule,
+          or J, is named in his honor __________. The unit Watt, or W, is named in
+          his honor __________.
+        correctAnswers:
+        - James Prescott Joule
+        - James Watt
+        wrongAnswers:
+        - James Joule Watt
+        - James Prescott Watt
+    - rid: 7832858373401083996
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Calculate the work done when a box is pushed with {f} N of force over a
+          distance of {d} meters.
+        formula: f * d
+        variables:
+        - variable: f
+          name: Force
+          unit: n
+          range:
+            min: 6.94
+            max: 20
+        - variable: d
+          name: Distance
+          unit: m
+          range:
+            min: 5
+            max: 14.5
+        variable: w
+        name: Work
+        unit: J
+        rounding: 2
+    - rid: 7832858373401083997
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - A motor does {w} J of work in {t} seconds. Find the power.
+        formula: w / t
+        variables:
+        - variable: w
+          name: Work
+          unit: J
+          range:
+            min: 200
+            max: 200
+        - variable: t
+          name: Time
+          unit: s
+          range:
+            min: 10
+            max: 10
+        variable: p
+        name: Power
+        unit: W
+        rounding: 2

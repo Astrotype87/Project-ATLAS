@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 23
+  m_EditorClassIdentifier: 
+  level: Level 23
+  name: Rotational Kinematics
+  description: Rotational kinematics explaining angular position, displacement, velocity,
+    and acceleration, and how they control spinning objects.
+  quizItems:
+  - rid: 138986152772763766
+  - rid: 138986152772763767
+  - rid: 138986152772763768
+  - rid: 138986152772763769
+  - rid: 138986152772763770
+  - rid: 138986152772763771
+  - rid: 138986247837974528
+  - rid: 138986247837974529
+  - rid: 3818007397566513156
+  references:
+    version: 2
+    RefIds:
+    - rid: 138986152772763766
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - What do we call the spinning movement of an object around its own axis
+          without changing its position? Which of the following best describes this?
+        - Which term describes an object that turns on its own axis without shifting
+          location? Which of the following best describes this?
+        correctAnswer:
+        - Rotation
+        wrongAnswers:
+        - Displacement
+        - Angular velocity
+        - Revolution
+        choiceCount: 4
+    - rid: 138986152772763767
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - One full revolution of a wheel corresponds to how many radians? Which of
+          the following is correct?
+        - A complete rotation equals how many radians? Which of the following is
+          correct?
+        correctAnswer:
+        - "2\u03C0"
+        wrongAnswers:
+        - 360
+        - "\u03C0"
+        - 180
+        choiceCount: 4
+    - rid: 138986152772763768
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - "Convert 90\xB0 into radians. Which of the following is correct?"
+        - "How many radians is an angle of 90\xB0? Which of the following is correct?"
+        correctAnswer:
+        - "\u03C0/2"
+        wrongAnswers:
+        - "2\u03C0"
+        - "\u03C0"
+        - "\u03C0/4"
+        choiceCount: 4
+    - rid: 138986152772763769
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Angular velocity is defined as which of the following best describes it?
+        - Which statement best describes angular velocity?
+        correctAnswer:
+        - Rate of change of angle with respect to time
+        wrongAnswers:
+        - Force divided by radius
+        - Rate of change of mass
+        - Rate of change of distance
+        choiceCount: 4
+    - rid: 138986152772763770
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - "Wheel makes an angular displacement of \u03C0/3 rad in 2 seconds. What
+          is its angular velocity? Which of the following is correct?"
+        - "If a wheel rotates through \u03C0/3 radians in 2 seconds, what is the
+          angular velocity? Which of the following is correct?"
+        correctAnswer:
+        - "\u03C0/6 rad/s"
+        wrongAnswers:
+        - "\u03C0/2 rad/s"
+        - "2\u03C0 rad/s"
+        - "\u03C0 rad/s"
+        choiceCount: 4
+    - rid: 138986152772763771
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - An object has an angular velocity of 4 rad/s and stops after 2 seconds.
+          What is its angular acceleration? Which of the following is correct?
+        - A rotating body slows from 4 rad/s to rest in 2 seconds. Find the angular
+          acceleration. Which of the following is correct?
+        correctAnswer:
+        - "\u20132 rad/s\xB2"
+        wrongAnswers:
+        - "\u20134 rad/s\xB2"
+        - "\u20131 rad/s\xB2"
+        - "\u20138 rad/s\xB2"
+        choiceCount: 4
+    - rid: 138986247837974528
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - "If a wheel begins at rest and accelerates at {w} rad/s\xB2, determine
+          the time in seconds required to reach an angular speed of {t} rad/s."
+        formula: w / t
+        variables:
+        - variable: w
+          name: Angular Velocity
+          unit: "rad/s\xB2"
+          range:
+            min: 3
+            max: 3
+        - variable: t
+          name: Time
+          unit: rad/s
+          range:
+            min: 15
+            max: 15
+        variable: s
+        name: Seconds
+        unit: s
+        rounding: 2
+    - rid: 138986247837974529
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - A wheel rolls {d} meters along the circumference. Given the radius {r}
+          m, determine the angular displacement of the wheel.
+        formula: d / r
+        variables:
+        - variable: d
+          name: Displacement
+          unit: m
+          range:
+            min: 1
+            max: 5
+        - variable: r
+          name: Radius
+          unit: m
+          range:
+            min: 0.5
+            max: 0.9
+        variable: rad
+        name: Angular Displacement
+        unit: rad
+        rounding: 2
+    - rid: 3818007397566513156
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - A gear rotates through a distance of {d} meters along its rim. Given that
+          the radius of the gear is {r} meters, calculate its angular displacement.
+        formula: d / r
+        variables:
+        - variable: d
+          name: Displacement
+          unit: m
+          range:
+            min: 9.48
+            max: 17.45
+        - variable: r
+          name: Radius
+          unit: m
+          range:
+            min: 70
+            max: 60
+        variable: rad
+        name: Angular Displacement
+        unit: rad
+        rounding: 2

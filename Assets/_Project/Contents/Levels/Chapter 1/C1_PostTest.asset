@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68cc2dc78c687b34485182e163a463ca, type: 3}
+  m_Name: C1_PostTest
+  m_EditorClassIdentifier: 
+  chapter: 1
+  title: Fundamentals
+  description: "Check your grasp of measurements, notation, and vectors. {player}\u2019s
+    hovercraft hums to life, beginning the journey."
+  objectives: Complete the 8-item post-test quiz covering all topics in this chapter
+    so far. Get a half score to proceed to the next chapter.
+  scoring: 
+  unlockDatas:
+  - icon: 8
+    name: Chapter 2
+    description: Kinematics
+  - icon: 0
+    name: Chapter 2 - Pre Test
+    description: Kinematics
+  - icon: 7
+    name: Freeplay > Quiz Level 01, 03, 04
+    description: Units & Measurement, Scientific Notation, Scalara and Vectors
+  dialoguePrefab: {fileID: 9073611175433636603, guid: 8b1002b03af1c1044a0983c21fd8742f, type: 3}
+  chapterQuizData:
+  - {fileID: 11400000, guid: ac2313d1d8b12934f87262cc165a6ce2, type: 2}
+  - {fileID: 11400000, guid: dc05c6b14098b1a4589224ebda6de30a, type: 2}
+  - {fileID: 11400000, guid: 14ae602a664b27c419977119a137f2dc, type: 2}

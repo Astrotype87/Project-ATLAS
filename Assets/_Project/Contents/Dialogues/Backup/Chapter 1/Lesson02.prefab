@@ -1,0 +1,276 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &787437516484307714
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5333634761789388833}
+  - component: {fileID: 9005903105943143758}
+  - component: {fileID: 4195542557659154540}
+  - component: {fileID: 773276393800872100}
+  m_Layer: 0
+  m_Name: Lesson02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5333634761789388833
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 787437516484307714}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9005903105943143758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 787437516484307714}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbeb6d65be27d3b40a131a1e4ace56b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  steps:
+  - message: "Welcome back {player}! Now we\u2019ll tackle Scientific Notation, a
+      tool that helps us work with very big or tiny numbers and understand calculations
+      more easily."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: 'Gizmos: Guidelines on how to write in Scientific Notation:                                                                '
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 1
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 1
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: '1). Coefficient must be greater than or equal to one (1), but less
+      than 10, for there must be only one (1) nonzero digit.     '
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: '2). The base is always 10.     '
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: '3). Exponents in the scientific notation represent the number of digits
+      the decimal point has crossed, and are either positive or negative only.    '
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: 'The exponent is POSITIVE if the decimal point moves to the left. This
+      means that the number has a large value.  '
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: 'The exponent is NEGATIVE if the decimal point moves to the right. This
+      means that the number has a small value.   '
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Although fractional exponents represent radical values, there is no
+      radical notation in the scientific notation.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: 'In Scientific Notation, a number is written as a*10^n.  '
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "a is the coefficient, the main number. It must be between 1 and 10
+      (1 \u2264 a < 10).     "
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: 'n is the exponent (power of 10). It tells us how many places the decimal
+      point moves.  '
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: Excellent work {player}! You now understand Scientific Notation writing
+      numbers with a coefficient between 1 and 10, base 10, and using positive or
+      negative exponents correctly.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "Focus carefully, and show what you\u2019ve learned about handling very
+      big and very small numbers. Good luck!"
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &4195542557659154540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 787437516484307714}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 139b92bc4d1ed6f4b9b74cc34ada33f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tweenSequencer: {fileID: 773276393800872100}
+--- !u!114 &773276393800872100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 787437516484307714}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c8d51a2479698446b58e7f4400f8d08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  autoPlayMode: 0
+  sequence:
+    steps: []
+    cycles: 1
+    cycleMode: 0
+    sequenceEase: 0
+    useUnscaledTime: 0
+    updateType:
+      enumValue: 0
+    e_expanded: 1
+    e_cyclesExpanded: 0
+  e_expandPlayer: 0
+  e_progress: 0
+  e_smoothRefresh: 0
+  e_expandSequence: 0
+  references:
+    version: 2
+    RefIds: []

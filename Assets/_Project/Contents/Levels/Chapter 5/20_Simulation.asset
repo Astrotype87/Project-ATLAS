@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b4a2770fa415b547864093efb334240, type: 3}
+  m_Name: 20_Simulation
+  m_EditorClassIdentifier: 
+  chapter: 5
+  number: 20
+  title: Cargo Airship Simulation
+  description: Drag and drop crates to stabilize flight. {player} balances loads
+    and secures the ship.
+  objectives: To learn and apply the concept of center of mass by strategically balancing
+    crates to stabilize the ship.
+  scoring: 
+  bronzeObjective: 
+  silverObjective: 
+  goldObjective: 
+  timeBonus:
+    timeBonuses: []
+    lowestScore: 10
+  unlockDatas:
+  - icon: 1
+    name: Level 21 - Lesson
+    description: Impulse and Collision
+  - icon: 2
+    name: Freeplay > Simulation 5
+    description: 
+  instructions: Balance the crates inside the ship by dragging and dropping them
+    strategically to distribute weight evenly, observing the initial setup, assesing
+    where weight is needed, and making small adjustments until the ship is stable
+    to complete the level.
+  dialoguePrefab: {fileID: 2504343169860326248, guid: b150c158d7f4b3c4b924ba76ac7a44c7, type: 3}
+  simulationPrefab: {fileID: 4857196813869063342, guid: 3e85533f367b94941a09acbbc141eca4, type: 3}

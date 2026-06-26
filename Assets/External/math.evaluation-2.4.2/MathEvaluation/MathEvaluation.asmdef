@@ -1,0 +1,16 @@
+{
+    "name": "MathEvaluation",
+    "rootNamespace": "MathEvaluation",
+    "references": [
+        "GUID:83611f62d501efc46a867159d71aefac"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Categorization
+  m_EditorClassIdentifier: 
+  level: Level 00
+  name: Enter topic here.
+  description: Enter description here.
+  quizItems:
+  - rid: 5311918939103821905
+  - rid: 5311918939103821906
+  - rid: 5311918939103821907
+  - rid: 5311918980909760606
+  easyQuizSettings:
+    totalItems: 4
+    shuffled: 0
+    paraphraseChance: 0
+    passingScorePercentage: 0.5
+    includeLowerDifficulty: 1
+    itemTypes: 127
+  mediumQuizSettings:
+    totalItems: 6
+    shuffled: 1
+    paraphraseChance: 0.5
+    passingScorePercentage: 0.5
+    includeLowerDifficulty: 1
+    itemTypes: 127
+  hardQuizSettings:
+    totalItems: 8
+    shuffled: 1
+    paraphraseChance: 1
+    passingScorePercentage: 0.5
+    includeLowerDifficulty: 1
+    itemTypes: 127
+  references:
+    version: 2
+    RefIds:
+    - rid: 5311918939103821905
+      type: {class: CategorizationItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        categoryItems:
+        - category: Fundamental Quantities
+          items:
+          - Length
+          - Mass
+          - Time
+        - category: Derived Quantities
+          items:
+          - Force
+          - Energy
+          - Power
+        difficulty: 0
+    - rid: 5311918939103821906
+      type: {class: CategorizationItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        categoryItems:
+        - category: Alpha
+          items:
+          - Alpha 1
+          - Alpha 2
+        - category: Beta
+          items:
+          - Beta 1
+        - category: Gamma
+          items:
+          - Gamma 1
+          - Gamma 2
+          - Gamma 3
+        difficulty: 0
+    - rid: 5311918939103821907
+      type: {class: CategorizationItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        categoryItems:
+        - category: One
+          items:
+          - Aasdadsa
+          - Bcvbcvb
+          - Czxczc
+        difficulty: 0
+    - rid: 5311918980909760606
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        question:
+        - Enter another paraphrased question.
+        correctAnswer:
+        - Enter correct answer.
+        wrongAnswers:
+        - Enter at least three wrong answers.
+        choiceCount: 2
+        difficulty: 0

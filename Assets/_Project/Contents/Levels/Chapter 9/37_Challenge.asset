@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b406289aece41604c82dfa830efb1dbe, type: 3}
+  m_Name: 37_Challenge
+  m_EditorClassIdentifier: 
+  chapter: 9
+  number: 37
+  title: Underwater Mining
+  description: "Dive deep beneath the ocean in your submarine to recover alien fuel
+    crystals scattered across the seabed. Strong water currents and dangerous underwater
+    mines make navigation tricky\u2014precision and timing are key to survival."
+  objectives: 'Collect 10 alien fuel crystals hidden underwater.
+
+
+    Maintain control
+    of the submarine by managing air pressure to rise or sink.
+
+
+    Avoid collisions
+    with underwater mines and obstacles.'
+  scoring: 
+  bronzeObjective: 
+  silverObjective: 
+  goldObjective: 
+  timeBonus:
+    timeBonuses: []
+    lowestScore: 10
+  unlockDatas:
+  - icon: 4
+    name: Chapter 9 - Post Test
+    description: Fluid Mechanics
+  - icon: 3
+    name: Freeplay > Minigame 9
+    description: Underwater Mining
+  instructions: "1. Use (+) Add Air to rise and (-) Remove Air to sink.\n\n2. Steer
+    carefully to collect crystals while avoiding hazards.\n\n3. Keep an eye on the
+    Air in the Tank bar\u2014too little or too much air can affect stability.\n\n4.
+    Gather all crystals before time runs out to complete the mission!\n\nNote: The
+    game ends if the submarine hits any obstacle or if time runs out before collecting
+    all crystals. Collect 10/10 crystals successfully while keeping your submarine
+    intact."
+  dialoguePrefab: {fileID: 5304833046796800580, guid: 9843f5765c7dea041aa39d10200fbd2f, type: 3}
+  minigamePrefab: {fileID: 6042666243665235391, guid: 5d2726505ad23b84c9ed4a3170bfd388, type: 3}

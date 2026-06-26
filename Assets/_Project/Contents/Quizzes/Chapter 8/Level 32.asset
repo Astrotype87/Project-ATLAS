@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 32
+  m_EditorClassIdentifier: 
+  level: Level 32
+  name: Mechanical Waves
+  description: Mechanical waves describing how energy moves through a medium, types
+    of waves, and their speed, wavelength, and frequency.
+  quizItems:
+  - rid: 138986247837974634
+  - rid: 138986247837974635
+  - rid: 138986247837974636
+  - rid: 3818007171759341569
+  - rid: 3818007171759341570
+  - rid: 3818007171759341571
+  references:
+    version: 2
+    RefIds:
+    - rid: 138986247837974634
+      type: {class: MatchingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        pairs:
+        - question:
+          - A kind of motion that shows repetition and a clear pattern.
+          correctAnswer: Harmonic Motion
+        - question:
+          - Branch of science that studies and applies sound.
+          correctAnswer: Acoustics
+        - question:
+          - "Vibrations move parallel to the wave\u2019s direction."
+          correctAnswer: Longitudinal Wave
+        - question:
+          - "Vibrations move perpendicular to the wave\u2019s direction."
+          correctAnswer: Transverse Wave
+        wrongAnswers: []
+    - rid: 138986247837974635
+      type: {class: MatchingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        pairs:
+        - question:
+          - Wave that moves along the boundary of two media.
+          correctAnswer: Surface Wave
+        - question:
+          - A wave that travels due to interaction with matter.
+          correctAnswer: Mechanical Wave
+        - question:
+          - Highest point of a transverse wave.
+          correctAnswer: Crest
+        - question:
+          - Lowest point of a transverse wave.
+          correctAnswer: Trough
+        wrongAnswers: []
+    - rid: 138986247837974636
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - A wave has a wavelength of {w} meters and a period of {t} seconds. Find
+          its wave speed.
+        formula: w / t
+        variables:
+        - variable: w
+          name: Wavelength
+          unit: m
+          range:
+            min: 15
+            max: 10
+        - variable: t
+          name: Period
+          unit: s
+          range:
+            min: 7
+            max: 15
+        variable: s
+        name: Speed
+        unit: m/s
+        rounding: 2
+    - rid: 3818007171759341569
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - A wave has a wavelength of {w} meters and a period of {t} seconds. Calculate
+          its wave speed.
+        formula: w / t
+        variables:
+        - variable: w
+          name: Wavelength
+          unit: m
+          range:
+            min: 10
+            max: 20
+        - variable: t
+          name: Period
+          unit: s
+          range:
+            min: 1
+            max: 5
+        variable: s
+        name: Speed
+        unit: m/s
+        rounding: 2
+    - rid: 3818007171759341570
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - "A wave\u2019s wavelength is {w} meters and the period is {t} seconds.
+          Determine the wave speed."
+        formula: w / t
+        variables:
+        - variable: w
+          name: Wavelength
+          unit: m
+          range:
+            min: 10
+            max: 20
+        - variable: t
+          name: Period
+          unit: s
+          range:
+            min: 14
+            max: 17
+        variable: s
+        name: Speed
+        unit: m/s
+        rounding: 2
+    - rid: 3818007171759341571
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - A wave has a wavelength of {w} meters and a period of {t} seconds. What
+          is the wave speed?
+        formula: w / t
+        variables:
+        - variable: w
+          name: Wavelength
+          unit: m
+          range:
+            min: 15
+            max: 20
+        - variable: t
+          name: Period
+          unit: s
+          range:
+            min: 0.5
+            max: 0.9
+        variable: s
+        name: Speed
+        unit: m/s
+        rounding: 2

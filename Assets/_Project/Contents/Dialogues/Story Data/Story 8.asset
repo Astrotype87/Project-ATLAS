@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d03bc636d4f22964e964f316abda6d60, type: 3}
+  m_Name: Story 8
+  m_EditorClassIdentifier: 
+  chapter: 8
+  title: TBA
+  story: "You approach a glowing cosmic rift where space ripples like waves in water.
+    Light pulses in patterns that twist your ship\u2019s sensors. Gizmo warns the
+    energy here is unstable.\n\nInside the rift, oscillations slam your spacecraft,
+    throwing it off balance. Electromagnetic waves disrupt your controls, shaking
+    the vehicle violently.\n\nYou study the shifting frequencies around you and adjust
+    your systems to match. By syncing with the rift\u2019s wave patterns, the turbulence
+    begins to calm.\n\nThe rift releases you in a final burst of energy, launching
+    you above a blue water planet. You\u2019ve survived by mastering waves and oscillations,
+    ready for the next challenge."

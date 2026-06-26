@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1d62931ab01cd14b84145ae3bdd017f, type: 3}
+  m_Name: Chapter 3
+  m_EditorClassIdentifier: 
+  chapter: 3
+  levelTerms:
+  - level: 11
+    terms:
+    - term: Law of Inertia
+      unit: 
+      type: 0
+      description: An object remain in current state unless acted by outside/unbalanced
+        force.
+      details: "Newton\u2019s First Law, the Law of Inertia, states that an object
+        will remain in its current state unless there is a change in its equilibrium
+        caused by an unbalanced, outside force."
+    - term: Law of Acceleration
+      unit: 
+      type: 0
+      description: The object accelerates if an unbalanced net force is applied.
+      details: "The object is said to be moving when it's accelerating In Newton\u2019s
+        Second Law, which represents the aftermath of an object exposed to unbalanced
+        forces, states that an object is said to be moving when it is accelerating. "
+    - term: Law of Interaction
+      unit: 
+      type: 0
+      description: There is always an equal and opposing amount of force counteracting
+        another force.
+      details: "The premise of this Law is simple: there is always an equal \u2013and
+        opposing \u2013 amount of force counteracting against another force. In context,
+        the Third Law explains the First and Second Laws. An example of this would
+        be Normal force (FN). In it, the normal force is always paired with weight
+        (FW), which is normal force\u2019s polar opposite. The two force, when paired
+        together, are called interaction force-pairs."
+    - term: Inertia
+      unit: 
+      type: 1
+      description: It is resistance of an object to change its state of motion
+      details: 'Simply put, if acceleration is absent (ex: a = 0 m/s <sup>2</sup>)the
+        object is in a state of rest.'
+  - level: 13
+    terms:
+    - term: Force
+      unit: F
+      type: 2
+      description: It is the influence that tends to change an object's state of
+        motion.
+      details: "The force unit is Newtons (N). 1 N = 1 kg \xD7 m/s\xB2.\n\nFormula:\nF
+        = ma\n\nF = force\nm = mass\na = acceleration"
+    - term: Weight
+      unit: F<sub>W</sub>
+      type: 2
+      description: It is the force exerted by gravity on the object (going down).
+      details: 'Formula:
+
+        F<sub>W</sub> = mg
+
+
+        F<sub>W</sub> = weight
+        force
+
+        m = mass
+
+        g = gravity'
+    - term: Friction
+      unit: F<sub>n</sub>
+      type: 2
+      description: Resistance of surface or object acting upon another object on
+        contact (going left).
+      details: "Formula:\nF<sub>f</sub> = u \xD7 F<sub>N</sub>\n\nF<sub>f</sub> =
+        friction\nu = coefficient of friction\r\nF<sub>N</sub> = normal force"
+    - term: Net Force
+      unit: F<sub>n</sub>
+      type: 2
+      description: It is the sum of all forces acting on an object
+      details: 'Formula:
+
+        F<sub>net</sub> = F<sub>A</sub> + F<sub>B</sub>
+
+
+        F<sub>A</sub>,
+        F<sub>B</sub>, F<sub>C</sub>, etc... is arbitrary.
+
+        Net force is
+        the sum of all different forces acting on an object. '

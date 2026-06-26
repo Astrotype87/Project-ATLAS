@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 1793ea67b8f4a2344843fc06939105ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1710197027268755746
+    second: LastLaw.drawio_0
+  - first:
+      213: -8063407508694693893
+    second: LastLaw.drawio_1
+  - first:
+      213: 5606388428977515622
+    second: LastLaw.drawio_2
+  - first:
+      213: -5800262237652139443
+    second: LastLaw.drawio_3
+  - first:
+      213: -8405827386064871676
+    second: LastLaw.drawio_4
+  - first:
+      213: -24207384567129360
+    second: LastLaw.drawio_5
+  - first:
+      213: 6920413779451513216
+    second: LastLaw.drawio_6
+  - first:
+      213: -1217897505797561727
+    second: LastLaw.drawio_7
+  - first:
+      213: -5563266467596222739
+    second: LastLaw.drawio_8
+  - first:
+      213: -3286316432317035575
+    second: LastLaw.drawio_9
+  - first:
+      213: 259786813625309628
+    second: LastLaw.drawio_10
+  - first:
+      213: -6530908098056311897
+    second: LastLaw.drawio_11
+  - first:
+      213: 3335380781285201856
+    second: LastLaw.drawio_12
+  - first:
+      213: -7751736173295756865
+    second: LastLaw.drawio_13
+  - first:
+      213: -1094224961169863678
+    second: LastLaw.drawio_14
+  - first:
+      213: -8072995837667917807
+    second: LastLaw.drawio_15
+  - first:
+      213: 6808298490769833652
+    second: LastLaw.drawio_16
+  - first:
+      213: -7430968332106256068
+    second: LastLaw.drawio_17
+  - first:
+      213: -7021873454955219983
+    second: LastLaw.drawio_18
+  - first:
+      213: -1905630546488404645
+    second: LastLaw.drawio_19
+  - first:
+      213: -4402456389694880606
+    second: LastLaw.drawio_20
+  - first:
+      213: -219000357072121552
+    second: LastLaw.drawio_21
+  - first:
+      213: -5050513809682641711
+    second: LastLaw.drawio_22
+  - first:
+      213: -3078320660837235195
+    second: LastLaw.drawio_23
+  - first:
+      213: -5701743460696901890
+    second: LastLaw.drawio_24
+  - first:
+      213: -3220363021931076390
+    second: LastLaw.drawio_25
+  - first:
+      213: -878814515810646100
+    second: LastLaw.drawio_26
+  - first:
+      213: -8291827423483464819
+    second: LastLaw.drawio_27
+  - first:
+      213: -6595728784667682961
+    second: LastLaw.drawio_28
+  - first:
+      213: 1322156527739961963
+    second: LastLaw.drawio_29
+  - first:
+      213: 4866845798287183644
+    second: LastLaw.drawio_30
+  - first:
+      213: 1653816610098559980
+    second: LastLaw.drawio_31
+  - first:
+      213: -6297955126291168908
+    second: LastLaw.drawio_32
+  - first:
+      213: -6414093566104492800
+    second: LastLaw.drawio_33
+  - first:
+      213: -4145667023521932461
+    second: LastLaw.drawio_34
+  - first:
+      213: 3495655476324263651
+    second: LastLaw.drawio_35
+  - first:
+      213: -2686571168803148110
+    second: LastLaw.drawio_36
+  - first:
+      213: 2303533138991835312
+    second: LastLaw.drawio_37
+  - first:
+      213: -2767203560125171437
+    second: LastLaw.drawio_38
+  - first:
+      213: 3530179716350421992
+    second: LastLaw.drawio_39
+  - first:
+      213: -9153871802688456828
+    second: LastLaw.drawio_40
+  - first:
+      213: 4464610639505531559
+    second: LastLaw.drawio_41
+  - first:
+      213: -236934276940198590
+    second: LastLaw.drawio_42
+  - first:
+      213: 3219805275628961055
+    second: LastLaw.drawio_43
+  - first:
+      213: -7185539825405225350
+    second: LastLaw.drawio_44
+  - first:
+      213: 7748656677090341515
+    second: LastLaw.drawio_45
+  - first:
+      213: -6063767982982994864
+    second: LastLaw.drawio_46
+  - first:
+      213: 5142480242169955246
+    second: LastLaw.drawio_47
+  - first:
+      213: -5970572675635027354
+    second: LastLaw.drawio_48
+  - first:
+      213: 3879947876927334880
+    second: LastLaw.drawio_49
+  - first:
+      213: 4997002004521618577
+    second: LastLaw.drawio_50
+  - first:
+      213: 1422110742358995852
+    second: LastLaw.drawio_51
+  - first:
+      213: -5422940665915223663
+    second: LastLaw.drawio_52
+  - first:
+      213: -3833836732853263922
+    second: LastLaw.drawio_53
+  - first:
+      213: 4624620531680045363
+    second: LastLaw.drawio_54
+  - first:
+      213: 6414603596029742611
+    second: LastLaw.drawio_55
+  - first:
+      213: -5813687532246262473
+    second: LastLaw.drawio_56
+  - first:
+      213: -7109897236155297854
+    second: LastLaw.drawio_57
+  - first:
+      213: -1016047583787438676
+    second: LastLaw.drawio_58
+  - first:
+      213: -7262870970089393261
+    second: LastLaw.drawio_59
+  - first:
+      213: -5923013716141559793
+    second: LastLaw.drawio_60
+  - first:
+      213: 4540544309440823784
+    second: LastLaw.drawio_61
+  - first:
+      213: 1198686627945661774
+    second: LastLaw.drawio_62
+  - first:
+      213: -2299675060698877906
+    second: LastLaw.drawio_63
+  - first:
+      213: 6276456084429912556
+    second: LastLaw.drawio_64
+  - first:
+      213: 6450892083111730627
+    second: LastLaw.drawio_65
+  - first:
+      213: 8719067278275666764
+    second: LastLaw.drawio_66
+  - first:
+      213: 7541741628143067923
+    second: LastLaw.drawio_67
+  - first:
+      213: 7584785158674599197
+    second: LastLaw.drawio_68
+  - first:
+      213: 2821384072700230794
+    second: LastLaw.drawio_69
+  - first:
+      213: 8701068423207036612
+    second: LastLaw.drawio_70
+  - first:
+      213: 3658782068560671834
+    second: LastLaw.drawio_71
+  - first:
+      213: 7263166603066176661
+    second: LastLaw.drawio_72
+  - first:
+      213: -8644705179015889729
+    second: LastLaw.drawio_73
+  - first:
+      213: -4144019963624468762
+    second: LastLaw.drawio_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LastLaw.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 321
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede77bd5dd82448e0800000000000000
+      internalID: -1710197027268755746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 321
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf70905b795091090800000000000000
+      internalID: -8063407508694693893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 321
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ca01e7294edcd40800000000000000
+      internalID: 5606388428977515622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 321
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42c1a8d934518fa0800000000000000
+      internalID: -5800262237652139443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 321
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f5a524780885b80800000000000000
+      internalID: -8405827386064871676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 321
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa5fe1138ff9aff0800000000000000
+      internalID: -24207384567129360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 321
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0890dee9aaf3a0060800000000000000
+      internalID: 6920413779451513216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 321
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1822a12dba8291fe0800000000000000
+      internalID: -1217897505797561727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 321
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeb5188f9e4bc2b0800000000000000
+      internalID: -5563266467596222739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 321
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbc630dd98a462d0800000000000000
+      internalID: -3286316432317035575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 321
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb997770bb2fa9300800000000000000
+      internalID: 259786813625309628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 317
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aba1a2efad8d55a0800000000000000
+      internalID: -6530908098056311897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 321
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c75b232627a94e20800000000000000
+      internalID: 3335380781285201856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 321
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb91926550d4c6490800000000000000
+      internalID: -7751736173295756865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 321
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cca1df13880d0f0800000000000000
+      internalID: -1094224961169863678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 317
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110c896ee05f6ff80800000000000000
+      internalID: -8072995837667917807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bef92bc76feb7e50800000000000000
+      internalID: 6808298490769833652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 286
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3131a34ca5efd890800000000000000
+      internalID: -7430968332106256068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 286
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f336a3db4b4d8e90800000000000000
+      internalID: -7021873454955219983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 269
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55dc6b4d17dd85e0800000000000000
+      internalID: -1905630546488404645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 269
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a486112d3557e2c0800000000000000
+      internalID: -4402456389694880606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 266
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0315807e554f5fcf0800000000000000
+      internalID: -219000357072121552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 269
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc49a8e278f8e9b0800000000000000
+      internalID: -5050513809682641711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 269
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5060d0a2bab9745d0800000000000000
+      internalID: -3078320660837235195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 269
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef631c818865fd0b0800000000000000
+      internalID: -5701743460696901890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 269
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4aefdc4e8fe43d0800000000000000
+      internalID: -3220363021931076390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 269
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca746a1aad2ddc3f0800000000000000
+      internalID: -878814515810646100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 269
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83fc6ce3e28dec80800000000000000
+      internalID: -8291827423483464819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 269
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f675013bd934774a0800000000000000
+      internalID: -6595728784667682961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 266
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62876d5b5e395210800000000000000
+      internalID: 1322156527739961963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f8287c7728a8340800000000000000
+      internalID: 4866845798287183644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 269
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebb090d17983f610800000000000000
+      internalID: 1653816610098559980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 269
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471801e3e2b2998a0800000000000000
+      internalID: -6297955126291168908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 269
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005293c82ef8cf6a0800000000000000
+      internalID: -6414093566104492800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 269
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b9ce98ec1a776c0800000000000000
+      internalID: -4145667023521932461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 266
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6e47b8220138030800000000000000
+      internalID: 3495655476324263651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 269
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beaeab81c167bad0800000000000000
+      internalID: -2686571168803148110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 266
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8e2fd6f2bc7ff10800000000000000
+      internalID: 2303533138991835312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 269
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319fa89f50be899d0800000000000000
+      internalID: -2767203560125171437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 266
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb2b529fb7bdf030800000000000000
+      internalID: 3530179716350421992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 253
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4873a41481ae6f080800000000000000
+      internalID: -9153871802688456828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 253
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2282cd8bb75fd30800000000000000
+      internalID: 4464610639505531559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 253
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d8ddbc78d36bcf0800000000000000
+      internalID: -236934276940198590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 253
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dfac3c6db0fac20800000000000000
+      internalID: 3219805275628961055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 253
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a769c437995d74c90800000000000000
+      internalID: -7185539825405225350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_45
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 250
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82bd649132c88b60800000000000000
+      internalID: 7748656677090341515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_46
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 253
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05469ed852b29dba0800000000000000
+      internalID: -6063767982982994864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_47
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 250
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea34103c882cd5740800000000000000
+      internalID: 5142480242169955246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_48
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 253
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662ee13f8c3442da0800000000000000
+      internalID: -5970572675635027354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_49
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 253
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9e847890858d530800000000000000
+      internalID: 3879947876927334880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_50
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 253
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c0d6d09dae85540800000000000000
+      internalID: 4997002004521618577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_51
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 253
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83339d7f2a5cb310800000000000000
+      internalID: 1422110742358995852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_52
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 253
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1915a124238ddb4b0800000000000000
+      internalID: -5422940665915223663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_53
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 253
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1ef63ddc97bcac0800000000000000
+      internalID: -3833836732853263922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 253
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33964cb0fd3fd2040800000000000000
+      internalID: 4624620531680045363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_55
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 9
+        width: 87
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ecb4c0cff350950800000000000000
+      internalID: 6414603596029742611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_56
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 176
+        width: 49
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d185dddf1a15fa0800000000000000
+      internalID: -5813687532246262473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_57
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 176
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf8e613222945d90800000000000000
+      internalID: -7109897236155297854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_58
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 176
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cada4751b1646e1f0800000000000000
+      internalID: -1016047583787438676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_59
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 176
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39333524559153b90800000000000000
+      internalID: -7262870970089393261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_60
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 174
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00bd99186a3dcda0800000000000000
+      internalID: -5923013716141559793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_61
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 176
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1442b1ef0430f30800000000000000
+      internalID: 4540544309440823784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_62
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 162
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4546bf132792a010800000000000000
+      internalID: 1198686627945661774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_63
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 164
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20f73c67b9e510e0800000000000000
+      internalID: -2299675060698877906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_64
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 164
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9b8c00e837a1750800000000000000
+      internalID: 6276456084429912556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_65
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 164
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd114adb2c268950800000000000000
+      internalID: 6450892083111730627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_66
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 164
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c436a567e79500970800000000000000
+      internalID: 8719067278275666764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_67
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 162
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3136e3d8d06a9a860800000000000000
+      internalID: 7541741628143067923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_68
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 162
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d44787ae1924960800000000000000
+      internalID: 7584785158674599197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_69
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 152
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cfd34add1972720800000000000000
+      internalID: 2821384072700230794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_70
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6af9371a760c870800000000000000
+      internalID: 8701068423207036612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_71
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 150
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54b02308ea96c230800000000000000
+      internalID: 3658782068560671834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_72
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 150
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5947d382b83fbc460800000000000000
+      internalID: 7263166603066176661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_73
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 63
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc37c8f076d70880800000000000000
+      internalID: -8644705179015889729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastLaw.drawio_74
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 29
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee490e8ccb7d76c0800000000000000
+      internalID: -4144019963624468762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LastLaw.drawio_0: -1710197027268755746
+      LastLaw.drawio_1: -8063407508694693893
+      LastLaw.drawio_10: 259786813625309628
+      LastLaw.drawio_11: -6530908098056311897
+      LastLaw.drawio_12: 3335380781285201856
+      LastLaw.drawio_13: -7751736173295756865
+      LastLaw.drawio_14: -1094224961169863678
+      LastLaw.drawio_15: -8072995837667917807
+      LastLaw.drawio_16: 6808298490769833652
+      LastLaw.drawio_17: -7430968332106256068
+      LastLaw.drawio_18: -7021873454955219983
+      LastLaw.drawio_19: -1905630546488404645
+      LastLaw.drawio_2: 5606388428977515622
+      LastLaw.drawio_20: -4402456389694880606
+      LastLaw.drawio_21: -219000357072121552
+      LastLaw.drawio_22: -5050513809682641711
+      LastLaw.drawio_23: -3078320660837235195
+      LastLaw.drawio_24: -5701743460696901890
+      LastLaw.drawio_25: -3220363021931076390
+      LastLaw.drawio_26: -878814515810646100
+      LastLaw.drawio_27: -8291827423483464819
+      LastLaw.drawio_28: -6595728784667682961
+      LastLaw.drawio_29: 1322156527739961963
+      LastLaw.drawio_3: -5800262237652139443
+      LastLaw.drawio_30: 4866845798287183644
+      LastLaw.drawio_31: 1653816610098559980
+      LastLaw.drawio_32: -6297955126291168908
+      LastLaw.drawio_33: -6414093566104492800
+      LastLaw.drawio_34: -4145667023521932461
+      LastLaw.drawio_35: 3495655476324263651
+      LastLaw.drawio_36: -2686571168803148110
+      LastLaw.drawio_37: 2303533138991835312
+      LastLaw.drawio_38: -2767203560125171437
+      LastLaw.drawio_39: 3530179716350421992
+      LastLaw.drawio_4: -8405827386064871676
+      LastLaw.drawio_40: -9153871802688456828
+      LastLaw.drawio_41: 4464610639505531559
+      LastLaw.drawio_42: -236934276940198590
+      LastLaw.drawio_43: 3219805275628961055
+      LastLaw.drawio_44: -7185539825405225350
+      LastLaw.drawio_45: 7748656677090341515
+      LastLaw.drawio_46: -6063767982982994864
+      LastLaw.drawio_47: 5142480242169955246
+      LastLaw.drawio_48: -5970572675635027354
+      LastLaw.drawio_49: 3879947876927334880
+      LastLaw.drawio_5: -24207384567129360
+      LastLaw.drawio_50: 4997002004521618577
+      LastLaw.drawio_51: 1422110742358995852
+      LastLaw.drawio_52: -5422940665915223663
+      LastLaw.drawio_53: -3833836732853263922
+      LastLaw.drawio_54: 4624620531680045363
+      LastLaw.drawio_55: 6414603596029742611
+      LastLaw.drawio_56: -5813687532246262473
+      LastLaw.drawio_57: -7109897236155297854
+      LastLaw.drawio_58: -1016047583787438676
+      LastLaw.drawio_59: -7262870970089393261
+      LastLaw.drawio_6: 6920413779451513216
+      LastLaw.drawio_60: -5923013716141559793
+      LastLaw.drawio_61: 4540544309440823784
+      LastLaw.drawio_62: 1198686627945661774
+      LastLaw.drawio_63: -2299675060698877906
+      LastLaw.drawio_64: 6276456084429912556
+      LastLaw.drawio_65: 6450892083111730627
+      LastLaw.drawio_66: 8719067278275666764
+      LastLaw.drawio_67: 7541741628143067923
+      LastLaw.drawio_68: 7584785158674599197
+      LastLaw.drawio_69: 2821384072700230794
+      LastLaw.drawio_7: -1217897505797561727
+      LastLaw.drawio_70: 8701068423207036612
+      LastLaw.drawio_71: 3658782068560671834
+      LastLaw.drawio_72: 7263166603066176661
+      LastLaw.drawio_73: -8644705179015889729
+      LastLaw.drawio_74: -4144019963624468762
+      LastLaw.drawio_8: -5563266467596222739
+      LastLaw.drawio_9: -3286316432317035575
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

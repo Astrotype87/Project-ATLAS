@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d03bc636d4f22964e964f316abda6d60, type: 3}
+  m_Name: Story 10
+  m_EditorClassIdentifier: 
+  chapter: 10
+  title: The Final Trial
+  story: 'After fixing your spacecraft it crashes again on a volcanic planet, your
+    spacecraft is damaged. Only the hot-air balloon module remains attached to your
+    vehicle, giving you a way to navigate the hazardous terrain.
+
+
+    To survive,
+    you must complete two challenges. First, collect the key scattered across the
+    volcanic map to unlock the repair house. Second, reach 500 altitude by carefully
+    manipulating the heat in the balloon. Increasing heat allows you to rise, while
+    reducing heat lets you descend, using thermodynamics to stay safe.
+
+
+    Mastering
+    both collecting the key and controlling altitude tests your skill and understanding
+    of heat and gas mechanics.
+
+
+    By completing these tasks, you reach the repair
+    station, fix your vehicle, and prepare to return home, triumphant after your
+    adventure in ATLAS'

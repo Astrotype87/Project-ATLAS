@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 9
+  m_EditorClassIdentifier: 
+  level: Level 9
+  name: Relative Motion
+  description: "Showing how velocities combine and depend on different reference
+    frames to determine an object\u2019s overall movement."
+  quizItems:
+  - rid: 7832858361210077249
+  - rid: 7832858361210077262
+  - rid: 7832858361210077265
+  - rid: 7832858361210077267
+  - rid: 7832858361210077296
+  - rid: 7832858361210077297
+  - rid: 7832858361210077298
+  - rid: 7832858361210077299
+  - rid: 3818007397566513152
+  references:
+    version: 2
+    RefIds:
+    - rid: 3818007397566513152
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - "A boat is moving at {V_AB} m/s relative to the riverbank. A person walks
+          inside the boat at {V_BC} m/s relative to the boat. Determine the person\u2019s
+          velocity relative to the riverbank."
+        formula: V_AB + V_BC
+        variables:
+        - variable: V_AB
+          name: Velocity of B relative to A
+          unit: m/s
+          range:
+            min: 8.15
+            max: 32.31
+        - variable: V_BC
+          name: Velocity of C relative to B
+          unit: m/s
+          range:
+            min: 11.53
+            max: 27.7
+        variable: V_AC
+        name: Velocity relative to the ground
+        unit: m/s
+        rounding: 2
+    - rid: 7832858361210077249
+      type: {class: FillInTheBlanksItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - Fill in the blanks with the correct term for each statement. This is an
+          object that is moving, like a boat or a car  __________. This is the object
+          moving relative to the moving one, like a person walking inside a boat
+          or car  __________. This is like the ground something that does not move
+          __________.
+        correctAnswers:
+        - Intermidiate Reference
+        - Moving Reference
+        - Static Reference
+        wrongAnswers:
+        - Velocity
+        - Relative Motion
+    - rid: 7832858361210077262
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - This is a movement that is observed from another point of view. Which of
+          the following best describes this?
+        - "A type of movement described based on another observer\u2019s perspective.
+          Which of the following best describes this?"
+        - Motion that is seen or measured from a different reference point. Which
+          of the following best describes this?
+        correctAnswer:
+        - Relative Motion
+        wrongAnswers:
+        - Motion
+        - Intermidiate Reference
+        - Velocity
+        choiceCount: 4
+    - rid: 7832858361210077265
+      type: {class: CategorizationItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        categoryItems:
+        - category: Static Reference
+          items:
+          - Watching a plane fly across the sky from the ground.
+          - "Measuring a runner\u2019s speed on a track using a stopwatch fixed at
+            the finish line."
+          - A drone hovering 20 meters above a building as seen from someone standing
+            on the ground.
+        - category: Intermediate Reference
+          items:
+          - Walking to the restroom on a moving airplane.
+          - "Dropping a coin inside a bus while it\u2019s driving to you it falls
+            straight down, but to someone outside it falls in a curve."
+          - A child tossing a ball inside a moving train.
+        - category: Moving Reference
+          items:
+          - Two cyclists riding side by side, each sees the other as barely moving.
+          - A passenger in one train watching another train on a parallel track pass
+            by.
+          - Two airplanes flying in formation; to each other, they look almost still.
+    - rid: 7832858361210077267
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Relative motion is composed of how many reference frames? Which of the
+          following is correct?
+        - Relative motion is described using how many frames of reference? Which
+          of the following is correct?
+        - In studying relative motion, how many reference frames are involved? Which
+          of the following is correct?
+        correctAnswer:
+        - 3
+        wrongAnswers:
+        - 5
+        - 4
+        - 2
+        choiceCount: 4
+    - rid: 7832858361210077296
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - "How is the train\u2019s speed measured relative to the ground expressed
+          in relative motion terms? Which of the following is correct?"
+        - In relative motion, how do you represent the speed of a train as seen from
+          the ground? Which of the following is correct?
+        - What is the correct way to denote the velocity of a train with respect
+          to the ground in relative motion? Which of the following is correct?
+        correctAnswer:
+        - V_AB^2
+        wrongAnswers:
+        - V_BC^2
+        - V_VR^2
+        - V_AC^2
+        choiceCount: 4
+    - rid: 7832858361210077297
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - "A train is moving relative to the ground. How do you express the train\u2019s
+          velocity relative to the ground using relative motion notation? Which of
+          the following is correct?"
+        - A train is moving along a track. How do you express its speed relative
+          to the ground using relative motion notation? Which of the following is
+          correct?
+        - If a train is moving, what is the correct way to denote its velocity as
+          observed from the ground? Which of the following is correct?
+        correctAnswer:
+        - V_AB^2
+        wrongAnswers:
+        - V_BC^2
+        - V_DC^2
+        - V_AC^2
+        choiceCount: 4
+    - rid: 7832858361210077298
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - "A train travels {d} meters along a straight track in {t} seconds. Compute
+          the train\u2019s velocity relative to the ground."
+        formula: d + t
+        variables:
+        - variable: d
+          name: Distance
+          unit: m
+          range:
+            min: 10
+            max: 20
+        - variable: t
+          name: Time
+          unit: s
+          range:
+            min: 20
+            max: 59
+        variable: V_AB
+        name: Velocity relative to the ground
+        unit: m
+        rounding: 2
+    - rid: 7832858361210077299
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - "A train moves at {V_AB} m/s relative to the ground, and a person walks
+          inside the train at {V_BC} m/s relative to the train. Compute the person\u2019s
+          velocity relative to the ground."
+        formula: V_AB + V_BC
+        variables:
+        - variable: V_AB
+          name: Velocity of B relative to A
+          unit: m/s
+          range:
+            min: 7
+            max: 5
+        - variable: V_BC
+          name: Velocity of C relative to B
+          unit: m/s
+          range:
+            min: 3
+            max: 5
+        variable: V_AC
+        name: Velocity relative to the ground
+        unit: m/s
+        rounding: 2

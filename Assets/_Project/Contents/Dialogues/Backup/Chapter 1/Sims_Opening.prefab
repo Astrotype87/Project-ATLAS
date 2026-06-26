@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4668014581796721949
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3388952908055857390}
+  - component: {fileID: 7281844414398861800}
+  - component: {fileID: 7902294149215868618}
+  - component: {fileID: 956639369691434337}
+  m_Layer: 0
+  m_Name: Sims_Opening
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3388952908055857390
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4668014581796721949}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7281844414398861800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4668014581796721949}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbeb6d65be27d3b40a131a1e4ace56b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  steps:
+  - message: "Great job so far! Now, it\u2019s time for hands-on practice."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: In this simulation, you will measure the parts of the Atlas Car. Each
+      part has a number you need to enter correctly.
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "Don\u2019t worry there\u2019s no win or lose here. Just focus on entering
+      the right measurements, and you\u2019ll move smoothly to the next adventure."
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "Remember to use what you\u2019ve learned. Precision is key in science
+      and in building the perfect car!"
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  - message: "Are you ready? Let\u2019s start measuring!"
+    character: {fileID: 11400000, guid: 6a96359884e70134880e3323cd90c5eb, type: 2}
+    animation:
+      steps: []
+      cycles: 0
+      cycleMode: 0
+      sequenceEase: 0
+      useUnscaledTime: 0
+      updateType:
+        enumValue: 0
+      e_expanded: 0
+      e_cyclesExpanded: 0
+    dontUseTTS: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &7902294149215868618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4668014581796721949}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 139b92bc4d1ed6f4b9b74cc34ada33f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tweenSequencer: {fileID: 956639369691434337}
+--- !u!114 &956639369691434337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4668014581796721949}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c8d51a2479698446b58e7f4400f8d08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  autoPlayMode: 0
+  sequence:
+    steps: []
+    cycles: 1
+    cycleMode: 0
+    sequenceEase: 0
+    useUnscaledTime: 0
+    updateType:
+      enumValue: 0
+    e_expanded: 1
+    e_cyclesExpanded: 0
+  e_expandPlayer: 0
+  e_progress: 0
+  e_smoothRefresh: 0
+  e_expandSequence: 0
+  references:
+    version: 2
+    RefIds: []

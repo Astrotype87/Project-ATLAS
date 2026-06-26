@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: febe21a00bbd5a746a6f4066d7ee57b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2972899394472067369
+    second: EQUI.drawio_0
+  - first:
+      213: 7550134641553679913
+    second: EQUI.drawio_1
+  - first:
+      213: 889462493241887185
+    second: EQUI.drawio_2
+  - first:
+      213: -84753870648071391
+    second: EQUI.drawio_3
+  - first:
+      213: -4315220433289661446
+    second: EQUI.drawio_4
+  - first:
+      213: -1774407691161723126
+    second: EQUI.drawio_5
+  - first:
+      213: -6912785672389260358
+    second: EQUI.drawio_6
+  - first:
+      213: -5886242227445602130
+    second: EQUI.drawio_7
+  - first:
+      213: 1652505853929946353
+    second: EQUI.drawio_8
+  - first:
+      213: -8708208500252658172
+    second: EQUI.drawio_9
+  - first:
+      213: -6303396039701682849
+    second: EQUI.drawio_10
+  - first:
+      213: 2735109669915405259
+    second: EQUI.drawio_11
+  - first:
+      213: -4401284389339058123
+    second: EQUI.drawio_12
+  - first:
+      213: 445852524198578765
+    second: EQUI.drawio_13
+  - first:
+      213: -1927796656759919038
+    second: EQUI.drawio_14
+  - first:
+      213: -3523281279919002559
+    second: EQUI.drawio_15
+  - first:
+      213: 4129286981895063921
+    second: EQUI.drawio_16
+  - first:
+      213: -349602072410425077
+    second: EQUI.drawio_17
+  - first:
+      213: 2471799793728085635
+    second: EQUI.drawio_18
+  - first:
+      213: -5405781733420715632
+    second: EQUI.drawio_19
+  - first:
+      213: 2567086368827576343
+    second: EQUI.drawio_20
+  - first:
+      213: -5444266918959438181
+    second: EQUI.drawio_21
+  - first:
+      213: 7654553971664670134
+    second: EQUI.drawio_22
+  - first:
+      213: 5805667308714198419
+    second: EQUI.drawio_23
+  - first:
+      213: -5806581403057127661
+    second: EQUI.drawio_24
+  - first:
+      213: 5355837001950354886
+    second: EQUI.drawio_25
+  - first:
+      213: -461375963977923890
+    second: EQUI.drawio_26
+  - first:
+      213: 8907821504650901263
+    second: EQUI.drawio_27
+  - first:
+      213: 2769316823100517768
+    second: EQUI.drawio_28
+  - first:
+      213: -8271176964493637287
+    second: EQUI.drawio_29
+  - first:
+      213: -8198771157846456174
+    second: EQUI.drawio_30
+  - first:
+      213: -9104109151067711894
+    second: EQUI.drawio_31
+  - first:
+      213: -1163723802082894513
+    second: EQUI.drawio_32
+  - first:
+      213: -5120440513836673797
+    second: EQUI.drawio_33
+  - first:
+      213: 2744123504988066426
+    second: EQUI.drawio_34
+  - first:
+      213: 5452672029340719209
+    second: EQUI.drawio_35
+  - first:
+      213: -3404555439107053300
+    second: EQUI.drawio_36
+  - first:
+      213: 4617568529643975193
+    second: EQUI.drawio_37
+  - first:
+      213: -4242983383712204422
+    second: EQUI.drawio_38
+  - first:
+      213: -8010888044076981750
+    second: EQUI.drawio_39
+  - first:
+      213: -85972016835379738
+    second: EQUI.drawio_40
+  - first:
+      213: 6884241897767500541
+    second: EQUI.drawio_41
+  - first:
+      213: 635656255575902994
+    second: EQUI.drawio_42
+  - first:
+      213: -3134458428076489336
+    second: EQUI.drawio_43
+  - first:
+      213: 6930190396402211436
+    second: EQUI.drawio_44
+  - first:
+      213: -8752058137851456740
+    second: EQUI.drawio_45
+  - first:
+      213: 4346748270438084813
+    second: EQUI.drawio_46
+  - first:
+      213: 6834624862044957303
+    second: EQUI.drawio_47
+  - first:
+      213: -4999130948269157210
+    second: EQUI.drawio_48
+  - first:
+      213: -3017107238253030453
+    second: EQUI.drawio_49
+  - first:
+      213: -6156180470371831121
+    second: EQUI.drawio_50
+  - first:
+      213: -8136669367523237480
+    second: EQUI.drawio_51
+  - first:
+      213: 4503923247773783066
+    second: EQUI.drawio_52
+  - first:
+      213: -6116732867457647629
+    second: EQUI.drawio_53
+  - first:
+      213: 4141121871251320916
+    second: EQUI.drawio_54
+  - first:
+      213: -7515573350676864553
+    second: EQUI.drawio_55
+  - first:
+      213: -7909792301602731566
+    second: EQUI.drawio_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EQUI.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9214b788f3cd14920800000000000000
+      internalID: 2972899394472067369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 230
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926ad24447777c860800000000000000
+      internalID: 7550134641553679913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 230
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d947becc61085c00800000000000000
+      internalID: 889462493241887185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 230
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12baeaebdc4e2def0800000000000000
+      internalID: -84753870648071391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 230
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3334201e14d14c0800000000000000
+      internalID: -4315220433289661446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 230
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f95992b990067e0800000000000000
+      internalID: -1774407691161723126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 230
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb04d47e0ad010a0800000000000000
+      internalID: -6912785672389260358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 230
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8633b71eddf4ea0800000000000000
+      internalID: -5886242227445602130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 195
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc7fbc9151eee610800000000000000
+      internalID: 1652505853929946353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 195
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4063760d18a362780800000000000000
+      internalID: -8708208500252658172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 195
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f552afed2b6d588a0800000000000000
+      internalID: -6303396039701682849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 171
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb2b09e0cf05f520800000000000000
+      internalID: 2735109669915405259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 174
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53039f9ba2f7be2c0800000000000000
+      internalID: -4401284389339058123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 174
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a411f228cff2600800000000000000
+      internalID: 445852524198578765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 174
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ea3a297271f35e0800000000000000
+      internalID: -1927796656759919038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 174
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ce4a2d75aca1fc0800000000000000
+      internalID: -3523281279919002559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 174
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1790083d1ac2e4930800000000000000
+      internalID: 4129286981895063921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 174
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b097c3574c6f52bf0800000000000000
+      internalID: -349602072410425077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 174
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38edb05f0d89d4220800000000000000
+      internalID: 2471799793728085635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 174
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091b92e872ecaf4b0800000000000000
+      internalID: -5405781733420715632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 171
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71017b1937f10a320800000000000000
+      internalID: 2567086368827576343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 171
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96230905141274b0800000000000000
+      internalID: -5444266918959438181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 171
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdc02b18407a3a60800000000000000
+      internalID: 7654553971664670134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 174
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395020458afd19050800000000000000
+      internalID: 5805667308714198419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 174
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ff36f7af0ea6fa0800000000000000
+      internalID: -5806581403057127661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 174
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdd4287061c35a40800000000000000
+      internalID: 5355837001950354886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 174
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec24137510dd899f0800000000000000
+      internalID: -461375963977923890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 174
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f077d4b7670fe9b70800000000000000
+      internalID: 8907821504650901263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 174
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d6b676af69e6620800000000000000
+      internalID: 2769316823100517768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 174
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95986f49f50e63d80800000000000000
+      internalID: -8271176964493637287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 156
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29808d5221d183e80800000000000000
+      internalID: -8198771157846456174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 158
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66d93676f4b7a180800000000000000
+      internalID: -9104109151067711894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 158
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d9e202e5f99dfe0800000000000000
+      internalID: -1163723802082894513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 155
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf41f3f5b7a80f8b0800000000000000
+      internalID: -5120440513836673797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 158
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a721d9ee9c5151620800000000000000
+      internalID: 2744123504988066426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 158
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968df893258cbab40800000000000000
+      internalID: 5452672029340719209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 158
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0966e1cdd690c0d0800000000000000
+      internalID: -3404555439107053300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 158
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912b37fdc16e41040800000000000000
+      internalID: 4617568529643975193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 158
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79f2f1c715ed15c0800000000000000
+      internalID: -4242983383712204422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 158
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a022e5574cb93d090800000000000000
+      internalID: -8010888044076981750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 158
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed37ebf7e09ecef0800000000000000
+      internalID: -85972016835379738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 158
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfafa40288db98f50800000000000000
+      internalID: 6884241897767500541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 155
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b4bd02ffd42d800800000000000000
+      internalID: 635656255575902994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 158
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885854faaaa2084d0800000000000000
+      internalID: -3134458428076489336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 143
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a9063a27bfc2060800000000000000
+      internalID: 6930190396402211436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_45
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 140
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c131cc77e717a8680800000000000000
+      internalID: -8752058137851456740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 49
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0718b9580c25c30800000000000000
+      internalID: 4346748270438084813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_47
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 27
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a2e33c91779de50800000000000000
+      internalID: 6834624862044957303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_48
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 27
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a451ca93e48f9ab0800000000000000
+      internalID: -4999130948269157210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 27
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc31baeb3f41126d0800000000000000
+      internalID: -3017107238253030453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_50
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 27
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa23a42aa7ad09aa0800000000000000
+      internalID: -6156180470371831121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 27
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891a9f5f15eb41f80800000000000000
+      internalID: -8136669367523237480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_52
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 11
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a141e2fb456218e30800000000000000
+      internalID: 4503923247773783066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_53
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 11
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbfa396ddffc1ba0800000000000000
+      internalID: -6116732867457647629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_54
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 9
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450398bb668387930800000000000000
+      internalID: 4141121871251320916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 11
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d163855bd153b790800000000000000
+      internalID: -7515573350676864553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EQUI.drawio_56
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 11
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d989df3fc5ca3290800000000000000
+      internalID: -7909792301602731566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EQUI.drawio_0: 2972899394472067369
+      EQUI.drawio_1: 7550134641553679913
+      EQUI.drawio_10: -6303396039701682849
+      EQUI.drawio_11: 2735109669915405259
+      EQUI.drawio_12: -4401284389339058123
+      EQUI.drawio_13: 445852524198578765
+      EQUI.drawio_14: -1927796656759919038
+      EQUI.drawio_15: -3523281279919002559
+      EQUI.drawio_16: 4129286981895063921
+      EQUI.drawio_17: -349602072410425077
+      EQUI.drawio_18: 2471799793728085635
+      EQUI.drawio_19: -5405781733420715632
+      EQUI.drawio_2: 889462493241887185
+      EQUI.drawio_20: 2567086368827576343
+      EQUI.drawio_21: -5444266918959438181
+      EQUI.drawio_22: 7654553971664670134
+      EQUI.drawio_23: 5805667308714198419
+      EQUI.drawio_24: -5806581403057127661
+      EQUI.drawio_25: 5355837001950354886
+      EQUI.drawio_26: -461375963977923890
+      EQUI.drawio_27: 8907821504650901263
+      EQUI.drawio_28: 2769316823100517768
+      EQUI.drawio_29: -8271176964493637287
+      EQUI.drawio_3: -84753870648071391
+      EQUI.drawio_30: -8198771157846456174
+      EQUI.drawio_31: -9104109151067711894
+      EQUI.drawio_32: -1163723802082894513
+      EQUI.drawio_33: -5120440513836673797
+      EQUI.drawio_34: 2744123504988066426
+      EQUI.drawio_35: 5452672029340719209
+      EQUI.drawio_36: -3404555439107053300
+      EQUI.drawio_37: 4617568529643975193
+      EQUI.drawio_38: -4242983383712204422
+      EQUI.drawio_39: -8010888044076981750
+      EQUI.drawio_4: -4315220433289661446
+      EQUI.drawio_40: -85972016835379738
+      EQUI.drawio_41: 6884241897767500541
+      EQUI.drawio_42: 635656255575902994
+      EQUI.drawio_43: -3134458428076489336
+      EQUI.drawio_44: 6930190396402211436
+      EQUI.drawio_45: -8752058137851456740
+      EQUI.drawio_46: 4346748270438084813
+      EQUI.drawio_47: 6834624862044957303
+      EQUI.drawio_48: -4999130948269157210
+      EQUI.drawio_49: -3017107238253030453
+      EQUI.drawio_5: -1774407691161723126
+      EQUI.drawio_50: -6156180470371831121
+      EQUI.drawio_51: -8136669367523237480
+      EQUI.drawio_52: 4503923247773783066
+      EQUI.drawio_53: -6116732867457647629
+      EQUI.drawio_54: 4141121871251320916
+      EQUI.drawio_55: -7515573350676864553
+      EQUI.drawio_56: -7909792301602731566
+      EQUI.drawio_6: -6912785672389260358
+      EQUI.drawio_7: -5886242227445602130
+      EQUI.drawio_8: 1652505853929946353
+      EQUI.drawio_9: -8708208500252658172
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

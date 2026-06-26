@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f9c6249b17a009468129dc4c39cc478, type: 3}
+  m_Name: C8_PreTest
+  m_EditorClassIdentifier: 
+  chapter: 8
+  title: Periodic Motion and Vibrations
+  description: Quiz on waves and oscillations. Gizmo scans the rift.
+  objectives: Complete the pre-test quiz. Any score is accepted.
+  scoring: 
+  unlockDatas:
+  - icon: 1
+    name: Level 31 - Lesson
+    description: Periodic Motion
+  dialoguePrefab: {fileID: 7441093946454875512, guid: d2b107031db178f40aa7e844d2ae3b08, type: 3}
+  chapterQuizData:
+  - {fileID: 11400000, guid: e6cab1f4de69dba408cd1e197e955735, type: 2}
+  - {fileID: 11400000, guid: 42e176ef32847874580f00a1e3a8a697, type: 2}

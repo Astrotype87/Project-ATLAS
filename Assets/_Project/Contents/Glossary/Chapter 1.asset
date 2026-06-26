@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1d62931ab01cd14b84145ae3bdd017f, type: 3}
+  m_Name: Chapter 1
+  m_EditorClassIdentifier: 
+  chapter: 1
+  levelTerms:
+  - level: 1
+    terms:
+    - term: Length
+      symbol: l
+      type: 2
+      definition: It describes how long, how far, or how high something is.
+      explanation: Length is a quantity that shows dimension. Relative words are
+        how long, how far, how thick, and how high.
+      formula: 
+    - term: Mass
+      symbol: m
+      type: 2
+      definition: It describes how much matter is contained in an object.
+      explanation: Mass is a quantity that denotes how heavy an object is. Defined
+        as a quantity or aggregate of matter that has direct proportion to size.
+      formula: 
+    - term: Electric Current
+      symbol: I
+      type: 2
+      definition: It describes the flow of electric charge through a conductor.
+      explanation: Electric Current is a quantity defined as the amount of electricity
+        passing through a medium. Can also be defined as the rate of flow of electricity
+        moving continuously in a certain direction.
+      formula: 
+    - term: Amount of Substance
+      symbol: n
+      type: 2
+      definition: It describes how many particles or entities make up matter.
+      explanation: "Amount of Substance is a quantity that tells how much matter
+        makes up that object. Connected with mass.\r"
+      formula: 
+    - term: Luminous Intensity
+      symbol: I<sub>v</sub>
+      type: 2
+      definition: It measures the brightness emitted by a light source.
+      explanation: Luminous Intensity is a quantity defined as the amount of brightness
+        exerted by something. It is also the amount of light given off by an object.
+      formula: 
+    - term: Time
+      symbol: t
+      type: 2
+      definition: It describes the progression of events or duration between occurrences.
+      explanation: Time is a quantity that shows change in a certain quantifiable
+        limit. It is a dimension explained that it moves along or changes with the
+        perspective of the observer.
+      formula: 
+    - term: Random Error
+      symbol: 
+      type: 0
+      definition: It is an error caused by unpredictable variations in measurement.
+      explanation: 'Random errors are due to variations in the environment and/or
+        with measuring techniques:
+
+        - Data values are scattered alongside
+        the true value
+
+        - Error values have varied magnitude and direction
+
+        -
+        Usually affects the reading of data'
+      formula: 
+    - term: Systematic Error
+      symbol: 
+      type: 0
+      definition: Errors caused by faulty devices and/or incorrect handling of such
+        instruments
+      explanation: 'Systematic errors are caused by faulty devices and/or incorrect
+        handling of such instruments
+
+        - Data values are deviating away from
+        the true value
+
+        - Error values have consistent magnitude and direction
+
+        -
+        Error occurs during data gathering
+
+'
+      formula: 
+  - level: 3
+    terms:
+    - term: Scientific Notation
+      symbol: 
+      type: 4
+      definition: It expresses very large or very small numbers using powers of ten.
+      explanation: "It is a way scientists compress extremely large or small numbers
+        into manageable values widely understood by many.\n\nRules:\r\n- Coefficient
+        (a) must be \u2265 1 but < 10  \r\n- Base is always 10  \r\n- Positive exponent
+        (n) \u2013 moves decimal point to the left  \r\n- Negative exponent (n) \u2013
+        moves decimal point to the right"
+      formula: "<size=125%>N = a \xD7 10\u207F</size>\r\n<size=25%> </size>\r\na
+        = number between 1 and 10 (1 \u2264 a < 10)  \r\nn = exponent power of 10,
+        indicates number of zeros or decimal shifts"
+  - level: 4
+    terms:
+    - term: Scalar
+      symbol: 
+      type: 0
+      definition: A quantity that has magnitude only, without direction.
+      explanation: Scalars are fully described by a numerical value and unit, such
+        as mass, time, or temperature.
+      formula: 
+    - term: Vector
+      symbol: 
+      type: 0
+      definition: A quantity that has both magnitude and direction.
+      explanation: Vectors represent quantities like force, velocity, and displacement,
+        often shown as arrows in diagrams.
+      formula: 
+    - term: Cartesian Coordinate System
+      symbol: 
+      type: 0
+      definition: It is a grid defined by perpendicular x and y axes.
+      explanation: Used to locate points and represent vectors by their components.
+        Quadrants determine sign of each component.
+      formula: 
+    - term: Vector Components
+      symbol: V<sub>x</sub>, V<sub>y</sub>
+      type: 3
+      definition: Parts of a vector projected along coordinate axes.
+      explanation: "They are found by splitting a vector using trigonometric functions
+        into x and y directions.\n\nQuadrants:\r\nI = +x, +y  \r\nII = \u2013x, +y 
+        \r\nIII = \u2013x, \u2013y  \r\nIV = +x, \u2013y"
+      formula: "<size=125%>V<sub>x</sub> = V cos\u03B8; V<sub>y</sub> = V sin\u03B8</size>\r\n<size=25%>
+        </size>\r\nV = vector magnitude  \r\n\u03B8 = angle from x-axis"
+    - term: 1D Projection
+      symbol: 
+      type: 4
+      definition: Vector representation along a single line or axis.
+      explanation: The simplest projection is the one-dimensional, wherein the quantity
+        is represented with an arrow pointing to a specific direction, usually in
+        one of the four cardinal directions (NESW).
+      formula: '<size=125%>V<sub>1D</sub> = V</size>
+
+        <size=25%> </size>
+
+        V
+        = vector magnitude along one axis (x or y only)'
+    - term: 2D Projection
+      symbol: 
+      type: 4
+      definition: Vector resolved into two perpendicular components.
+      explanation: 'The two dimensional projection shows the vector value represented
+        by an arrow pointing in a direction specified by two (2) components: the
+        x- and y-axes, which is measured by an angle.'
+      formula: "<size=125%>V = \u221A(V<sub>x</sub>\xB2 + V<sub>y</sub>\xB2)</size>\r\n<size=25%>
+        </size>\r\nV<sub>x</sub> = x-component  \r\nV<sub>y</sub> = y-component\r"
+    - term: 3D Projection
+      symbol: 
+      type: 4
+      definition: Vector resolved into three orthogonal components.
+      explanation: 'The complex form of projection, the three-dimensional, represents
+        the vector with an arrow that uses three components: x, y, and the z-axis.'
+      formula: "<size=125%>V = \u221A(V<sub>x</sub>\xB2 + V<sub>y</sub>\xB2 + V<sub>z</sub>\xB2)</size>\r\n<size=25%>
+        </size>\r\nV<sub>x</sub> = x-component  \r\nV<sub>y</sub> = y-component 
+        \r\nV<sub>z</sub> = z-component"

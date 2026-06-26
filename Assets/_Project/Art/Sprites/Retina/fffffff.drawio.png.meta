@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: aaf713b1c2ce9174aab3cce9e0aa2484
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7973974637451676261
+    second: fffffff.drawio_0
+  - first:
+      213: 7617076256472434937
+    second: fffffff.drawio_1
+  - first:
+      213: -2601080865223228357
+    second: fffffff.drawio_2
+  - first:
+      213: -5249501373463163648
+    second: fffffff.drawio_3
+  - first:
+      213: 6862099505666387936
+    second: fffffff.drawio_4
+  - first:
+      213: 6927188242458188988
+    second: fffffff.drawio_5
+  - first:
+      213: -3202869129012099331
+    second: fffffff.drawio_6
+  - first:
+      213: -1559543366596283
+    second: fffffff.drawio_7
+  - first:
+      213: -5215190524626941178
+    second: fffffff.drawio_8
+  - first:
+      213: -3230179290732717223
+    second: fffffff.drawio_9
+  - first:
+      213: 2080278053747291780
+    second: fffffff.drawio_10
+  - first:
+      213: -8528725629771435403
+    second: fffffff.drawio_11
+  - first:
+      213: -8489487449182976644
+    second: fffffff.drawio_12
+  - first:
+      213: -4574127513685676028
+    second: fffffff.drawio_13
+  - first:
+      213: -415969585557529906
+    second: fffffff.drawio_14
+  - first:
+      213: 8083283626329688601
+    second: fffffff.drawio_15
+  - first:
+      213: 7324161107381830488
+    second: fffffff.drawio_16
+  - first:
+      213: 4957971052223408866
+    second: fffffff.drawio_17
+  - first:
+      213: -1074184013950946293
+    second: fffffff.drawio_18
+  - first:
+      213: 923111145097926065
+    second: fffffff.drawio_19
+  - first:
+      213: -3778480890150046077
+    second: fffffff.drawio_20
+  - first:
+      213: -1443911564431792464
+    second: fffffff.drawio_21
+  - first:
+      213: -5536631404092349195
+    second: fffffff.drawio_22
+  - first:
+      213: -6383542273174972990
+    second: fffffff.drawio_23
+  - first:
+      213: -7344724684307025308
+    second: fffffff.drawio_24
+  - first:
+      213: -7345501527069644543
+    second: fffffff.drawio_25
+  - first:
+      213: 7089878035614459691
+    second: fffffff.drawio_26
+  - first:
+      213: 1953850777988988901
+    second: fffffff.drawio_27
+  - first:
+      213: 378194421117030939
+    second: fffffff.drawio_28
+  - first:
+      213: -620556598621044009
+    second: fffffff.drawio_29
+  - first:
+      213: -1187514131562764037
+    second: fffffff.drawio_30
+  - first:
+      213: -3875081418499307316
+    second: fffffff.drawio_31
+  - first:
+      213: -2978993274262471767
+    second: fffffff.drawio_32
+  - first:
+      213: -267264497070337425
+    second: fffffff.drawio_33
+  - first:
+      213: -5911167121626106582
+    second: fffffff.drawio_34
+  - first:
+      213: -8406695256138589447
+    second: fffffff.drawio_35
+  - first:
+      213: 4219543776553198326
+    second: fffffff.drawio_36
+  - first:
+      213: 5607573791384234936
+    second: fffffff.drawio_37
+  - first:
+      213: -139558437030149820
+    second: fffffff.drawio_38
+  - first:
+      213: -2675406947206781666
+    second: fffffff.drawio_39
+  - first:
+      213: -522791878421819100
+    second: fffffff.drawio_40
+  - first:
+      213: -322918481607998423
+    second: fffffff.drawio_41
+  - first:
+      213: -6288836313908145965
+    second: fffffff.drawio_42
+  - first:
+      213: -8616784688796714741
+    second: fffffff.drawio_43
+  - first:
+      213: -2731568421419628620
+    second: fffffff.drawio_44
+  - first:
+      213: -7049501700348260864
+    second: fffffff.drawio_45
+  - first:
+      213: 780336164901697406
+    second: fffffff.drawio_46
+  - first:
+      213: -1960240126063340977
+    second: fffffff.drawio_47
+  - first:
+      213: 3975169290610242238
+    second: fffffff.drawio_48
+  - first:
+      213: 3299330531744052122
+    second: fffffff.drawio_49
+  - first:
+      213: -7219381416713011414
+    second: fffffff.drawio_50
+  - first:
+      213: -817558799244793643
+    second: fffffff.drawio_51
+  - first:
+      213: 4119128584902878994
+    second: fffffff.drawio_52
+  - first:
+      213: -2463807790645225104
+    second: fffffff.drawio_53
+  - first:
+      213: 2463702056533862630
+    second: fffffff.drawio_54
+  - first:
+      213: 6166188150126556114
+    second: fffffff.drawio_55
+  - first:
+      213: -1317896443830454708
+    second: fffffff.drawio_56
+  - first:
+      213: 7123845924370997093
+    second: fffffff.drawio_57
+  - first:
+      213: -259894482669585207
+    second: fffffff.drawio_58
+  - first:
+      213: -4226669714915333874
+    second: fffffff.drawio_59
+  - first:
+      213: -8131662334999004034
+    second: fffffff.drawio_60
+  - first:
+      213: -8243963998362034184
+    second: fffffff.drawio_61
+  - first:
+      213: 6230853953740905014
+    second: fffffff.drawio_62
+  - first:
+      213: -369597797971797949
+    second: fffffff.drawio_63
+  - first:
+      213: -382097161176544244
+    second: fffffff.drawio_64
+  - first:
+      213: -828431170767292014
+    second: fffffff.drawio_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fffffff.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 139
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a08415faf39ae60800000000000000
+      internalID: 7973974637451676261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 139
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f80a1e8f7a45b960800000000000000
+      internalID: 7617076256472434937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 139
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34cd44fbba17ebd0800000000000000
+      internalID: -2601080865223228357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 139
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d8dca50560627b0800000000000000
+      internalID: -5249501373463163648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 139
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efe0a8b4231b3f50800000000000000
+      internalID: 6862099505666387936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 139
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc9bf33101522060800000000000000
+      internalID: 6927188242458188988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 139
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df64b272f7f1d83d0800000000000000
+      internalID: -3202869129012099331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 139
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5494f938a957afff0800000000000000
+      internalID: -1559543366596283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 139
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bc0af59dbef97b0800000000000000
+      internalID: -5215190524626941178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 133
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b9d0f9c091c23d0800000000000000
+      internalID: -3230179290732717223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 139
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486f5ab3ed1aedc10800000000000000
+      internalID: 2080278053747291780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 133
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57234b21a31e3a980800000000000000
+      internalID: -8528725629771435403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75cf4ae4284f2a80800000000000000
+      internalID: -8489487449182976644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 100
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400bc65d24f6580c0800000000000000
+      internalID: -4574127513685676028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 100
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca1a77addd2a3af0800000000000000
+      internalID: -415969585557529906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 100
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91acc1e81a79d2070800000000000000
+      internalID: 8083283626329688601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 100
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853c93bd8b5a4a560800000000000000
+      internalID: 7324161107381830488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea227e47604ec440800000000000000
+      internalID: 4957971052223408866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04fc01a45bb711f0800000000000000
+      internalID: -1074184013950946293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 100
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b514c312bc8fcc00800000000000000
+      internalID: 923111145097926065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386310056a3209bc0800000000000000
+      internalID: -3778480890150046077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 100
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6e6f2151236fbe0800000000000000
+      internalID: -1443911564431792464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 100
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4adc2821fe923b0800000000000000
+      internalID: -5536631404092349195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 100
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c557bebf1a1967a0800000000000000
+      internalID: -6383542273174972990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 97
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46236da40db421a90800000000000000
+      internalID: -7344724684307025308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109aced77498f0a90800000000000000
+      internalID: -7345501527069644543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 100
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27e4a5728e446260800000000000000
+      internalID: 7089878035614459691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef772e3ee87d1b10800000000000000
+      internalID: 1953850777988988901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 97
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1217be72dd9f3500800000000000000
+      internalID: 378194421117030939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d20b28bf075367f0800000000000000
+      internalID: -620556598621044009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 97
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8e176603a158fe0800000000000000
+      internalID: -1187514131562764037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8c1ae1bf1f83ac0800000000000000
+      internalID: -3875081418499307316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 100
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abbe43866d78a6d0800000000000000
+      internalID: -2978993274262471767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 100
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f629c0f1b5c7a4cf0800000000000000
+      internalID: -267264497070337425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 100
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25f18352d057fda0800000000000000
+      internalID: -5911167121626106582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 100
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fad5e2843b655b80800000000000000
+      internalID: -8406695256138589447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 100
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2e9ab65b4de8a30800000000000000
+      internalID: 4219543776553198326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb6f3f27aa12dd40800000000000000
+      internalID: 5607573791384234936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441c8674750301ef0800000000000000
+      internalID: -139558437030149820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 69
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15a0227e8b0fdad0800000000000000
+      internalID: -2675406947206781666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42155337e8baeb8f0800000000000000
+      internalID: -522791878421819100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 69
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924c8541a53c48bf0800000000000000
+      internalID: -322918481607998423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 69
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d09de231b099b8a0800000000000000
+      internalID: -6288836313908145965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 69
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b093f3eaaf70b6880800000000000000
+      internalID: -8616784688796714741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 75
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7cb914ef4871ad0800000000000000
+      internalID: -2731568421419628620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 69
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eca3bad832b2e90800000000000000
+      internalID: -7049501700348260864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e773b5a8b9f44da00800000000000000
+      internalID: 780336164901697406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42178bbdf3dbc4e0800000000000000
+      internalID: -1960240126063340977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_48
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 39
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb27dd09863aa2730800000000000000
+      internalID: 3975169290610242238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_49
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 39
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93743553a399cd20800000000000000
+      internalID: 3299330531744052122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_50
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fb3c6f9da9fcb90800000000000000
+      internalID: -7219381416713011414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_51
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 39
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8e40c8a9277a4f0800000000000000
+      internalID: -817558799244793643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 21
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2172b47bf951a2930800000000000000
+      internalID: 4119128584902878994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_53
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07950c34edbcecdd0800000000000000
+      internalID: -2463807790645225104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_54
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 21
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8a91897f3d03220800000000000000
+      internalID: 2463702056533862630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_55
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 21
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d33482e373b29550800000000000000
+      internalID: 6166188150126556114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_56
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 21
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c463cb6ba24e5bde0800000000000000
+      internalID: -1317896443830454708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_57
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 21
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f5fbcdf1cfcd260800000000000000
+      internalID: 7123845924370997093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_58
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc3561585ba46cf0800000000000000
+      internalID: -259894482669585207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09e193c94ad755c0800000000000000
+      internalID: -4226669714915333874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cf5f09038862f80800000000000000
+      internalID: -8131662334999004034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff95800c6e879d80800000000000000
+      internalID: -8243963998362034184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_62
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a901098a0787650800000000000000
+      internalID: 6230853953740905014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_63
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348df1ec2cceedaf0800000000000000
+      internalID: -369597797971797949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_64
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 4
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c036608a482baf0800000000000000
+      internalID: -382097161176544244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fffffff.drawio_65
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299fd894d32d084f0800000000000000
+      internalID: -828431170767292014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fffffff.drawio_0: 7973974637451676261
+      fffffff.drawio_1: 7617076256472434937
+      fffffff.drawio_10: 2080278053747291780
+      fffffff.drawio_11: -8528725629771435403
+      fffffff.drawio_12: -8489487449182976644
+      fffffff.drawio_13: -4574127513685676028
+      fffffff.drawio_14: -415969585557529906
+      fffffff.drawio_15: 8083283626329688601
+      fffffff.drawio_16: 7324161107381830488
+      fffffff.drawio_17: 4957971052223408866
+      fffffff.drawio_18: -1074184013950946293
+      fffffff.drawio_19: 923111145097926065
+      fffffff.drawio_2: -2601080865223228357
+      fffffff.drawio_20: -3778480890150046077
+      fffffff.drawio_21: -1443911564431792464
+      fffffff.drawio_22: -5536631404092349195
+      fffffff.drawio_23: -6383542273174972990
+      fffffff.drawio_24: -7344724684307025308
+      fffffff.drawio_25: -7345501527069644543
+      fffffff.drawio_26: 7089878035614459691
+      fffffff.drawio_27: 1953850777988988901
+      fffffff.drawio_28: 378194421117030939
+      fffffff.drawio_29: -620556598621044009
+      fffffff.drawio_3: -5249501373463163648
+      fffffff.drawio_30: -1187514131562764037
+      fffffff.drawio_31: -3875081418499307316
+      fffffff.drawio_32: -2978993274262471767
+      fffffff.drawio_33: -267264497070337425
+      fffffff.drawio_34: -5911167121626106582
+      fffffff.drawio_35: -8406695256138589447
+      fffffff.drawio_36: 4219543776553198326
+      fffffff.drawio_37: 5607573791384234936
+      fffffff.drawio_38: -139558437030149820
+      fffffff.drawio_39: -2675406947206781666
+      fffffff.drawio_4: 6862099505666387936
+      fffffff.drawio_40: -522791878421819100
+      fffffff.drawio_41: -322918481607998423
+      fffffff.drawio_42: -6288836313908145965
+      fffffff.drawio_43: -8616784688796714741
+      fffffff.drawio_44: -2731568421419628620
+      fffffff.drawio_45: -7049501700348260864
+      fffffff.drawio_46: 780336164901697406
+      fffffff.drawio_47: -1960240126063340977
+      fffffff.drawio_48: 3975169290610242238
+      fffffff.drawio_49: 3299330531744052122
+      fffffff.drawio_5: 6927188242458188988
+      fffffff.drawio_50: -7219381416713011414
+      fffffff.drawio_51: -817558799244793643
+      fffffff.drawio_52: 4119128584902878994
+      fffffff.drawio_53: -2463807790645225104
+      fffffff.drawio_54: 2463702056533862630
+      fffffff.drawio_55: 6166188150126556114
+      fffffff.drawio_56: -1317896443830454708
+      fffffff.drawio_57: 7123845924370997093
+      fffffff.drawio_58: -259894482669585207
+      fffffff.drawio_59: -4226669714915333874
+      fffffff.drawio_6: -3202869129012099331
+      fffffff.drawio_60: -8131662334999004034
+      fffffff.drawio_61: -8243963998362034184
+      fffffff.drawio_62: 6230853953740905014
+      fffffff.drawio_63: -369597797971797949
+      fffffff.drawio_64: -382097161176544244
+      fffffff.drawio_65: -828431170767292014
+      fffffff.drawio_7: -1559543366596283
+      fffffff.drawio_8: -5215190524626941178
+      fffffff.drawio_9: -3230179290732717223
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

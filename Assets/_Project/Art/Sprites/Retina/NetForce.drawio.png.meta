@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: bff211e1270bba84a9a72c150fed9438
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1865835484798072371
+    second: NetForce.drawio_0
+  - first:
+      213: 248027195428640822
+    second: NetForce.drawio_1
+  - first:
+      213: -1926738700632257260
+    second: NetForce.drawio_2
+  - first:
+      213: 4393454807936401290
+    second: NetForce.drawio_3
+  - first:
+      213: -7986737692713188731
+    second: NetForce.drawio_4
+  - first:
+      213: 4496171299834617866
+    second: NetForce.drawio_5
+  - first:
+      213: -1424763463793918395
+    second: NetForce.drawio_6
+  - first:
+      213: -1848114669310174323
+    second: NetForce.drawio_7
+  - first:
+      213: -2638093205997520928
+    second: NetForce.drawio_8
+  - first:
+      213: 3280966881436086834
+    second: NetForce.drawio_9
+  - first:
+      213: -6387332461844851806
+    second: NetForce.drawio_10
+  - first:
+      213: 3310285104016157087
+    second: NetForce.drawio_11
+  - first:
+      213: -2527944332429213805
+    second: NetForce.drawio_12
+  - first:
+      213: -6465063571424928469
+    second: NetForce.drawio_13
+  - first:
+      213: -8387641079913819364
+    second: NetForce.drawio_14
+  - first:
+      213: 4334235679575153322
+    second: NetForce.drawio_15
+  - first:
+      213: -7947311695908018031
+    second: NetForce.drawio_16
+  - first:
+      213: 7781146318892723417
+    second: NetForce.drawio_17
+  - first:
+      213: -7730431888054475207
+    second: NetForce.drawio_18
+  - first:
+      213: 2058963918366005154
+    second: NetForce.drawio_19
+  - first:
+      213: -6699915136636656813
+    second: NetForce.drawio_20
+  - first:
+      213: 488555415652129987
+    second: NetForce.drawio_21
+  - first:
+      213: -8415158040833318860
+    second: NetForce.drawio_22
+  - first:
+      213: 2384233232696503671
+    second: NetForce.drawio_23
+  - first:
+      213: 4874267208418979175
+    second: NetForce.drawio_24
+  - first:
+      213: -3467854575398484396
+    second: NetForce.drawio_25
+  - first:
+      213: -520840497566853478
+    second: NetForce.drawio_26
+  - first:
+      213: 3426425302974173065
+    second: NetForce.drawio_27
+  - first:
+      213: -5538696459054270419
+    second: NetForce.drawio_28
+  - first:
+      213: -4612963902413623771
+    second: NetForce.drawio_29
+  - first:
+      213: 5093556978810957976
+    second: NetForce.drawio_30
+  - first:
+      213: -1731838075283273718
+    second: NetForce.drawio_31
+  - first:
+      213: 2745087816538415106
+    second: NetForce.drawio_32
+  - first:
+      213: -5763812474888095500
+    second: NetForce.drawio_33
+  - first:
+      213: 8975285294417117455
+    second: NetForce.drawio_34
+  - first:
+      213: -7774599162016671704
+    second: NetForce.drawio_35
+  - first:
+      213: -130378549994600760
+    second: NetForce.drawio_36
+  - first:
+      213: 2153187566408419181
+    second: NetForce.drawio_37
+  - first:
+      213: -7865242490713852035
+    second: NetForce.drawio_38
+  - first:
+      213: 6559666475899623268
+    second: NetForce.drawio_39
+  - first:
+      213: 8711031854604252410
+    second: NetForce.drawio_40
+  - first:
+      213: 4209597967904410506
+    second: NetForce.drawio_41
+  - first:
+      213: -8368685155869417821
+    second: NetForce.drawio_42
+  - first:
+      213: -6266272704669638026
+    second: NetForce.drawio_43
+  - first:
+      213: -1795451215074168221
+    second: NetForce.drawio_44
+  - first:
+      213: 7482602335741163013
+    second: NetForce.drawio_45
+  - first:
+      213: 30339859011755417
+    second: NetForce.drawio_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NetForce.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 176
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33635b0ec77c4e910800000000000000
+      internalID: 1865835484798072371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 176
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638192e8b6b217300800000000000000
+      internalID: 248027195428640822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 176
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d01dd2c59d245e0800000000000000
+      internalID: -1926738700632257260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ff7cbcedfa8fc30800000000000000
+      internalID: 4393454807936401290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5828b9f4268692190800000000000000
+      internalID: -7986737692713188731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 176
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00e2f7b9fb956e30800000000000000
+      internalID: 4496171299834617866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 137
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ebb9bad293a3ce0800000000000000
+      internalID: -1424763463793918395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 137
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b149fff7d2a56e0800000000000000
+      internalID: -1848114669310174323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 137
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e77524d43c936bd0800000000000000
+      internalID: -2638093205997520928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 137
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232b1dfcef5588d20800000000000000
+      internalID: 3280966881436086834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 137
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a39a6da7f2ab57a0800000000000000
+      internalID: -6387332461844851806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 137
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99662273ce70fd20800000000000000
+      internalID: 3310285104016157087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 137
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f3895f500faecd0800000000000000
+      internalID: -2527944332429213805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 137
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d16e66fea7746a0800000000000000
+      internalID: -6465063571424928469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 137
+        width: 55
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c135340a0ec199b80800000000000000
+      internalID: -8387641079913819364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 137
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa96e5036c462c30800000000000000
+      internalID: 4334235679575153322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 134
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19868168e1a75b190800000000000000
+      internalID: -7947311695908018031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 137
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc60fac95f2cfb60800000000000000
+      internalID: 7781146318892723417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 137
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9362928c72df7b490800000000000000
+      internalID: -7730431888054475207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 137
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a75d8f56c8e29c10800000000000000
+      internalID: 2058963918366005154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 137
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353628f4eae1503a0800000000000000
+      internalID: -6699915136636656813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 137
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccd903ef82b7c600800000000000000
+      internalID: 488555415652129987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 137
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430ab57e85a573b80800000000000000
+      internalID: -8415158040833318860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 137
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d6e803e7f761120800000000000000
+      internalID: 2384233232696503671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 134
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76de52a7330e4a340800000000000000
+      internalID: 4874267208418979175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 120
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45609ac13a4bfdfc0800000000000000
+      internalID: -3467854575398484396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 117
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96d3e5b35a95c8f0800000000000000
+      internalID: -520840497566853478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 117
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f8f29b8ab1d8f20800000000000000
+      internalID: 3426425302974173065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 120
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d283b5f6ae89223b0800000000000000
+      internalID: -5538696459054270419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 117
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eafe275c57bffb0800000000000000
+      internalID: -4612963902413623771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 88
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8903d3dd513ffa640800000000000000
+      internalID: 5093556978810957976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 91
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a088e3a327647f7e0800000000000000
+      internalID: -1731838075283273718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200660633d2881620800000000000000
+      internalID: 2745087816538415106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 76
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f874529713d200b0800000000000000
+      internalID: -5763812474888095500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 67
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0105831c6e9e8c70800000000000000
+      internalID: 8975285294417117455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 66
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82852f4f0431b1490800000000000000
+      internalID: -7774599162016671704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 36
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6cd39466dc03ef0800000000000000
+      internalID: -130378549994600760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67cf8efea8a1ed10800000000000000
+      internalID: 2153187566408419181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7731b460ab09d290800000000000000
+      internalID: -7865242490713852035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467190db7ed980b50800000000000000
+      internalID: 6559666475899623268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af47cc8915dc3e870800000000000000
+      internalID: 8711031854604252410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 19
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b06246c0f7b6a30800000000000000
+      internalID: 4209597967904410506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae915f90357cdb80800000000000000
+      internalID: -8368685155869417821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 19
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672a07cdc2ab909a0800000000000000
+      internalID: -6266272704669638026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 19
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362f5f1f1a64517e0800000000000000
+      internalID: -1795451215074168221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5063c590e2b87d760800000000000000
+      internalID: 7482602335741163013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetForce.drawio_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d5ee6e0f9cb6000800000000000000
+      internalID: 30339859011755417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NetForce.drawio_0: 1865835484798072371
+      NetForce.drawio_1: 248027195428640822
+      NetForce.drawio_10: -6387332461844851806
+      NetForce.drawio_11: 3310285104016157087
+      NetForce.drawio_12: -2527944332429213805
+      NetForce.drawio_13: -6465063571424928469
+      NetForce.drawio_14: -8387641079913819364
+      NetForce.drawio_15: 4334235679575153322
+      NetForce.drawio_16: -7947311695908018031
+      NetForce.drawio_17: 7781146318892723417
+      NetForce.drawio_18: -7730431888054475207
+      NetForce.drawio_19: 2058963918366005154
+      NetForce.drawio_2: -1926738700632257260
+      NetForce.drawio_20: -6699915136636656813
+      NetForce.drawio_21: 488555415652129987
+      NetForce.drawio_22: -8415158040833318860
+      NetForce.drawio_23: 2384233232696503671
+      NetForce.drawio_24: 4874267208418979175
+      NetForce.drawio_25: -3467854575398484396
+      NetForce.drawio_26: -520840497566853478
+      NetForce.drawio_27: 3426425302974173065
+      NetForce.drawio_28: -5538696459054270419
+      NetForce.drawio_29: -4612963902413623771
+      NetForce.drawio_3: 4393454807936401290
+      NetForce.drawio_30: 5093556978810957976
+      NetForce.drawio_31: -1731838075283273718
+      NetForce.drawio_32: 2745087816538415106
+      NetForce.drawio_33: -5763812474888095500
+      NetForce.drawio_34: 8975285294417117455
+      NetForce.drawio_35: -7774599162016671704
+      NetForce.drawio_36: -130378549994600760
+      NetForce.drawio_37: 2153187566408419181
+      NetForce.drawio_38: -7865242490713852035
+      NetForce.drawio_39: 6559666475899623268
+      NetForce.drawio_4: -7986737692713188731
+      NetForce.drawio_40: 8711031854604252410
+      NetForce.drawio_41: 4209597967904410506
+      NetForce.drawio_42: -8368685155869417821
+      NetForce.drawio_43: -6266272704669638026
+      NetForce.drawio_44: -1795451215074168221
+      NetForce.drawio_45: 7482602335741163013
+      NetForce.drawio_46: 30339859011755417
+      NetForce.drawio_5: 4496171299834617866
+      NetForce.drawio_6: -1424763463793918395
+      NetForce.drawio_7: -1848114669310174323
+      NetForce.drawio_8: -2638093205997520928
+      NetForce.drawio_9: 3280966881436086834
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

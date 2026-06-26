@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: b5221e9f3730e164385971e218d4a36d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3118013884704230346
+    second: speeed2.drawio_0
+  - first:
+      213: -6595111700330293442
+    second: speeed2.drawio_1
+  - first:
+      213: -6187520306396077957
+    second: speeed2.drawio_2
+  - first:
+      213: -4057881394937481093
+    second: speeed2.drawio_3
+  - first:
+      213: 1923517244354657466
+    second: speeed2.drawio_4
+  - first:
+      213: -5690414207417314599
+    second: speeed2.drawio_5
+  - first:
+      213: -7885946466364672947
+    second: speeed2.drawio_6
+  - first:
+      213: -5770319443195752789
+    second: speeed2.drawio_7
+  - first:
+      213: -478194756594522184
+    second: speeed2.drawio_8
+  - first:
+      213: 6765166973336518868
+    second: speeed2.drawio_9
+  - first:
+      213: -1091801693867202775
+    second: speeed2.drawio_10
+  - first:
+      213: -1223235926282227888
+    second: speeed2.drawio_11
+  - first:
+      213: -3210162341552827164
+    second: speeed2.drawio_12
+  - first:
+      213: -880718692316554805
+    second: speeed2.drawio_13
+  - first:
+      213: -7040368200427962071
+    second: speeed2.drawio_14
+  - first:
+      213: 5089309836561892822
+    second: speeed2.drawio_15
+  - first:
+      213: 8785986376526328474
+    second: speeed2.drawio_16
+  - first:
+      213: -5392460959906433169
+    second: speeed2.drawio_17
+  - first:
+      213: 4415509992765971886
+    second: speeed2.drawio_18
+  - first:
+      213: -5100001477517071718
+    second: speeed2.drawio_19
+  - first:
+      213: 422161442051520002
+    second: speeed2.drawio_20
+  - first:
+      213: 5921541524334319529
+    second: speeed2.drawio_21
+  - first:
+      213: -738893404955630355
+    second: speeed2.drawio_22
+  - first:
+      213: 8875471961123501674
+    second: speeed2.drawio_23
+  - first:
+      213: 3823136767549096913
+    second: speeed2.drawio_24
+  - first:
+      213: -4185080305689782233
+    second: speeed2.drawio_25
+  - first:
+      213: -3061692763370821655
+    second: speeed2.drawio_26
+  - first:
+      213: 8014979317255425681
+    second: speeed2.drawio_27
+  - first:
+      213: -6892481024924938972
+    second: speeed2.drawio_28
+  - first:
+      213: 1862545915112377915
+    second: speeed2.drawio_29
+  - first:
+      213: 5028955501519514528
+    second: speeed2.drawio_30
+  - first:
+      213: -1294154874927299765
+    second: speeed2.drawio_31
+  - first:
+      213: 4744110702386620929
+    second: speeed2.drawio_32
+  - first:
+      213: -8351819803624887561
+    second: speeed2.drawio_33
+  - first:
+      213: 929501948670242307
+    second: speeed2.drawio_34
+  - first:
+      213: 2071189592270221035
+    second: speeed2.drawio_35
+  - first:
+      213: 6543292968156231117
+    second: speeed2.drawio_36
+  - first:
+      213: -4269250035490401366
+    second: speeed2.drawio_37
+  - first:
+      213: -8992221203841907547
+    second: speeed2.drawio_38
+  - first:
+      213: 1812282702437678121
+    second: speeed2.drawio_39
+  - first:
+      213: 1793552572523496589
+    second: speeed2.drawio_40
+  - first:
+      213: -9183054100611169809
+    second: speeed2.drawio_41
+  - first:
+      213: -1870515566533297967
+    second: speeed2.drawio_42
+  - first:
+      213: -8263438296758489721
+    second: speeed2.drawio_43
+  - first:
+      213: -1992725826726831827
+    second: speeed2.drawio_44
+  - first:
+      213: 1982543314898216651
+    second: speeed2.drawio_45
+  - first:
+      213: -8635994626739560245
+    second: speeed2.drawio_46
+  - first:
+      213: -8715915559284398088
+    second: speeed2.drawio_47
+  - first:
+      213: -3905060287880648118
+    second: speeed2.drawio_48
+  - first:
+      213: -6428926455284505540
+    second: speeed2.drawio_49
+  - first:
+      213: 6322491838484096646
+    second: speeed2.drawio_50
+  - first:
+      213: -6652339920693580660
+    second: speeed2.drawio_51
+  - first:
+      213: 7833399025473453995
+    second: speeed2.drawio_52
+  - first:
+      213: -5848756206922729920
+    second: speeed2.drawio_53
+  - first:
+      213: 922771617463362629
+    second: speeed2.drawio_54
+  - first:
+      213: -9089205428943383779
+    second: speeed2.drawio_55
+  - first:
+      213: -5556689001670773907
+    second: speeed2.drawio_56
+  - first:
+      213: -1814159100595499438
+    second: speeed2.drawio_57
+  - first:
+      213: -8206508661767776095
+    second: speeed2.drawio_58
+  - first:
+      213: 4718483854315432098
+    second: speeed2.drawio_59
+  - first:
+      213: 6622470219053152656
+    second: speeed2.drawio_60
+  - first:
+      213: 7978323118586884259
+    second: speeed2.drawio_61
+  - first:
+      213: -5219058490149874244
+    second: speeed2.drawio_62
+  - first:
+      213: -6503649196606379202
+    second: speeed2.drawio_63
+  - first:
+      213: 202145308822991446
+    second: speeed2.drawio_64
+  - first:
+      213: -6097913329798296272
+    second: speeed2.drawio_65
+  - first:
+      213: 1168586503968478540
+    second: speeed2.drawio_66
+  - first:
+      213: -2716485958732798884
+    second: speeed2.drawio_67
+  - first:
+      213: -8591803308203408948
+    second: speeed2.drawio_68
+  - first:
+      213: -8926076548130758798
+    second: speeed2.drawio_69
+  - first:
+      213: 2243141677499315927
+    second: speeed2.drawio_70
+  - first:
+      213: 7334698777238751515
+    second: speeed2.drawio_71
+  - first:
+      213: -2500057696706617671
+    second: speeed2.drawio_72
+  - first:
+      213: -4924797167422006482
+    second: speeed2.drawio_73
+  - first:
+      213: -2811481516124294023
+    second: speeed2.drawio_74
+  - first:
+      213: 239146671346792565
+    second: speeed2.drawio_75
+  - first:
+      213: -254960889634983777
+    second: speeed2.drawio_76
+  - first:
+      213: -2069900818514827211
+    second: speeed2.drawio_77
+  - first:
+      213: 346225358722097113
+    second: speeed2.drawio_78
+  - first:
+      213: 1478292117115125293
+    second: speeed2.drawio_79
+  - first:
+      213: 940205359928622711
+    second: speeed2.drawio_80
+  - first:
+      213: 3734058651306783358
+    second: speeed2.drawio_81
+  - first:
+      213: -1670236849054649412
+    second: speeed2.drawio_82
+  - first:
+      213: -4026688736247800480
+    second: speeed2.drawio_83
+  - first:
+      213: 7474822829784572956
+    second: speeed2.drawio_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: speeed2.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 247
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb0882bb19654b20800000000000000
+      internalID: 3118013884704230346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 242
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e375ac7d9d47974a0800000000000000
+      internalID: -6595111700330293442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 247
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70eeb07013812aa0800000000000000
+      internalID: -6187520306396077957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 247
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78b512fe528fa7c0800000000000000
+      internalID: -4057881394937481093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 211
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcf8151eb4b1ba10800000000000000
+      internalID: 1923517244354657466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 211
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d21e0e6d669701b0800000000000000
+      internalID: -5690414207417314599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 179
+        width: 102
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44369a687d7f8290800000000000000
+      internalID: -7885946466364672947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 186
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae89c3f905bbefa0800000000000000
+      internalID: -5770319443195752789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 186
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7aab7076c1d59f0800000000000000
+      internalID: -478194756594522184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 186
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d08de3d483b2ed50800000000000000
+      internalID: 6765166973336518868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 186
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92720efd42429d0f0800000000000000
+      internalID: -1091801693867202775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 183
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fa371f761360fe0800000000000000
+      internalID: -1223235926282227888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 186
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e45868cb563373d0800000000000000
+      internalID: -3210162341552827164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 186
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9dc6df30f07c3f0800000000000000
+      internalID: -880718692316554805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 186
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92109855c669b4e90800000000000000
+      internalID: -7040368200427962071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 186
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d54c20055cd0a640800000000000000
+      internalID: 5089309836561892822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 186
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92f54e2f081ee970800000000000000
+      internalID: 8785986376526328474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 186
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f677d93d3512a25b0800000000000000
+      internalID: -5392460959906433169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 186
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadd00da1fa074d30800000000000000
+      internalID: 4415509992765971886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 169
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aa0aa5da72939b0800000000000000
+      internalID: -5100001477517071718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 166
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206f8574891dbd500800000000000000
+      internalID: 422161442051520002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 169
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a71ca884aa8d2250800000000000000
+      internalID: 5921541524334319529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 169
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4adbeec5ceeb5f0800000000000000
+      internalID: -738893404955630355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 169
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66b4b079b20c2b70800000000000000
+      internalID: 8875471961123501674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 166
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3cf7d52a28e0530800000000000000
+      internalID: 3823136767549096913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 166
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72890eea2ab9be5c0800000000000000
+      internalID: -4185080305689782233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 167
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7e5eb37aea285d0800000000000000
+      internalID: -3061692763370821655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 169
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ecc1f493dea3f60800000000000000
+      internalID: 8014979317255425681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 169
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d8a38960df850a0800000000000000
+      internalID: -6892481024924938972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 169
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ec02044a719d910800000000000000
+      internalID: 1862545915112377915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 169
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab215352607ac540800000000000000
+      internalID: 5028955501519514528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 169
+        width: 107
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b434e9b7ffc3a0ee0800000000000000
+      internalID: -1294154874927299765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 152
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a22e66c8776d140800000000000000
+      internalID: 4744110702386620929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 150
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faadd07320681c80800000000000000
+      internalID: -8351819803624887561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 152
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ee58cf81146ec00800000000000000
+      internalID: 929501948670242307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 152
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beea0c5e5f75ebc10800000000000000
+      internalID: 2071189592270221035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 152
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5734469427eca50800000000000000
+      internalID: 6543292968156231117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 149
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3554156b390c4c0800000000000000
+      internalID: -4269250035490401366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 149
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4844b3576353380800000000000000
+      internalID: -8992221203841907547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 152
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cf1671485862910800000000000000
+      internalID: 1812282702437678121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 150
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d844043ef8af3e810800000000000000
+      internalID: 1793552572523496589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 152
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe180eb03fc3f8080800000000000000
+      internalID: -9183054100611169809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 151
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8b1fda0089a06e0800000000000000
+      internalID: -1870515566533297967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 151
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78de95296ae525d80800000000000000
+      internalID: -8263438296758489721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 151
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2953332b6a6854e0800000000000000
+      internalID: -1992725826726831827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_45
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 151
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6655414a8638b10800000000000000
+      internalID: 1982543314898216651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_46
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 136
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0a10774a8c62880800000000000000
+      internalID: -8635994626739560245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_47
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 134
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7ad8c4af8da0780800000000000000
+      internalID: -8715915559284398088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_48
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 136
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4aa36aab507ec9c0800000000000000
+      internalID: -3905060287880648118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_49
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 136
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34e7a9637dd7c6a0800000000000000
+      internalID: -6428926455284505540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_50
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 133
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686a62044d00eb750800000000000000
+      internalID: 6322491838484096646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 136
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ca8e576142ea3a0800000000000000
+      internalID: -6652339920693580660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_52
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 134
+        width: 75
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf7c3919e2d5bc60800000000000000
+      internalID: 7833399025473453995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_53
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 136
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0467284c73b05dea0800000000000000
+      internalID: -5848756206922729920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_54
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54467b3a5e75ecc00800000000000000
+      internalID: 922771617463362629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 116
+        width: 83
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13174da1d7acd180800000000000000
+      internalID: -9089205428943383779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_56
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 119
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63f7182bcca2e2b0800000000000000
+      internalID: -5556689001670773907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 119
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e86fae8efc2d6e0800000000000000
+      internalID: -1814159100595499438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 116
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a85a212adf9c1e80800000000000000
+      internalID: -8206508661767776095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_59
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 95
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a823eed01c6b7140800000000000000
+      internalID: 4718483854315432098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_60
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099344ea39db7eb50800000000000000
+      internalID: 6622470219053152656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_61
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 72
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a078aafa92b8be60800000000000000
+      internalID: 7978323118586884259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_62
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb551a874fd2297b0800000000000000
+      internalID: -5219058490149874244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_63
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 48
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ba58473856eb5a0800000000000000
+      internalID: -6503649196606379202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_64
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 48
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652f76d561a2ec200800000000000000
+      internalID: 202145308822991446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_65
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 48
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dc04a722cdf5ba0800000000000000
+      internalID: -6097913329798296272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 45
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c455b52eb37a73010800000000000000
+      internalID: 1168586503968478540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_67
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c542560c96a1d4ad0800000000000000
+      internalID: -2716485958732798884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_68
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 31
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1828a9968c3c880800000000000000
+      internalID: -8591803308203408948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_69
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 31
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f98befba4302480800000000000000
+      internalID: -8926076548130758798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_70
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d67834987d312f10800000000000000
+      internalID: 2243141677499315927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_71
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 31
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19cecf4da51ac560800000000000000
+      internalID: 7334698777238751515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_72
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 31
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be12dd45c20e4dd0800000000000000
+      internalID: -2500057696706617671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_73
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b16f4a11b97abb0800000000000000
+      internalID: -4924797167422006482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_74
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 14
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b5daf47c9bf8d0800000000000000
+      internalID: -2811481516124294023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_75
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 14
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578b7da61ae915300800000000000000
+      internalID: 239146671346792565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_76
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 14
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9070b5fb62367cf0800000000000000
+      internalID: -254960889634983777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_77
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 14
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53822202c2c3643e0800000000000000
+      internalID: -2069900818514827211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_78
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 14
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfdcde112a0ec400800000000000000
+      internalID: 346225358722097113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 14
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e38e229d2f38410800000000000000
+      internalID: 1478292117115125293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_80
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 14
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eb67e1bc74c0d00800000000000000
+      internalID: 940205359928622711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_81
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 14
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e727d993f8a02d330800000000000000
+      internalID: 3734058651306783358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_82
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 14
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb374516f6022d8e0800000000000000
+      internalID: -1670236849054649412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_83
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 14
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d12eebde35e18c0800000000000000
+      internalID: -4026688736247800480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speeed2.drawio_84
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 14
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c142a48a2c7ebb760800000000000000
+      internalID: 7474822829784572956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      speeed2.drawio_0: 3118013884704230346
+      speeed2.drawio_1: -6595111700330293442
+      speeed2.drawio_10: -1091801693867202775
+      speeed2.drawio_11: -1223235926282227888
+      speeed2.drawio_12: -3210162341552827164
+      speeed2.drawio_13: -880718692316554805
+      speeed2.drawio_14: -7040368200427962071
+      speeed2.drawio_15: 5089309836561892822
+      speeed2.drawio_16: 8785986376526328474
+      speeed2.drawio_17: -5392460959906433169
+      speeed2.drawio_18: 4415509992765971886
+      speeed2.drawio_19: -5100001477517071718
+      speeed2.drawio_2: -6187520306396077957
+      speeed2.drawio_20: 422161442051520002
+      speeed2.drawio_21: 5921541524334319529
+      speeed2.drawio_22: -738893404955630355
+      speeed2.drawio_23: 8875471961123501674
+      speeed2.drawio_24: 3823136767549096913
+      speeed2.drawio_25: -4185080305689782233
+      speeed2.drawio_26: -3061692763370821655
+      speeed2.drawio_27: 8014979317255425681
+      speeed2.drawio_28: -6892481024924938972
+      speeed2.drawio_29: 1862545915112377915
+      speeed2.drawio_3: -4057881394937481093
+      speeed2.drawio_30: 5028955501519514528
+      speeed2.drawio_31: -1294154874927299765
+      speeed2.drawio_32: 4744110702386620929
+      speeed2.drawio_33: -8351819803624887561
+      speeed2.drawio_34: 929501948670242307
+      speeed2.drawio_35: 2071189592270221035
+      speeed2.drawio_36: 6543292968156231117
+      speeed2.drawio_37: -4269250035490401366
+      speeed2.drawio_38: -8992221203841907547
+      speeed2.drawio_39: 1812282702437678121
+      speeed2.drawio_4: 1923517244354657466
+      speeed2.drawio_40: 1793552572523496589
+      speeed2.drawio_41: -9183054100611169809
+      speeed2.drawio_42: -1870515566533297967
+      speeed2.drawio_43: -8263438296758489721
+      speeed2.drawio_44: -1992725826726831827
+      speeed2.drawio_45: 1982543314898216651
+      speeed2.drawio_46: -8635994626739560245
+      speeed2.drawio_47: -8715915559284398088
+      speeed2.drawio_48: -3905060287880648118
+      speeed2.drawio_49: -6428926455284505540
+      speeed2.drawio_5: -5690414207417314599
+      speeed2.drawio_50: 6322491838484096646
+      speeed2.drawio_51: -6652339920693580660
+      speeed2.drawio_52: 7833399025473453995
+      speeed2.drawio_53: -5848756206922729920
+      speeed2.drawio_54: 922771617463362629
+      speeed2.drawio_55: -9089205428943383779
+      speeed2.drawio_56: -5556689001670773907
+      speeed2.drawio_57: -1814159100595499438
+      speeed2.drawio_58: -8206508661767776095
+      speeed2.drawio_59: 4718483854315432098
+      speeed2.drawio_6: -7885946466364672947
+      speeed2.drawio_60: 6622470219053152656
+      speeed2.drawio_61: 7978323118586884259
+      speeed2.drawio_62: -5219058490149874244
+      speeed2.drawio_63: -6503649196606379202
+      speeed2.drawio_64: 202145308822991446
+      speeed2.drawio_65: -6097913329798296272
+      speeed2.drawio_66: 1168586503968478540
+      speeed2.drawio_67: -2716485958732798884
+      speeed2.drawio_68: -8591803308203408948
+      speeed2.drawio_69: -8926076548130758798
+      speeed2.drawio_7: -5770319443195752789
+      speeed2.drawio_70: 2243141677499315927
+      speeed2.drawio_71: 7334698777238751515
+      speeed2.drawio_72: -2500057696706617671
+      speeed2.drawio_73: -4924797167422006482
+      speeed2.drawio_74: -2811481516124294023
+      speeed2.drawio_75: 239146671346792565
+      speeed2.drawio_76: -254960889634983777
+      speeed2.drawio_77: -2069900818514827211
+      speeed2.drawio_78: 346225358722097113
+      speeed2.drawio_79: 1478292117115125293
+      speeed2.drawio_8: -478194756594522184
+      speeed2.drawio_80: 940205359928622711
+      speeed2.drawio_81: 3734058651306783358
+      speeed2.drawio_82: -1670236849054649412
+      speeed2.drawio_83: -4026688736247800480
+      speeed2.drawio_84: 7474822829784572956
+      speeed2.drawio_9: 6765166973336518868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

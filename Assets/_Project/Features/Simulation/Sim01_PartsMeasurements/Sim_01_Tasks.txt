@@ -1,0 +1,11 @@
+Tasks
+/ Implement touch pan and zoom logic in game world
+    - https://www.youtube.com/watch?v=0G4vcH9N0gc
+- Implement drag and drop world objects
+- Implement ruler
+
+SIMULATION 01 MANAGER
+- answers panel
+- measured parts
+- s
+

@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 3
+  m_EditorClassIdentifier: 
+  level: Level 3
+  name: Scientific Notation
+  description: Scientific notation simplifies very large or small numbers using positive
+    or negative exponents.
+  quizItems:
+  - rid: 7832858350227292176
+  - rid: 7832858350227292178
+  - rid: 7832858350227292179
+  - rid: 7832858350227292180
+  - rid: 7832858350227292182
+  - rid: 7832858350227292183
+  - rid: 7832858350227292196
+  - rid: 7832858350227292268
+  references:
+    version: 2
+    RefIds:
+    - rid: 7832858350227292176
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - Convert 0.00032 to scientific notation. Which of the following is the correct
+          answer?
+        - Express 0.00032 in scientific notation. Which of the following is correct?
+        - How is 0.00032 written in powers of ten among the following?
+        - Which of the following is the correct scientific notation for 0.00032?
+        correctAnswer:
+        - 3.2 x 10^-4
+        wrongAnswers:
+        - 3.2 x 10^-5
+        - 32 x 10^-6
+        - 0.32 x 10^-3
+        choiceCount: 4
+    - rid: 7832858350227292178
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - "What is (2.5 \xD7 10\xB3) + (3.5 \xD7 10\xB3)? Which of the following
+          is the correct answer?"
+        - "Add 2.5 \xD7 10\xB3 and 3.5 \xD7 10\xB3. Which of the following is correct?"
+        - "Calculate the result of 2.5 \xD7 10\xB3 + 3.5 \xD7 10\xB3. Which of the
+          following is the correct answer?"
+        correctAnswer:
+        - 6 x 10^3
+        wrongAnswers:
+        - 0.6 x 10^4
+        - 60 x 10^2
+        - 6 x 10^4
+        choiceCount: 4
+    - rid: 7832858350227292179
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. Exponents in scientific
+          notation can be fractional or radical values, not limited to positive or
+          negative whole numbers.
+        - Determine whether the statement is True or False. In scientific notation,
+          the exponent may be written as a square root or fraction instead of just
+          a positive or negative integer.
+        - Determine whether the statement is True or False. Scientific notation allows
+          exponents to be any type of number, including decimals and fractional values.
+        - Determine whether the statement is True or False. The exponent in scientific
+          notation is not restricted; it may take radical forms or non-integer values.
+        correctAnswer: 0
+    - rid: 7832858350227292180
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - Determine whether the statement is True or False. The exponent is POSITIVE
+          if the decimal point moves to the left. This means the number has a large
+          value.
+        - Determine whether the statement is True or False. When the decimal point
+          shifts to the left in scientific notation, the exponent becomes positive,
+          representing a large number.
+        - Determine whether the statement is True or False. Large values in scientific
+          notation are written with positive exponents, which occur when the decimal
+          is moved to the left.
+        - "Determine whether the statement is True or False. If the decimal point
+          is moved left, the exponent is positive, indicating that the number\u2019s
+          value is positive."
+        correctAnswer: 1
+    - rid: 7832858350227292182
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. The exponent is NEGATIVE
+          if the decimal point moves to the right. This means that the number has
+          a small value.
+        - Determine whether the statement is True or False. When the decimal point
+          is shifted to the right in scientific notation, the exponent becomes negative,
+          showing a small number.
+        - Determine whether the statement is True or False. Small numbers in scientific
+          notation are expressed with negative exponents, which happen when the decimal
+          moves right.
+        - Determine whether the statement is True or False. If the decimal point
+          is moved to the right, the exponent is negative, meaning the value is closer
+          to zero.
+        correctAnswer: 1
+    - rid: 7832858350227292183
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - Determine whether the statement is True or False. Although fractional exponents
+          represent radical values, there is no radical notation in scientific notation.
+        - Determine whether the statement is True or False. Scientific notation does
+          not use radicals or fractional exponents, even though these forms exist
+          in mathematics.
+        - Determine whether the statement is True or False. Only whole-number exponents
+          are used in scientific notation; fractional or radical exponents are not
+          included.
+        - Determine whether the statement is True or False. Radical expressions and
+          fractional exponents are not part of scientific notation, which relies
+          only on integer exponents.
+        correctAnswer: 1
+    - rid: 7832858350227292196
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. Scientific notation always
+          uses base 25.
+        - Determine whether the statement is True or False. The only base allowed
+          in scientific notation is 5.
+        - Determine whether the statement is True or False. Base 30 is the standard
+          for writing in scientific notation.
+        - Determine whether the statement is True or False. Scientific notation requires
+          the base to always be 15.
+        correctAnswer: 0
+    - rid: 7832858350227292268
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - This approach allows scientists to shorten extremely big or tiny numbers
+          into a format that is easier to handle and commonly recognized. Which of
+          the following best describes this method?
+        - Scientists use this method to express very large or very small numbers
+          in a simpler, more practical form that many people can easily understand.
+          Which of the following best describes this method?
+        - This is a way scientists compress extremely large or small numbers into
+          manageable values widely understood by many. Which of the following best
+          describes this method?
+        correctAnswer:
+        - Scientific Notation
+        wrongAnswers:
+        - Guidelines
+        - Rules
+        - Physical Quantities
+        choiceCount: 4

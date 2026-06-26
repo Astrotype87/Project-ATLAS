@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: QuizData111
+  m_EditorClassIdentifier: 
+  level: Level 00
+  name: Enter topic here.
+  description: Enter description here.
+  quizItems:
+  - rid: 5311918980909760607
+  easyQuizSettings:
+    totalItems: 4
+    shuffled: 0
+    paraphraseChance: 0
+    passingScorePercentage: 0.5
+    includeLowerDifficulty: 1
+    itemTypes: 127
+  mediumQuizSettings:
+    totalItems: 6
+    shuffled: 1
+    paraphraseChance: 0.5
+    passingScorePercentage: 0.5
+    includeLowerDifficulty: 1
+    itemTypes: 127
+  hardQuizSettings:
+    totalItems: 8
+    shuffled: 1
+    paraphraseChance: 1
+    passingScorePercentage: 0.5
+    includeLowerDifficulty: 1
+    itemTypes: 127
+  references:
+    version: 2
+    RefIds:
+    - rid: 5311918980909760607
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        question:
+        - Enter question.
+        - Enter paraphrased question.
+        - Enter another paraphrased question.
+        correctAnswer:
+        - sfsdfas sfsdfas sfsdfas
+        wrongAnswers:
+        - 'sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas '
+        - 'sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas
+          sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas '
+        - 'sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas
+          sfsdfas sfsdfas sfsdfas '
+        - 'sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas sfsdfas '
+        choiceCount: 5
+        difficulty: 0

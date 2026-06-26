@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b4a2770fa415b547864093efb334240, type: 3}
+  m_Name: 36_Simulation
+  m_EditorClassIdentifier: 
+  chapter: 9
+  number: 36
+  title: Buoyancy Simulation
+  description: "This simulation demonstrates how density and volume affect an object\u2019s
+    ability to float or sink in a fluid. By adjusting the sliders, you can observe
+    how changes in these properties influence buoyant force and equilibrium."
+  objectives: "To understand the relationship between density, volume, and buoyancy.\n\nTo
+    observe how an object\u2019s density compared to water determines if it floats,
+    sinks, or stays suspended.\n\nTo develop prediction skills about buoyant behavior
+    through interactive adjustment."
+  scoring: 
+  bronzeObjective: 
+  silverObjective: 
+  goldObjective: 
+  timeBonus:
+    timeBonuses: []
+    lowestScore: 10
+  unlockDatas:
+  - icon: 3
+    name: Level 37 - Challenge
+    description: Underwater Mining
+  - icon: 2
+    name: Freeplay > Simulation 9
+    description: Buoyancy Simulation
+  instructions: "1. Observe the box submerged in the fluid.\n\n2. Use the Density
+    and Volume sliders to adjust the object\u2019s physical properties.\n\n3. Aim
+    to achieve equilibrium where the object neither sinks completely nor floats out
+    of the water.\n\n4. Press End Simulation when done.\n\nNote: If the box is touched
+    or adjustments are made, a 5-second countdown begins before auto win (successful
+    stabilization). If no adjustments are made within 15 seconds, the simulation
+    ends automatically."
+  dialoguePrefab: {fileID: 1258461109259866782, guid: 679ae8edcb9da3c43a428237e6491e84, type: 3}
+  simulationPrefab: {fileID: 4448363967540968590, guid: 1748fd86edf15bb40a458d0935c9e0ca, type: 3}

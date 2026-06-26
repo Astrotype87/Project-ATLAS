@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: QuizData
+  m_EditorClassIdentifier: 
+  level: Level 00
+  name: Enter topic here.
+  description: Enter description here.
+  quizItems:
+  - rid: 5311918821113069639
+  - rid: 5311918914074574912
+  easyQuizSettings:
+    totalItems: 4
+    shuffled: 0
+    paraphraseChance: 0
+    passingScorePercentage: 0.5
+    includeLowerDifficulty: 1
+    itemTypes: 127
+  mediumQuizSettings:
+    totalItems: 6
+    shuffled: 1
+    paraphraseChance: 0.5
+    passingScorePercentage: 0.5
+    includeLowerDifficulty: 1
+    itemTypes: 127
+  hardQuizSettings:
+    totalItems: 8
+    shuffled: 1
+    paraphraseChance: 1
+    passingScorePercentage: 0.5
+    includeLowerDifficulty: 1
+    itemTypes: 127
+  references:
+    version: 2
+    RefIds:
+    - rid: 5311918821113069639
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        question:
+        - The car has traveled {d} meters for {t} seconds. What is the speed of the
+          car?
+        formula: d * t
+        variables:
+        - variable: d
+          name: Distance
+          unit: m
+          range:
+            min: 10
+            max: 20
+        - variable: t
+          name: Time
+          unit: s
+          range:
+            min: 1
+            max: 5
+        difficulty: 0
+        variable: s
+        name: Speed
+        unit: m/s
+        rounding: 2
+    - rid: 5311918914074574912
+      type: {class: SequenceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        question:
+        - Arrange the step-by-step process of solving projectile motion.
+        correctOrderedAnswer:
+        - Draw & list knowns.
+        - Resolve the initial velocity into components.
+        - Write separate kinematic equations for x and y.
+        - Use the right formula for the quantity you want.
+        difficulty: 0

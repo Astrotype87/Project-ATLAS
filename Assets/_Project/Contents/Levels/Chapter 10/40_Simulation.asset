@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b4a2770fa415b547864093efb334240, type: 3}
+  m_Name: 40_Simulation
+  m_EditorClassIdentifier: 
+  chapter: 10
+  number: 40
+  title: Hot Air Balloon
+  description: "Experience how temperature differences create lift in a hot air balloon!
+    In this simulation, you must manage the balloon\u2019s internal temperature to
+    control its altitude and stay stable while flying above volatile volcanic terrain."
+  objectives: 'Understand how heated air inside the balloon produces lift compared
+    to the cooler ambient air.
+
+
+    Learn to balance temperature and lift to maintain
+    stable flight.
+
+
+    Apply concepts of buoyancy and convection in real-time simulation.'
+  scoring: 
+  bronzeObjective: 
+  silverObjective: 
+  goldObjective: 
+  timeBonus:
+    timeBonuses: []
+    lowestScore: 10
+  unlockDatas:
+  - icon: 3
+    name: Level 41 - Challenge
+    description: Volcanic Upsurge
+  - icon: 2
+    name: Freeplay > Simulation 10
+    description: Hot Air Balloon
+  instructions: '1. Use the up arrow to increase heat and down arrow to release it.
+
+
+    2.
+    Monitor the Hot Air Balloon Status panel for temperature, lift, and altitude
+    changes.
+
+
+    3. Keep the balloon stable and avoid overheating while navigating
+    through turbulent air currents.
+
+
+    4. Press End Simulation to finish your
+    run.
+
+
+    Note: The simulation ends if the balloon becomes unstable due to overheating
+    or if lift force drops to zero, causing it to fall. Successfully maintain stable
+    flight for the set duration while managing temperature and altitude efficiently.'
+  dialoguePrefab: {fileID: 457756723735762868, guid: 22a1ba7f10537de45b8c20c566a7d132, type: 3}
+  simulationPrefab: {fileID: 5900804784688398380, guid: a68c4c62fb45ca04189a351ca15aa47a, type: 3}

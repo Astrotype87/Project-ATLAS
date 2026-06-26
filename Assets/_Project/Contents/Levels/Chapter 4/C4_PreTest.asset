@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f9c6249b17a009468129dc4c39cc478, type: 3}
+  m_Name: C4_PreTest
+  m_EditorClassIdentifier: 
+  chapter: 4
+  title: Work, Power, and Energy
+  description: Quiz on work and energy basics. Engineers test {player} before repairs.
+  objectives: Complete the pre-test quiz. Any score is accepted.
+  scoring: 
+  unlockDatas:
+  - icon: 1
+    name: Level 15 - Lesson
+    description: Work and Power
+  dialoguePrefab: {fileID: 66756279463461135, guid: 8e55fdcb4f679bf46870540a45463d9a, type: 3}
+  chapterQuizData:
+  - {fileID: 11400000, guid: e9337291cb96c0f4b9b5e6065b4f5f66, type: 2}
+  - {fileID: 11400000, guid: b4f7c2b35b055ab49b3e4310280e64ec, type: 2}

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b4a2770fa415b547864093efb334240, type: 3}
+  m_Name: 12_Simulation
+  m_EditorClassIdentifier: 
+  chapter: 3
+  number: 12
+  title: Hovercraft Testing
+  description: "Test Newton\u2019s laws with real-time free-body diagrams. The player
+    adjusts mass, gravity, thrust, and drag as Gizmo guides them through acceleration,
+    braking, and controlled collisions. Watch forces balance or unbalance as the
+    hovercraft reacts in a futuristic test arena."
+  objectives: "Observe how changing forces affect the hovercraft\u2019s motion.\n\nIdentify
+    the net force acting on the hovercraft at any moment.\n\nApply Newton\u2019s
+    laws to predict acceleration and stopping distance.\n\nComplete each test sequence
+    without losing stability."
+  scoring: 
+  bronzeObjective: 
+  silverObjective: 
+  goldObjective: 
+  timeBonus:
+    timeBonuses: []
+    lowestScore: 10
+  unlockDatas:
+  - icon: 1
+    name: Level 13 - Lesson
+    description: Forces
+  - icon: 2
+    name: 'Freeplay > Simulation 3 '
+    description: Hovercraft Testing
+  instructions: '1. Use the arrow buttons beside each parameter (Mass, Gravity, Hover
+    Force, Thrust Force, Airbrake Drag) to adjust values.
+
+
+    2. Press Airbrake
+    to apply drag and slow the hovercraft.
+
+
+    3. Monitor the free-body diagram
+    to see all active forces.
+
+
+    4. Observe how unbalanced forces cause acceleration,
+    and balanced forces keep motion constant.
+
+
+    5. Press End Simulation to finish
+    the test and review results.'
+  dialoguePrefab: {fileID: 7853952874443133366, guid: 880a9d5ac76122e40919981011fb1606, type: 3}
+  simulationPrefab: {fileID: 7516968884595021899, guid: eca1e2c867b915e4182097c11562a1b5, type: 3}

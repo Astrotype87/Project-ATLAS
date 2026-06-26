@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d579397bfb964a42855924e9597993e, type: 3}
+  m_Name: Avatar-9
+  m_EditorClassIdentifier: 
+  characterIndex: 9
+  characterName: Sky Diver
+  characterSprite: {fileID: 3875397928926330568, guid: 5f31cf3362da1964da72bdab564e14ed, type: 3}
+  characterHead: {fileID: 7203137598012372660, guid: 96d1eb9ac5f1d194d808521b5daa99a1, type: 3}

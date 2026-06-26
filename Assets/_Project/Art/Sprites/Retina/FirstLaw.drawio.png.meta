@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: 1ce6f1c4ccf955b4aa3cb59e3ce20312
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1306001664011331811
+    second: FirstLaw.drawio_0
+  - first:
+      213: -6805575993786398196
+    second: FirstLaw.drawio_1
+  - first:
+      213: 5775011791655504748
+    second: FirstLaw.drawio_2
+  - first:
+      213: -5270381160296466426
+    second: FirstLaw.drawio_3
+  - first:
+      213: 1190775041345072467
+    second: FirstLaw.drawio_4
+  - first:
+      213: -7726636958977241186
+    second: FirstLaw.drawio_5
+  - first:
+      213: -4208575096225227299
+    second: FirstLaw.drawio_6
+  - first:
+      213: -1821045099422575261
+    second: FirstLaw.drawio_7
+  - first:
+      213: -5905415373465801403
+    second: FirstLaw.drawio_8
+  - first:
+      213: 5169065925309101908
+    second: FirstLaw.drawio_9
+  - first:
+      213: -8777922283677596367
+    second: FirstLaw.drawio_10
+  - first:
+      213: -702704884783569066
+    second: FirstLaw.drawio_11
+  - first:
+      213: -6155267538119689174
+    second: FirstLaw.drawio_12
+  - first:
+      213: -534861863012613988
+    second: FirstLaw.drawio_13
+  - first:
+      213: 7795846647601508952
+    second: FirstLaw.drawio_14
+  - first:
+      213: 3002660302578186455
+    second: FirstLaw.drawio_15
+  - first:
+      213: -7531301442463599775
+    second: FirstLaw.drawio_16
+  - first:
+      213: 4935823004290845957
+    second: FirstLaw.drawio_17
+  - first:
+      213: -7748265016481959375
+    second: FirstLaw.drawio_18
+  - first:
+      213: 613674935968346812
+    second: FirstLaw.drawio_19
+  - first:
+      213: -7912900328495053551
+    second: FirstLaw.drawio_20
+  - first:
+      213: 4278490814069913408
+    second: FirstLaw.drawio_21
+  - first:
+      213: -6103517444085901756
+    second: FirstLaw.drawio_22
+  - first:
+      213: -2885235233902327096
+    second: FirstLaw.drawio_23
+  - first:
+      213: -5848084860829205457
+    second: FirstLaw.drawio_24
+  - first:
+      213: 1688774971344640521
+    second: FirstLaw.drawio_25
+  - first:
+      213: -1368868650741503917
+    second: FirstLaw.drawio_26
+  - first:
+      213: 3595812251880444196
+    second: FirstLaw.drawio_27
+  - first:
+      213: 1454274390627155940
+    second: FirstLaw.drawio_28
+  - first:
+      213: -4410141759978587826
+    second: FirstLaw.drawio_29
+  - first:
+      213: -8555387278517870258
+    second: FirstLaw.drawio_30
+  - first:
+      213: -3657700916894779651
+    second: FirstLaw.drawio_31
+  - first:
+      213: -4966376588306148374
+    second: FirstLaw.drawio_32
+  - first:
+      213: -5282826116876032535
+    second: FirstLaw.drawio_33
+  - first:
+      213: -5105658220526568777
+    second: FirstLaw.drawio_34
+  - first:
+      213: 2342327512369884404
+    second: FirstLaw.drawio_35
+  - first:
+      213: 765296711035881860
+    second: FirstLaw.drawio_36
+  - first:
+      213: -3150680991029888318
+    second: FirstLaw.drawio_37
+  - first:
+      213: 5922124383451288872
+    second: FirstLaw.drawio_38
+  - first:
+      213: -721679696899002053
+    second: FirstLaw.drawio_39
+  - first:
+      213: 7418734577353424927
+    second: FirstLaw.drawio_40
+  - first:
+      213: -5318117335579838595
+    second: FirstLaw.drawio_41
+  - first:
+      213: 6913541740602746648
+    second: FirstLaw.drawio_42
+  - first:
+      213: -6178057339102725801
+    second: FirstLaw.drawio_43
+  - first:
+      213: 8848268812834619251
+    second: FirstLaw.drawio_44
+  - first:
+      213: -1993192953409306812
+    second: FirstLaw.drawio_45
+  - first:
+      213: -1257285007250232066
+    second: FirstLaw.drawio_46
+  - first:
+      213: -4675632665758122010
+    second: FirstLaw.drawio_47
+  - first:
+      213: 6817407857436782447
+    second: FirstLaw.drawio_48
+  - first:
+      213: 5125561265116828564
+    second: FirstLaw.drawio_49
+  - first:
+      213: 7735814056953567133
+    second: FirstLaw.drawio_50
+  - first:
+      213: 1618399186910835856
+    second: FirstLaw.drawio_51
+  - first:
+      213: -730698709841217377
+    second: FirstLaw.drawio_52
+  - first:
+      213: -3083025828050226395
+    second: FirstLaw.drawio_53
+  - first:
+      213: -7235076636605342969
+    second: FirstLaw.drawio_54
+  - first:
+      213: -2331282332624850065
+    second: FirstLaw.drawio_55
+  - first:
+      213: 1694444468781912205
+    second: FirstLaw.drawio_56
+  - first:
+      213: 6494457279616347031
+    second: FirstLaw.drawio_57
+  - first:
+      213: 3632090437212639915
+    second: FirstLaw.drawio_58
+  - first:
+      213: 2191899974713139341
+    second: FirstLaw.drawio_59
+  - first:
+      213: 5047232704440004867
+    second: FirstLaw.drawio_60
+  - first:
+      213: 8693434016971508609
+    second: FirstLaw.drawio_61
+  - first:
+      213: 397325786295231136
+    second: FirstLaw.drawio_62
+  - first:
+      213: 8610791309741979308
+    second: FirstLaw.drawio_63
+  - first:
+      213: -8209865952425028074
+    second: FirstLaw.drawio_64
+  - first:
+      213: -2359482391865193920
+    second: FirstLaw.drawio_65
+  - first:
+      213: 2334464643409753789
+    second: FirstLaw.drawio_66
+  - first:
+      213: -7920435154868773143
+    second: FirstLaw.drawio_67
+  - first:
+      213: 8945235692581932970
+    second: FirstLaw.drawio_68
+  - first:
+      213: 162906511259081020
+    second: FirstLaw.drawio_69
+  - first:
+      213: -8889618396812430416
+    second: FirstLaw.drawio_70
+  - first:
+      213: -7575593610068894952
+    second: FirstLaw.drawio_71
+  - first:
+      213: 8641771186687140900
+    second: FirstLaw.drawio_72
+  - first:
+      213: 4037402468299266812
+    second: FirstLaw.drawio_73
+  - first:
+      213: -5349790661104141405
+    second: FirstLaw.drawio_74
+  - first:
+      213: -5754291740082000792
+    second: FirstLaw.drawio_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FirstLaw.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 277
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d171984f76620ede0800000000000000
+      internalID: -1306001664011331811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 277
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a8f6ee0bcbd81a0800000000000000
+      internalID: -6805575993786398196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 277
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b815f80a6f42050800000000000000
+      internalID: 5775011791655504748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 277
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6083e952248dbd6b0800000000000000
+      internalID: -5270381160296466426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 277
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d26c2579b768010800000000000000
+      internalID: 1190775041345072467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 277
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fc1cf8f9875c490800000000000000
+      internalID: -7726636958977241186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 277
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd90fa7f332895c0800000000000000
+      internalID: -4208575096225227299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 277
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36593f061295ab6e0800000000000000
+      internalID: -1821045099422575261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 273
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54da07d8100cb0ea0800000000000000
+      internalID: -5905415373465801403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 277
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457ff9a72163cb740800000000000000
+      internalID: 5169065925309101908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 277
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135496fb03e8e2680800000000000000
+      internalID: -8777922283677596367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 277
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6572b8061ad7f36f0800000000000000
+      internalID: -702704884783569066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 277
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cf1ec39c8149aa0800000000000000
+      internalID: -6155267538119689174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 273
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90ca3b28f9c398f0800000000000000
+      internalID: -534861863012613988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85235b9c839603c60800000000000000
+      internalID: 7795846647601508952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 244
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8f65ce2a79ba920800000000000000
+      internalID: 3002660302578186455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 226
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163f1999d317b7790800000000000000
+      internalID: -7531301442463599775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 226
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d05fc0fd09f7440800000000000000
+      internalID: 4935823004290845957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 226
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132b1030502a87490800000000000000
+      internalID: -7748265016481959375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb234f55a16348800800000000000000
+      internalID: 613674935968346812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 226
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1150bf8531bbf2290800000000000000
+      internalID: -7912900328495053551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 226
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047b86b1ab0406b30800000000000000
+      internalID: 4278490814069913408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 226
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4461cd0f833fb4ba0800000000000000
+      internalID: -6103517444085901756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 224
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca8fc567d595f7d0800000000000000
+      internalID: -2885235233902327096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 226
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c7fe5bdcd67dea0800000000000000
+      internalID: -5848084860829205457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 226
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a519093ebbf6710800000000000000
+      internalID: 1688774971344640521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 226
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3586268f63dc00de0800000000000000
+      internalID: -1368868650741503917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 224
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421d4501134e6e130800000000000000
+      internalID: 3595812251880444196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 226
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef774b6ade9e2410800000000000000
+      internalID: 1454274390627155940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 212
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e493c5b6f670cc2c0800000000000000
+      internalID: -4410141759978587826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 212
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41eb0c3998254980800000000000000
+      internalID: -8555387278517870258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 212
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6bdd9356c3d3dc0800000000000000
+      internalID: -3657700916894779651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 212
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae312315ec2e31bb0800000000000000
+      internalID: -4966376588306148374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 212
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5a275e2a1afa6b0800000000000000
+      internalID: -5282826116876032535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 212
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baf5fc36ee0529b0800000000000000
+      internalID: -5105658220526568777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 212
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc6e6a567e918020800000000000000
+      internalID: 2342327512369884404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 212
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4898111dd41ee9a00800000000000000
+      internalID: 765296711035881860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 212
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca7619e4588644d0800000000000000
+      internalID: -3150680991029888318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 210
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8251b4fffbc9f2250800000000000000
+      internalID: 5922124383451288872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 212
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3139b8a3241cf5f0800000000000000
+      internalID: -721679696899002053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 212
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f100f0ebac3a4f660800000000000000
+      internalID: 7418734577353424927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 195
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77baeab5704236b0800000000000000
+      internalID: -5318117335579838595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 197
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81766746595d1ff50800000000000000
+      internalID: 6913541740602746648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 195
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75979c43591234aa0800000000000000
+      internalID: -6178057339102725801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 197
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fbc2aea9d5bca70800000000000000
+      internalID: 8848268812834619251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_45
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 197
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ff93bb191c654e0800000000000000
+      internalID: -1993192953409306812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_46
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 195
+        width: 53
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcec6182f93d8ee0800000000000000
+      internalID: -1257285007250232066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 197
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef3641fcd0dc1fb0800000000000000
+      internalID: -4675632665758122010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 197
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fe97f735c4c9e50800000000000000
+      internalID: 6817407857436782447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 73
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4935ac170d6a12740800000000000000
+      internalID: 5125561265116828564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 73
+        width: 122
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97d03116e12b5b60800000000000000
+      internalID: 7735814056953567133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 59
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094f9906c75b57610800000000000000
+      internalID: 1618399186910835856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 59
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98f31215690cd5f0800000000000000
+      internalID: -730698709841217377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_53
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 59
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52336bd0854e635d0800000000000000
+      internalID: -3083025828050226395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 59
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b1960d128d79b90800000000000000
+      internalID: -7235076636605342969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_55
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 59
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6370c4f11f95afd0800000000000000
+      internalID: -2331282332624850065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 57
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d801f5d4440e38710800000000000000
+      internalID: 1694444468781912205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_57
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 57
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b6b789c72f02a50800000000000000
+      internalID: 6494457279616347031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_58
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 55
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2172e4207c76230800000000000000
+      internalID: 3632090437212639915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_59
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 57
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80e6ffe9613b6e10800000000000000
+      internalID: 2191899974713139341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 43
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30171ee376f5b0640800000000000000
+      internalID: 5047232704440004867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 43
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b42ebbd2845a870800000000000000
+      internalID: 8693434016971508609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_62
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 41
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2ea3092b5938500800000000000000
+      internalID: 397325786295231136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_63
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 43
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6f034031daf7770800000000000000
+      internalID: 8610791309741979308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 43
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616d12cf962b01e80800000000000000
+      internalID: -8209865952425028074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_65
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 44
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a0613044f614fd0800000000000000
+      internalID: -2359482391865193920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_66
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 44
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6b523893fa56020800000000000000
+      internalID: 2334464643409753789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_67
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eed78fd036f41290800000000000000
+      internalID: -7920435154868773143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_68
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 27
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafcd70f77cd32c70800000000000000
+      internalID: 8945235692581932970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_69
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 27
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39123fdb92c24200800000000000000
+      internalID: 162906511259081020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_70
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 27
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3b735da2bb1a480800000000000000
+      internalID: -8889618396812430416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_71
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 27
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bdf15bfb51ed690800000000000000
+      internalID: -7575593610068894952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_72
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 27
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42461b4bb1dbde770800000000000000
+      internalID: 8641771186687140900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_73
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 14
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa5342672cb70830800000000000000
+      internalID: 4037402468299266812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_74
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 14
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab7f26fcb9b1c5b0800000000000000
+      internalID: -5349790661104141405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLaw.drawio_75
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 14
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ca2726626a420b0800000000000000
+      internalID: -5754291740082000792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FirstLaw.drawio_0: -1306001664011331811
+      FirstLaw.drawio_1: -6805575993786398196
+      FirstLaw.drawio_10: -8777922283677596367
+      FirstLaw.drawio_11: -702704884783569066
+      FirstLaw.drawio_12: -6155267538119689174
+      FirstLaw.drawio_13: -534861863012613988
+      FirstLaw.drawio_14: 7795846647601508952
+      FirstLaw.drawio_15: 3002660302578186455
+      FirstLaw.drawio_16: -7531301442463599775
+      FirstLaw.drawio_17: 4935823004290845957
+      FirstLaw.drawio_18: -7748265016481959375
+      FirstLaw.drawio_19: 613674935968346812
+      FirstLaw.drawio_2: 5775011791655504748
+      FirstLaw.drawio_20: -7912900328495053551
+      FirstLaw.drawio_21: 4278490814069913408
+      FirstLaw.drawio_22: -6103517444085901756
+      FirstLaw.drawio_23: -2885235233902327096
+      FirstLaw.drawio_24: -5848084860829205457
+      FirstLaw.drawio_25: 1688774971344640521
+      FirstLaw.drawio_26: -1368868650741503917
+      FirstLaw.drawio_27: 3595812251880444196
+      FirstLaw.drawio_28: 1454274390627155940
+      FirstLaw.drawio_29: -4410141759978587826
+      FirstLaw.drawio_3: -5270381160296466426
+      FirstLaw.drawio_30: -8555387278517870258
+      FirstLaw.drawio_31: -3657700916894779651
+      FirstLaw.drawio_32: -4966376588306148374
+      FirstLaw.drawio_33: -5282826116876032535
+      FirstLaw.drawio_34: -5105658220526568777
+      FirstLaw.drawio_35: 2342327512369884404
+      FirstLaw.drawio_36: 765296711035881860
+      FirstLaw.drawio_37: -3150680991029888318
+      FirstLaw.drawio_38: 5922124383451288872
+      FirstLaw.drawio_39: -721679696899002053
+      FirstLaw.drawio_4: 1190775041345072467
+      FirstLaw.drawio_40: 7418734577353424927
+      FirstLaw.drawio_41: -5318117335579838595
+      FirstLaw.drawio_42: 6913541740602746648
+      FirstLaw.drawio_43: -6178057339102725801
+      FirstLaw.drawio_44: 8848268812834619251
+      FirstLaw.drawio_45: -1993192953409306812
+      FirstLaw.drawio_46: -1257285007250232066
+      FirstLaw.drawio_47: -4675632665758122010
+      FirstLaw.drawio_48: 6817407857436782447
+      FirstLaw.drawio_49: 5125561265116828564
+      FirstLaw.drawio_5: -7726636958977241186
+      FirstLaw.drawio_50: 7735814056953567133
+      FirstLaw.drawio_51: 1618399186910835856
+      FirstLaw.drawio_52: -730698709841217377
+      FirstLaw.drawio_53: -3083025828050226395
+      FirstLaw.drawio_54: -7235076636605342969
+      FirstLaw.drawio_55: -2331282332624850065
+      FirstLaw.drawio_56: 1694444468781912205
+      FirstLaw.drawio_57: 6494457279616347031
+      FirstLaw.drawio_58: 3632090437212639915
+      FirstLaw.drawio_59: 2191899974713139341
+      FirstLaw.drawio_6: -4208575096225227299
+      FirstLaw.drawio_60: 5047232704440004867
+      FirstLaw.drawio_61: 8693434016971508609
+      FirstLaw.drawio_62: 397325786295231136
+      FirstLaw.drawio_63: 8610791309741979308
+      FirstLaw.drawio_64: -8209865952425028074
+      FirstLaw.drawio_65: -2359482391865193920
+      FirstLaw.drawio_66: 2334464643409753789
+      FirstLaw.drawio_67: -7920435154868773143
+      FirstLaw.drawio_68: 8945235692581932970
+      FirstLaw.drawio_69: 162906511259081020
+      FirstLaw.drawio_7: -1821045099422575261
+      FirstLaw.drawio_70: -8889618396812430416
+      FirstLaw.drawio_71: -7575593610068894952
+      FirstLaw.drawio_72: 8641771186687140900
+      FirstLaw.drawio_73: 4037402468299266812
+      FirstLaw.drawio_74: -5349790661104141405
+      FirstLaw.drawio_75: -5754291740082000792
+      FirstLaw.drawio_8: -5905415373465801403
+      FirstLaw.drawio_9: 5169065925309101908
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

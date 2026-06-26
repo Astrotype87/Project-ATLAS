@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 38
+  m_EditorClassIdentifier: 
+  level: Level 38
+  name: Temperature
+  description: Covers temperature, measurement scales, particle motion, and conversions
+    between Celsius, Fahrenheit, Kelvin, and Rankine.
+  quizItems:
+  - rid: 138986247837974640
+  - rid: 138986247837974641
+  - rid: 138986247837974642
+  - rid: 138986247837974643
+  - rid: 138986247837974645
+  - rid: 138986247837974646
+  - rid: 138986247837974647
+  - rid: 138986247837974648
+  references:
+    version: 2
+    RefIds:
+    - rid: 138986247837974640
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - "Which of the following temperature scales is most commonly used worldwide
+          and is based on water\u2019s freezing and boiling points?"
+        - Which of the following is the most widely used temperature scale, based
+          on the freezing and boiling points of water?
+        correctAnswer:
+        - Celsius
+        wrongAnswers:
+        - Kelvin
+        - Rankine
+        - Fahrenheit
+        choiceCount: 4
+    - rid: 138986247837974641
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Which of the following temperature scale is based on the freezing and boiling
+          points of a brine solution?
+        - Which of the following temperature system uses brine solution to define
+          its reference points?
+        correctAnswer:
+        - Fahrenheit
+        wrongAnswers:
+        - Rankine
+        - Kelvin
+        - Celsius
+        choiceCount: 4
+    - rid: 138986247837974642
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Which of the following scale is the absolute temperature system used mainly
+          by scientists working with Celsius?
+        - Which of the following is the absolute temperature scale and is directly
+          related to Celsius and used for scientific purposes?
+        correctAnswer:
+        - Kelvin
+        wrongAnswers:
+        - Fahrenheit
+        - Rankine
+        - Celsius
+        choiceCount: 4
+    - rid: 138986247837974643
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Which of the following temperature unit is the absolute scale connected
+          to Fahrenheit?
+        - Which of the following is an absolute temperature scale is paired with
+          Fahrenheit for scientific use?
+        correctAnswer:
+        - Rankine
+        wrongAnswers:
+        - Celsius
+        - Kelvin
+        - Fahrenheit
+        choiceCount: 4
+    - rid: 138986247837974645
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - "Which of the following is the equivalent in Fahrenheit for a glass of
+          water at 25\xB0C?"
+        - "Which of the following represents the conversion of 25\xB0C to Fahrenheit?"
+        correctAnswer:
+        - "77\xB0F"
+        wrongAnswers:
+        - "32\xB0F"
+        - "45\xB0F"
+        - "100\xB0F"
+        choiceCount: 4
+    - rid: 138986247837974646
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - Which of the following is the Celsius value of a temperature of 300 K?
+        - Which of the following represents the conversion of 300 K to Celsius?
+        correctAnswer:
+        - "27\xB0C"
+        wrongAnswers:
+        - "32\xB0C"
+        - "100\xB0C"
+        - "273\xB0C"
+        choiceCount: 4
+    - rid: 138986247837974647
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - "Which of the following is the equivalent in Kelvin for a temperature of
+          100\xB0F?"
+        - "Which of the following represents the conversion of 100\xB0F to Kelvin?"
+        correctAnswer:
+        - 310.8 K
+        wrongAnswers:
+        - 273 K
+        - 350 K
+        - 400 K
+        choiceCount: 4
+    - rid: 138986247837974648
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - "Which of the following represents the conversion of 500\u202FR (Rankine)
+          to Celsius?"
+        - "Which of the following is the temperature in Celsius for air measuring
+          500\u202FR in a chamber?"
+        correctAnswer:
+        - "4.6\xB0C"
+        wrongAnswers:
+        - "0\xB0C"
+        - "10\xB0C"
+        - "32\xB0C"
+        choiceCount: 4

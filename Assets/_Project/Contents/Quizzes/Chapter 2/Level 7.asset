@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 7
+  m_EditorClassIdentifier: 
+  level: Level 7
+  name: Two-Dimensional Motion
+  description: Shows how horizontal and vertical motions combine to determine movement
+    and trajectory.
+  quizItems:
+  - rid: 7832858355523911782
+  - rid: 7832858361210077184
+  - rid: 7832858361210077247
+  - rid: 7832858361210077311
+  - rid: 7832858361210077312
+  - rid: 7832858361210077313
+  - rid: 7832858361210077314
+  - rid: 7832858361210077315
+  references:
+    version: 2
+    RefIds:
+    - rid: 7832858355523911782
+      type: {class: MatchingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        pairs:
+        - question:
+          - Sine
+          correctAnswer: Opposite/Hypotenuse
+        - question:
+          - Cosine
+          correctAnswer: Adjacent/Hypotenuse
+        - question:
+          - Tangent
+          correctAnswer: Opposite/Adjacent
+        wrongAnswers:
+        - Hypotenuse/Adjacent
+    - rid: 7832858361210077184
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - A ball is kicked and its horizontal velocity is {Vx} m/s and its vertical
+          velocity is {Vy} m/s. Find the resultant velocity.
+        formula: Sqrt((Vx * Vx) + (Vy * Vy))
+        variables:
+        - variable: Vx
+          name: Horizontal Velocity
+          unit: m/s
+          range:
+            min: 3
+            max: 8
+        - variable: Vy
+          name: Vertical Velocuty
+          unit: m/s
+          range:
+            min: 2
+            max: 4
+        variable: VR
+        name: Resultant Velocity
+        unit: m/s
+        rounding: 2
+    - rid: 7832858361210077247
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - "A boy throws a stone. The stone has a horizontal velocity of {Vx} m/s
+          and a vertical velocity of {Vy} m/s. What is the stone\u2019s resultant
+          velocity?"
+        formula: Sqrt((Vx * Vx) + (Vy * Vy))
+        variables:
+        - variable: Vx
+          name: Horizontal Veocity
+          unit: m/s
+          range:
+            min: 6
+            max: 8
+        - variable: Vy
+          name: Vertical Velocity
+          unit: m/s
+          range:
+            min: 2
+            max: 5
+        variable: VR
+        name: Resultant Velocity
+        unit: m/s
+        rounding: 2
+    - rid: 7832858361210077311
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. Tangent represents the
+          height of the incline, and the resultant is formed by multiplying x and
+          y.
+        - Determine whether the statement is True or False. Tangent is the total
+          distance along the incline, and the resultant is the difference between
+          x and y.
+        - Determine whether the statement is True or False. Tangent equals the angle
+          itself, and the resultant is formed by subtracting y from x.
+        correctAnswer: 0
+    - rid: 7832858361210077312
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. Cosine gives the angle
+          measured from the x-axis up to the line in the y-direction.
+        - Determine whether the statement is True or False. The cosine function returns
+          the angle formed between the x-axis and the y-component.
+        - Determine whether the statement is True or False. Cosine represents the
+          angle starting from the x-axis to the direction of the y-axis.
+        correctAnswer: 1
+    - rid: 7832858361210077313
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. Sine gives the angle
+          measured from the x-axis up to the y-axis.
+        - "Determine whether the statement is True or False. The sine function returns
+          the angle formed between the x-axis and the vector\u2019s x-component."
+        - Determine whether the statement is True or False. Sine represents the angle
+          starting from the x-axis to the direction of the x-axis.
+        correctAnswer: 0
+    - rid: 7832858361210077314
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - "A paper airplane is thrown across the room. Its horizontal velocity is
+          {Vx} m/s and its vertical velocity is {Vy} m/s. What is the airplane\u2019s
+          resultant velocity?"
+        formula: Sqrt((Vx * Vx) + (Vy * Vy))
+        variables:
+        - variable: Vx
+          name: Horizontal velocity
+          unit: m/s
+          range:
+            min: 15
+            max: 20
+        - variable: Vy
+          name: Vertical velocity
+          unit: m/s
+          range:
+            min: 6
+            max: 9
+        variable: VR
+        name: Resultant Velocity
+        unit: m/s
+        rounding: 2
+    - rid: 7832858361210077315
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - "A bird dives toward the ground. Its horizontal velocity is {Vx} m/s and
+          its vertical velocity is {Vy} m/s. Calculate the bird\u2019s resultant
+          velocity."
+        formula: Sqrt((Vx * Vx) + (Vy * Vy))
+        variables:
+        - variable: Vx
+          name: Horizontal velocity
+          unit: m/s
+          range:
+            min: 17
+            max: 22
+        - variable: Vy
+          name: Vertical velocity
+          unit: m/s
+          range:
+            min: 7
+            max: 9
+        variable: VR
+        name: Resultant Velocity
+        unit: m/s
+        rounding: 2

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: e23bc8b4da975604488d194d443e0060
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7577875814396045650
+    second: rectilinear.drawio_0
+  - first:
+      213: 2906770104957922157
+    second: rectilinear.drawio_1
+  - first:
+      213: 1908773295538941863
+    second: rectilinear.drawio_2
+  - first:
+      213: 6012044989350112407
+    second: rectilinear.drawio_3
+  - first:
+      213: -1740284992411714340
+    second: rectilinear.drawio_4
+  - first:
+      213: 2846874093705722088
+    second: rectilinear.drawio_5
+  - first:
+      213: -7234148428868816885
+    second: rectilinear.drawio_6
+  - first:
+      213: 4704732014747349888
+    second: rectilinear.drawio_7
+  - first:
+      213: 2002795195364253661
+    second: rectilinear.drawio_8
+  - first:
+      213: 5530399803583767195
+    second: rectilinear.drawio_9
+  - first:
+      213: -8523854412619857445
+    second: rectilinear.drawio_10
+  - first:
+      213: -5980527153127137159
+    second: rectilinear.drawio_11
+  - first:
+      213: -1384084155316039337
+    second: rectilinear.drawio_12
+  - first:
+      213: 8825183264193701596
+    second: rectilinear.drawio_13
+  - first:
+      213: -2971553890417736250
+    second: rectilinear.drawio_14
+  - first:
+      213: -2100372810061686790
+    second: rectilinear.drawio_15
+  - first:
+      213: -5938978154258855158
+    second: rectilinear.drawio_16
+  - first:
+      213: -2622537462290111089
+    second: rectilinear.drawio_17
+  - first:
+      213: -1851121769500134531
+    second: rectilinear.drawio_18
+  - first:
+      213: 6299930737889993139
+    second: rectilinear.drawio_19
+  - first:
+      213: -3563306440919187799
+    second: rectilinear.drawio_20
+  - first:
+      213: 4790375996629048474
+    second: rectilinear.drawio_21
+  - first:
+      213: 2980636697567579131
+    second: rectilinear.drawio_22
+  - first:
+      213: -5593340516646275
+    second: rectilinear.drawio_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rectilinear.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 143
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea656ea981af5d690800000000000000
+      internalID: -7577875814396045650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 143
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bedbd720ce65820800000000000000
+      internalID: 2906770104957922157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 143
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afa95df2335d7a10800000000000000
+      internalID: 1908773295538941863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 143
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c61eb80131f6350800000000000000
+      internalID: 6012044989350112407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 143
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc3b53150449d7e0800000000000000
+      internalID: -1740284992411714340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 143
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e87793a7e0228720800000000000000
+      internalID: 2846874093705722088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 143
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00f2d405542b9b90800000000000000
+      internalID: -7234148428868816885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 143
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0837c6637d09a4140800000000000000
+      internalID: 4704732014747349888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 143
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf9b817e9b5bcb10800000000000000
+      internalID: 2002795195364253661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 143
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92208ee15defbc40800000000000000
+      internalID: 5530399803583767195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 143
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1c5a2b29f25b980800000000000000
+      internalID: -8523854412619857445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 143
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970674c8d36e00da0800000000000000
+      internalID: -5980527153127137159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 143
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751142f3bcebacce0800000000000000
+      internalID: -1384084155316039337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 143
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6ecf3cb69597a70800000000000000
+      internalID: 8825183264193701596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 143
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c588ba0b7be2c6d0800000000000000
+      internalID: -2971553890417736250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 143
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af75268be0af9d2e0800000000000000
+      internalID: -2100372810061686790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 143
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b8892b5d2849da0800000000000000
+      internalID: -5938978154258855158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f852b06a210ea9bd0800000000000000
+      internalID: -2622537462290111089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 115
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73b3fcee8e7f46e0800000000000000
+      internalID: -1851121769500134531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 110
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b16f7da0a9dd6750800000000000000
+      internalID: 6299930737889993139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 115
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae7623dba79c8ec0800000000000000
+      internalID: -3563306440919187799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 115
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cd1a3a695da7240800000000000000
+      internalID: 4790375996629048474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb420bc8495d5920800000000000000
+      internalID: 2980636697567579131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectilinear.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 343
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72c56de2e02ceff0800000000000000
+      internalID: -5593340516646275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rectilinear.drawio_0: -7577875814396045650
+      rectilinear.drawio_1: 2906770104957922157
+      rectilinear.drawio_10: -8523854412619857445
+      rectilinear.drawio_11: -5980527153127137159
+      rectilinear.drawio_12: -1384084155316039337
+      rectilinear.drawio_13: 8825183264193701596
+      rectilinear.drawio_14: -2971553890417736250
+      rectilinear.drawio_15: -2100372810061686790
+      rectilinear.drawio_16: -5938978154258855158
+      rectilinear.drawio_17: -2622537462290111089
+      rectilinear.drawio_18: -1851121769500134531
+      rectilinear.drawio_19: 6299930737889993139
+      rectilinear.drawio_2: 1908773295538941863
+      rectilinear.drawio_20: -3563306440919187799
+      rectilinear.drawio_21: 4790375996629048474
+      rectilinear.drawio_22: 2980636697567579131
+      rectilinear.drawio_23: -5593340516646275
+      rectilinear.drawio_3: 6012044989350112407
+      rectilinear.drawio_4: -1740284992411714340
+      rectilinear.drawio_5: 2846874093705722088
+      rectilinear.drawio_6: -7234148428868816885
+      rectilinear.drawio_7: 4704732014747349888
+      rectilinear.drawio_8: 2002795195364253661
+      rectilinear.drawio_9: 5530399803583767195
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

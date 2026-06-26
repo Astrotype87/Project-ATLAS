@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b406289aece41604c82dfa830efb1dbe, type: 3}
+  m_Name: 26_Challenge
+  m_EditorClassIdentifier: 
+  chapter: 6
+  number: 26
+  title: Meteor Storm
+  description: Survive a storm of meteors using thrust and weapons. {player} learns
+    rotation while battling through.
+  objectives: You must avoid the falling meteors. If you successfully dodge them
+    for 1 minute, you win.
+  scoring: 
+  bronzeObjective: Survive with Any Damage
+  silverObjective: Less Than 50% Aircraft Damage
+  goldObjective: 0% Aircraft Damage
+  timeBonus:
+    timeBonuses: []
+    lowestScore: 10
+  unlockDatas:
+  - icon: 4
+    name: Chapter 6 - Post Test
+    description: Rotational Motion
+  - icon: 3
+    name: Freeplay > Minigame 6
+    description: Meteor Storm
+  instructions: You must avoid the falling meteors with the use of left and right
+    arrow only.. If you successfully dodge them for 1 minute, you win.
+  dialoguePrefab: {fileID: 6731532698286103042, guid: e952fa1914c7dbb4098c3df033f90888, type: 3}
+  minigamePrefab: {fileID: 3956548175504138668, guid: 97f53850cf86c604a8f34b445cfe9e56, type: 3}

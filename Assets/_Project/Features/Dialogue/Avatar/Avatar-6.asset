@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d579397bfb964a42855924e9597993e, type: 3}
+  m_Name: Avatar-6
+  m_EditorClassIdentifier: 
+  characterIndex: 6
+  characterName: Astronaut
+  characterSprite: {fileID: -6842603209219671076, guid: 6fd3f8a77d8572346a435c371f31f375, type: 3}
+  characterHead: {fileID: -2365521932605400254, guid: 0fb5588ccf5209c4ca75d88c50eef269, type: 3}

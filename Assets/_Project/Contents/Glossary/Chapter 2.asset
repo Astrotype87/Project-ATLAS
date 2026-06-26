@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1d62931ab01cd14b84145ae3bdd017f, type: 3}
+  m_Name: Chapter 2
+  m_EditorClassIdentifier: 
+  chapter: 2
+  levelTerms:
+  - level: 6
+    terms:
+    - term: Rectilinear Motion
+      symbol: 
+      type: 0
+      definition: It is defined as motion along a straight line.
+      explanation: "By definition, it means that everything behaves in a linear manner,
+        so the objects and scenarios involved are only moving along one (1) of the
+        three (3) known axes that we use (x, y, z). An example would be a car driving
+        along the straight highway, without any other cars interfering its \r\nmovement."
+    - term: Distance
+      symbol: m
+      type: 2
+      definition: It is the total measured length between two (2) given points.
+      explanation: "Simply put, if we use a simple racetrack, it \r\nis measured
+        from Start to the Finish line."
+    - term: Displacement
+      symbol: x
+      type: 2
+      definition: "The measured mean distance covered \r\nbetween two (2) specified
+        points. "
+      explanation: Displacement is a certain distance at any given two (2) points.
+        So, going back to the track, the displacement could be from Start to the
+        middle, middle to the Finish line, or it could also be the average distance
+        between the Start and the Finish line; used interchangeably with distance.
+    - term: Time
+      symbol: s
+      type: 2
+      definition: "The progression of events occurring between \r\ninstances."
+      explanation: It is something we need to prove that there is a progression between
+        events, such as from walking to running, jogging from point A to B, and so
+        on.
+    - term: Speed
+      symbol: v
+      type: 3
+      definition: The scalar quantity defined as the total distance covered per unit
+        time.
+      explanation: 'Simply put, if there is motion, there is speed. Speed does not,
+        and cannot, have a negative value. Sometimes, it is interchanged with velocity.
+
+
+        Formula:
+
+        v
+        = | d / t |
+
+
+        v = speed
+
+        d = distance
+
+        t = time'
+    - term: Velocity
+      symbol: "v\u02C9"
+      type: 3
+      definition: "The measured speed measured between two \r\n(2) specified points."
+      explanation: "It is the measured speed in a certain distance at any given instance
+        in time. However, unlike speed, velocity is a vector quantity and requires
+        direction. Negative velocity values indicate that the objects are moving
+        in the opposite direction.\n\nFormula:\nv\u02C9 = x / t\n\nv\u02C9 = velocity\nx
+        = displacement\nt = time"
+    - term: Acceleration
+      symbol: a
+      type: 3
+      definition: The change in velocity per unit time.
+      explanation: "It shows how fast the object moves in order to reach that certain
+        amount of velocity within a certain amount of time. Negative acceleration
+        values indicate that the objects are slowing down.\n\nFormula:\na = v\u02C9\u200B
+        / t\n\na = acceleration\nv\u02C9 = velocity\nt = time"
+  - level: 7
+    terms:
+    - term: Two-Dimensional Motion
+      symbol: "V<sub>R</sub>\xB2"
+      type: 2
+      definition: Projected within Cartesian plane with x and y.
+      explanation: "We can present vectors within a Cartesian plane. As previously
+        discussed as well, rectilinear motion is, simply put, motion along a straight
+        line. So, projecting it within a Cartesian plane, it will only move either
+        along the x-axis or the y-axis.\n\nFormula:\nV<sub>R</sub>\xB2 = V<sub>x</sub>\xB2
+        + V<sub>y</sub>\xB2\n\nV<sub>R</sub>\xB2 = resultant velocity\r\nV<sub>x</sub>\xB2
+        = x velocity\r\nV<sub>y</sub>\xB2 = y velocity"
+    - term: Resultant
+      symbol: 
+      type: 0
+      definition: It is the third arrow alongside x and y axes.
+      explanation: "It represents the motion in both dimensions. \r\nSimply put,
+        it simplifies the direction taken by the object throughout its movement."
+  - level: 9
+    terms:
+    - term: Relative Motion
+      symbol: 
+      type: 2
+      definition: It is a movement that is observed from another point of view.
+      explanation: "This motion requires three (3) reference frames the static reference
+        (always referred to as A), the intermediate reference (referred to as B),
+        and the moving reference (referred to as C). Since there is a common ground
+        for both velocities, the formula is simply a linear vector equation, though
+        it may change to suit the scenario.\n\nFormula:\nV<sub>AC</sub>\xB2 = V<sub>AB</sub>\xB2
+        + V<sub>BC</sub>\xB2\n\nV<sub>AB</sub>\xB2 = train speed from ground\nV<sub>BC</sub>\xB2
+        = human walking speed in train\nV<sub>AC</sub>\xB2 = (resultant) human speed
+        from ground\n\n"

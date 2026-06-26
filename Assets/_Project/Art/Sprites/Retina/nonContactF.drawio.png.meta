@@ -1,0 +1,1755 @@
+fileFormatVersion: 2
+guid: 3deba50048395fe48992bd5ee8af938d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2306994416414952482
+    second: nonContactF.drawio_0
+  - first:
+      213: 4201281390718849746
+    second: nonContactF.drawio_1
+  - first:
+      213: -4399995279790673228
+    second: nonContactF.drawio_2
+  - first:
+      213: -2961599663639311992
+    second: nonContactF.drawio_3
+  - first:
+      213: -5059077471206632565
+    second: nonContactF.drawio_4
+  - first:
+      213: 7702039784177908796
+    second: nonContactF.drawio_5
+  - first:
+      213: 5720658163071690760
+    second: nonContactF.drawio_6
+  - first:
+      213: 9000510976226262570
+    second: nonContactF.drawio_7
+  - first:
+      213: -3136812644007237925
+    second: nonContactF.drawio_8
+  - first:
+      213: 7898476974226370155
+    second: nonContactF.drawio_9
+  - first:
+      213: 3726318833167971366
+    second: nonContactF.drawio_10
+  - first:
+      213: 4625803126874696577
+    second: nonContactF.drawio_11
+  - first:
+      213: 5983951762866123240
+    second: nonContactF.drawio_12
+  - first:
+      213: 5932464518560118270
+    second: nonContactF.drawio_13
+  - first:
+      213: 2789260839642103373
+    second: nonContactF.drawio_14
+  - first:
+      213: 2277242090890925211
+    second: nonContactF.drawio_15
+  - first:
+      213: -5534055605910496591
+    second: nonContactF.drawio_16
+  - first:
+      213: -4799484941506201290
+    second: nonContactF.drawio_17
+  - first:
+      213: 3771987057572349607
+    second: nonContactF.drawio_18
+  - first:
+      213: -7975570550691457196
+    second: nonContactF.drawio_19
+  - first:
+      213: -2376633211206579979
+    second: nonContactF.drawio_20
+  - first:
+      213: 1024072246454272495
+    second: nonContactF.drawio_21
+  - first:
+      213: 6344862454593526539
+    second: nonContactF.drawio_22
+  - first:
+      213: -4105407953109719911
+    second: nonContactF.drawio_23
+  - first:
+      213: -7270673262318089553
+    second: nonContactF.drawio_24
+  - first:
+      213: -6842747846258580084
+    second: nonContactF.drawio_25
+  - first:
+      213: -9066687576777569451
+    second: nonContactF.drawio_26
+  - first:
+      213: 5121244769969172422
+    second: nonContactF.drawio_27
+  - first:
+      213: 8844291040908748249
+    second: nonContactF.drawio_28
+  - first:
+      213: 7662942997693537383
+    second: nonContactF.drawio_29
+  - first:
+      213: -5373745324666792977
+    second: nonContactF.drawio_30
+  - first:
+      213: 8614612625163334206
+    second: nonContactF.drawio_31
+  - first:
+      213: -4174875540758911456
+    second: nonContactF.drawio_32
+  - first:
+      213: 253453433394936312
+    second: nonContactF.drawio_33
+  - first:
+      213: -1913726428290123239
+    second: nonContactF.drawio_34
+  - first:
+      213: 8258066561903550004
+    second: nonContactF.drawio_35
+  - first:
+      213: 6664240082834303773
+    second: nonContactF.drawio_36
+  - first:
+      213: 7302023490783167714
+    second: nonContactF.drawio_37
+  - first:
+      213: 3524258243530369352
+    second: nonContactF.drawio_38
+  - first:
+      213: 8773612445555449341
+    second: nonContactF.drawio_39
+  - first:
+      213: 4291462361522766843
+    second: nonContactF.drawio_40
+  - first:
+      213: -1854583705824151310
+    second: nonContactF.drawio_41
+  - first:
+      213: 8757958335103918499
+    second: nonContactF.drawio_42
+  - first:
+      213: 1103014231046647356
+    second: nonContactF.drawio_43
+  - first:
+      213: 4726292165460239583
+    second: nonContactF.drawio_44
+  - first:
+      213: 8161662858972344706
+    second: nonContactF.drawio_45
+  - first:
+      213: -7155947913421480287
+    second: nonContactF.drawio_46
+  - first:
+      213: -5170740091210903072
+    second: nonContactF.drawio_47
+  - first:
+      213: 1550835001139121982
+    second: nonContactF.drawio_48
+  - first:
+      213: 9082729932660598152
+    second: nonContactF.drawio_49
+  - first:
+      213: 8444446665770434318
+    second: nonContactF.drawio_50
+  - first:
+      213: -6747889282365131493
+    second: nonContactF.drawio_51
+  - first:
+      213: -2163121875211702247
+    second: nonContactF.drawio_52
+  - first:
+      213: 103208351200180626
+    second: nonContactF.drawio_53
+  - first:
+      213: 6652800677208005095
+    second: nonContactF.drawio_54
+  - first:
+      213: -7156556239592918593
+    second: nonContactF.drawio_55
+  - first:
+      213: -7459796850722016495
+    second: nonContactF.drawio_56
+  - first:
+      213: -4874526768026987582
+    second: nonContactF.drawio_57
+  - first:
+      213: 2493637352427422928
+    second: nonContactF.drawio_58
+  - first:
+      213: 7498754221727318257
+    second: nonContactF.drawio_59
+  - first:
+      213: 3476460165283997526
+    second: nonContactF.drawio_60
+  - first:
+      213: -2554267925635151204
+    second: nonContactF.drawio_61
+  - first:
+      213: -9140679638788004498
+    second: nonContactF.drawio_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nonContactF.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 336
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3f6ce1dc8ebffd0800000000000000
+      internalID: -2306994416414952482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 336
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2914f5a23fd4a30800000000000000
+      internalID: 4201281390718849746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 336
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b27eaeea9310f2c0800000000000000
+      internalID: -4399995279790673228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 336
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889ccd11cc846e6d0800000000000000
+      internalID: -2961599663639311992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 336
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b831c8518db8ac9b0800000000000000
+      internalID: -5059077471206632565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 336
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cb9d5606423ea60800000000000000
+      internalID: 7702039784177908796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 336
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808a35b3a4cd36f40800000000000000
+      internalID: 5720658163071690760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 336
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e78fecb0d38ec70800000000000000
+      internalID: 9000510976226262570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 336
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6aef2158dc774d0800000000000000
+      internalID: -3136812644007237925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 336
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e6d5bc5f60d9d60800000000000000
+      internalID: 7898476974226370155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 336
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62433d26c3b86b330800000000000000
+      internalID: 3726318833167971366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18be1427f67223040800000000000000
+      internalID: 4625803126874696577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 302
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e135ba8c644b0350800000000000000
+      internalID: 5983951762866123240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 278
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5726f4c09545250800000000000000
+      internalID: 5932464518560118270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 278
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e76cc94f175b620800000000000000
+      internalID: 2789260839642103373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 278
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b941f17cd936a9f10800000000000000
+      internalID: 2277242090890925211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 278
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba12724fb51333b0800000000000000
+      internalID: -5534055605910496591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 278
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639bfacdfddc46db0800000000000000
+      internalID: -4799484941506201290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 278
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a688f77e3ac85430800000000000000
+      internalID: 3771987057572349607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 278
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45718fc27d4115190800000000000000
+      internalID: -7975570550691457196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 278
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8c2a4bfa0840fd0800000000000000
+      internalID: -2376633211206579979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 278
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe14e3a484c363e00800000000000000
+      internalID: 1024072246454272495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 278
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b92c239ca7d0850800000000000000
+      internalID: 6344862454593526539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 278
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994e4d0d739a607c0800000000000000
+      internalID: -4105407953109719911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 278
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa89998031691b90800000000000000
+      internalID: -7270673262318089553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 275
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c852038961da901a0800000000000000
+      internalID: -6842747846258580084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 278
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bc9b0bfa7ac2280800000000000000
+      internalID: -9066687576777569451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 278
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfe6d91cf0521740800000000000000
+      internalID: 5121244769969172422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 278
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d52987b7db3dba70800000000000000
+      internalID: 8844291040908748249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 278
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c179f6e0e385a60800000000000000
+      internalID: 7662942997693537383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 278
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3d1d9391f9c65b0800000000000000
+      internalID: -5373745324666792977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 278
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32b4785a804d8770800000000000000
+      internalID: 8614612625163334206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 278
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026299ba0dcdf06c0800000000000000
+      internalID: -4174875540758911456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 278
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9bb980e82748300800000000000000
+      internalID: 253453433394936312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 278
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a7d7ce3f31175e0800000000000000
+      internalID: -1913726428290123239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 278
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43edac1f8cb8a9270800000000000000
+      internalID: 8258066561903550004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 278
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b2243fb032c7c50800000000000000
+      internalID: 6664240082834303773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 275
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e440b55daff55560800000000000000
+      internalID: 7302023490783167714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 278
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849ae5e333ea8e030800000000000000
+      internalID: 3524258243530369352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 278
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd574ed80222c970800000000000000
+      internalID: 8773612445555449341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 278
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf30689d7465e8b30800000000000000
+      internalID: 4291462361522766843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 278
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8bf1012f13346e0800000000000000
+      internalID: -1854583705824151310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 278
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a16a8144b48a8970800000000000000
+      internalID: 8757958335103918499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 257
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e6cbf5991be4f00800000000000000
+      internalID: 1103014231046647356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 257
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd428fafea9279140800000000000000
+      internalID: 4726292165460239583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_45
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 257
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281bb8db02d044170800000000000000
+      internalID: 8161662858972344706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 253
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae905d5947f0bc90800000000000000
+      internalID: -7155947913421480287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 257
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1d0856847dd38b0800000000000000
+      internalID: -5170740091210903072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_48
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 257
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fc324873ca58510800000000000000
+      internalID: 1550835001139121982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_49
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 257
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885ea0b50c65c0e70800000000000000
+      internalID: 9082729932660598152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 257
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f7afd7083b03570800000000000000
+      internalID: 8444446665770434318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 257
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15f5f4137eaa52a0800000000000000
+      internalID: -6747889282365131493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_52
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 257
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910312e7d1c0bf1e0800000000000000
+      internalID: -2163121875211702247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 257
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299f327d27bae6100800000000000000
+      internalID: 103208351200180626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_54
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 257
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e91676c7fe735c50800000000000000
+      internalID: 6652800677208005095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 257
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb175f3640eceac90800000000000000
+      internalID: -7156556239592918593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_56
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 257
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113f228b94a797890800000000000000
+      internalID: -7459796850722016495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_57
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 257
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c35e971bb33a5cb0800000000000000
+      internalID: -4874526768026987582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_58
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 191
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4051ec5fd2b9220800000000000000
+      internalID: 2493637352427422928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 204
+        width: 67
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0840c0c3de01860800000000000000
+      internalID: 7498754221727318257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_60
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 141
+        width: 114
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6576c8be91ede3030800000000000000
+      internalID: 3476460165283997526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_61
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 139
+        width: 188
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ac75fcada6d8cd0800000000000000
+      internalID: -2554267925635151204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonContactF.drawio_62
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 414
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6525644c48c52180800000000000000
+      internalID: -9140679638788004498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nonContactF.drawio_0: -2306994416414952482
+      nonContactF.drawio_1: 4201281390718849746
+      nonContactF.drawio_10: 3726318833167971366
+      nonContactF.drawio_11: 4625803126874696577
+      nonContactF.drawio_12: 5983951762866123240
+      nonContactF.drawio_13: 5932464518560118270
+      nonContactF.drawio_14: 2789260839642103373
+      nonContactF.drawio_15: 2277242090890925211
+      nonContactF.drawio_16: -5534055605910496591
+      nonContactF.drawio_17: -4799484941506201290
+      nonContactF.drawio_18: 3771987057572349607
+      nonContactF.drawio_19: -7975570550691457196
+      nonContactF.drawio_2: -4399995279790673228
+      nonContactF.drawio_20: -2376633211206579979
+      nonContactF.drawio_21: 1024072246454272495
+      nonContactF.drawio_22: 6344862454593526539
+      nonContactF.drawio_23: -4105407953109719911
+      nonContactF.drawio_24: -7270673262318089553
+      nonContactF.drawio_25: -6842747846258580084
+      nonContactF.drawio_26: -9066687576777569451
+      nonContactF.drawio_27: 5121244769969172422
+      nonContactF.drawio_28: 8844291040908748249
+      nonContactF.drawio_29: 7662942997693537383
+      nonContactF.drawio_3: -2961599663639311992
+      nonContactF.drawio_30: -5373745324666792977
+      nonContactF.drawio_31: 8614612625163334206
+      nonContactF.drawio_32: -4174875540758911456
+      nonContactF.drawio_33: 253453433394936312
+      nonContactF.drawio_34: -1913726428290123239
+      nonContactF.drawio_35: 8258066561903550004
+      nonContactF.drawio_36: 6664240082834303773
+      nonContactF.drawio_37: 7302023490783167714
+      nonContactF.drawio_38: 3524258243530369352
+      nonContactF.drawio_39: 8773612445555449341
+      nonContactF.drawio_4: -5059077471206632565
+      nonContactF.drawio_40: 4291462361522766843
+      nonContactF.drawio_41: -1854583705824151310
+      nonContactF.drawio_42: 8757958335103918499
+      nonContactF.drawio_43: 1103014231046647356
+      nonContactF.drawio_44: 4726292165460239583
+      nonContactF.drawio_45: 8161662858972344706
+      nonContactF.drawio_46: -7155947913421480287
+      nonContactF.drawio_47: -5170740091210903072
+      nonContactF.drawio_48: 1550835001139121982
+      nonContactF.drawio_49: 9082729932660598152
+      nonContactF.drawio_5: 7702039784177908796
+      nonContactF.drawio_50: 8444446665770434318
+      nonContactF.drawio_51: -6747889282365131493
+      nonContactF.drawio_52: -2163121875211702247
+      nonContactF.drawio_53: 103208351200180626
+      nonContactF.drawio_54: 6652800677208005095
+      nonContactF.drawio_55: -7156556239592918593
+      nonContactF.drawio_56: -7459796850722016495
+      nonContactF.drawio_57: -4874526768026987582
+      nonContactF.drawio_58: 2493637352427422928
+      nonContactF.drawio_59: 7498754221727318257
+      nonContactF.drawio_6: 5720658163071690760
+      nonContactF.drawio_60: 3476460165283997526
+      nonContactF.drawio_61: -2554267925635151204
+      nonContactF.drawio_62: -9140679638788004498
+      nonContactF.drawio_7: 9000510976226262570
+      nonContactF.drawio_8: -3136812644007237925
+      nonContactF.drawio_9: 7898476974226370155
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

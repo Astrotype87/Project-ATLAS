@@ -1,0 +1,7475 @@
+fileFormatVersion: 2
+guid: e11db764fd11f9c4dbe8c6d40275ad37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4927491787666603714
+    second: newDensity.drawio_0
+  - first:
+      213: -3247583586976486383
+    second: newDensity.drawio_1
+  - first:
+      213: -2337197821211689006
+    second: newDensity.drawio_2
+  - first:
+      213: 5342971374643066318
+    second: newDensity.drawio_3
+  - first:
+      213: 4731675250309473927
+    second: newDensity.drawio_4
+  - first:
+      213: 1943674581024040086
+    second: newDensity.drawio_5
+  - first:
+      213: 3235659048853266925
+    second: newDensity.drawio_6
+  - first:
+      213: 238524046716471198
+    second: newDensity.drawio_7
+  - first:
+      213: 1778897124423907731
+    second: newDensity.drawio_8
+  - first:
+      213: 272829155137323542
+    second: newDensity.drawio_9
+  - first:
+      213: 3813122387784538343
+    second: newDensity.drawio_10
+  - first:
+      213: 5955372430052825771
+    second: newDensity.drawio_11
+  - first:
+      213: -5747120077628120075
+    second: newDensity.drawio_12
+  - first:
+      213: -367339727013760912
+    second: newDensity.drawio_13
+  - first:
+      213: 3762280170722780778
+    second: newDensity.drawio_14
+  - first:
+      213: -8381867828022683501
+    second: newDensity.drawio_15
+  - first:
+      213: 300527530254631117
+    second: newDensity.drawio_16
+  - first:
+      213: 1993716643715406821
+    second: newDensity.drawio_17
+  - first:
+      213: 7217123605854193964
+    second: newDensity.drawio_18
+  - first:
+      213: 9055092168742299289
+    second: newDensity.drawio_19
+  - first:
+      213: -5782183434488421454
+    second: newDensity.drawio_20
+  - first:
+      213: -1807688711187393750
+    second: newDensity.drawio_21
+  - first:
+      213: -7441383121148457466
+    second: newDensity.drawio_22
+  - first:
+      213: 3805578667885903949
+    second: newDensity.drawio_23
+  - first:
+      213: 3269037570013512460
+    second: newDensity.drawio_24
+  - first:
+      213: -47105905026218992
+    second: newDensity.drawio_25
+  - first:
+      213: 4946636319211704094
+    second: newDensity.drawio_26
+  - first:
+      213: -1235474098046526603
+    second: newDensity.drawio_27
+  - first:
+      213: 130209419923608268
+    second: newDensity.drawio_28
+  - first:
+      213: 8265099643321647662
+    second: newDensity.drawio_29
+  - first:
+      213: 405346320030369988
+    second: newDensity.drawio_30
+  - first:
+      213: 5966156460904235964
+    second: newDensity.drawio_31
+  - first:
+      213: -6159320045655515499
+    second: newDensity.drawio_32
+  - first:
+      213: -3104489953606020710
+    second: newDensity.drawio_33
+  - first:
+      213: -8056456139533508109
+    second: newDensity.drawio_34
+  - first:
+      213: 5345314357275314576
+    second: newDensity.drawio_35
+  - first:
+      213: 5813699333104635301
+    second: newDensity.drawio_36
+  - first:
+      213: 1089195140416762475
+    second: newDensity.drawio_37
+  - first:
+      213: 2255309571934519547
+    second: newDensity.drawio_38
+  - first:
+      213: 4181081449439472594
+    second: newDensity.drawio_39
+  - first:
+      213: 165836689011616822
+    second: newDensity.drawio_40
+  - first:
+      213: -3410504927778763680
+    second: newDensity.drawio_41
+  - first:
+      213: 4242985082560539600
+    second: newDensity.drawio_42
+  - first:
+      213: -8211581775164122099
+    second: newDensity.drawio_43
+  - first:
+      213: 8061387918466730949
+    second: newDensity.drawio_44
+  - first:
+      213: -5131801996224137272
+    second: newDensity.drawio_45
+  - first:
+      213: -4621634084387800747
+    second: newDensity.drawio_46
+  - first:
+      213: -8273532616343807978
+    second: newDensity.drawio_47
+  - first:
+      213: -8487761006009909662
+    second: newDensity.drawio_48
+  - first:
+      213: 8735852366203185528
+    second: newDensity.drawio_49
+  - first:
+      213: 8100656325001283928
+    second: newDensity.drawio_50
+  - first:
+      213: -1974398939321754638
+    second: newDensity.drawio_51
+  - first:
+      213: 7123587905456935554
+    second: newDensity.drawio_52
+  - first:
+      213: 7359688088412823748
+    second: newDensity.drawio_53
+  - first:
+      213: -6817252074327169639
+    second: newDensity.drawio_54
+  - first:
+      213: -5896547194064935084
+    second: newDensity.drawio_55
+  - first:
+      213: -4346397479325773198
+    second: newDensity.drawio_56
+  - first:
+      213: -9029702980472954440
+    second: newDensity.drawio_57
+  - first:
+      213: 7605079962975137216
+    second: newDensity.drawio_58
+  - first:
+      213: -924063198651029093
+    second: newDensity.drawio_59
+  - first:
+      213: 4738839708074029645
+    second: newDensity.drawio_60
+  - first:
+      213: 6742905674669280187
+    second: newDensity.drawio_61
+  - first:
+      213: -7567077776431141029
+    second: newDensity.drawio_62
+  - first:
+      213: -4130812312330756592
+    second: newDensity.drawio_63
+  - first:
+      213: 2952692588568230347
+    second: newDensity.drawio_64
+  - first:
+      213: 1836289582954935847
+    second: newDensity.drawio_65
+  - first:
+      213: 1519539792554215078
+    second: newDensity.drawio_66
+  - first:
+      213: -1546733862342107938
+    second: newDensity.drawio_67
+  - first:
+      213: -4144588403405153553
+    second: newDensity.drawio_68
+  - first:
+      213: 6043795429568321457
+    second: newDensity.drawio_69
+  - first:
+      213: -627476205490395059
+    second: newDensity.drawio_70
+  - first:
+      213: 9005497160048554452
+    second: newDensity.drawio_71
+  - first:
+      213: 8457048957744236816
+    second: newDensity.drawio_72
+  - first:
+      213: 3166155615699641637
+    second: newDensity.drawio_73
+  - first:
+      213: -3472277850464597467
+    second: newDensity.drawio_74
+  - first:
+      213: -7827796732547170808
+    second: newDensity.drawio_75
+  - first:
+      213: -5104650764310523941
+    second: newDensity.drawio_76
+  - first:
+      213: 7912535070006053213
+    second: newDensity.drawio_77
+  - first:
+      213: -4315949452451960561
+    second: newDensity.drawio_78
+  - first:
+      213: -6489428433158462105
+    second: newDensity.drawio_79
+  - first:
+      213: -5035923712878271572
+    second: newDensity.drawio_80
+  - first:
+      213: 8833805924933944225
+    second: newDensity.drawio_81
+  - first:
+      213: 4439743415211567679
+    second: newDensity.drawio_82
+  - first:
+      213: -1611181559703231667
+    second: newDensity.drawio_83
+  - first:
+      213: -9163057649089198273
+    second: newDensity.drawio_84
+  - first:
+      213: 4655234320458077240
+    second: newDensity.drawio_85
+  - first:
+      213: 3026556374197855075
+    second: newDensity.drawio_86
+  - first:
+      213: 6057206768334167842
+    second: newDensity.drawio_87
+  - first:
+      213: 181007405430795995
+    second: newDensity.drawio_88
+  - first:
+      213: -5505153463316346528
+    second: newDensity.drawio_89
+  - first:
+      213: -3405976353840986008
+    second: newDensity.drawio_90
+  - first:
+      213: -5112095285895438127
+    second: newDensity.drawio_91
+  - first:
+      213: -687035537764346750
+    second: newDensity.drawio_92
+  - first:
+      213: -1572637666982900863
+    second: newDensity.drawio_93
+  - first:
+      213: 3638036619773717376
+    second: newDensity.drawio_94
+  - first:
+      213: 5154256866049191944
+    second: newDensity.drawio_95
+  - first:
+      213: -2377458826376044230
+    second: newDensity.drawio_96
+  - first:
+      213: -8610898012458110875
+    second: newDensity.drawio_97
+  - first:
+      213: 3742189716139908330
+    second: newDensity.drawio_98
+  - first:
+      213: -1958130439157231880
+    second: newDensity.drawio_99
+  - first:
+      213: 604832828036570924
+    second: newDensity.drawio_100
+  - first:
+      213: 684913548141048421
+    second: newDensity.drawio_101
+  - first:
+      213: 3441235232679729793
+    second: newDensity.drawio_102
+  - first:
+      213: 7505825955256524943
+    second: newDensity.drawio_103
+  - first:
+      213: -5300080569513113093
+    second: newDensity.drawio_104
+  - first:
+      213: 2554393912059441003
+    second: newDensity.drawio_105
+  - first:
+      213: 4985369374313211897
+    second: newDensity.drawio_106
+  - first:
+      213: -7245326521285916958
+    second: newDensity.drawio_107
+  - first:
+      213: 2134876613675261163
+    second: newDensity.drawio_108
+  - first:
+      213: -2976178863479978567
+    second: newDensity.drawio_109
+  - first:
+      213: 911123887621724528
+    second: newDensity.drawio_110
+  - first:
+      213: -4323876693636348965
+    second: newDensity.drawio_111
+  - first:
+      213: -5777713584321490556
+    second: newDensity.drawio_112
+  - first:
+      213: -2331066981360086043
+    second: newDensity.drawio_113
+  - first:
+      213: -7076188703500830002
+    second: newDensity.drawio_114
+  - first:
+      213: -8067328283986326030
+    second: newDensity.drawio_115
+  - first:
+      213: -2337997222271797684
+    second: newDensity.drawio_116
+  - first:
+      213: -6515073594458921660
+    second: newDensity.drawio_117
+  - first:
+      213: -6175986049071831630
+    second: newDensity.drawio_118
+  - first:
+      213: 7228967601100248988
+    second: newDensity.drawio_119
+  - first:
+      213: -6239755915469961527
+    second: newDensity.drawio_120
+  - first:
+      213: 8962115835039753610
+    second: newDensity.drawio_121
+  - first:
+      213: 3506740904931479903
+    second: newDensity.drawio_122
+  - first:
+      213: -894381831566637306
+    second: newDensity.drawio_123
+  - first:
+      213: -793697066608376696
+    second: newDensity.drawio_124
+  - first:
+      213: -7412011988515011682
+    second: newDensity.drawio_125
+  - first:
+      213: 8819543791083075509
+    second: newDensity.drawio_126
+  - first:
+      213: 7870862072930720218
+    second: newDensity.drawio_127
+  - first:
+      213: 8735282577132672078
+    second: newDensity.drawio_128
+  - first:
+      213: -129299898715002036
+    second: newDensity.drawio_129
+  - first:
+      213: -5950353745224781802
+    second: newDensity.drawio_130
+  - first:
+      213: -2435176257275967293
+    second: newDensity.drawio_131
+  - first:
+      213: -6970316247603858419
+    second: newDensity.drawio_132
+  - first:
+      213: 4802236631886915091
+    second: newDensity.drawio_133
+  - first:
+      213: 934673383833878701
+    second: newDensity.drawio_134
+  - first:
+      213: 4435066678612173890
+    second: newDensity.drawio_135
+  - first:
+      213: 7276321166812078878
+    second: newDensity.drawio_136
+  - first:
+      213: 2111052128302345901
+    second: newDensity.drawio_137
+  - first:
+      213: 573334733751379379
+    second: newDensity.drawio_138
+  - first:
+      213: 4181386044673045403
+    second: newDensity.drawio_139
+  - first:
+      213: -8990037276483548107
+    second: newDensity.drawio_140
+  - first:
+      213: -1272041673680085289
+    second: newDensity.drawio_141
+  - first:
+      213: 1531738633808908305
+    second: newDensity.drawio_142
+  - first:
+      213: -2761004293248535098
+    second: newDensity.drawio_143
+  - first:
+      213: 2192700267749403103
+    second: newDensity.drawio_144
+  - first:
+      213: -3982558327013685084
+    second: newDensity.drawio_145
+  - first:
+      213: 9091238913970913345
+    second: newDensity.drawio_146
+  - first:
+      213: 3146163722487800963
+    second: newDensity.drawio_147
+  - first:
+      213: 838591561064736131
+    second: newDensity.drawio_148
+  - first:
+      213: 7436615689276516500
+    second: newDensity.drawio_149
+  - first:
+      213: 1853661293622017258
+    second: newDensity.drawio_150
+  - first:
+      213: 689318994247700999
+    second: newDensity.drawio_151
+  - first:
+      213: -2961992593936040768
+    second: newDensity.drawio_152
+  - first:
+      213: 7941311870324829243
+    second: newDensity.drawio_153
+  - first:
+      213: -4777697486332968736
+    second: newDensity.drawio_154
+  - first:
+      213: -1491408284158077119
+    second: newDensity.drawio_155
+  - first:
+      213: 7886622871002579889
+    second: newDensity.drawio_156
+  - first:
+      213: 8615384965312570052
+    second: newDensity.drawio_157
+  - first:
+      213: 4060203403833296084
+    second: newDensity.drawio_158
+  - first:
+      213: 2218636776048918477
+    second: newDensity.drawio_159
+  - first:
+      213: -2363955043381579273
+    second: newDensity.drawio_160
+  - first:
+      213: 5874686269707977950
+    second: newDensity.drawio_161
+  - first:
+      213: -3432244024861721361
+    second: newDensity.drawio_162
+  - first:
+      213: -3531050813464453017
+    second: newDensity.drawio_163
+  - first:
+      213: -5131674443254854965
+    second: newDensity.drawio_164
+  - first:
+      213: -8225651572857154483
+    second: newDensity.drawio_165
+  - first:
+      213: 7482340007067940273
+    second: newDensity.drawio_166
+  - first:
+      213: 5368907723564182278
+    second: newDensity.drawio_167
+  - first:
+      213: 2578200524677457160
+    second: newDensity.drawio_168
+  - first:
+      213: 6869240312477521018
+    second: newDensity.drawio_169
+  - first:
+      213: -2719529221063088612
+    second: newDensity.drawio_170
+  - first:
+      213: 7255785561511084169
+    second: newDensity.drawio_171
+  - first:
+      213: -6288388025890817854
+    second: newDensity.drawio_172
+  - first:
+      213: -1690141890142168704
+    second: newDensity.drawio_173
+  - first:
+      213: 8306929875800871991
+    second: newDensity.drawio_174
+  - first:
+      213: 7118760436335173950
+    second: newDensity.drawio_175
+  - first:
+      213: 4279391598884548457
+    second: newDensity.drawio_176
+  - first:
+      213: -3981868344870583793
+    second: newDensity.drawio_177
+  - first:
+      213: -6729730092469655944
+    second: newDensity.drawio_178
+  - first:
+      213: 4637564906285523623
+    second: newDensity.drawio_179
+  - first:
+      213: 1319799796104899196
+    second: newDensity.drawio_180
+  - first:
+      213: 5663385738990862611
+    second: newDensity.drawio_181
+  - first:
+      213: -2397143139897080279
+    second: newDensity.drawio_182
+  - first:
+      213: -9047297173628920362
+    second: newDensity.drawio_183
+  - first:
+      213: -7215666137064449623
+    second: newDensity.drawio_184
+  - first:
+      213: 7870586548721548368
+    second: newDensity.drawio_185
+  - first:
+      213: 6614905770134824223
+    second: newDensity.drawio_186
+  - first:
+      213: 1221545398113356798
+    second: newDensity.drawio_187
+  - first:
+      213: -1601960692969325226
+    second: newDensity.drawio_188
+  - first:
+      213: 3064825186358160174
+    second: newDensity.drawio_189
+  - first:
+      213: 7882710051544896158
+    second: newDensity.drawio_190
+  - first:
+      213: 3163381614051750215
+    second: newDensity.drawio_191
+  - first:
+      213: -8692429564083070505
+    second: newDensity.drawio_192
+  - first:
+      213: -1687820159098660112
+    second: newDensity.drawio_193
+  - first:
+      213: -1339872540195952690
+    second: newDensity.drawio_194
+  - first:
+      213: 4767680680422490795
+    second: newDensity.drawio_195
+  - first:
+      213: -5915566593859548850
+    second: newDensity.drawio_196
+  - first:
+      213: 6955299012545814432
+    second: newDensity.drawio_197
+  - first:
+      213: -4837411554099261991
+    second: newDensity.drawio_198
+  - first:
+      213: 6659977450722251252
+    second: newDensity.drawio_199
+  - first:
+      213: 4687789036918029562
+    second: newDensity.drawio_200
+  - first:
+      213: 56860894241290056
+    second: newDensity.drawio_201
+  - first:
+      213: -4787050202881701755
+    second: newDensity.drawio_202
+  - first:
+      213: -1035674173801259459
+    second: newDensity.drawio_203
+  - first:
+      213: -6773515423100293842
+    second: newDensity.drawio_204
+  - first:
+      213: 6541174172237100413
+    second: newDensity.drawio_205
+  - first:
+      213: -4911150765718125739
+    second: newDensity.drawio_206
+  - first:
+      213: -9223148489539337559
+    second: newDensity.drawio_207
+  - first:
+      213: 8448558424619999175
+    second: newDensity.drawio_208
+  - first:
+      213: -5339650501131545924
+    second: newDensity.drawio_209
+  - first:
+      213: 8816563589409753553
+    second: newDensity.drawio_210
+  - first:
+      213: -7636078682416425983
+    second: newDensity.drawio_211
+  - first:
+      213: 8046591739080930436
+    second: newDensity.drawio_212
+  - first:
+      213: -2402244952939160102
+    second: newDensity.drawio_213
+  - first:
+      213: 249489774159691914
+    second: newDensity.drawio_214
+  - first:
+      213: -8756243717156647676
+    second: newDensity.drawio_215
+  - first:
+      213: -97003265380059155
+    second: newDensity.drawio_216
+  - first:
+      213: 8208113461647129435
+    second: newDensity.drawio_217
+  - first:
+      213: 4707029272850272861
+    second: newDensity.drawio_218
+  - first:
+      213: 3622955081828424648
+    second: newDensity.drawio_219
+  - first:
+      213: 462892536288639456
+    second: newDensity.drawio_220
+  - first:
+      213: -4901447156679985794
+    second: newDensity.drawio_221
+  - first:
+      213: 2071873693726286696
+    second: newDensity.drawio_222
+  - first:
+      213: -1389374714403906969
+    second: newDensity.drawio_223
+  - first:
+      213: -1771367478666816223
+    second: newDensity.drawio_224
+  - first:
+      213: 7068460264382950874
+    second: newDensity.drawio_225
+  - first:
+      213: -2395529806232407320
+    second: newDensity.drawio_226
+  - first:
+      213: -4130689957448672602
+    second: newDensity.drawio_227
+  - first:
+      213: 925741036787899537
+    second: newDensity.drawio_228
+  - first:
+      213: -816907995121316958
+    second: newDensity.drawio_229
+  - first:
+      213: 887652573679009142
+    second: newDensity.drawio_230
+  - first:
+      213: 3095392736870456770
+    second: newDensity.drawio_231
+  - first:
+      213: 6650620937956893337
+    second: newDensity.drawio_232
+  - first:
+      213: 5718676585099716534
+    second: newDensity.drawio_233
+  - first:
+      213: -609273163829945793
+    second: newDensity.drawio_234
+  - first:
+      213: -5397887591821893885
+    second: newDensity.drawio_235
+  - first:
+      213: -7961636027329480203
+    second: newDensity.drawio_236
+  - first:
+      213: -5792693478083860433
+    second: newDensity.drawio_237
+  - first:
+      213: 1365773618990009849
+    second: newDensity.drawio_238
+  - first:
+      213: -3712838876213533448
+    second: newDensity.drawio_239
+  - first:
+      213: 4368446967749725344
+    second: newDensity.drawio_240
+  - first:
+      213: 5845353487059246739
+    second: newDensity.drawio_241
+  - first:
+      213: 8319447996323590290
+    second: newDensity.drawio_242
+  - first:
+      213: -879442291223208413
+    second: newDensity.drawio_243
+  - first:
+      213: -420132453473670449
+    second: newDensity.drawio_244
+  - first:
+      213: 1427398713781090690
+    second: newDensity.drawio_245
+  - first:
+      213: 237309115225447190
+    second: newDensity.drawio_246
+  - first:
+      213: 279156534292443967
+    second: newDensity.drawio_247
+  - first:
+      213: -2740491809877828846
+    second: newDensity.drawio_248
+  - first:
+      213: -8678284716965111014
+    second: newDensity.drawio_249
+  - first:
+      213: -8554820371868090776
+    second: newDensity.drawio_250
+  - first:
+      213: -2271829027735135533
+    second: newDensity.drawio_251
+  - first:
+      213: 7271296842747892287
+    second: newDensity.drawio_252
+  - first:
+      213: -797476243850322018
+    second: newDensity.drawio_253
+  - first:
+      213: -8555182298521504063
+    second: newDensity.drawio_254
+  - first:
+      213: -8779904447624156258
+    second: newDensity.drawio_255
+  - first:
+      213: 7098615609769119088
+    second: newDensity.drawio_256
+  - first:
+      213: -4242252155044218779
+    second: newDensity.drawio_257
+  - first:
+      213: 8495723877038206076
+    second: newDensity.drawio_258
+  - first:
+      213: 963591181133026271
+    second: newDensity.drawio_259
+  - first:
+      213: 8141282823676762982
+    second: newDensity.drawio_260
+  - first:
+      213: 6424531117876575320
+    second: newDensity.drawio_261
+  - first:
+      213: -5502632894232929906
+    second: newDensity.drawio_262
+  - first:
+      213: 8450853490763326093
+    second: newDensity.drawio_263
+  - first:
+      213: 6095980792383921728
+    second: newDensity.drawio_264
+  - first:
+      213: 8019604890028378870
+    second: newDensity.drawio_265
+  - first:
+      213: -4916878430974737087
+    second: newDensity.drawio_266
+  - first:
+      213: -4923757485410160716
+    second: newDensity.drawio_267
+  - first:
+      213: -8124298917418031872
+    second: newDensity.drawio_268
+  - first:
+      213: -5642489544459521552
+    second: newDensity.drawio_269
+  - first:
+      213: 7781383892791397273
+    second: newDensity.drawio_270
+  - first:
+      213: 3588889491936436706
+    second: newDensity.drawio_271
+  - first:
+      213: 5321128095433433728
+    second: newDensity.drawio_272
+  - first:
+      213: -1184770733329944722
+    second: newDensity.drawio_273
+  - first:
+      213: -711058068710098565
+    second: newDensity.drawio_274
+  - first:
+      213: -5261164931747629355
+    second: newDensity.drawio_275
+  - first:
+      213: 239582525369015207
+    second: newDensity.drawio_276
+  - first:
+      213: 6053548428934248631
+    second: newDensity.drawio_277
+  - first:
+      213: 2145213689870783644
+    second: newDensity.drawio_278
+  - first:
+      213: 5249572389700189871
+    second: newDensity.drawio_279
+  - first:
+      213: -6938308412676121958
+    second: newDensity.drawio_280
+  - first:
+      213: -7639941061076032641
+    second: newDensity.drawio_281
+  - first:
+      213: -147718797679337592
+    second: newDensity.drawio_282
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: newDensity.drawio_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 450
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e314a7a73580e9bb0800000000000000
+      internalID: -4927491787666603714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 449
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ca0ef1fe34ee2d0800000000000000
+      internalID: -3247583586976486383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 450
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df3cd0f6fa909fd0800000000000000
+      internalID: -2337197821211689006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 449
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec53eae282c062a40800000000000000
+      internalID: 5342971374643066318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 482
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786243712994aa140800000000000000
+      internalID: 4731675250309473927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 449
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694e4e0cbb159fa10800000000000000
+      internalID: 1943674581024040086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 450
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de16d2df2ce57ec20800000000000000
+      internalID: 3235659048853266925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 438
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e978ce25b586f4300800000000000000
+      internalID: 238524046716471198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 385
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39930497289efa810800000000000000
+      internalID: 1778897124423907731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 385
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612845ccba849c300800000000000000
+      internalID: 272829155137323542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 385
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e89cf0eb9eeae430800000000000000
+      internalID: 3813122387784538343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 385
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa14761cabb5a250800000000000000
+      internalID: 5955372430052825771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 405
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3e57b2db02e30b0800000000000000
+      internalID: -5747120077628120075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 385
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070b47be672f6eaf0800000000000000
+      internalID: -367339727013760912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 385
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a666d61c1ed463430800000000000000
+      internalID: 3762280170722780778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 377
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398de649e9f9dab80800000000000000
+      internalID: -8381867828022683501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 378
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc08d0e4230bb2400800000000000000
+      internalID: 300527530254631117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 385
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebd07b69ba1bab10800000000000000
+      internalID: 1993716643715406821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 385
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29860b7eaf582460800000000000000
+      internalID: 7217123605854193964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9966e4ef9562aad70800000000000000
+      internalID: 9055092168742299289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b36b293dce81cfa0800000000000000
+      internalID: -5782183434488421454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 385
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a231139d1bcc9e6e0800000000000000
+      internalID: -1807688711187393750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_22
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 385
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ecb5a3a75eab890800000000000000
+      internalID: -7441383121148457466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_23
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40c428b2a120d430800000000000000
+      internalID: 3805578667885903949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_24
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 385
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03cf0e8954fd5d20800000000000000
+      internalID: 3269037570013512460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_25
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 385
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014c610dd65a85ff0800000000000000
+      internalID: -47105905026218992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_26
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fc8af168bf5a440800000000000000
+      internalID: 4946636319211704094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 385
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b9db88ad6badee0800000000000000
+      internalID: -1235474098046526603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 401
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2d4fc07c89ec100800000000000000
+      internalID: 130209419923608268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_29
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 385
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e220561d55883b270800000000000000
+      internalID: 8265099643321647662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_30
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 385
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c80c68945410a500800000000000000
+      internalID: 405346320030369988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_31
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3499ee0bb0cc250800000000000000
+      internalID: 5966156460904235964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_32
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 380
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e92cc4d03b58aa0800000000000000
+      internalID: -6159320045655515499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_33
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 385
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a915b82e5d2aae4d0800000000000000
+      internalID: -3104489953606020710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_34
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 385
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1279673d7b13090800000000000000
+      internalID: -8056456139533508109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_35
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 385
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099c036561f5e2a40800000000000000
+      internalID: 5345314357275314576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_36
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad80acbdb86ea050800000000000000
+      internalID: 5813699333104635301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_37
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 385
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b627f9b95399d1f00800000000000000
+      internalID: 1089195140416762475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_38
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 385
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf002b54b187c4f10800000000000000
+      internalID: 2255309571934519547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_39
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dba0da0d6f260a30800000000000000
+      internalID: 4181081449439472594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_40
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ca34b079b2d4200800000000000000
+      internalID: 165836689011616822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_41
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 385
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c070b76d37ba0d0800000000000000
+      internalID: -3410504927778763680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_42
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db6d49c37c12ea30800000000000000
+      internalID: 4242985082560539600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_43
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c554fd1e99a0e80800000000000000
+      internalID: -8211581775164122099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_44
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 385
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbc5dcc99dcfdf60800000000000000
+      internalID: 8061387918466730949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_45
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 385
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c77b6d164d28c8b0800000000000000
+      internalID: -5131801996224137272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_46
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5593a366948acdfb0800000000000000
+      internalID: -4621634084387800747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_47
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6181835abe18e2d80800000000000000
+      internalID: -8273532616343807978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_48
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 385
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26efd5ac55a653a80800000000000000
+      internalID: -8487761006009909662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_49
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879ebc9417bfb3970800000000000000
+      internalID: 8735852366203185528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_50
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859093b22005b6070800000000000000
+      internalID: 8100656325001283928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_51
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb91d020a68994e0800000000000000
+      internalID: -1974398939321754638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_52
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 385
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282970725711cd260800000000000000
+      internalID: 7123587905456935554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_53
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c02587b25dd22660800000000000000
+      internalID: 7359688088412823748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_54
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 385
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9952f659b514461a0800000000000000
+      internalID: -6817252074327169639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_55
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 385
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457ee6871914b2ea0800000000000000
+      internalID: -5896547194064935084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_56
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2725220558e7ea3c0800000000000000
+      internalID: -4346397479325773198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_57
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1af9d0bfc00b280800000000000000
+      internalID: -9029702980472954440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_58
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cde291deebaa8960800000000000000
+      internalID: 7605079962975137216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_59
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 385
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99e46eaa611d23f0800000000000000
+      internalID: -924063198651029093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_60
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 377
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42b4476b9db3c140800000000000000
+      internalID: 4738839708074029645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_61
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbc0a45cfc939d50800000000000000
+      internalID: 6742905674669280187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_62
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 385
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fa11cbad65cf690800000000000000
+      internalID: -7567077776431141029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_63
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e17b186186ca6c0800000000000000
+      internalID: -4130812312330756592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_64
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9b988e3421af820800000000000000
+      internalID: 2952692588568230347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_65
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 385
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72677c885afcb7910800000000000000
+      internalID: 1836289582954935847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_66
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 385
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6c345f36d761510800000000000000
+      internalID: 1519539792554215078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_67
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 385
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcd7054fb5e88ae0800000000000000
+      internalID: -1546733862342107938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_68
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea15da5ec67b76c0800000000000000
+      internalID: -4144588403405153553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_69
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 385
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b79c8afbefdfd350800000000000000
+      internalID: 6043795429568321457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_70
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d482cb237b1ca47f0800000000000000
+      internalID: -627476205490395059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_71
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 385
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1bb7234f3f9fc70800000000000000
+      internalID: 9005497160048554452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_72
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019ce6e38397d5570800000000000000
+      internalID: 8457048957744236816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_73
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 385
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525a269e1c170fb20800000000000000
+      internalID: 3166155615699641637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_74
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ac99121bdffcfc0800000000000000
+      internalID: -3472277850464597467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_75
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 385
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80eff8e58541e5390800000000000000
+      internalID: -7827796732547170808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_76
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf48daec23a829b0800000000000000
+      internalID: -5104650764310523941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_77
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 379
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59088849b8fecd60800000000000000
+      internalID: 7912535070006053213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_78
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f092f0207daaa14c0800000000000000
+      internalID: -4315949452451960561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7652546f83be0f5a0800000000000000
+      internalID: -6489428433158462105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_80
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 343
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3ace9801ecc1ab0800000000000000
+      internalID: -5035923712878271572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_81
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 343
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3cd6a6fabf79a70800000000000000
+      internalID: 8833805924933944225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_82
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 343
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aa0950d132d9d30800000000000000
+      internalID: 4439743415211567679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_83
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43aa3968eee3a9e0800000000000000
+      internalID: -1611181559703231667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_84
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37cc99bd9746d080800000000000000
+      internalID: -9163057649089198273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_85
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8345c1133f6ba9040800000000000000
+      internalID: 4655234320458077240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_86
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363e1c8acfc700a20800000000000000
+      internalID: 3026556374197855075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_87
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 343
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f56ad96758f0450800000000000000
+      internalID: 6057206768334167842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 343
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdeea66b641138200800000000000000
+      internalID: 181007405430795995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 343
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0698409b714c993b0800000000000000
+      internalID: -5505153463316346528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_90
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8688de34d8a8bb0d0800000000000000
+      internalID: -3405976353840986008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_91
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0e04a2c603e09b0800000000000000
+      internalID: -5112095285895438127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_92
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2849c7781d82776f0800000000000000
+      internalID: -687035537764346750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_93
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 343
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bc513cf5edc2ae0800000000000000
+      internalID: -1572637666982900863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_94
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ba971d707ec7230800000000000000
+      internalID: 3638036619773717376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_95
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800fafdaf49978740800000000000000
+      internalID: 5154256866049191944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_96
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a312db13bc1910fd0800000000000000
+      internalID: -2377458826376044230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_97
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 343
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560315251e1ff7880800000000000000
+      internalID: -8610898012458110875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_98
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 335
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec93a848bdeee330800000000000000
+      internalID: 3742189716139908330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_99
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe472e7db253d4e0800000000000000
+      internalID: -1958130439157231880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_100
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 343
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f5d97a04cc46800800000000000000
+      internalID: 604832828036570924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_101
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562bcc24e3d418900800000000000000
+      internalID: 684913548141048421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_102
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 343
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a1f603639b1cf20800000000000000
+      internalID: 3441235232679729793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_103
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 343
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80e8f050fc0a2860800000000000000
+      internalID: 7505825955256524943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_104
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 335
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf988359dc45276b0800000000000000
+      internalID: -5300080569513113093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_105
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 343
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f29b0bab7037320800000000000000
+      internalID: 2554393912059441003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_106
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 343
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7ec0648079f2540800000000000000
+      internalID: 4985369374313211897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_107
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 343
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e649019aed637b90800000000000000
+      internalID: -7245326521285916958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_108
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 335
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec176518fa90ad10800000000000000
+      internalID: 2134876613675261163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_109
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 343
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b50046971d72b6d0800000000000000
+      internalID: -2976178863479978567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_110
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 335
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079d0143956f4ac00800000000000000
+      internalID: 911123887621724528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_111
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 343
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd307375e018ef3c0800000000000000
+      internalID: -4323876693636348965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_112
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 343
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48191905b1071dfa0800000000000000
+      internalID: -5777713584321490556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_113
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 343
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3d3645ee266afd0800000000000000
+      internalID: -2331066981360086043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_114
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 343
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca733c8dd35ccd90800000000000000
+      internalID: -7076188703500830002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_115
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 343
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd88821ba71b0090800000000000000
+      internalID: -8067328283986326030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_116
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 343
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46b3a0e9e3cd8fd0800000000000000
+      internalID: -2337997222271797684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_117
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445afbc851fc595a0800000000000000
+      internalID: -6515073594458921660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_118
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 335
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b52e4ff86d7a4aa0800000000000000
+      internalID: -6175986049071831630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_119
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 343
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9753648bb3725460800000000000000
+      internalID: 7228967601100248988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_120
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 343
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c64545fd0fe769a0800000000000000
+      internalID: -6239755915469961527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_121
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85a27f5ed4df5c70800000000000000
+      internalID: 8962115835039753610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_122
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 343
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51d5c506427aa030800000000000000
+      internalID: 3506740904931479903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_123
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 343
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60748eb76748693f0800000000000000
+      internalID: -894381831566637306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_124
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884c98d19b83cf4f0800000000000000
+      internalID: -793697066608376696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_125
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 343
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9340a1fd5e332990800000000000000
+      internalID: -7412011988515011682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_126
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7328c9950556a70800000000000000
+      internalID: 8819543791083075509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_127
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 343
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9512d8a5bea3d60800000000000000
+      internalID: 7870862072930720218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_128
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 343
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44d6aee835f93970800000000000000
+      internalID: 8735282577132672078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_129
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 343
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b299b5d62a43ef0800000000000000
+      internalID: -129299898715002036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_130
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61036f78bc81c6da0800000000000000
+      internalID: -5950353745224781802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_131
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8c99b9814843ed0800000000000000
+      internalID: -2435176257275967293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_132
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 343
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0430799d46744f90800000000000000
+      internalID: -6970316247603858419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_133
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 335
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316ecfaf5c8f4a240800000000000000
+      internalID: 4802236631886915091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_134
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da04e609d70a8fc00800000000000000
+      internalID: 934673383833878701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_135
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244a9dd65a58c8d30800000000000000
+      internalID: 4435066678612173890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_136
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 343
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e136d73bc8faaf460800000000000000
+      internalID: 7276321166812078878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_137
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 343
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae2bc1d9b6fb4d10800000000000000
+      internalID: 2111052128302345901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_138
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 335
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5e4a617e4e4f700800000000000000
+      internalID: 573334733751379379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_139
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 343
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9333852474470a30800000000000000
+      internalID: 4181386044673045403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_140
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 343
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c8da17ab8fc3380800000000000000
+      internalID: -8990037276483548107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_141
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 343
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de1ecc56dcc85ee0800000000000000
+      internalID: -1272041673680085289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_142
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 343
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1101ce40c24d14510800000000000000
+      internalID: 1531738633808908305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_143
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5b7954931fea9d0800000000000000
+      internalID: -2761004293248535098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_144
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 343
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd96b1ea6490e6e10800000000000000
+      internalID: 2192700267749403103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_145
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a843155d4c1bb8c0800000000000000
+      internalID: -3982558327013685084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_146
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 343
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140c173ff919a2e70800000000000000
+      internalID: 9091238913970913345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_147
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3842b1c8c3b69ab20800000000000000
+      internalID: 3146163722487800963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_148
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 343
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38567ece49643ab00800000000000000
+      internalID: 838591561064736131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_149
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 343
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4986c6a819a243760800000000000000
+      internalID: 7436615689276516500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_150
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec3b3c102789b910800000000000000
+      internalID: 1853661293622017258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_151
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 343
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702501d19f3f09900800000000000000
+      internalID: 689318994247700999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_152
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 343
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccba1bdd63e4e6d0800000000000000
+      internalID: -2961992593936040768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_153
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 343
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ced493215353e60800000000000000
+      internalID: 7941311870324829243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_154
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 343
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0c8d2137532bdb0800000000000000
+      internalID: -4777697486332968736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_155
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 335
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147deaf31147d4be0800000000000000
+      internalID: -1491408284158077119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_156
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 343
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3849f47b9e27d60800000000000000
+      internalID: 7886622871002579889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_157
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 343
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c262bccafeff8770800000000000000
+      internalID: 8615384965312570052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_158
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 301
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4c051eb7db85830800000000000000
+      internalID: 4060203403833296084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_159
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf730a946e2ace10800000000000000
+      internalID: 2218636776048918477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_160
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 301
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f17f3ea96b813fd0800000000000000
+      internalID: -2363955043381579273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_161
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 301
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed40fc07904178150800000000000000
+      internalID: 5874686269707977950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_162
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 321
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecf8a38e383e50d0800000000000000
+      internalID: -3432244024861721361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_163
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 301
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760e8935eff2ffec0800000000000000
+      internalID: -3531050813464453017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_164
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 293
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca08da5841a8c8b0800000000000000
+      internalID: -5131674443254854965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_165
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 301
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4457b1d97d98dd80800000000000000
+      internalID: -8225651572857154483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_166
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 301
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b57af1e79c96d760800000000000000
+      internalID: 7482340007067940273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_167
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 301
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60be4eef021328a40800000000000000
+      internalID: 5368907723564182278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_168
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 293
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8052021a7bb97c320800000000000000
+      internalID: 2578200524677457160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_169
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 301
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74140e5ba1745f50800000000000000
+      internalID: 6869240312477521018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_170
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 301
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c166d36059a424ad0800000000000000
+      internalID: -2719529221063088612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_171
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 301
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980c640868ab1b460800000000000000
+      internalID: 7255785561511084169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_172
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 293
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c835f268682bb8a0800000000000000
+      internalID: -6288388025890817854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_173
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089911ad7e86b88e0800000000000000
+      internalID: -1690141890142168704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_174
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 301
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734d035c5b4284370800000000000000
+      internalID: 8306929875800871991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_175
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 321
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31ecd866eaeac260800000000000000
+      internalID: 7118760436335173950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_176
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 301
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fed4a6cf3736b30800000000000000
+      internalID: 4279391598884548457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_177
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02cd9156df8db8c0800000000000000
+      internalID: -3981868344870583793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_178
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 301
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876e614f2223b92a0800000000000000
+      internalID: -6729730092469655944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_179
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a267fd16b0fb5040800000000000000
+      internalID: 4637564906285523623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_180
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 301
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a27750ceed05210800000000000000
+      internalID: 1319799796104899196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_181
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311409ed253689e40800000000000000
+      internalID: 5663385738990862611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_182
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 301
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9268baec303abbed0800000000000000
+      internalID: -2397143139897080279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_183
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 301
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddd37cb72b817280800000000000000
+      internalID: -9047297173628920362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_184
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9557ae0edccdb90800000000000000
+      internalID: -7215666137064449623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_185
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 301
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cf38214c0f93d60800000000000000
+      internalID: 7870586548721548368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_186
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15619b20cddccb50800000000000000
+      internalID: 6614905770134824223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_187
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 293
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb4f8b411dc3f010800000000000000
+      internalID: 1221545398113356798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_188
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 301
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dbc6fbc31b4c9e0800000000000000
+      internalID: -1601960692969325226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_189
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 301
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b6c83d442788a20800000000000000
+      internalID: 3064825186358160174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_190
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 301
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e921cb90703056d60800000000000000
+      internalID: 7882710051544896158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_191
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7417e8251d696eb20800000000000000
+      internalID: 3163381614051750215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_192
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 301
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d999bdad594e5780800000000000000
+      internalID: -8692429564083070505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_193
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 301
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa5e2cf188a398e0800000000000000
+      internalID: -1687820159098660112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_194
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 301
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7e15d0601d76de0800000000000000
+      internalID: -1339872540195952690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_195
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 301
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2431f81543a2240800000000000000
+      internalID: 4767680680422490795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_196
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4985df568fa7eda0800000000000000
+      internalID: -5915566593859548850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_197
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 301
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af1b65e99f268060800000000000000
+      internalID: 6955299012545814432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_198
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 301
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd0b8d32df0edcb0800000000000000
+      internalID: -4837411554099261991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_199
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f15962943efc6c50800000000000000
+      internalID: 6659977450722251252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_200
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 301
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc3877ca4f5e0140800000000000000
+      internalID: 4687789036918029562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_201
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 301
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847fcda9ea20ac000800000000000000
+      internalID: 56860894241290056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_202
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 301
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588464f043bf09db0800000000000000
+      internalID: -4787050202881701755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_203
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 293
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e978f73db80a1f0800000000000000
+      internalID: -1035674173801259459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_204
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 301
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d2a7d3c93aff1a0800000000000000
+      internalID: -6773515423100293842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_205
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 301
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75f626c04be6ca50800000000000000
+      internalID: 6541174172237100413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_206
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553cbf2266618dbb0800000000000000
+      internalID: -4911150765718125739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_207
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2c35aa05bc00080800000000000000
+      internalID: -9223148489539337559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_208
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 301
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfdb93ff1f4f3570800000000000000
+      internalID: 8448558424619999175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_209
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 301
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2515fe820c5e5b0800000000000000
+      internalID: -5339650501131545924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_210
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 301
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d949665fd9ba5a70800000000000000
+      internalID: 8816563589409753553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_211
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 293
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104d2a165e2370690800000000000000
+      internalID: -7636078682416425983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_212
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 301
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484f284dd8c3baf60800000000000000
+      internalID: 8046591739080930436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_213
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add169461f289aed0800000000000000
+      internalID: -2402244952939160102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_214
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8081e3b0ad567300800000000000000
+      internalID: 249489774159691914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_215
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dc1285bb29b7680800000000000000
+      internalID: -8756243717156647676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_216
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 301
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7f7f84b0067aef0800000000000000
+      internalID: -97003265380059155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_217
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 301
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b349574b319e170800000000000000
+      internalID: 8208113461647129435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_218
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 301
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d521b9b4f2ab25140800000000000000
+      internalID: 4707029272850272861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_219
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb5491a372574230800000000000000
+      internalID: 3622955081828424648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_220
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 293
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9f9aa2f468c6600800000000000000
+      internalID: 462892536288639456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_221
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75bdbca7cf8afbb0800000000000000
+      internalID: -4901447156679985794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_222
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 301
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863280ea526c0cc10800000000000000
+      internalID: 2071873693726286696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_223
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 301
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a9b08fe03f7bce0800000000000000
+      internalID: -1389374714403906969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_224
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125926bc9a6da67e0800000000000000
+      internalID: -1771367478666816223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_225
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 301
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add628ff827381260800000000000000
+      internalID: 7068460264382950874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_226
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e238a2555e51ced0800000000000000
+      internalID: -2395529806232407320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_227
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa9ff87e57dca6c0800000000000000
+      internalID: -4130689957448672602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_228
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 301
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c9eb37194e8dc00800000000000000
+      internalID: 925741036787899537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_229
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 301
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab0e90b182c9a4f0800000000000000
+      internalID: -816907995121316958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_230
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d39121053915c00800000000000000
+      internalID: 887652573679009142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_231
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 301
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cddc794b4b05fa20800000000000000
+      internalID: 3095392736870456770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_232
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 301
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99222bea180cb4c50800000000000000
+      internalID: 6650620937956893337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_233
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 293
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b766382e02dc5f40800000000000000
+      internalID: 5718676585099716534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_234
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 301
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3adcba194d6b87f0800000000000000
+      internalID: -609273163829945793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_235
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 259
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f97ff95d9d615b0800000000000000
+      internalID: -5397887591821893885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_236
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 259
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9f2183736928190800000000000000
+      internalID: -7961636027329480203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_237
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 259
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28e61209f73c9fa0800000000000000
+      internalID: -5792693478083860433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_238
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 259
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdcf7bced334f210800000000000000
+      internalID: 1365773618990009849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_239
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 259
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4280ba6b8597cc0800000000000000
+      internalID: -3712838876213533448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_240
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 259
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0accad44f57df9c30800000000000000
+      internalID: 4368446967749725344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_241
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 259
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ed1c6c60ede1150800000000000000
+      internalID: 5845353487059246739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_242
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 258
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290f334dfdd947370800000000000000
+      internalID: 8319447996323590290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_243
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 259
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e5f2745e79bc3f0800000000000000
+      internalID: -879442291223208413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_244
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 259
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaa61072c36b2af0800000000000000
+      internalID: -420132453473670449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_245
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 259
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28975c741932fc310800000000000000
+      internalID: 1427398713781090690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_246
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 259
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b99fa02671b4300800000000000000
+      internalID: 237309115225447190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_247
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 259
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33fa3f8363cfd300800000000000000
+      internalID: 279156534292443967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_248
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 259
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b5d5af731d7f9d0800000000000000
+      internalID: -2740491809877828846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_249
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 171
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bd799870a809780800000000000000
+      internalID: -8678284716965111014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_250
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 171
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ef689723c274980800000000000000
+      internalID: -8554820371868090776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_251
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 171
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da1d633987d870e0800000000000000
+      internalID: -2271829027735135533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_252
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 171
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32586814f5d8e460800000000000000
+      internalID: 7271296842747892287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_253
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 171
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f1d78d49bcee4f0800000000000000
+      internalID: -797476243850322018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_254
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 171
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c67aebd603e54980800000000000000
+      internalID: -8555182298521504063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_255
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 184
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b6d7d3c63872680800000000000000
+      internalID: -8779904447624156258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_256
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 168
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dc4597949538260800000000000000
+      internalID: 7098615609769119088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_257
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 189
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56834f2342e7025c0800000000000000
+      internalID: -4242252155044218779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_258
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 171
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7caaa89adfd6e570800000000000000
+      internalID: 8495723877038206076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_259
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 177
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3122ce21d5f5d00800000000000000
+      internalID: 963591181133026271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_260
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 170
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b1e310895abf070800000000000000
+      internalID: 8141282823676762982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_261
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 177
+        width: 83
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cf9795305882950800000000000000
+      internalID: 6424531117876575320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_262
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 135
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89ddd17988b2a3b0800000000000000
+      internalID: -5502632894232929906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_263
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 83
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8261dda976774570800000000000000
+      internalID: 8450853490763326093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_264
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 89
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ed5a79b36499450800000000000000
+      internalID: 6095980792383921728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_265
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 89
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa8025682c5b4f60800000000000000
+      internalID: 8019604890028378870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_266
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 89
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14588f52e1db3cbb0800000000000000
+      internalID: -4916878430974737087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_267
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 89
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfe4f977ac4babb0800000000000000
+      internalID: -4923757485410160716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_268
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 89
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0052532dd21b04f80800000000000000
+      internalID: -8124298917418031872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_269
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 89
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f172ad87a9d1b1b0800000000000000
+      internalID: -5642489544459521552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_270
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 82
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b07c64c670dfb60800000000000000
+      internalID: 7781383892791397273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_271
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 53
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1e0096afb4ec130800000000000000
+      internalID: 3588889491936436706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_272
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 53
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08229ac6fc178d940800000000000000
+      internalID: 5321128095433433728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_273
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 53
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fe6939b49de8fe0800000000000000
+      internalID: -1184770733329944722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_274
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 53
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79fbdf2470d126f0800000000000000
+      internalID: -711058068710098565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_275
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 53
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6b0729e569cf6b0800000000000000
+      internalID: -5261164931747629355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_276
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 17
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abd207990b235300800000000000000
+      internalID: 239582525369015207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_277
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 17
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8ff391936820450800000000000000
+      internalID: 6053548428934248631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_278
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c949d003c7455cd10800000000000000
+      internalID: 2145213689870783644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_279
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae37c6664a3ad840800000000000000
+      internalID: 5249572389700189871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_280
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 17
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ad558624d26bf90800000000000000
+      internalID: -6938308412676121958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_281
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 17
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7364a5451a79f590800000000000000
+      internalID: -7639941061076032641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDensity.drawio_282
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 17
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fdca1498233fdf0800000000000000
+      internalID: -147718797679337592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      newDensity.drawio_0: -4927491787666603714
+      newDensity.drawio_1: -3247583586976486383
+      newDensity.drawio_10: 3813122387784538343
+      newDensity.drawio_100: 604832828036570924
+      newDensity.drawio_101: 684913548141048421
+      newDensity.drawio_102: 3441235232679729793
+      newDensity.drawio_103: 7505825955256524943
+      newDensity.drawio_104: -5300080569513113093
+      newDensity.drawio_105: 2554393912059441003
+      newDensity.drawio_106: 4985369374313211897
+      newDensity.drawio_107: -7245326521285916958
+      newDensity.drawio_108: 2134876613675261163
+      newDensity.drawio_109: -2976178863479978567
+      newDensity.drawio_11: 5955372430052825771
+      newDensity.drawio_110: 911123887621724528
+      newDensity.drawio_111: -4323876693636348965
+      newDensity.drawio_112: -5777713584321490556
+      newDensity.drawio_113: -2331066981360086043
+      newDensity.drawio_114: -7076188703500830002
+      newDensity.drawio_115: -8067328283986326030
+      newDensity.drawio_116: -2337997222271797684
+      newDensity.drawio_117: -6515073594458921660
+      newDensity.drawio_118: -6175986049071831630
+      newDensity.drawio_119: 7228967601100248988
+      newDensity.drawio_12: -5747120077628120075
+      newDensity.drawio_120: -6239755915469961527
+      newDensity.drawio_121: 8962115835039753610
+      newDensity.drawio_122: 3506740904931479903
+      newDensity.drawio_123: -894381831566637306
+      newDensity.drawio_124: -793697066608376696
+      newDensity.drawio_125: -7412011988515011682
+      newDensity.drawio_126: 8819543791083075509
+      newDensity.drawio_127: 7870862072930720218
+      newDensity.drawio_128: 8735282577132672078
+      newDensity.drawio_129: -129299898715002036
+      newDensity.drawio_13: -367339727013760912
+      newDensity.drawio_130: -5950353745224781802
+      newDensity.drawio_131: -2435176257275967293
+      newDensity.drawio_132: -6970316247603858419
+      newDensity.drawio_133: 4802236631886915091
+      newDensity.drawio_134: 934673383833878701
+      newDensity.drawio_135: 4435066678612173890
+      newDensity.drawio_136: 7276321166812078878
+      newDensity.drawio_137: 2111052128302345901
+      newDensity.drawio_138: 573334733751379379
+      newDensity.drawio_139: 4181386044673045403
+      newDensity.drawio_14: 3762280170722780778
+      newDensity.drawio_140: -8990037276483548107
+      newDensity.drawio_141: -1272041673680085289
+      newDensity.drawio_142: 1531738633808908305
+      newDensity.drawio_143: -2761004293248535098
+      newDensity.drawio_144: 2192700267749403103
+      newDensity.drawio_145: -3982558327013685084
+      newDensity.drawio_146: 9091238913970913345
+      newDensity.drawio_147: 3146163722487800963
+      newDensity.drawio_148: 838591561064736131
+      newDensity.drawio_149: 7436615689276516500
+      newDensity.drawio_15: -8381867828022683501
+      newDensity.drawio_150: 1853661293622017258
+      newDensity.drawio_151: 689318994247700999
+      newDensity.drawio_152: -2961992593936040768
+      newDensity.drawio_153: 7941311870324829243
+      newDensity.drawio_154: -4777697486332968736
+      newDensity.drawio_155: -1491408284158077119
+      newDensity.drawio_156: 7886622871002579889
+      newDensity.drawio_157: 8615384965312570052
+      newDensity.drawio_158: 4060203403833296084
+      newDensity.drawio_159: 2218636776048918477
+      newDensity.drawio_16: 300527530254631117
+      newDensity.drawio_160: -2363955043381579273
+      newDensity.drawio_161: 5874686269707977950
+      newDensity.drawio_162: -3432244024861721361
+      newDensity.drawio_163: -3531050813464453017
+      newDensity.drawio_164: -5131674443254854965
+      newDensity.drawio_165: -8225651572857154483
+      newDensity.drawio_166: 7482340007067940273
+      newDensity.drawio_167: 5368907723564182278
+      newDensity.drawio_168: 2578200524677457160
+      newDensity.drawio_169: 6869240312477521018
+      newDensity.drawio_17: 1993716643715406821
+      newDensity.drawio_170: -2719529221063088612
+      newDensity.drawio_171: 7255785561511084169
+      newDensity.drawio_172: -6288388025890817854
+      newDensity.drawio_173: -1690141890142168704
+      newDensity.drawio_174: 8306929875800871991
+      newDensity.drawio_175: 7118760436335173950
+      newDensity.drawio_176: 4279391598884548457
+      newDensity.drawio_177: -3981868344870583793
+      newDensity.drawio_178: -6729730092469655944
+      newDensity.drawio_179: 4637564906285523623
+      newDensity.drawio_18: 7217123605854193964
+      newDensity.drawio_180: 1319799796104899196
+      newDensity.drawio_181: 5663385738990862611
+      newDensity.drawio_182: -2397143139897080279
+      newDensity.drawio_183: -9047297173628920362
+      newDensity.drawio_184: -7215666137064449623
+      newDensity.drawio_185: 7870586548721548368
+      newDensity.drawio_186: 6614905770134824223
+      newDensity.drawio_187: 1221545398113356798
+      newDensity.drawio_188: -1601960692969325226
+      newDensity.drawio_189: 3064825186358160174
+      newDensity.drawio_19: 9055092168742299289
+      newDensity.drawio_190: 7882710051544896158
+      newDensity.drawio_191: 3163381614051750215
+      newDensity.drawio_192: -8692429564083070505
+      newDensity.drawio_193: -1687820159098660112
+      newDensity.drawio_194: -1339872540195952690
+      newDensity.drawio_195: 4767680680422490795
+      newDensity.drawio_196: -5915566593859548850
+      newDensity.drawio_197: 6955299012545814432
+      newDensity.drawio_198: -4837411554099261991
+      newDensity.drawio_199: 6659977450722251252
+      newDensity.drawio_2: -2337197821211689006
+      newDensity.drawio_20: -5782183434488421454
+      newDensity.drawio_200: 4687789036918029562
+      newDensity.drawio_201: 56860894241290056
+      newDensity.drawio_202: -4787050202881701755
+      newDensity.drawio_203: -1035674173801259459
+      newDensity.drawio_204: -6773515423100293842
+      newDensity.drawio_205: 6541174172237100413
+      newDensity.drawio_206: -4911150765718125739
+      newDensity.drawio_207: -9223148489539337559
+      newDensity.drawio_208: 8448558424619999175
+      newDensity.drawio_209: -5339650501131545924
+      newDensity.drawio_21: -1807688711187393750
+      newDensity.drawio_210: 8816563589409753553
+      newDensity.drawio_211: -7636078682416425983
+      newDensity.drawio_212: 8046591739080930436
+      newDensity.drawio_213: -2402244952939160102
+      newDensity.drawio_214: 249489774159691914
+      newDensity.drawio_215: -8756243717156647676
+      newDensity.drawio_216: -97003265380059155
+      newDensity.drawio_217: 8208113461647129435
+      newDensity.drawio_218: 4707029272850272861
+      newDensity.drawio_219: 3622955081828424648
+      newDensity.drawio_22: -7441383121148457466
+      newDensity.drawio_220: 462892536288639456
+      newDensity.drawio_221: -4901447156679985794
+      newDensity.drawio_222: 2071873693726286696
+      newDensity.drawio_223: -1389374714403906969
+      newDensity.drawio_224: -1771367478666816223
+      newDensity.drawio_225: 7068460264382950874
+      newDensity.drawio_226: -2395529806232407320
+      newDensity.drawio_227: -4130689957448672602
+      newDensity.drawio_228: 925741036787899537
+      newDensity.drawio_229: -816907995121316958
+      newDensity.drawio_23: 3805578667885903949
+      newDensity.drawio_230: 887652573679009142
+      newDensity.drawio_231: 3095392736870456770
+      newDensity.drawio_232: 6650620937956893337
+      newDensity.drawio_233: 5718676585099716534
+      newDensity.drawio_234: -609273163829945793
+      newDensity.drawio_235: -5397887591821893885
+      newDensity.drawio_236: -7961636027329480203
+      newDensity.drawio_237: -5792693478083860433
+      newDensity.drawio_238: 1365773618990009849
+      newDensity.drawio_239: -3712838876213533448
+      newDensity.drawio_24: 3269037570013512460
+      newDensity.drawio_240: 4368446967749725344
+      newDensity.drawio_241: 5845353487059246739
+      newDensity.drawio_242: 8319447996323590290
+      newDensity.drawio_243: -879442291223208413
+      newDensity.drawio_244: -420132453473670449
+      newDensity.drawio_245: 1427398713781090690
+      newDensity.drawio_246: 237309115225447190
+      newDensity.drawio_247: 279156534292443967
+      newDensity.drawio_248: -2740491809877828846
+      newDensity.drawio_249: -8678284716965111014
+      newDensity.drawio_25: -47105905026218992
+      newDensity.drawio_250: -8554820371868090776
+      newDensity.drawio_251: -2271829027735135533
+      newDensity.drawio_252: 7271296842747892287
+      newDensity.drawio_253: -797476243850322018
+      newDensity.drawio_254: -8555182298521504063
+      newDensity.drawio_255: -8779904447624156258
+      newDensity.drawio_256: 7098615609769119088
+      newDensity.drawio_257: -4242252155044218779
+      newDensity.drawio_258: 8495723877038206076
+      newDensity.drawio_259: 963591181133026271
+      newDensity.drawio_26: 4946636319211704094
+      newDensity.drawio_260: 8141282823676762982
+      newDensity.drawio_261: 6424531117876575320
+      newDensity.drawio_262: -5502632894232929906
+      newDensity.drawio_263: 8450853490763326093
+      newDensity.drawio_264: 6095980792383921728
+      newDensity.drawio_265: 8019604890028378870
+      newDensity.drawio_266: -4916878430974737087
+      newDensity.drawio_267: -4923757485410160716
+      newDensity.drawio_268: -8124298917418031872
+      newDensity.drawio_269: -5642489544459521552
+      newDensity.drawio_27: -1235474098046526603
+      newDensity.drawio_270: 7781383892791397273
+      newDensity.drawio_271: 3588889491936436706
+      newDensity.drawio_272: 5321128095433433728
+      newDensity.drawio_273: -1184770733329944722
+      newDensity.drawio_274: -711058068710098565
+      newDensity.drawio_275: -5261164931747629355
+      newDensity.drawio_276: 239582525369015207
+      newDensity.drawio_277: 6053548428934248631
+      newDensity.drawio_278: 2145213689870783644
+      newDensity.drawio_279: 5249572389700189871
+      newDensity.drawio_28: 130209419923608268
+      newDensity.drawio_280: -6938308412676121958
+      newDensity.drawio_281: -7639941061076032641
+      newDensity.drawio_282: -147718797679337592
+      newDensity.drawio_29: 8265099643321647662
+      newDensity.drawio_3: 5342971374643066318
+      newDensity.drawio_30: 405346320030369988
+      newDensity.drawio_31: 5966156460904235964
+      newDensity.drawio_32: -6159320045655515499
+      newDensity.drawio_33: -3104489953606020710
+      newDensity.drawio_34: -8056456139533508109
+      newDensity.drawio_35: 5345314357275314576
+      newDensity.drawio_36: 5813699333104635301
+      newDensity.drawio_37: 1089195140416762475
+      newDensity.drawio_38: 2255309571934519547
+      newDensity.drawio_39: 4181081449439472594
+      newDensity.drawio_4: 4731675250309473927
+      newDensity.drawio_40: 165836689011616822
+      newDensity.drawio_41: -3410504927778763680
+      newDensity.drawio_42: 4242985082560539600
+      newDensity.drawio_43: -8211581775164122099
+      newDensity.drawio_44: 8061387918466730949
+      newDensity.drawio_45: -5131801996224137272
+      newDensity.drawio_46: -4621634084387800747
+      newDensity.drawio_47: -8273532616343807978
+      newDensity.drawio_48: -8487761006009909662
+      newDensity.drawio_49: 8735852366203185528
+      newDensity.drawio_5: 1943674581024040086
+      newDensity.drawio_50: 8100656325001283928
+      newDensity.drawio_51: -1974398939321754638
+      newDensity.drawio_52: 7123587905456935554
+      newDensity.drawio_53: 7359688088412823748
+      newDensity.drawio_54: -6817252074327169639
+      newDensity.drawio_55: -5896547194064935084
+      newDensity.drawio_56: -4346397479325773198
+      newDensity.drawio_57: -9029702980472954440
+      newDensity.drawio_58: 7605079962975137216
+      newDensity.drawio_59: -924063198651029093
+      newDensity.drawio_6: 3235659048853266925
+      newDensity.drawio_60: 4738839708074029645
+      newDensity.drawio_61: 6742905674669280187
+      newDensity.drawio_62: -7567077776431141029
+      newDensity.drawio_63: -4130812312330756592
+      newDensity.drawio_64: 2952692588568230347
+      newDensity.drawio_65: 1836289582954935847
+      newDensity.drawio_66: 1519539792554215078
+      newDensity.drawio_67: -1546733862342107938
+      newDensity.drawio_68: -4144588403405153553
+      newDensity.drawio_69: 6043795429568321457
+      newDensity.drawio_7: 238524046716471198
+      newDensity.drawio_70: -627476205490395059
+      newDensity.drawio_71: 9005497160048554452
+      newDensity.drawio_72: 8457048957744236816
+      newDensity.drawio_73: 3166155615699641637
+      newDensity.drawio_74: -3472277850464597467
+      newDensity.drawio_75: -7827796732547170808
+      newDensity.drawio_76: -5104650764310523941
+      newDensity.drawio_77: 7912535070006053213
+      newDensity.drawio_78: -4315949452451960561
+      newDensity.drawio_79: -6489428433158462105
+      newDensity.drawio_8: 1778897124423907731
+      newDensity.drawio_80: -5035923712878271572
+      newDensity.drawio_81: 8833805924933944225
+      newDensity.drawio_82: 4439743415211567679
+      newDensity.drawio_83: -1611181559703231667
+      newDensity.drawio_84: -9163057649089198273
+      newDensity.drawio_85: 4655234320458077240
+      newDensity.drawio_86: 3026556374197855075
+      newDensity.drawio_87: 6057206768334167842
+      newDensity.drawio_88: 181007405430795995
+      newDensity.drawio_89: -5505153463316346528
+      newDensity.drawio_9: 272829155137323542
+      newDensity.drawio_90: -3405976353840986008
+      newDensity.drawio_91: -5112095285895438127
+      newDensity.drawio_92: -687035537764346750
+      newDensity.drawio_93: -1572637666982900863
+      newDensity.drawio_94: 3638036619773717376
+      newDensity.drawio_95: 5154256866049191944
+      newDensity.drawio_96: -2377458826376044230
+      newDensity.drawio_97: -8610898012458110875
+      newDensity.drawio_98: 3742189716139908330
+      newDensity.drawio_99: -1958130439157231880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

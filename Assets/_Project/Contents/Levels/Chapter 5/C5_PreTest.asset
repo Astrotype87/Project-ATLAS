@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f9c6249b17a009468129dc4c39cc478, type: 3}
+  m_Name: C5_PreTest
+  m_EditorClassIdentifier: 
+  chapter: 5
+  title: Center of Mass, Momentum, Impulse, and Collision
+  description: Engineers quiz {player} on center of mass and momentum. The airship
+    prepares for ascent.
+  objectives: Complete the pre-test quiz. Any score is accepted.
+  scoring: 
+  unlockDatas:
+  - icon: 1
+    name: Level 19 - Lesson
+    description: Center of Mass and Momentum
+  dialoguePrefab: {fileID: 1029141055174685411, guid: ad5ff0bf227e2534cad11cb9d4141b0b, type: 3}
+  chapterQuizData:
+  - {fileID: 11400000, guid: 29a93ce0374f78f4889d2253d88bcdcd, type: 2}
+  - {fileID: 11400000, guid: 8db19f7ac52107f45a02f6f84c7aebef, type: 2}

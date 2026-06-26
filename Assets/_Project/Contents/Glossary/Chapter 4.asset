@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1d62931ab01cd14b84145ae3bdd017f, type: 3}
+  m_Name: Chapter 4
+  m_EditorClassIdentifier: 
+  chapter: 4
+  levelTerms:
+  - level: 15
+    terms:
+    - term: Mechanical Work
+      unit: 
+      type: 1
+      description: Action of force, moving in certain direction, to an object
+      details: "As defined in Mechanics, is an action of a force, moving in a certain
+        direction, to an object. Meaning, work is achieved if the object is moving
+        alongside the direction the force is directed at, or the object is moving
+        at a component of the force\u2019s direction."
+    - term: Work
+      unit: 
+      type: 1
+      description: Observe the image at the left.
+      details: The image is depicting a man performing push-up. Based on observation
+        alone, he is applying force on the ground to push himself up a certain height,
+        then goes down, then repeats the cycle all over again, until he eventually
+        tires himself. Based from the question earlier, one can directly assume that
+        he applies force to achieve a certain distance, which, in this case, is height.
+        Applying a force over a certain distance is the simplest definition of work
+    - term: Power
+      unit: 
+      type: 1
+      description: The computed amount of work done within a certain time.
+      details: Its derived unit is the Watt (WW), named after the mechanical engineer
+        James Watt. With that in mind, let us go back to the push-upexample. If he
+        has done 267.48 joules of work within 30 seconds, we can compute for work
+        using,
+    - term: Formulas
+      unit: 
+      type: 2
+      description: 'Work: W = Fx'
+      details: 'F = force, x = fixed distance
+
+'
+  - level: 16
+    terms:
+    - term: Energy
+      unit: 
+      type: 1
+      description: property that objects need to trasnsfer in order to perform work
+      details: Is best defined as the property that objects need to transfer in order
+        to perform work. Since there is transfer involved, energy can neither be
+        created nor destroyed. It can only change forms, which allows a body to perform
+        work on another body. Its unit is also joule. But it can also be watt-second,
+        watt-hour, horsepower-second, horsepower-hour, and so on
+    - term: 'Kinetic Energy '
+      unit: T
+      type: 2
+      description: Energy translated in motion
+      details: As KE or T) is the energy translated in motion (i.e. it is the energy
+        observed in motion). It is also best explained as the energy an object possesses
+        because it is moving. In formula, it is expressed as,
+    - term: 'Potential Energy '
+      unit: U
+      type: 2
+      description: Energy observed from rest
+      details: "Gravitational Potential Energy: \nU_g = mgy\nElastic Potential Energy:\nU_e
+        = (1/2) kx^2\n"
+    - term: Two forms of Potential Energy
+      unit: 
+      type: 1
+      description: Potential energy stored due to change in height
+      details: 'Gravitational Potential Energy
+
+        - potential energy stored
+        due to change in height
+
+
+        Elastic Potential Energy
+
+        - potential
+        energy stored by object when pulled apart or compressed'
+    - term: Law of Conservation of Energy
+      unit: 
+      type: 1
+      description: It only transders and changes form, from one body to another
+      details: "This is one of the fundamental conservation laws \r\nin Physics that
+        explains that the total energy of the \r\nsystem is constant, which helps
+        us tackle problem solving. There are two classifications of force: conservative
+        and non-conservative. A conservative force is a force whose work done between
+        two given points is independent from the path taken by the work itself. It
+        also implies that if potential energy can be associated to a force, that
+        force is conservative. "
+    - term: Two classifications of Force
+      unit: 
+      type: 1
+      description: Independent from the path taken by work between two points
+      details: 'Conservative Force
+
+        - independent from the path taken by
+        work between two points
+
+        Non-Conservative Force
+
+        - follows
+        the path taken by work between two points
+
+        - or if force cannot associate
+        itself with potential energy
+
+'

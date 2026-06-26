@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 13
+  m_EditorClassIdentifier: 
+  level: Level 13
+  name: Forces
+  description: Shows how forces like weight, friction, and thrust combine and how
+    mass and acceleration affect motion.
+  quizItems:
+  - rid: 7832858373401083904
+  - rid: 7832858373401083960
+  - rid: 7832858373401083961
+  - rid: 7832858373401083962
+  - rid: 7832858373401083963
+  - rid: 7832858373401083964
+  - rid: 7832858373401083965
+  - rid: 7832858373401083966
+  references:
+    version: 2
+    RefIds:
+    - rid: 7832858373401083904
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - A box has mass of {m} kg and acceleration of {a} m/s. Find force of box.
+        formula: m * a
+        variables:
+        - variable: m
+          name: Mass
+          unit: kg
+          range:
+            min: 1
+            max: 5
+        - variable: a
+          name: Acceleration
+          unit: m/s
+          range:
+            min: 1
+            max: 4
+        variable: f
+        name: Force
+        unit: N
+        rounding: 2
+    - rid: 7832858373401083960
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - A person has mass of {m} kg and the gravity is {g} m/s. Find the weight
+          of the person.
+        formula: m * g
+        variables:
+        - variable: m
+          name: Mass
+          unit: kg
+          range:
+            min: 8
+            max: 9
+        - variable: g
+          name: Gravity
+          unit: s
+          range:
+            min: 5
+            max: 4
+        variable: w
+        name: Weight
+        unit: N
+        rounding: 2
+    - rid: 7832858373401083961
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - A box weighs {N_F} N and rests on a rough floor with a coefficient of friction
+          {COF}. Find the friction acting on the box.
+        formula: N_F * COF
+        variables:
+        - variable: N_F
+          name: Normal Force
+          unit: N
+          range:
+            min: 10
+            max: 20
+        - variable: COF
+          name: Coefficient of Friction
+          unit: 
+          range:
+            min: 1
+            max: 5
+        variable: F
+        name: Friction
+        unit: N
+        rounding: 2
+    - rid: 7832858373401083962
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - "A toy car has a mass of {m} kg. You push it so that it accelerates at
+          {a} m/s\xB2. Calculate the force applied to the car."
+        formula: m * a
+        variables:
+        - variable: m
+          name: Mass
+          unit: kg
+          range:
+            min: 10
+            max: 20
+        - variable: a
+          name: Acceleration
+          unit: m/s
+          range:
+            min: 1
+            max: 5
+        variable: f
+        name: Force
+        unit: N
+        rounding: 2
+    - rid: 7832858373401083963
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. Net force is a force
+          acting against weight perpendicular to surface when object is resting.
+        - Determine whether the statement is True or False. When an item is at rest,
+          net force is the force operating perpendicular to the surface against its
+          weight.
+        - Determine whether the statement is True or False. When an object is at
+          rest, net force is the force that acts perpendicular to the surface against
+          its weight.
+        correctAnswer: 0
+    - rid: 7832858373401083964
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Determine whether the statement is True or False. Kinetic friction is experienced
+          by moving surfaces interacting on each other.
+        - Determine whether the statement is True or False. Kinetic friction is caused
+          by moving surfaces interacting with one another.
+        - Determine whether the statement is True or False. When moving surfaces
+          come into contact with one another, kinetic friction results.
+        correctAnswer: 1
+    - rid: 7832858373401083965
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - 'In the formula of Friction: F_f = u x F_N, what does ''u'' respresent?
+          Which of the following is correct?'
+        - What does 'u' stand for in the formula for friction, F_f = u x F_N? Which
+          of the following is correct?
+        - What does the symbol 'u' in the friction formula F_f = u x F_N mean? Which
+          of the following is correct?
+        correctAnswer:
+        - Coefficient of Friction
+        wrongAnswers:
+        - Mass
+        - Kinetic Friction
+        - Applied Force
+        choiceCount: 4
+    - rid: 7832858373401083966
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - This force is the difference between the applied force and the countering
+          force. Which of the following best describes this?
+        - This force is what separates the applied force from the opposing force.
+          Which of the following best describes this?
+        - This force differentiates the applied force from the opposing force. Which
+          of the following best describes this?
+        correctAnswer:
+        - Net Force
+        wrongAnswers:
+        - Normal Force
+        - Frictional Force
+        - Weight
+        choiceCount: 4

@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 31
+  m_EditorClassIdentifier: 
+  level: Level 31
+  name: Periodic Motion
+  description: Periodic motion is about cycles, period, frequency, resonance, and
+    restoring forces in oscillating systems.
+  quizItems:
+  - rid: 138986247837974625
+  - rid: 138986247837974626
+  - rid: 138986247837974627
+  - rid: 138986247837974628
+  - rid: 138986247837974629
+  - rid: 138986247837974630
+  - rid: 138986247837974632
+  - rid: 138986247837974633
+  references:
+    version: 2
+    RefIds:
+    - rid: 138986247837974625
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Which of the following best defines periodic motion?
+        - Which of the following best characterizes motion that occurs in repeating
+          cycles?
+        correctAnswer:
+        - Motion that repeats after equal intervals of time
+        wrongAnswers:
+        - Motion that happens randomly
+        - Motion that never repeats
+        - Motion that increases in speed continuously
+        choiceCount: 4
+    - rid: 138986247837974626
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Which of the following unit is used to measure the period (T) of motion?
+        - Which of the following is the SI unit of the period (T) of motion?
+        correctAnswer:
+        - Seconds (s)
+        wrongAnswers:
+        - Hertz (Hz)
+        - Meters (m)
+        - Newtons (N)
+        choiceCount: 4
+    - rid: 138986247837974627
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Which of the following best defines frequency (f)?
+        - Which of the following best describes frequency?
+        correctAnswer:
+        - The cycles completed per second
+        wrongAnswers:
+        - How far an object moves in a cycle
+        - The amount of energy in oscillation
+        - The weight of the oscillating object
+        choiceCount: 4
+    - rid: 138986247837974628
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - "Which of the following obeys Hooke\u2019s Law?"
+        - "Which of the following objects does Hooke\u2019s Law apply to?"
+        correctAnswer:
+        - A spring stretched from its equilibrium
+        wrongAnswers:
+        - A pendulum swinging
+        - A rotating fan
+        - A car moving in a straight line
+        choiceCount: 4
+    - rid: 138986247837974629
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - Which of the following is the frequency of a motion that has a period of
+          0.25 s?
+        - Which of the following is the frequency (f) when the period (T) is 0.25
+          s?
+        correctAnswer:
+        - 4 Hz
+        wrongAnswers:
+        - 2 Hz
+        - 3 Hz
+        - 5 Hz
+        choiceCount: 4
+    - rid: 138986247837974630
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - Which of the following is the restoring force of a spring with k = 200
+          N/m stretched by x = 0.05 m?
+        - Which of the following is the force exerted by a spring with k = 200 N/m
+          when it is stretched 0.05 m from its equilibrium?
+        correctAnswer:
+        - 10 N
+        wrongAnswers:
+        - 5 N
+        - 8 N
+        - 12 N
+        choiceCount: 4
+    - rid: 138986247837974632
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - Which of the following is the number of oscillations a pendulum makes in
+          1 minute if its period is 2 s?
+        - Which of the following is the number of swings a pendulum completes in
+          60 seconds if its period is 2 s?
+        correctAnswer:
+        - 30
+        wrongAnswers:
+        - 15
+        - 20
+        - 25
+        choiceCount: 4
+    - rid: 138986247837974633
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - Which of the following is the spring constant (k) if a spring requires
+          30 N of force to stretch 0.15 m?
+        - Which of the following is the spring constant (k) if stretching a spring
+          by 0.15 m requires 30 N of force?
+        correctAnswer:
+        - 200 N/m
+        wrongAnswers:
+        - 150 N/m
+        - 180 N/m
+        - 220 N/m
+        choiceCount: 4

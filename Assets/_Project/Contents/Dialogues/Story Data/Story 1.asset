@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d03bc636d4f22964e964f316abda6d60, type: 3}
+  m_Name: Story 1
+  m_EditorClassIdentifier: 
+  chapter: 1
+  title: The Beginning
+  story: "You\u2019ve crash-landed in the mysterious world of ATLAS, a place filled
+    with physics, hidden technology, and challenges. Your only way out is to rebuild
+    your damaged vehicle from scratch and uncover the secrets this world holds.\n\nBeside
+    you is Gizmo, your loyal droid companion. Together, you\u2019ll explore and face
+    different adventures, learning the principles of physics needed to repair and
+    improve your vehicle. Gizmo will guide you through every challenge. \n\nEach
+    step brings new discoveries and tests your understanding of how the world works.
+    By learning physics concepts and applying them to real challenges, you\u2019ll
+    transform broken pieces into a powerful vehicle that can adapt to any terrain.\n\nBut
+    Atlas is more than just a place to escape  it\u2019s a world built to make you
+    think, create, and grow. Only by completing your vehicle and overcoming every
+    challenge can you finally rise beyond the map of Atlas."

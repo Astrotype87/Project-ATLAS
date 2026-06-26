@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68cc2dc78c687b34485182e163a463ca, type: 3}
+  m_Name: C2_PostTest
+  m_EditorClassIdentifier: 
+  chapter: 2
+  title: Kinematics
+  description: Test kinematics knowledge to prove mastery. {player} stabilizes the
+    hovercraft and earns desert upgrades.
+  objectives: Complete the 8-item post-test quiz covering all topics in this chapter
+    so far. Get the passing score of 4/8 to proceed to the next chapter.
+  scoring: 
+  unlockDatas:
+  - icon: 0
+    name: Chapter 3 - Pre Test
+    description: Newton's Laws and Forces
+  - icon: 8
+    name: Chapter 3
+    description: Newton's Laws and Forces
+  - icon: 7
+    name: Freeplay > Quiz Level 06, 07, 10
+    description: Rectilinear Motion, Two-Dimensional Motion, Relative Motion
+  dialoguePrefab: {fileID: 8619876794095260171, guid: faccca7d88f4d7b439f6a2752ef4af15, type: 3}
+  chapterQuizData:
+  - {fileID: 11400000, guid: 17daaa8a2dfcfed4280a8a88c3b65497, type: 2}
+  - {fileID: 11400000, guid: 209369e18d4b9ce428876cb70d8f3527, type: 2}
+  - {fileID: 11400000, guid: 9260ce16f6291cc4cb5efb545eca0c76, type: 2}

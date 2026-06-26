@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 9d4f54bbea0308f448acb10895e4e79f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5738370539488250509
+    second: graph-thrust-magnitude-wrong_0
+  - first:
+      213: 3240734112292980324
+    second: graph-thrust-magnitude-wrong_1
+  - first:
+      213: 6523988731459068498
+    second: graph-thrust-magnitude-wrong_2
+  - first:
+      213: 5465097097112209325
+    second: graph-thrust-magnitude-wrong_3
+  - first:
+      213: -1068735647626966563
+    second: graph-thrust-magnitude-wrong_4
+  - first:
+      213: -6392792344880155854
+    second: graph-thrust-magnitude-wrong_5
+  - first:
+      213: 8589960145540995641
+    second: graph-thrust-magnitude-wrong_6
+  - first:
+      213: -7056921126797073604
+    second: graph-thrust-magnitude-wrong_7
+  - first:
+      213: -131683225958381377
+    second: graph-thrust-magnitude-wrong_8
+  - first:
+      213: 7012256582779626995
+    second: graph-thrust-magnitude-wrong_9
+  - first:
+      213: 1659885075217972117
+    second: graph-thrust-magnitude-wrong_10
+  - first:
+      213: -1829147626976504861
+    second: graph-thrust-magnitude-wrong_11
+  - first:
+      213: -1669810259386746324
+    second: graph-thrust-magnitude-wrong_12
+  - first:
+      213: -4878884606423147528
+    second: graph-thrust-magnitude-wrong_13
+  - first:
+      213: 1396886782675259595
+    second: graph-thrust-magnitude-wrong_14
+  - first:
+      213: 6471374465443381468
+    second: graph-thrust-magnitude-wrong_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 434
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3757c34c5663d50b0800000000000000
+      internalID: -5738370539488250509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 434
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466c6b6418669fc20800000000000000
+      internalID: 3240734112292980324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 434
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252e4498f2dd98a50800000000000000
+      internalID: 6523988731459068498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 433
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da74460cadce7db40800000000000000
+      internalID: 5465097097112209325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 433
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9c56447961b21f0800000000000000
+      internalID: -1068735647626966563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 434
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233f4989b3d3847a0800000000000000
+      internalID: -6392792344880155854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 434
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93adbb5ad3ba53770800000000000000
+      internalID: 8589960145540995641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 434
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33af45df97c01e90800000000000000
+      internalID: -7056921126797073604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 433
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb88fddbdca2c2ef0800000000000000
+      internalID: -131683225958381377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_9
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 434
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f56972a53a805160800000000000000
+      internalID: 7012256582779626995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_10
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 434
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bf6547ea8190710800000000000000
+      internalID: 1659885075217972117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 434
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3115cacef8d96e0800000000000000
+      internalID: -1829147626976504861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 433
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a33f68a64a3d8e0800000000000000
+      internalID: -1669810259386746324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 434
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbd606cc48ba4cb0800000000000000
+      internalID: -4878884606423147528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_14
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 434
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc01cc8b02db26310800000000000000
+      internalID: 1396886782675259595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-thrust-magnitude-wrong_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4
+        width: 602
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0494d1ac0fec950800000000000000
+      internalID: 6471374465443381468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      graph-thrust-magnitude-wrong_0: -5738370539488250509
+      graph-thrust-magnitude-wrong_1: 3240734112292980324
+      graph-thrust-magnitude-wrong_10: 1659885075217972117
+      graph-thrust-magnitude-wrong_11: -1829147626976504861
+      graph-thrust-magnitude-wrong_12: -1669810259386746324
+      graph-thrust-magnitude-wrong_13: -4878884606423147528
+      graph-thrust-magnitude-wrong_14: 1396886782675259595
+      graph-thrust-magnitude-wrong_15: 6471374465443381468
+      graph-thrust-magnitude-wrong_2: 6523988731459068498
+      graph-thrust-magnitude-wrong_3: 5465097097112209325
+      graph-thrust-magnitude-wrong_4: -1068735647626966563
+      graph-thrust-magnitude-wrong_5: -6392792344880155854
+      graph-thrust-magnitude-wrong_6: 8589960145540995641
+      graph-thrust-magnitude-wrong_7: -7056921126797073604
+      graph-thrust-magnitude-wrong_8: -131683225958381377
+      graph-thrust-magnitude-wrong_9: 7012256582779626995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

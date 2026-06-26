@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d03bc636d4f22964e964f316abda6d60, type: 3}
+  m_Name: Story 7
+  m_EditorClassIdentifier: 
+  chapter: 7
+  title: Journey To Space
+  story: 'After completing your last challenge in space, you return to the ATLAS
+    map to choose your next adventure. Now that you have learned to control the spacecraft,
+    it is time to continue exploring the universe. Your spacecraft rises smoothly,
+    leaving the space station behind and moving deeper into the vastness of space.
+    Stars shine all around, and the journey feels exciting and new.
+
+
+    The flight
+    is calm, giving you time to enjoy the view and prepare for what lies ahead. As
+    you travel, you guide the spacecraft carefully, making small adjustments to stay
+    on course. You practice steering through space, using everything you learned
+    from the previous challenges to navigate safely.
+
+
+    After traveling through
+    the endless darkness of space, you finally arrive at the next destination, a
+    space station. Your spacecraft lands safely, and you step inside, ready for the
+    next mission.'

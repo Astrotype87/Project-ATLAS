@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6bc01ad9ed17fb43bbc3c7a47a6428d, type: 3}
+  m_Name: 29_Lesson
+  m_EditorClassIdentifier: 
+  chapter: 7
+  number: 29
+  title: Planetary Motion
+  description: "Study Kepler\u2019s laws of motion. Neighboring planets tug the ship,
+    teaching orbital mechanics."
+  objectives: Complete the lesson quiz covering certian concepts in this lesson.
+    Get a half score to proceed to the next level.
+  scoring: Quiz Score * 100 + Time Bonus
+  bronzeObjective: 50% Quiz Score
+  silverObjective: Perfect Quiz Score
+  goldObjective: Perfect Under {goldTime}s
+  timeBonus:
+    timeBonuses:
+    - seconds: 30
+      score: 500
+    - seconds: 40
+      score: 400
+    - seconds: 50
+      score: 300
+    - seconds: 60
+      score: 200
+    - seconds: 70
+      score: 100
+    - seconds: 80
+      score: 50
+    lowestScore: 0
+  unlockDatas:
+  - icon: 3
+    name: Level 30 - Challenge
+    description: Space Station
+  - icon: 5
+    name: Guidebook 16
+    description: Planetary Motion
+  - icon: 6
+    name: 4 Glossary Terms
+    description: Kepler's Law of Planetary Motion, The Law of Elliptical Orbits,
+      The Law of Equal Areas, The Law of Harmonies
+  dialoguePrefab: {fileID: 5446912423489723901, guid: 43271061c14e6d94492aa015afa55abe, type: 3}
+  guidebookPrefab: {fileID: 7475602023429689604, guid: 970b2962cc1c39a4ebcd1de69812596a, type: 3}
+  quizData: {fileID: 11400000, guid: 7972ecacf35df9b469aab19d1780ecbb, type: 2}

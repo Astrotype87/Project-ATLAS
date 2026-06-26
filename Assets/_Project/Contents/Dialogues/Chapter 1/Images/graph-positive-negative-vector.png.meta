@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: f37cafded33ff434bb1b73d07aa83f1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6011756402928132128
+    second: graph-positive-negative-vector_0
+  - first:
+      213: -494941367011554214
+    second: graph-positive-negative-vector_1
+  - first:
+      213: -7040675035420928619
+    second: graph-positive-negative-vector_2
+  - first:
+      213: 3219186333478912375
+    second: graph-positive-negative-vector_3
+  - first:
+      213: 7011908040941798188
+    second: graph-positive-negative-vector_4
+  - first:
+      213: 5679130618122311693
+    second: graph-positive-negative-vector_5
+  - first:
+      213: 6232548764152199606
+    second: graph-positive-negative-vector_6
+  - first:
+      213: -1933773978749329888
+    second: graph-positive-negative-vector_7
+  - first:
+      213: -4538529995263564954
+    second: graph-positive-negative-vector_8
+  - first:
+      213: -5005665246784054755
+    second: graph-positive-negative-vector_9
+  - first:
+      213: -5775747929049604828
+    second: graph-positive-negative-vector_10
+  - first:
+      213: 1071486842477846919
+    second: graph-positive-negative-vector_11
+  - first:
+      213: 6777717698631882985
+    second: graph-positive-negative-vector_12
+  - first:
+      213: 6423950600197679071
+    second: graph-positive-negative-vector_13
+  - first:
+      213: 7647503642719792950
+    second: graph-positive-negative-vector_14
+  - first:
+      213: 3182231796331054525
+    second: graph-positive-negative-vector_15
+  - first:
+      213: 846000289939015154
+    second: graph-positive-negative-vector_16
+  - first:
+      213: 7756660648556527588
+    second: graph-positive-negative-vector_17
+  - first:
+      213: -8399426884387321671
+    second: graph-positive-negative-vector_18
+  - first:
+      213: 3241511000519357398
+    second: graph-positive-negative-vector_19
+  - first:
+      213: 4673204659915565178
+    second: graph-positive-negative-vector_20
+  - first:
+      213: -9156034644479004663
+    second: graph-positive-negative-vector_21
+  - first:
+      213: -5649650403950153278
+    second: graph-positive-negative-vector_22
+  - first:
+      213: -7390476344607662235
+    second: graph-positive-negative-vector_23
+  - first:
+      213: -198101402805767049
+    second: graph-positive-negative-vector_24
+  - first:
+      213: 7139392570033328181
+    second: graph-positive-negative-vector_25
+  - first:
+      213: -8341760405681156826
+    second: graph-positive-negative-vector_26
+  - first:
+      213: -1617344187918271545
+    second: graph-positive-negative-vector_27
+  - first:
+      213: -4505535200129818580
+    second: graph-positive-negative-vector_28
+  - first:
+      213: -7435018119937502708
+    second: graph-positive-negative-vector_29
+  - first:
+      213: -8015291209104448618
+    second: graph-positive-negative-vector_30
+  - first:
+      213: 514902352124585379
+    second: graph-positive-negative-vector_31
+  - first:
+      213: 1189157739118633362
+    second: graph-positive-negative-vector_32
+  - first:
+      213: 7441701151572160845
+    second: graph-positive-negative-vector_33
+  - first:
+      213: 8476700042542639250
+    second: graph-positive-negative-vector_34
+  - first:
+      213: -6802379801756463102
+    second: graph-positive-negative-vector_35
+  - first:
+      213: -2025100092961825317
+    second: graph-positive-negative-vector_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 479
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efd9473763f19ca0800000000000000
+      internalID: -6011756402928132128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 478
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c41a2f27d9129f0800000000000000
+      internalID: -494941367011554214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 478
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59556cebb5f7a4e90800000000000000
+      internalID: -7040675035420928619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 479
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7718dc01ae8dcac20800000000000000
+      internalID: 3219186333478912375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 479
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c238a0a663d4f4160800000000000000
+      internalID: 7011908040941798188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 479
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d089936353350de40800000000000000
+      internalID: 5679130618122311693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 479
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9779c54167e7650800000000000000
+      internalID: 6232548764152199606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 479
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e90c8dfcad925e0800000000000000
+      internalID: -1933773978749329888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 479
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6632cd5f307e301c0800000000000000
+      internalID: -4538529995263564954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 479
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a1becaafd488ab0800000000000000
+      internalID: -5005665246784054755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_10
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 478
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ddcc81cdb68dfa0800000000000000
+      internalID: -5775747929049604828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 479
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781a5633b9faede00800000000000000
+      internalID: 1071486842477846919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_12
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 478
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8d4d6465a4f0e50800000000000000
+      internalID: 6777717698631882985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 479
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7a07b0905762950800000000000000
+      internalID: 6423950600197679071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 479
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fa1da7b04612a60800000000000000
+      internalID: 7647503642719792950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_15
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 479
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5044565fe892c20800000000000000
+      internalID: 3182231796331054525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_16
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 478
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f541b908c89dbb00800000000000000
+      internalID: 846000289939015154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_17
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 479
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef767863c135ab60800000000000000
+      internalID: 7756660648556527588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_18
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 479
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b84a3f20cd3f6b80800000000000000
+      internalID: -8399426884387321671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_19
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 479
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d33a79a4192cfc20800000000000000
+      internalID: 3241511000519357398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_20
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 479
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78a7f4e0ee8ad040800000000000000
+      internalID: 4673204659915565178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_21
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 479
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900b8a8600b3fe080800000000000000
+      internalID: -9156034644479004663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_22
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 479
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1b86704e86891b0800000000000000
+      internalID: -5649650403950153278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_23
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 479
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f9bb6cbe0cf6990800000000000000
+      internalID: -7390476344607662235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_24
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 478
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7747140e2d3304df0800000000000000
+      internalID: -198101402805767049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_25
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 479
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53056e067b7341360800000000000000
+      internalID: 7139392570033328181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_26
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 478
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dc4f98b1d1c3c80800000000000000
+      internalID: -8341760405681156826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_27
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 479
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbb697b70a0e89e0800000000000000
+      internalID: -1617344187918271545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 402
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c206e395b9f1971c0800000000000000
+      internalID: -4505535200129818580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_29
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 329
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02588e896281d890800000000000000
+      internalID: -7435018119937502708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_30
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 335
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693a406bc17f3c090800000000000000
+      internalID: -8015291209104448618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_31
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 402
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5266016fc452700800000000000000
+      internalID: 514902352124585379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_32
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 39
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291a21ec9acb08010800000000000000
+      internalID: 1189157739118633362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_33
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 29
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41f21005cb364760800000000000000
+      internalID: 7441701151572160845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_34
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 46
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298ea47f6c943a570800000000000000
+      internalID: 8476700042542639250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_35
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 39
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20093016c971991a0800000000000000
+      internalID: -6802379801756463102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graph-positive-negative-vector_36
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 35
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd5664e13665e3e0800000000000000
+      internalID: -2025100092961825317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      graph-positive-negative-vector_0: -6011756402928132128
+      graph-positive-negative-vector_1: -494941367011554214
+      graph-positive-negative-vector_10: -5775747929049604828
+      graph-positive-negative-vector_11: 1071486842477846919
+      graph-positive-negative-vector_12: 6777717698631882985
+      graph-positive-negative-vector_13: 6423950600197679071
+      graph-positive-negative-vector_14: 7647503642719792950
+      graph-positive-negative-vector_15: 3182231796331054525
+      graph-positive-negative-vector_16: 846000289939015154
+      graph-positive-negative-vector_17: 7756660648556527588
+      graph-positive-negative-vector_18: -8399426884387321671
+      graph-positive-negative-vector_19: 3241511000519357398
+      graph-positive-negative-vector_2: -7040675035420928619
+      graph-positive-negative-vector_20: 4673204659915565178
+      graph-positive-negative-vector_21: -9156034644479004663
+      graph-positive-negative-vector_22: -5649650403950153278
+      graph-positive-negative-vector_23: -7390476344607662235
+      graph-positive-negative-vector_24: -198101402805767049
+      graph-positive-negative-vector_25: 7139392570033328181
+      graph-positive-negative-vector_26: -8341760405681156826
+      graph-positive-negative-vector_27: -1617344187918271545
+      graph-positive-negative-vector_28: -4505535200129818580
+      graph-positive-negative-vector_29: -7435018119937502708
+      graph-positive-negative-vector_3: 3219186333478912375
+      graph-positive-negative-vector_30: -8015291209104448618
+      graph-positive-negative-vector_31: 514902352124585379
+      graph-positive-negative-vector_32: 1189157739118633362
+      graph-positive-negative-vector_33: 7441701151572160845
+      graph-positive-negative-vector_34: 8476700042542639250
+      graph-positive-negative-vector_35: -6802379801756463102
+      graph-positive-negative-vector_36: -2025100092961825317
+      graph-positive-negative-vector_4: 7011908040941798188
+      graph-positive-negative-vector_5: 5679130618122311693
+      graph-positive-negative-vector_6: 6232548764152199606
+      graph-positive-negative-vector_7: -1933773978749329888
+      graph-positive-negative-vector_8: -4538529995263564954
+      graph-positive-negative-vector_9: -5005665246784054755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

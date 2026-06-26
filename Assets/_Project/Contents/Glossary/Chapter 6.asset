@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1d62931ab01cd14b84145ae3bdd017f, type: 3}
+  m_Name: Chapter 6
+  m_EditorClassIdentifier: 
+  chapter: 6
+  levelTerms:
+  - level: 23
+    terms:
+    - term: Rotation
+      unit: 
+      type: 1
+      description: Spinning movement of an object without leaving its actual position
+      details: The spinning movement of an object without actually leaving its position,
+        kind of like how a top spins as it is being unwind by the rope, or how our
+        planet has night and day.
+    - term: Revolution
+      unit: 
+      type: 1
+      description: Movement of object around the axis of a point or another object
+      details: 'The other hand, is the movement of an object around the axis. This
+        means that object is said to be revolving if it is moving around a point,
+        or axis, while an object is said to be rotating if it
+
+        spins in its
+        place.'
+    - term: 'Angular Position '
+      unit: "\u03B8"
+      type: 0
+      description: "One full rotation is 360\xB0 in degrees or 2\u03C0 rads in radians"
+      details: "Before, our Position is denoted by \U0001D451, and this is usually
+        associated with linear motion. But, it is also applicable to circles, and
+        even rotational motion. Here, it denotes the orientation of a rotating object
+        in free space. It also represents the direction of the displacement vector
+        drawn from the origin (or axis) to the location of the revolving object."
+    - term: 'Angular Displacement '
+      unit: "\u0394\u03B8"
+      type: 0
+      description: Similar to linear displacement, where an angle has rotated in
+        a specified direction and axis
+      details: It is the measurement where the angle through which a point, line,
+        or body has rotated in a specified direction, about a specified axis.
+    - term: 'Angular Velocity '
+      unit: w
+      type: 0
+      description: Rate of change in object's angular displacement over time
+      details: "Just like the linear velocity, angular velocity also shows the rate
+        of change in an object\u2019s position. What differs from the linear velocity
+        is that it measures the change in object\u2019s angular displacement per
+        unit of time"
+    - term: 'Angular Acceleration '
+      unit: a
+      type: 0
+      description: Rate of change in angular velocity
+      details: This is also similar with the rectilinear acceleration, only this
+        time, it involves angular velocity. Also, a is a vector. Its value is dependent
+        on the direction it takes. In this case, if w is going in a different direction
+        than a, then w is negative. Likewise, if w follows a, then w is positive.
+  - level: 24
+    terms:
+    - term: Moment of Inertia
+      unit: 
+      type: 1
+      description: Also called rotational inertia. It is dependent on mass and position
+        of the object's axis
+      details: "It is dependent on both mass and the position of the object\u2019s
+        axis. The axis can exist anywhere from within the object itself or outside
+        its system. The moment of inertia changes because of the changes in position
+        its axis is placed at. By definition, rotational inertia is the resistance
+        of a rotating body to change its current state of balance, which in this
+        case, is its rotation."
+    - term: Torque
+      unit: "\u03C4"
+      type: 2
+      description: It is rotational counterpart of linear force
+      details: "Imagine that moment when you pushed the door too hard, it swung open
+        very rapidly. You just saw the door swung past youvery fast, then hit the
+        wall with a very loud, \u201CTHUD!\u201D That door has just experienced torque.\n\nTorque:
+        \u03C4 = i\u03B1\ni = moment of inertia, \u03B1 = angular acceleration"
+    - term: Angular Momentum
+      unit: 
+      type: 1
+      description: It is rotational counterpart of linear momentum
+      details: This implies that larger masses have bigger momenta than smaller bodies.
+        Likewise, having a faster angular velocity also lends its hand in increasing
+        angular momentum. When ever we push a round table, ride the bike, or even
+        just open the door, we all exert torque. If the torque we exert is stronger
+        than the other torques opposing the torque we exert, then the object rotates,
+        such as the strong slam of the door if we open it with a great heave. So,
+        the greater the net torque exerted within a short time, the stronger the
+        angular momentum, which is shown mathematically,
+    - term: Angular Work
+      unit: 
+      type: 1
+      description: Work done by a rotating system
+      details: Rotational motion also performs work and has kinetic energy and momentum.
+        however, translates work within a certain angular displacement in which it
+        is known as the arc length (usually stylized as the symbol S). Arc length
+        is defined by the formula,

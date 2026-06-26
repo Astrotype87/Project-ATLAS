@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: FillBlanksTest
+  m_EditorClassIdentifier: 
+  level: Level 123123
+  name: Fill Blanks Test
+  description: Enter description here.
+  quizItems:
+  - rid: 5311918863438577766
+  - rid: 5311918863438577763
+  easyQuizSettings:
+    totalItems: 4
+    shuffled: 0
+    paraphraseChance: 0
+    passingScorePercentage: 0.5
+    includeLowerDifficulty: 1
+    itemTypes: 127
+  mediumQuizSettings:
+    totalItems: 6
+    shuffled: 1
+    paraphraseChance: 0.5
+    passingScorePercentage: 0.5
+    includeLowerDifficulty: 1
+    itemTypes: 127
+  hardQuizSettings:
+    totalItems: 8
+    shuffled: 1
+    paraphraseChance: 1
+    passingScorePercentage: 0.5
+    includeLowerDifficulty: 1
+    itemTypes: 127
+  references:
+    version: 2
+    RefIds:
+    - rid: 5311918863438577763
+      type: {class: FillInTheBlanksItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        question:
+        - 'An object must (1)__________ for work to be considered done, and the (2)__________
+          must act along the motion of the object.
+
+          The expression to calculate
+          work along the x-axis is (3)__________, with W as work, F as force, and
+          x as (4)__________.'
+        correctAnswers:
+        - moves
+        - force
+        - W = F x
+        - displacement
+        wrongAnswers:
+        - velocity
+        - speed
+        difficulty: 0
+    - rid: 5311918863438577766
+      type: {class: FillInTheBlanksItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        question:
+        - "The resultant velocity is solved using the equation (1)__________. The
+          resultant distance is solved using the equation (2)__________. \r\n\r\nTo
+          solve for the angle of displacement, we use the trigonometric ratios known
+          as (3)__________. When Vx = 20 m/s and Vy = 15 m/s, the angle of displacement
+          is equal to (4)__________.  "
+        correctAnswers:
+        - "VR = \u221AVx\xB2 + Vy\xB2"
+        - "R = \u221Aa\xB2 + b\xB2"
+        - "SOH\u2013CAH\u2013TO"
+        - "53.13\xB0"
+        wrongAnswers:
+        - velocity
+        - speed
+        difficulty: 0

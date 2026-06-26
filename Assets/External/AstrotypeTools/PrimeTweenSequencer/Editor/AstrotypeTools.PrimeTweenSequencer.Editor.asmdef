@@ -1,0 +1,19 @@
+{
+    "name": "AstrotypeTools.PrimeTweenSequencer.Editor",
+    "rootNamespace": "AstrotypeTools.PrimeTweenSequencer.Editor",
+    "references": [
+        "GUID:80ecb87cae9c44d19824e70ea7229748",
+        "GUID:7458e58d16aafe0418874761ddba19ed"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

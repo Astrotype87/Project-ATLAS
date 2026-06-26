@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 4
+  m_EditorClassIdentifier: 
+  level: Level 4
+  name: Scalars & Vectors
+  description: Scalars are quantities with just a value, while vectors have both
+    value and direction.
+  quizItems:
+  - rid: 7832858353301979137
+  - rid: 7832858353301979138
+  - rid: 7832858353301979139
+  - rid: 7832858353301979141
+  - rid: 7832858353301979146
+  - rid: 7832858355523911680
+  - rid: 7832858355523911681
+  - rid: 7832858355523911682
+  references:
+    version: 2
+    RefIds:
+    - rid: 7832858353301979137
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Think of a vector casting a shadow. Which of the following is this shadow
+          called?
+        - The way a vector is shown in a particular direction, like its shadow, is
+          known as a which of the following?
+        correctAnswer:
+        - Vector Projection
+        wrongAnswers:
+        - Unit Vector
+        - Quadrant
+        - Vector
+        choiceCount: 4
+    - rid: 7832858353301979138
+      type: {class: MatchingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        pairs:
+        - question:
+          - ' Top-right (+x, +y)'
+          correctAnswer: Quadrant I
+        - question:
+          - ' Top-left (-x, +y)'
+          correctAnswer: Quadrant II
+        - question:
+          - ' Bottom-left (-x, -y)'
+          correctAnswer: Quadrant III
+        - question:
+          - ' Bottom-right(-x, -y)'
+          correctAnswer: Quadrant IV
+        wrongAnswers:
+        - Quadrant V
+    - rid: 7832858353301979139
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - A vector with a magnitude of one (1), used to indicate only the direction,
+          is which of the following?
+        - "When a vector\u2019s magnitude equals one and it shows only direction,
+          it is called which of the following?"
+        - A vector that has a value of one (1) in magnitude and represents only direction
+          is known as which of the following?
+        correctAnswer:
+        - Unit Vector
+        wrongAnswers:
+        - Negative Vector
+        - Quadrant
+        - Vector Projections
+        choiceCount: 4
+    - rid: 7832858353301979141
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - The simplest projection shows a quantity with an arrow pointing to a specific
+          direction, usually north, east, south, or west. This is called which of
+          the following?
+        - A projection that uses a single arrow pointing toward north, east, south,
+          or west to represent a quantity is known as which of the following?
+        - The projection that displays a quantity with an arrow pointing in only
+          one direction, usually N, E, S, or W, is the which of the following?
+        - If a quantity is shown with an arrow in just one straight direction, such
+          as north, east, south, or west, this projection is called which of the
+          following?
+        correctAnswer:
+        - One-dimensional projection
+        wrongAnswers:
+        - Two-dimensional projection
+        - Three-dimensional projection
+        - Vector projection
+        choiceCount: 4
+    - rid: 7832858353301979146
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - A drone moving up, forward, and sideways in space is an example of which
+          of the following?
+        - If a drone can travel left-right, forward-backward, and up-down, this represents
+          which of the following?
+        - The path of a drone that changes height, position, and direction at once
+          shows which of the following?
+        correctAnswer:
+        - Three-dimensional motion
+        wrongAnswers:
+        - One-dimensional motion
+        - Two-dimensional motion
+        - Circular motion
+        choiceCount: 4
+    - rid: 7832858355523911680
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - "Determine whether the statement is True or False. The negative vector
+          \u2013V is equal to rotating the original vector V by 180\xB0."
+        correctAnswer: 1
+    - rid: 7832858355523911681
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - "Determine whether the statement is True or False. All the components of
+          \u2013V have opposite signs compared to the components of V."
+        - "Determine whether the statement is True or False. The negative vector
+          \u2013V has each component flipped in sign from the original vector V."
+        correctAnswer: 1
+    - rid: 7832858355523911682
+      type: {class: TrueOrFalseItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - "Determine whether the statement is True or False. When using primary directions,
+          the negative vector \u2013V points in the same direction as V."
+        - "Determine whether the statement is True or False. The negative vector
+          \u2013V does not change direction; it points exactly like V."
+        correctAnswer: 0

@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 16
+  m_EditorClassIdentifier: 
+  level: Level 16
+  name: Energy
+  description: Energy concepts, including kinetic and potential energy, energy transfer,
+    and the law of conservation of energy.
+  quizItems:
+  - rid: 7832858373401083967
+  - rid: 7832858373401083968
+  - rid: 7832858373401083969
+  - rid: 7832858373401083970
+  - rid: 7832858373401083971
+  - rid: 7832858373401083972
+  - rid: 7832858373401083973
+  - rid: 7832858373401083989
+  - rid: 3818007397566513154
+  references:
+    version: 2
+    RefIds:
+    - rid: 3818007397566513154
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - "A ball has a mass of {m} kg and is lifted to a height of {h} meters above
+          the ground. If the acceleration due to gravity is {g} m/s\xB2, calculate
+          its gravitational potential energy."
+        formula: m * h * g
+        variables:
+        - variable: m
+          name: Mass
+          unit: kg
+          range:
+            min: 7.2
+            max: 16.71
+        - variable: h
+          name: Height
+          unit: m
+          range:
+            min: 6.15
+            max: 6.38
+        - variable: g
+          name: Gravity
+          unit: m/s
+          range:
+            min: 9.8
+            max: 9.8
+        variable: PE
+        name: Potential Energy
+        unit: J
+        rounding: 2
+    - rid: 7832858373401083967
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - This is the property that objects need to transfer in order to perform
+          work. Which of the following best describes this?
+        - This is the trait that objects must convey in order to do work. Which of
+          the following best describes this?
+        - This is the characteristic that things must possess in order to do labor.
+          Which of the following best describes this?
+        correctAnswer:
+        - Energy
+        wrongAnswers:
+        - Kinetic Energy
+        - Conservative Force
+        - Potential Energy
+        choiceCount: 4
+    - rid: 7832858373401083968
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - This energy only transfers and changes form, from one body to another.
+          Which of the following best describes this?
+        correctAnswer:
+        - Law of Conservation of Energy
+        wrongAnswers:
+        - Spring Force
+        - Friction Energy
+        - Kinetic Energy
+        choiceCount: 4
+    - rid: 7832858373401083969
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - This energy is stored by an object when it is pulled apart or compressed.
+          Which of the following best describes this?
+        - This is the energy held by an object when it is pushed apart or compacted.
+          Which of the following best describes this?
+        - This is the energy retained by an object as it is pushed apart or compressed.
+          Which of the following best describes this?
+        correctAnswer:
+        - Elestic Potential Energy
+        wrongAnswers:
+        - Spring Energy
+        - Energy
+        - Gravitational Energy
+        choiceCount: 4
+    - rid: 7832858373401083970
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - It is a force that cannot associate itself with potential energy. Which
+          of the following best describes this?
+        - It is a force that cannot be associated with potential energy. Which of
+          the following best describes this?
+        - It is a force that cannot be linked to potential energy. Which of the following
+          best describes this?
+        correctAnswer:
+        - Non-Conservative Force
+        wrongAnswers:
+        - Gravitational Force
+        - Air Resistance Force
+        - Friction Force
+        choiceCount: 4
+    - rid: 7832858373401083971
+      type: {class: FillInTheBlanksItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - 'Fill in the blanks with the correct term for each statement.
+
+          The
+          (1) __________ is the energy translated in motion and express as (2) __________.
+
+          The
+          (3) __________ is the energy observed from rest and it is express as (4)
+          __________.'
+        - 'Fill in the blanks with the correct term for each statement. (1) __________This
+          is the energy an object has due to its movement and is measured in (2)
+          __________.
+
+          (3) __________This is the energy an object has when
+          it is not moving and is measured in (4) __________.'
+        correctAnswers:
+        - 'Kinetic '
+        - KE or T
+        - Potential
+        - PE or U
+        wrongAnswers:
+        - Spring Force
+        - Gravitational Potential
+    - rid: 7832858373401083972
+      type: {class: FillInTheBlanksItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - Fill in the blanks with the correct term for each statement. (1) __________
+          This is independent from the path taken by work between two points. (2)
+          __________ This follows the path taken by work between two points.
+        correctAnswers:
+        - 'Conservative Force '
+        - 'Non-Conservative Force '
+        wrongAnswers:
+        - 'Gravitational Force '
+        - 'Elastic Potential Energy '
+    - rid: 7832858373401083973
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - A car has a mass of {m} kg and is moving at a speed of {s} m/s. Find its
+          kinetic energy.
+        formula: 1/2 * m * s *s
+        variables:
+        - variable: m
+          name: Mass
+          unit: kg
+          range:
+            min: 150
+            max: 140
+        - variable: s
+          name: Speed
+          unit: m/s
+          range:
+            min: 20
+            max: 30
+        variable: KE
+        name: Kinetic Energy
+        unit: J
+        rounding: 2
+    - rid: 7832858373401083989
+      type: {class: SolvingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        question:
+        - "A book has a mass of {m} kg and is placed on a shelf {h} meters above
+          the ground. Given that the acceleration due to gravity is {g} m/s\xB2,
+          find its gravitational potential energy."
+        formula: m * h * g
+        variables:
+        - variable: m
+          name: Mass
+          unit: kg
+          range:
+            min: 6
+            max: 9
+        - variable: h
+          name: Height
+          unit: m
+          range:
+            min: 4
+            max: 8
+        - variable: g
+          name: Gravity
+          unit: m/s
+          range:
+            min: 9.8
+            max: 9.8
+        variable: PE
+        name: Potential Energy
+        unit: J
+        rounding: 2

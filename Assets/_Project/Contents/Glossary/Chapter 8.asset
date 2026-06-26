@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1d62931ab01cd14b84145ae3bdd017f, type: 3}
+  m_Name: Chapter 8
+  m_EditorClassIdentifier: 
+  chapter: 8
+  levelTerms:
+  - level: 31
+    terms:
+    - term: Periodic Motion
+      unit: 
+      type: 0
+      description: It is sometimes called harmonic motion becaused it has "harmony
+      details: 'The period (T) is the amount of time it takes for the motion to repeat
+        itself, much like it is the measured time for an object to completely move
+        around its designated center. Frequency (f) is defined to be the number of
+        events per unit of time. For periodic motion, frequency is the number of
+        oscillations per unit time. The relationship between frequency and period
+        is,
+
+
+
+
+
+
+'
+    - term: 'Period '
+      unit: T
+      type: 1
+      description: Amount of time it takes for motion to repeat itself
+      details: 'The amount of time it takes for the motion to repeat itself, much
+        like it is the measured time for an object to completely move around its
+        designated center. Frequency (f) is defined to be the number of events per
+        unit of time. For periodic motion, frequency is the number of oscillations
+        per unit time. The relationship between frequency and period is
+
+
+        T
+        = period
+
+        k = spring constant
+
+        x = displacement from spring''s
+        relazed length
+
+'
+    - term: 'Frequency '
+      unit: f
+      type: 1
+      description: Number of events per unit of time
+      details: 'The number of events per unit of time. For periodic motion, frequency
+        is the number of oscillations per unit time. The relationship between frequency
+        and period is
+
+
+        Frequency: f = 1/T
+
+        Hooke''s Law: F_r = -kx'
+    - term: Hooke's Law
+      unit: 
+      type: 1
+      description: Objects attached to a spring or any elastic object with negligible
+        mass
+      details: "These objects are generally called pendulums, whereas the objects
+        that undergo Hooke\u2019s Law are called springs. Take, for example, a simple
+        pendulum that moves back and forth at a certain angle, 0. In its motion lie
+        two equal angles, which can be shown by bisecting the angle itself. What
+        lies between are two angles, 00 and \u221200. These two angles can be demonstrated
+        below."
+    - term: Springs
+      unit: 
+      type: 1
+      description: Objects that undergo Hooke's Law
+      details: "A simple pendulum that moves back and forth at a certain angle, 0.
+        In its motion lie two equal angles, which can be shown by bisecting the angle
+        itself. What lies between are two angles, 00 and \u221200. These two angles
+        can be demonstrated below.\r\n"
+  - level: 32
+    terms:
+    - term: Harmonic Motion
+      unit: 
+      type: 1
+      description: Kind of motion that show repetition and definite pattern
+      details: Its root word harmony, defines a kind of motion that shows repetition
+        and definite pattern. This pattern is a wave, which is the driving mechanism
+        of our songs, our sounds, and any other sounds we create and associate with.
+        With this fascination with sound comes acoustics.
+    - term: Acoustics
+      unit: 
+      type: 1
+      description: Branch of science dealing with study, analysis, and application
+        of sound
+      details: The branch of science dealing with the study, analysis, and application
+        of sound, which is a disturbance of molecules within a given substance. This
+        disturbance must be caused by a wave, however. In this context, a wave is
+        not just a graphical representation of harmonic motion; rather, it is a medium
+        that drives a substance to disturb its molecules by use of harmonic motion.
+        This harmonic motion is called vibration.
+    - term: Wave
+      unit: 
+      type: 1
+      description: iI not only propagate sounds but also electrical signals, lights,
+        and so on
+      details: A medium where sound propagates without carrying over the matter where
+        it moves. Waves do not only carry sounds, however. Different waves propagate
+        different things, such as electrical signals, light, and so on. Such a wave
+        is a mechanical wave.
+    - term: Mechanical Wave
+      unit: 
+      type: 1
+      description: Wave that results from interaction with matter, has limited transmission
+        of matter
+      details: "a wave that results from interaction with matter. An example would
+        be a child driving a rope tied to a post to form waves. In this example,
+        the child is delivering force onto the rope, which creates a wave carrying
+        the force. This force has a certain amount of energy traveling from the boy\u2019s
+        hand up to the tree. Thus, the wave dies if it hits the tree, and if the
+        child has had enough of creating waves. This wave has a limited transmission
+        of matter."
+    - term: Surface Wave
+      unit: 
+      type: 1
+      description: A wave that propagates along with the interface between different
+        media.
+      details: "This mechanical wave creates a disturbance on the matter\u2019s surface,
+        hence the name. The wave generated carries over the energy of the source
+        of the disturbance. As an example, if pressure builds up underneath the surface
+        of the Earth, the resulting pent-up pressure generates surface waves along
+        the planet\u2019s surface, carrying over the energy stored."
+    - term: Longitudinal Wave
+      unit: 
+      type: 1
+      description: 'A wave whose vibrations travel along the direction of the wave. '
+      details: A wave whose vibrations travel along the direction of the wave. Thus,
+        if a wave is moving to the right, the vibrations also move to the right.
+        This wave creates areas of compression where loose molecules clump together
+        during transmission at certain intervals. This wave travels fastest in a
+        solid, which becomes nonexistent in a vacuum, where no molecules can support
+        the wave. An example of this wave is sound.
+    - term: Transverse Wave
+      unit: 
+      type: 1
+      description: "A wave whose vibrations travel perpendicularly from the wave\u2019s
+        direction."
+      details: "A wave whose vibrations travel perpendicularly from the wave\u2019s
+        direction. It travels at certain intervals and is usually drawn like a sine
+        curve. It travels the fastest in a vacuum, which becomes nonexistent in a
+        solid, where the matter only absorbs the energy carried by the wave. An example
+        of this wave is light, which is made up of two (2) perpendicular waves coexisting
+        as one beam of light."
+    - term: 'Wave Speed '
+      unit: v
+      type: 2
+      description: Measure how fast a wave propagates from so
+      details: "Wave speed (V) is the measure of how fast a wave propagates from
+        the source traveling outwards. It follows the same tenet as linear motion\u2019s
+        velocity, where\n\nWave Speed: v = d\u03BB/dT"

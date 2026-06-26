@@ -1,0 +1,116 @@
+﻿using System;
+using System.Linq.Expressions;
+using System.Numerics;
+
+namespace MathEvaluation.Entities
+{
+    /// <summary>
+    ///     The math variable uses as a parameter.
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
+    internal class MathVariable<T> : MathEntity
+        where T : struct
+    {
+        public MathVariable(string? key, T value, bool isDictionaryItem = false) : base(key)
+        {
+            Value = value;
+            this.isDictionaryItem = isDictionaryItem;
+        }
+        
+        /// <inheritdoc />
+        public override int Precedence => (int)EvalPrecedence.Variable;
+
+        /// <summary>Gets the value.</summary>
+        /// <value>The value.</value>
+        public T Value { get; private set; }
+        private bool isDictionaryItem;
+
+        /// <inheritdoc />
+        public override double Evaluate(MathExpression mathExpression, int start, ref int i, char? separator, char? closingSymbol, double value)
+        {
+            var tokenPosition = i;
+            i += Key.Length;
+
+            var result = ConvertToDouble(Value);
+            mathExpression.OnEvaluating(tokenPosition, i, result);
+
+            result = mathExpression.EvaluateExponentiation(tokenPosition, ref i, separator, closingSymbol, result);
+            value = value == default ? result : value * result;
+
+            if (value != result && !double.IsNaN(value))
+                mathExpression.OnEvaluating(start, i, value);
+
+            return value;
+        }
+
+        /// <inheritdoc />
+        public override decimal Evaluate(MathExpression mathExpression, int start, ref int i, char? separator, char? closingSymbol, decimal value)
+        {
+            var tokenPosition = i;
+            i += Key.Length;
+
+            var result = ConvertToDecimal(Value);
+            mathExpression.OnEvaluating(tokenPosition, i, result);
+
+            result = mathExpression.EvaluateExponentiationDecimal(tokenPosition, ref i, separator, closingSymbol, result);
+            value = value == default ? result : value * result;
+
+            if (value != result)
+                mathExpression.OnEvaluating(start, i, value);
+
+            return value;
+        }
+
+        /// <inheritdoc />
+        public override Complex Evaluate(MathExpression mathExpression, int start, ref int i, char? separator, char? closingSymbol, Complex value)
+        {
+            var tokenPosition = i;
+            i += Key.Length;
+
+            var result = Value is Complex v ? v : ConvertToDouble(Value);
+            mathExpression.OnEvaluating(tokenPosition, i, result);
+
+            result = mathExpression.EvaluateExponentiationComplex(tokenPosition, ref i, separator, closingSymbol, result);
+            value = value == default ? result : value * result;
+
+            if (value != result && !double.IsNaN(value.Real) && !double.IsNaN(value.Imaginary))
+                mathExpression.OnEvaluating(start, i, value);
+
+            return value;
+        }
+
+        /// <inheritdoc />
+        public override Expression Build<TResult>(MathExpression mathExpression, int start, ref int i, char? separator, char? closingSymbol, Expression left)
+        {
+            var tokenPosition = i;
+            i += Key.Length;
+
+            Expression right;
+            if (isDictionaryItem)
+            {
+                // Fix: Use Expression.MakeIndex with appropriate arguments
+                var dictionaryProperty = mathExpression.ParameterExpression!.Type.GetProperty("Item");
+                if (dictionaryProperty == null)
+                    throw new InvalidOperationException("The parameter expression does not have an indexer property.");
+
+                var keyExpression = Expression.Constant(Key);
+                right = Expression.MakeIndex(mathExpression.ParameterExpression!, dictionaryProperty, new[] { keyExpression });
+            }
+            else
+            {
+                right = Expression.Property(mathExpression.ParameterExpression!, Key);
+            }
+
+            right = BuildConvert<TResult>(right);
+            mathExpression.OnEvaluating(tokenPosition, i, right);
+
+            right = mathExpression.BuildExponentiation<TResult>(tokenPosition, ref i, separator, closingSymbol, right);
+            var expression = MathExpression.BuildMultiplyIfLeftNotDefault<TResult>(left, right);
+
+            if (expression != right)
+                mathExpression.OnEvaluating(start, i, expression);
+
+            return expression;
+        }
+    }
+}

@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: b0a012c9c973a944095cba58f9a4fa3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4710356922499828997
+    second: level38-temperature-scales_0
+  - first:
+      213: 206398844577487061
+    second: level38-temperature-scales_1
+  - first:
+      213: 7756913208049472458
+    second: level38-temperature-scales_2
+  - first:
+      213: -4189482074387845433
+    second: level38-temperature-scales_3
+  - first:
+      213: 3682972497701478496
+    second: level38-temperature-scales_4
+  - first:
+      213: 1339486207141313976
+    second: level38-temperature-scales_5
+  - first:
+      213: -3327434770477059565
+    second: level38-temperature-scales_6
+  - first:
+      213: 7830460288354494455
+    second: level38-temperature-scales_7
+  - first:
+      213: -919733870959991918
+    second: level38-temperature-scales_8
+  - first:
+      213: 7613396317798708335
+    second: level38-temperature-scales_9
+  - first:
+      213: 1149135582823526941
+    second: level38-temperature-scales_10
+  - first:
+      213: -9103721368677442264
+    second: level38-temperature-scales_11
+  - first:
+      213: -6455836625022836955
+    second: level38-temperature-scales_12
+  - first:
+      213: 4459642105967411247
+    second: level38-temperature-scales_13
+  - first:
+      213: 6434252448288006380
+    second: level38-temperature-scales_14
+  - first:
+      213: -7281376219009541402
+    second: level38-temperature-scales_15
+  - first:
+      213: -3560332206283367018
+    second: level38-temperature-scales_16
+  - first:
+      213: 6482314448263889539
+    second: level38-temperature-scales_17
+  - first:
+      213: -2437008135353096692
+    second: level38-temperature-scales_18
+  - first:
+      213: -6662921047161699108
+    second: level38-temperature-scales_19
+  - first:
+      213: 7630737467871671113
+    second: level38-temperature-scales_20
+  - first:
+      213: 1174353956719520651
+    second: level38-temperature-scales_21
+  - first:
+      213: -8348010246714623690
+    second: level38-temperature-scales_22
+  - first:
+      213: 8768049172696016512
+    second: level38-temperature-scales_23
+  - first:
+      213: -454728195475983826
+    second: level38-temperature-scales_24
+  - first:
+      213: 5515346343164515371
+    second: level38-temperature-scales_25
+  - first:
+      213: 2084222278176675876
+    second: level38-temperature-scales_26
+  - first:
+      213: 1136732259846523236
+    second: level38-temperature-scales_27
+  - first:
+      213: 12772674159134848
+    second: level38-temperature-scales_28
+  - first:
+      213: -4028896900821060599
+    second: level38-temperature-scales_29
+  - first:
+      213: -7491425365815967066
+    second: level38-temperature-scales_30
+  - first:
+      213: -1780234844585933492
+    second: level38-temperature-scales_31
+  - first:
+      213: 8886409942215425620
+    second: level38-temperature-scales_32
+  - first:
+      213: 9204519131738125387
+    second: level38-temperature-scales_33
+  - first:
+      213: 7730370754138589360
+    second: level38-temperature-scales_34
+  - first:
+      213: 4995192159689108324
+    second: level38-temperature-scales_35
+  - first:
+      213: 2314480871403215731
+    second: level38-temperature-scales_36
+  - first:
+      213: 8183995074180117084
+    second: level38-temperature-scales_37
+  - first:
+      213: -2027113928731676927
+    second: level38-temperature-scales_38
+  - first:
+      213: 2736466671850948869
+    second: level38-temperature-scales_39
+  - first:
+      213: 7213298367010381960
+    second: level38-temperature-scales_40
+  - first:
+      213: -8885515781602055892
+    second: level38-temperature-scales_41
+  - first:
+      213: -25839623217016324
+    second: level38-temperature-scales_42
+  - first:
+      213: 4878870339295361403
+    second: level38-temperature-scales_43
+  - first:
+      213: 531695237703127180
+    second: level38-temperature-scales_44
+  - first:
+      213: -6661268209883963559
+    second: level38-temperature-scales_45
+  - first:
+      213: 5876098834449983085
+    second: level38-temperature-scales_46
+  - first:
+      213: 474579684491921432
+    second: level38-temperature-scales_47
+  - first:
+      213: 5567301380324780668
+    second: level38-temperature-scales_48
+  - first:
+      213: 5046214384609174723
+    second: level38-temperature-scales_49
+  - first:
+      213: 1942131529017910761
+    second: level38-temperature-scales_50
+  - first:
+      213: 7937298454865059293
+    second: level38-temperature-scales_51
+  - first:
+      213: 1608864345466632604
+    second: level38-temperature-scales_52
+  - first:
+      213: 8623040887068196548
+    second: level38-temperature-scales_53
+  - first:
+      213: -7587093048922953095
+    second: level38-temperature-scales_54
+  - first:
+      213: -1185363748935850625
+    second: level38-temperature-scales_55
+  - first:
+      213: -8684302084041931274
+    second: level38-temperature-scales_56
+  - first:
+      213: -6261275531672849863
+    second: level38-temperature-scales_57
+  - first:
+      213: -6786426366401471379
+    second: level38-temperature-scales_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: level38-temperature-scales_0
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1524
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf27815e55371aeb0800000000000000
+      internalID: -4710356922499828997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_1
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1524
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d89715d7a64dd200800000000000000
+      internalID: 206398844577487061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_2
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1524
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3135ff67716ab60800000000000000
+      internalID: 7756913208049472458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_3
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1524
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceee3b0048fbd5c0800000000000000
+      internalID: -4189482074387845433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_4
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1524
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060a70339fb8c1330800000000000000
+      internalID: 3682972497701478496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_5
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1524
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd7136cb9fc69210800000000000000
+      internalID: 1339486207141313976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_6
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1524
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3127e6ca4b392d1d0800000000000000
+      internalID: -3327434770477059565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_7
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1524
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f72c2b05226bac60800000000000000
+      internalID: 7830460288354494455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_8
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1523
+        width: 78
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293e885dae27c33f0800000000000000
+      internalID: -919733870959991918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_9
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1524
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64b8a01d9738a960800000000000000
+      internalID: 7613396317798708335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_10
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1524
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1235f469bc82ff00800000000000000
+      internalID: 1149135582823526941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_11
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1523
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d19d516a519a180800000000000000
+      internalID: -9103721368677442264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_12
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1523
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f9e854bc24866a0800000000000000
+      internalID: -6455836625022836955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_13
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1524
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20009ffdd4d3ed30800000000000000
+      internalID: 4459642105967411247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_14
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1524
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0e467f28e0b4950800000000000000
+      internalID: 6434252448288006380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_15
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1524
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea95fd38ea53fa90800000000000000
+      internalID: -7281376219009541402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_16
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 1523
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dd81ac8b8279ec0800000000000000
+      internalID: -3560332206283367018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 715
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382c62b55aec5f950800000000000000
+      internalID: 6482314448263889539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_18
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 715
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06aa8143020e2ed0800000000000000
+      internalID: -2437008135353096692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_19
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 715
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd40479fb9c8883a0800000000000000
+      internalID: -6662921047161699108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_20
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 715
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94331c23c43d5e960800000000000000
+      internalID: 7630737467871671113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_21
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 453
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b67de93b42c4010800000000000000
+      internalID: 1174353956719520651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 453
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639f04709e8e52c80800000000000000
+      internalID: -8348010246714623690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_23
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 515
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08624b7744e5ea970800000000000000
+      internalID: 8768049172696016512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_24
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 454
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22bc4f8d1b70b9f0800000000000000
+      internalID: -454728195475983826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_25
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 454
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24129d07427a8c40800000000000000
+      internalID: 5515346343164515371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_26
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 454
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4281dab8e15acec10800000000000000
+      internalID: 2084222278176675876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_27
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 515
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46901e8b7fb76cf00800000000000000
+      internalID: 1136732259846523236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_28
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 453
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0884612fda06d2000800000000000000
+      internalID: 12772674159134848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_29
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 454
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90473ed5d9b7618c0800000000000000
+      internalID: -4028896900821060599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_30
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 453
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a24031325c190890800000000000000
+      internalID: -7491425365815967066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_31
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 515
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45cea747d55b47e0800000000000000
+      internalID: -1780234844585933492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_32
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 454
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eff3e92ced25b70800000000000000
+      internalID: 8886409942215425620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_33
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 454
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44b987f1650dbf70800000000000000
+      internalID: 9204519131738125387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_34
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 515
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8cf7e5e3bc74b60800000000000000
+      internalID: 7730370754138589360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 453
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46be517bdcc725540800000000000000
+      internalID: 4995192159689108324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 453
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bdc630710be1020800000000000000
+      internalID: 2314480871403215731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_37
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 454
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c527d08c824639170800000000000000
+      internalID: 8183995074180117084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_38
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 453
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fa3b63f9e3ed3e0800000000000000
+      internalID: -2027113928731676927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_39
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 453
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5090f5b80f1e9f520800000000000000
+      internalID: 2736466671850948869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_40
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 453
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8802f88a5a8ca1460800000000000000
+      internalID: 7213298367010381960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_41
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 454
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c296b7f597e40b480800000000000000
+      internalID: -8885515781602055892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_42
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 453
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf11505eff234aff0800000000000000
+      internalID: -25839623217016324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_43
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 454
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79b3e669ba35b340800000000000000
+      internalID: 4878870339295361403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_44
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 453
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80df0c6006f06700800000000000000
+      internalID: 531695237703127180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_45
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 454
+        width: 14
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f93442bdb6e83a0800000000000000
+      internalID: -6661268209883963559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_46
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 453
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d666a7cc1c81c8150800000000000000
+      internalID: 5876098834449983085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_47
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 454
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81802c765bb069600800000000000000
+      internalID: 474579684491921432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_48
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 454
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aeccbcb17034d40800000000000000
+      internalID: 5567301380324780668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_49
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 454
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4a81f2f31c70640800000000000000
+      internalID: 5046214384609174723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_50
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 453
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5e236f556d3fa10800000000000000
+      internalID: 1942131529017910761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_51
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 454
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd1d7e14e2f62e60800000000000000
+      internalID: 7937298454865059293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_52
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 454
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99745b1995d35610800000000000000
+      internalID: 1608864345466632604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_53
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 454
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce7e5dfff13ba770800000000000000
+      internalID: 8623040887068196548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_54
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 453
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aac15f11b35b690800000000000000
+      internalID: -7587093048922953095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 807
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75ad0f53fdbc8fe0800000000000000
+      internalID: -1185363748935850625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_56
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 0
+        width: 807
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f50f7614492b7780800000000000000
+      internalID: -8684302084041931274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_57
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 0
+        width: 807
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9327bcdd31b7b19a0800000000000000
+      internalID: -6261275531672849863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level38-temperature-scales_58
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 0
+        width: 807
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c9b400d25c1d1a0800000000000000
+      internalID: -6786426366401471379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      level38-temperature-scales_0: -4710356922499828997
+      level38-temperature-scales_1: 206398844577487061
+      level38-temperature-scales_10: 1149135582823526941
+      level38-temperature-scales_11: -9103721368677442264
+      level38-temperature-scales_12: -6455836625022836955
+      level38-temperature-scales_13: 4459642105967411247
+      level38-temperature-scales_14: 6434252448288006380
+      level38-temperature-scales_15: -7281376219009541402
+      level38-temperature-scales_16: -3560332206283367018
+      level38-temperature-scales_17: 6482314448263889539
+      level38-temperature-scales_18: -2437008135353096692
+      level38-temperature-scales_19: -6662921047161699108
+      level38-temperature-scales_2: 7756913208049472458
+      level38-temperature-scales_20: 7630737467871671113
+      level38-temperature-scales_21: 1174353956719520651
+      level38-temperature-scales_22: -8348010246714623690
+      level38-temperature-scales_23: 8768049172696016512
+      level38-temperature-scales_24: -454728195475983826
+      level38-temperature-scales_25: 5515346343164515371
+      level38-temperature-scales_26: 2084222278176675876
+      level38-temperature-scales_27: 1136732259846523236
+      level38-temperature-scales_28: 12772674159134848
+      level38-temperature-scales_29: -4028896900821060599
+      level38-temperature-scales_3: -4189482074387845433
+      level38-temperature-scales_30: -7491425365815967066
+      level38-temperature-scales_31: -1780234844585933492
+      level38-temperature-scales_32: 8886409942215425620
+      level38-temperature-scales_33: 9204519131738125387
+      level38-temperature-scales_34: 7730370754138589360
+      level38-temperature-scales_35: 4995192159689108324
+      level38-temperature-scales_36: 2314480871403215731
+      level38-temperature-scales_37: 8183995074180117084
+      level38-temperature-scales_38: -2027113928731676927
+      level38-temperature-scales_39: 2736466671850948869
+      level38-temperature-scales_4: 3682972497701478496
+      level38-temperature-scales_40: 7213298367010381960
+      level38-temperature-scales_41: -8885515781602055892
+      level38-temperature-scales_42: -25839623217016324
+      level38-temperature-scales_43: 4878870339295361403
+      level38-temperature-scales_44: 531695237703127180
+      level38-temperature-scales_45: -6661268209883963559
+      level38-temperature-scales_46: 5876098834449983085
+      level38-temperature-scales_47: 474579684491921432
+      level38-temperature-scales_48: 5567301380324780668
+      level38-temperature-scales_49: 5046214384609174723
+      level38-temperature-scales_5: 1339486207141313976
+      level38-temperature-scales_50: 1942131529017910761
+      level38-temperature-scales_51: 7937298454865059293
+      level38-temperature-scales_52: 1608864345466632604
+      level38-temperature-scales_53: 8623040887068196548
+      level38-temperature-scales_54: -7587093048922953095
+      level38-temperature-scales_55: -1185363748935850625
+      level38-temperature-scales_56: -8684302084041931274
+      level38-temperature-scales_57: -6261275531672849863
+      level38-temperature-scales_58: -6786426366401471379
+      level38-temperature-scales_6: -3327434770477059565
+      level38-temperature-scales_7: 7830460288354494455
+      level38-temperature-scales_8: -919733870959991918
+      level38-temperature-scales_9: 7613396317798708335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

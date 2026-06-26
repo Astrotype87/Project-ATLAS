@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d03bc636d4f22964e964f316abda6d60, type: 3}
+  m_Name: Story 2
+  m_EditorClassIdentifier: 
+  chapter: 2
+  title: The First Test
+  story: "After successfully assembling your hovercraft in the hangar and carefully
+    measuring and aligning its parts, you are ready for your first real challenge
+    in ATLAS. \n\nIn the challenge you start by using your hovercraft across the
+    wide desert plains of ATLAS. This first challenge teaches you how 1D and 2D motion
+    work together. By adjusting initial velocity, gravity, and launch speed, you
+    learn how timing, force, and trajectory affect your path. Each successful launch
+    and landing builds your skill and confidence.\n\nAfter mastering the hovercraft,
+    you will drive across the same desert plains. The open terrain challenges every
+    turn and maneuver, helping you understand how speed, direction, and timing affect
+    motion on the ground.\n\nMastering both hovercraft flight and car driving in
+    the desert brings you closer to completing your vehicle and escaping the map
+    of ATLAS."

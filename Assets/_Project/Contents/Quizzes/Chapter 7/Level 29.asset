@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856a4132f01cbc4d81aeddbec09bcb9, type: 3}
+  m_Name: Level 29
+  m_EditorClassIdentifier: 
+  level: Level 29
+  name: Planetary Motion
+  description: "Kepler\u2019s three laws and how planets\u2019 orbits, speeds, and
+    distances relate."
+  quizItems:
+  - rid: 138986247837974616
+  - rid: 138986247837974617
+  - rid: 138986247837974618
+  - rid: 138986247837974619
+  - rid: 138986247837974620
+  - rid: 138986247837974621
+  - rid: 138986247837974624
+  - rid: 3818007171759341568
+  references:
+    version: 2
+    RefIds:
+    - rid: 138986247837974616
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Which of the following is the closest point of a planet to the Sun called?
+        - Which of the following terms describes the position of a planet when it
+          is nearest to the Sun?
+        correctAnswer:
+        - Perihelion
+        wrongAnswers:
+        - Aphelion
+        - Ellipse
+        - Orbit
+        choiceCount: 4
+    - rid: 138986247837974617
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Which of the following points describes when a planet is farthest from
+          the Sun?
+        - Which of the following describes the position of a planet when it is at
+          its farthest distance from the Sun?
+        correctAnswer:
+        - Aphelion
+        wrongAnswers:
+        - 'Perihelion '
+        - Elliptical path
+        - Rotation
+        choiceCount: 4
+    - rid: 138986247837974618
+      type: {class: MatchingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        pairs:
+        - question:
+          - Closest point to the Sun.
+          correctAnswer: Perihelion
+        - question:
+          - Farthest point from the Sun.
+          correctAnswer: Aphelion
+        - question:
+          - Path traveled by planets around the Sun.
+          correctAnswer: Orbit
+        - question:
+          - "Planet\u2019s movement around the Sun once."
+          correctAnswer: Revolution
+        wrongAnswers: []
+    - rid: 138986247837974619
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - Which of the following person formulated the Laws of Planetary Motion?
+        - Which of the following scientists introduced the three laws describing
+          planetary motion?
+        correctAnswer:
+        - Johannes Kepler
+        wrongAnswers:
+        - Galileo Galilei
+        - Tycho Brahe
+        - Isaac Newton
+        choiceCount: 4
+    - rid: 138986247837974620
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 0
+        question:
+        - "Which of the following Kepler\u2019s laws states that planets sweep out
+          equal areas in equal times?"
+        - Which of the following explains the statement "a planet covers the same
+          area in equal intervals of time"?
+        correctAnswer:
+        - Law of Equal Areas
+        wrongAnswers:
+        - Law of Elliptical Orbits
+        - Law of Harmonies
+        - "Newton\u2019s Law"
+        choiceCount: 4
+    - rid: 138986247837974621
+      type: {class: MatchingItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 1
+        pairs:
+        - question:
+          - Planets travel in elliptical orbits with the Sun at one focus.
+          correctAnswer: Law of Ellipses
+        - question:
+          - Planets move faster when near the Sun and slower when far away.
+          correctAnswer: Law of Equal Areas
+        - question:
+          - "Square of a planet\u2019s period is proportional to the cube of its
+            distance."
+          correctAnswer: Law of Harmonies
+        wrongAnswers: []
+    - rid: 138986247837974624
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - "According to Kepler\u2019s Third Law, which of the following is correct?"
+        - "Which of the following best describes Kepler\u2019s Law of Harmonies?"
+        correctAnswer:
+        - The square of orbital period relates to the cube of average distance.
+        - The cube of distance is proportional to the square of orbital period.
+        wrongAnswers:
+        - All orbits are perfect circles with equal speed.
+        - Planets move at constant speed along their orbits.
+        - The Sun is at the center of the universe.
+        - The time of revolution is independent of distance.
+        choiceCount: 4
+    - rid: 3818007171759341568
+      type: {class: MultipleChoiceItem, ns: ProjectATLAS.Quiz, asm: Assembly-CSharp}
+      data:
+        difficulty: 2
+        question:
+        - "Which of the following is the ratio of the average distances from the
+          Sun (rx : ry) for Planet X, which takes 2 years to orbit, and Planet Y,
+          which takes 8 years, using Kepler\u2019s Law of Harmonies?"
+        correctAnswer:
+        - '0.4 : 1'
+        wrongAnswers:
+        - '0.25 : 1'
+        - '0.5 : 1'
+        - '0.8 : 1'
+        choiceCount: 4

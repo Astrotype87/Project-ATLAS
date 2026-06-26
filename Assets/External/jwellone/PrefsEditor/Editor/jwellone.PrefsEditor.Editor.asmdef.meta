@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2d16ececa44cd456a8177e4450a912f3
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299716
+  packageName: PrefsEditor
+  packageVersion: 1.0
+  assetPath: Assets/jwellone/PrefsEditor/Editor/jwellone.PrefsEditor.Editor.asmdef
+  uploadId: 701290

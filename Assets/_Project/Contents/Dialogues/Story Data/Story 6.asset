@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d03bc636d4f22964e964f316abda6d60, type: 3}
+  m_Name: Story 6
+  m_EditorClassIdentifier: 
+  chapter: 6
+  title: The Meteor Storm
+  story: "After arriving at the Sky Fortress, you rise higher and reach space. At
+    first, everything is calm, and the aircraft moves smoothly among the stars. But
+    soon, a meteor storm appears. Rocks fly past the aircraft, shaking it and pushing
+    it off course.\n\nYou hold the controls tightly and focus on every movement.
+    By turning carefully, you dodge the flying rocks and keep the aircraft steady.
+    Each correct move helps you avoid collisions and slowly regain control. The meteors
+    continue to fall, but you stay calm and use what you\u2019ve learned to navigate
+    safely through the storm.\n\nFinally, you escape the meteor field and enter calm
+    space again. The aircraft flies straight, smooth, and steady. The danger is gone.
+    Gizmo praises you for steering through the storm and keeping the aircraft safe.
+    You realize that by controlling the aircraft carefully, you can handle even the
+    toughest challenges in space. With your new skills, you are ready for the next
+    part of your journey, confident that you can face any danger ahead."

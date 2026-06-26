@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b4a2770fa415b547864093efb334240, type: 3}
+  m_Name: 17_Simulation
+  m_EditorClassIdentifier: 
+  chapter: 4
+  number: 17
+  title: Energy Simulation
+  description: Balance energy flows between inputs and outputs. {player} restores
+    glowing core systems in the dockyard grid.
+  objectives: To make players understand the concept of work, power and energy by
+    efficiently moving an energy source into empty energy storage.
+  scoring: 
+  bronzeObjective: 
+  silverObjective: 
+  goldObjective: 
+  timeBonus:
+    timeBonuses: []
+    lowestScore: 10
+  unlockDatas:
+  - icon: 3
+    name: Level 18 - Challenge
+    description: Cargo Airship Startup
+  - icon: 2
+    name: Freeplay > Simulation 4
+    description: Energy Simulation
+  instructions: Use Left, Right and Up Arrow to move your character towards the Energy
+    Source. Position your character directly next to the Energy Source. Press and
+    Hold the Arrow button in the direction of the Energy Storage to push the Energy
+    Source inside the Energy Storage. Keep an eye on the completion the faster you
+    push the faster you complete the level.
+  dialoguePrefab: {fileID: 6569388525622116648, guid: 9c2a4872840724c4889440e633e378e6, type: 3}
+  simulationPrefab: {fileID: 6702887475620295449, guid: de5ee60dc50a74d428d4c59bd52635f7, type: 3}
