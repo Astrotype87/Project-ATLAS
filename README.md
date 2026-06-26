@@ -13,7 +13,7 @@ this game transforms the learning experience, making physics more fun, engaging,
 ## Capstone Project Details
 
 **Capstone Title**</br>
-ATLAS: A 2D Edutainment Mobile Game for Learning General Physics 1 for Grade 12 Stem Students of STI College Baliuag
+ATLAS: A 2D Edutainment Mobile Game for Learning General Physics 1 for Grade 12 STEM Students of STI College Baliuag
 
 Developed by BSIT-4B Group 4
 - Eugenio, Rainiel G.
