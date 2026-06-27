@@ -1,5 +1,9 @@
 # ATLAS Physics Adventure
 
+Developed with Unity 6.0 and C#, editor version updated to Unity 6.3.
+
+## Description
+
 The general objective of this capstone project is to develop “ATLAS”, a 2D edutainment mobile game
 designed as a supplementary learning tool for Grade 12 STEM students at STI College Baliuag.
 This game aims to enhance learning, understanding, and visualization of
