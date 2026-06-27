@@ -10,6 +10,8 @@ ATLAS leverages visual learning to present physics in a more dynamic, intuitive,
 making complex concepts easier to grasp. By integrating interactive visualizations,
 this game transforms the learning experience, making physics more fun, engaging, and effective.
 
+itch.io: https://astrotype.itch.io/atlas-physics-adventure
+
 ## Capstone Project Details
 
 **Capstone Title**</br>
