@@ -1,6 +1,7 @@
 # ATLAS Physics Adventure
 
-Developed with Unity 6.0 and C#, editor version updated to Unity 6.3.
+Developed with Unity 6.0 and C#, editor version updated to Unity 6.3.</br>
+The project was finished in November 2025 and will no longer be accepting regular updates and fixes.
 
 ## Description
 
